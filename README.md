@@ -6,6 +6,7 @@ To complete the order, user must pass the registratration.
 All purchases can be viewed in orders. User can edit personal information, change password.
 For navigation used katalog menu, local and global search, sort, display selected filters.
 On the server side encamp api interface, rendering, password encryption, checking and issuing tokens, data store.
+For simplicity, instead of a database used a text file.
 Administrator has extended interface, privilegies to read, edit, delete records in all dictionaries 
  (including  editing users, assign admin role). Admin login and password: admin admin
  
