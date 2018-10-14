@@ -1,0 +1,26 @@
+@import 'globals';
+.Footer{
+    background-color: brown;
+    display: flex;
+    justify-content: space-around;
+    align-items:  center;
+    height: 45px;
+    width: 100%;
+       // border-bottom-right-radius: 40px;
+    //border-bottom-left-radius: 40px;
+    margin: 5px 0px 0px 0px;
+    background-color: #37cec2;
+    background-image: radial-gradient(#78ddd6, #37cec2);
+    @include shadow;
+   //  @include border-radius;
+    overflow: hidden;
+    .Button{
+    background-color: #408c99;
+    background-image: radial-gradient( #54b6ae, #2f7d8b);
+    //background-image: none;
+    box-shadow: none;
+    
+   
+    background-color: #37cec2;
+    }
+}

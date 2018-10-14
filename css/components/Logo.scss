@@ -1,0 +1,33 @@
+ .head_board a{
+      // margin: 100px 100 px;
+    text-decoration: none;
+    color: white;
+         display: inline-block;
+     //vertical-align: central;
+             transition-duration: 0.1s;
+  transition-property: transform;
+}
+
+ .head_board .Logo{
+    height: 180px;
+   // width: 100%;
+  // box-shadow: 10px 10px 10px;
+  //height: 80%;
+  //margin: 10px 10px;
+          transition-duration: 0.1s;
+  transition-property: transform;
+}
+.head_board a:hover{
+    transform: scale(1.1)   ;
+
+    
+}
+/*
+.Logo {
+  background-image: url('../../images/wp-logo2.png');
+  background-repeat: no-repeat;
+  display: inline-block;
+  height: 80px;
+  vertical-align: middle;
+  width: 111px;
+}*/

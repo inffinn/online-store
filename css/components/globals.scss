@@ -1,0 +1,61 @@
+$light: rgba(255, 255, 255, 1);
+$light-grey: rgba(229, 229, 229, 1);
+$red: #900;
+$font-heading: Verdana, sans-serif;
+
+$break-sm: 700px;
+$break-md: 1100px;
+$break-lg: 1600px;
+$break-xl: 2000px;
+
+@mixin shadow {
+  //box-shadow: 3px 3px 8px 1px darken($light-grey, 20%);
+   box-shadow: 2px 2px 10px #888888;
+}
+
+  @mixin animation {
+      transition-duration: 0.1s;
+  transition-property: transform;   
+  }
+  @mixin color{
+ color: #6b6b6b;
+  }
+  @mixin border_color{
+  border-color: darkgray;    
+  }
+  @mixin input_border{
+    border-style: solid;
+    border-width: 1px;
+  @include border_color;
+    border-width: 1px;
+    border-radius: 5px;
+  }
+  @mixin border{
+      border-radius: 5px;
+      border-style:none;
+  }
+  @mixin border-radius{
+      border-radius: 5px;
+  }
+  @mixin Button {
+          background-image: radial-gradient( #b6d7df, #56a9b8);
+ color: white;
+  border-radius: 5px;
+   @include shadow;
+  border: 0;
+  cursor: pointer;
+  display: inline-block;
+ font-size: 20px;
+  //font-weight: bold;
+  padding: 5px 15px;
+  text-decoration: none;
+  transition-duration: 0.1s;
+  transition-property: transform;
+//background-image: url("/img/logo/menu3.png");
+  //  margin:0px 0px 20px 0px;
+        background-size: auto 100%;
+       // &:hover {
+  //transform: scale(1.1);
+//}
+
+}

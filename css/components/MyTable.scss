@@ -1,0 +1,122 @@
+@import 'globals';
+//#hidden { display:none; }
+.Table_PanelDatagrid{
+    // width: 800px;
+    width: 100%;
+    margin: auto;
+}
+.empty{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+.MyTable {
+  
+    display:block;
+    width: 100%;
+    //max-width:900px;
+    //border-style:none;
+      //margin: 0px 0px 20px 0px;
+    table{
+         @include border-radius;
+    overflow: hidden;
+          @include shadow;
+        font-family: Arial, sans-serif;
+        border-collapse: collapse; 
+        width: 100%;
+        table-layout:  fixed;
+        @include border-radius;
+       // border-width: 1px; 
+        //border-color: #d4d4d4;
+        //border-style: solid;
+
+        input {  
+            @include input_border;
+                 padding: 0px;
+                 height: 30px;
+                 text-align: center;
+        }
+        .tr{
+            font-size: 12px;
+            border-radius: 5px; 
+            border-width: 1px; 
+            border-color: #d4d4d4;
+            border-style: none;
+            border-bottom-style: solid;
+            background: rgba(238, 253, 255, 0.5);
+           // height:150px;
+        }
+           .tr_product{
+            font-size: 12px;
+            border-radius: 5px; 
+            border-width: 1px; 
+            border-color: #d4d4d4;
+            border-style: none;
+            border-bottom-style: solid;
+            background: rgba(238, 253, 255, 0.5);
+            height:150px;
+        }
+        td {
+            cursor: pointer;
+            color:#6b6b6b;
+            height: 50px;
+          //  overflow: hidden;
+          text-align: center;
+          vertical-align: central;
+            word-wrap: normal;
+            white-space: normal;
+            padding: 5px;
+        }
+        th {
+            color: #6b6b6b;;
+
+            //cursor: pointer;
+            font-size: 15px;
+            font-weight: normal;
+
+            height: 30px;
+            //width: 10%;
+            // padding: 5px;
+            text-align: center;
+        }
+        thead{
+            background-image: radial-gradient(#c4ecf4 50%, #47cde6);
+            background-color: #abe4ee;
+            tr{height:30px}
+            //border-color: black;
+            // border-style: solid;
+            //border-width: 1px;
+        }
+        .imgContainer{
+            text-align: left;
+
+            img {
+                width:120px;
+                //height:80px;
+                border-radius: 5px; 
+                cursor: pointer;
+
+
+            }
+        }
+        .MyTableEditable:hover {
+            background: #FBFBFB;
+        }
+        .MyTableDataCenter {
+            text-align: center;
+        }
+        .MyTableDataLeft {
+            //padding: 0 10px;
+            text-align: left;
+        }
+        .MyTableDataRight {
+            text-align: right;
+        }
+    }}
+
+
+
+
+
+
+

@@ -1,0 +1,128 @@
+@import "globals";
+
+.Katalog_Menu{ 
+    width: 100%;
+    height: 100%;
+    body{
+        margin: 0;
+        padding: 0;
+    }
+
+  
+    ul{
+        position: relative;
+        z-index: 2; 
+        display: block;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        font-size: 23px;
+        margin:0px 0px 2px 0px;
+        box-shadow: 2px 2px 10px #b9b9b9;
+        background-size: auto 100%;
+        @include shadow;
+        li {
+            white-space:  nowrap;
+            height: 35px;  
+            border-radius: 5px;
+            display: flex;
+            alignment-adjust: central;
+            align-items: center;
+            @include animation;  
+            a{
+                text-decoration: none;
+                color: #6b6b6b;
+                font-size: 20px;
+                transition-duration: 0.1s;
+                transition-property: transform;
+                display: block;
+                margin: auto;
+                flex-shrink: 0;
+                display: inline-block;
+            }
+
+            .str{
+                margin: auto;
+                display: flex;
+                justify-content: center;
+            }
+            .gt{
+                justify-content: flex-end;
+                text-decoration: none;
+                color: #6b6b6b;
+                float: right;
+                font-size: 20px;
+            }
+            .count{
+                justify-content: flex-end;
+                text-decoration: none;
+                color: #6b6b6b;
+                float: right;
+                font-size: 20px;
+                // font-weight: bold;
+                transition-duration: 0.1s;
+                transition-property: transform;
+            }
+        } 
+        &:after {
+            display: block;
+            content: ' ';
+            clear: both;
+            float: none;
+        }
+
+       
+        > li:hover > ul {
+            display: block;
+        }
+    }
+    
+          .menu{
+           // background-image: url("/img/logo/menu2.png");
+           background-image: radial-gradient(#77c7d5,#56a9b8);
+           @include shadow;
+            border-radius: 5px;
+            cursor:pointer;
+background-color: #56a9b8;
+            li{
+                a{ font-size: 25px;
+                    color: white;
+                    white-space: nowrap; 
+                    @include animation;
+                 &:hover {
+                        transform:  scale(1.1)
+                    }
+                }
+            }
+
+        }
+        
+         .submenu {
+            display: none;
+            position: absolute;
+            border-radius: 5px;
+            background-color: white;
+            padding:10px;
+
+            //padding-top:10px;
+            min-width: 100px;
+            li {
+                border-style: solid;
+                border-radius:0px;
+                border-color:#6b6b6b;
+                border-width: 0px 0px 1px 0px;
+                &:last-of-type {
+                    border-style: none;
+                }
+                a {
+                   color:#6b6b6b;
+                    font-size: 15px; 
+                    &:hover {    
+                        @include animation
+                        transform:  scale(1.1)
+                    }
+                }
+            }   
+        }
+}
+

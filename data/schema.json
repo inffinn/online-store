@@ -1,0 +1,660 @@
+{
+    "firm": [
+        {
+            "id": "id",
+            "label": "id",
+            "type": "normal",
+            "show": false,
+            "is_require": true,
+            "searchable":false,
+            "typeof":"string"
+
+        },
+        {
+            "id": "name",
+            "label": "name",
+            "type": "normal",
+            "show": true,
+            "is_require": true,
+            "searchable":true,
+            "sortable":true,
+            "typeof":"string"
+        }],
+    "kategory": [
+        {
+            "id": "id",
+            "label": "id",
+            "type": "normal",
+            "show": false,
+            "is_require": true,
+               "searchable":false,
+            "typeof":"string"
+        },
+        {
+            "id": "name",
+            "label": "name",
+            "type": "normal",
+            "show": true,
+            "is_require": true,
+            "searchable":true,
+            "sortable":true,
+            "typeof":"string"
+        }],
+    "product": [
+        {
+            "id": "id",
+            "label": "id",
+            "type": "normal",
+            "show": false,
+            "is_require": true,
+            "typeof":"string",
+            "searchable":false
+        },
+        {
+            "id": "img",
+            "label": "img",
+            "type": "img", 
+            "show": true,
+            "is_require":true,
+            "searchable":false,
+            "typeof":"string"
+        },
+        {
+            "id": "firm",
+            "label": "firm",
+            "type": "option",
+            "from_entity": "firm",
+            "show": true,
+            "is_require":true,
+            "sortable":true,
+            "searchable":true,
+            "typeof":"string"
+        },
+        {
+            "id": "katalog",
+            "label": "katalog",
+            "type": "option",
+            "from_entity": "katalog",
+            "show": true,
+            "is_require":true,
+            "sortable":true,
+            "searchable":false,
+            "typeof":"string"
+        },
+        {
+            "id": "name",
+            "label": "name",
+            "type": "normal",
+            "show": true,
+            "is_require":true,
+            "sortable":true,
+            "searchable":true,
+            "typeof":"string"
+        },
+        {
+            "id": "count",
+            "label": "count",
+            "type": "normal",
+            "show": true,
+            "is_require":true,
+            "sortable":true,
+            "searchable":true,
+            "typeof":"number"
+        },
+        {
+            "id": "price",
+            "label": "price",
+            "type": "normal",
+            "show": true,
+            "is_require":true,
+            "sortable":true,
+            "searchable":true,
+            "typeof":"number"
+        },
+        {
+            "id": "comment",
+            "label": "description",
+            "show": true,
+            "type": "text",
+            "is_require":true,
+            "sortable":true,
+            "searchable":true,
+            "typeof":"string"
+        }
+    ],
+    "katalog": [
+      {
+            "id": "id",
+            "label": "id",
+            "type": "normal",
+            "show": false,
+            "is_require": true,
+            "searchable":false,
+            "typeof":"string"
+        },
+        {
+            "id": "kategory1",
+            "label": "kategory1",
+            "type": "option",
+            "from_entity": "kategory",
+            "show": true,
+            "is_require":true,
+            "searchable":true,
+            "sortable":true,
+            "typeof":"string"
+        },
+        {
+            "id": "kategory2",
+            "label": "kategory2",
+            "type": "option",
+            "from_entity": "kategory",
+            "show": true,
+            "is_require":false,
+            "searchable":true,
+            "sortable":true,
+            "typeof":"string"
+        },
+        {
+            "id": "kategory3",
+            "label": "kategory3",
+            "type": "option",
+            "from_entity": "kategory",
+            "show": true,
+            "is_require":false,
+            "searchable":true,
+            "sortable":true,
+            "typeof":"string"
+        },
+        {
+            "id": "kategory4",
+            "label": "kategory4",
+            "type": "option",
+            "from_entity": "kategory",
+            "show": true,
+            "is_require":false,
+            "searchable":true,
+            "sortable":true,
+            "typeof":"string"
+        },
+        {
+            "id": "kategory5",
+            "label": "kategory5",
+            "type": "option",
+            "from_entity": "kategory",
+            "show": true,
+            "is_require":false,
+            "searchable":true,
+            "sortable":true,
+            "typeof":"string"
+        },
+        {
+            "id": "kategory6",
+            "label": "kategory6",
+            "type": "option",
+            "from_entity": "kategory",
+            "show": true,
+            "is_require":false,
+            "searchable":true,
+            "sortable":true,
+            "typeof":"string"
+        },
+		 {
+            "id": "name",
+            "label": "name",
+            "type": "normal",
+            "show": true,
+            "readonly":true,
+            "is_require":false,
+            "searchable":true,
+            "sortable":true,
+            "typeof":"string"
+        }
+		],
+                "cart": [
+      {
+            "id": "id",
+            "label": "id",
+            "type": "normal",
+            "show": false,
+            "is_require": true,
+            "searchable":false,
+            "typeof":"string"
+        },
+         {
+            "id": "img",
+            "label": "img",
+            "type": "img", 
+            "show": true,
+            "from_entity": "product",
+            "from_field": "product",
+            "from_entity_display_field": "img",
+            "is_require":true,
+            "searchable":false,
+            "typeof":"string"
+        },
+        {
+            "id": "product",
+            "label": "product",
+            "type": "normal",
+            "from_entity": "product",
+            "from_entity_display_field": "id",            
+            "show": false,
+            "is_require":true,
+            "searchable":true,
+            "typeof":"string"
+        },
+         {
+            "id": "name",
+            "label": "name",
+            "type": "option",
+            "from_entity": "product",
+            "from_entity_display_field": "name",
+            "from_field": "product",
+            "show": true,
+            "is_require":true,
+            "searchable":true,
+            "sortable":true,
+            "typeof":"string"
+        },
+           {
+            "id": "count",
+            "label": "count",
+            "type": "number",           
+            "show": true,
+            "is_require":true,
+            "searchable":true,
+            "sortable":true,
+            "typeof":"number"
+        },
+           {
+            "id": "available",
+            "label": "available",
+            "type": "normal",
+            "from_entity": "product",
+            "from_entity_display_field": "count",
+            "from_field": "product",
+            "show": true,
+            "is_require":true,
+            "searchable":true,
+            "sortable":true,
+            "typeof":"number"
+        },   {
+            "id": "price",
+            "label": "price",
+            "type": "normal",
+            "from_entity": "product",
+            "from_entity_display_field": "price",
+            "from_field": "product",
+            "show": true,
+            "is_require":true,
+            "searchable":true,
+            "sortable":true,
+            "typeof":"number"
+        }
+                ],
+    "user":[
+            {
+            "id": "id",
+            "label": "id",
+            "type": "normal",
+            "show": true,
+            "is_require":true,
+            "searchable":true,
+            "sortable":true,
+            "typeof":"string"
+        },
+        {
+            "id": "login",
+            "label": "login",
+            "type": "normal",
+            "show": true,
+            "is_require":true,
+            "searchable":true,
+            "sortable":true,
+            "typeof":"string"
+        },
+
+          {
+            "id": "username",
+            "label": "username",
+            "type": "normal",
+            "show": true,
+            "is_require":true,
+            "searchable":true,
+            "sortable":true,
+            "typeof":"string"
+        },
+          {
+            "id": "role",
+            "label": "role",
+            "type": "normal",
+            "show": true,
+            "is_require":true,
+            "searchable":true,
+            "sortable":true,
+            "typeof":"string"
+        },
+         {
+            "id": "email",
+            "label": "email",
+            "type": "normal",
+            "show": true,
+            "is_require":true,
+            "searchable":true,
+            "sortable":true,
+            "typeof":"string"
+        }],
+    "personal_info":[
+            {
+            "id": "id",
+            "label": "id",
+            "type": "normal",
+            "show": false,
+            "is_require":true,
+            "searchable":true,
+            "sortable":true,
+            "typeof":"string"
+        },
+
+          {
+            "id": "username",
+            "label": "username",
+            "type": "normal",
+            "show": true,
+            "is_require":true,
+            "searchable":true,
+            "sortable":true,
+            "typeof":"string"
+        },
+         {
+            "id": "email",
+            "label": "email",
+            "type": "normal",
+            "show": true,
+            "is_require":true,
+            "searchable":true,
+            "sortable":true,
+            "typeof":"string"
+        }],
+    "change_password":[
+            {
+            "id": "id",
+            "label": "id",
+            "type": "normal",
+            "show": false,
+            "is_require":true,
+            "searchable":true,
+            "sortable":true,
+            "typeof":"string"
+        },
+
+          {
+            "id": "old_password",
+            "label": "old password",
+            "type": "password",
+            "show": true,
+            "is_require":true,
+            "searchable":true,
+            "sortable":true,
+            "typeof":"string"
+        },
+         {
+            "id": "new_password",
+            "label": "new password",
+            "type": "password",
+            "show": true,
+            "is_require":true,
+            "searchable":true,
+            "sortable":true,
+            "typeof":"string"
+        },
+     {
+            "id": "new_password2",
+            "label": "confirm new password",
+            "type": "password",
+            "show": true,
+            "is_require":true,
+            "searchable":true,
+            "sortable":true,
+            "typeof":"string"
+        }],
+    "order":[
+       {
+            "id": "id",
+            "label": "order №",
+            "type": "normal",
+            "show": true,
+            "is_require":true,
+            "searchable":true,
+             "sortable":true,
+            "typeof":"string"
+        },
+        {
+            "id": "user",
+            "label": "user ID",
+            "type": "normal",
+            "show": true,
+            "is_require":true,
+            "searchable":true,
+             "sortable":true,
+            "typeof":"string"
+        },    
+        {
+            "id": "date",
+            "label": "date",
+            "type": "normal",
+            "show": true,
+            "is_require":true,
+            "searchable":true,
+             "sortable":true,
+            "typeof":"string"
+        },{
+            "id": "nds",
+            "label": "nds",
+            "type": "normal",
+            "show": true,
+            "is_require":true,
+            "searchable":true,
+            "sortable":true,
+            "typeof":"number"
+        },  {
+            "id": "delivery",
+            "label": "delivery",
+            "type": "normal",
+            "show": true,
+            "is_require":true,
+            "searchable":true,
+            "sortable":true,
+            "typeof":"number"
+        }, {
+            "id": "total",
+            "label": "total",
+            "readonly":true,
+            "type": "normal",
+            "show": true,
+            "is_require":false,
+            "searchable":true,
+            "sortable":true,
+            "typeof":"number"
+        }
+        
+    ], "order_display":[
+       {
+            "id": "id",
+            "label": "order №",
+            "type": "normal",
+            "show": true,
+            "is_require":true,
+            "searchable":true,
+            "typeof":"string"
+        },
+        {
+            "id": "user",
+            "label": "user ID",
+            "type": "normal",
+            "show": true,
+            "is_require":true,
+            "searchable":true,
+            "typeof":"string"
+        },    
+        {
+            "id": "date",
+            "label": "date",
+            "type": "normal",
+            "show": true,
+            "is_require":true,
+            "searchable":true,
+            "typeof":"string"
+        },  {
+            "id": "nds",
+            "label": "nds",
+            "type": "normal",
+            "show": false,
+            "is_require":true,
+            "searchable":true,
+            "typeof":"number"
+        },  {
+            "id": "delivery",
+            "label": "delivery",
+            "type": "normal",
+            "show": false,
+            "is_require":true,
+            "searchable":true,
+            "typeof":"number"
+        },
+           {
+            "id": "total",
+            "readonly":true,
+            "label": "total",
+            "type": "normal",
+            "show": true,
+            "is_require":true,
+            "searchable":true,
+            "typeof":"number"
+        }
+        
+    ],
+      "user_order":[
+         {
+            "id": "id",
+            "label": "id",
+            "type": "normal",
+            "show": false,
+            "is_require":true,
+            "searchable":true,
+             "sortable":true,
+            "typeof":"string"
+        },
+         {
+            "id": "product",
+            "label": "product",
+            "type": "option",
+            "show": true,
+            "from_entity": "product",
+            "is_require":true,
+            "searchable":true,
+             "sortable":true,
+            "typeof":"string"
+        },
+         {
+            "id": "order",
+            "label": "order",
+            "type": "normal",
+            "show": true,
+            "is_require":true,
+            "searchable":true,
+             "sortable":true,
+            "typeof":"string"
+        } ,
+          {
+            "id": "count",
+            "label": "count",
+            "type": "normal",
+            "show": true,
+            "is_require":true,
+            "searchable":true,
+             "sortable":true,
+            "typeof":"number"
+        } ,
+        {
+            "id": "price",
+            "label": "price",
+            "type": "normal",
+            "show": true,
+            "is_require":true,
+            "searchable":true,
+             "sortable":true,
+            "typeof":"number"
+        }
+        
+    ],
+     "user_order_display":[
+         {
+            "id": "id",
+            "label": "id",
+            "type": "normal",
+            "show": false,
+            "is_require":true,
+            "searchable":true,
+            "typeof":"string"
+        },
+         {
+            "id": "order",
+            "label": "order",
+            "type": "normal",
+            "show": false,
+            "is_require":true,
+            "searchable":true,
+            "typeof":"string"
+        },
+         {
+            "id": "product",
+            "label": "product",
+            "type": "normal",
+            "show": false,
+            "is_require":true,
+            "searchable":true,
+            "typeof":"string"        
+        } ,
+          {
+            "id": "img",
+            "label": "img",
+            "type": "img",
+            "show": true,
+            "is_require":true,
+            "searchable":true,
+            "typeof":"string"
+        } ,
+        {
+            "id": "name",
+            "label": "name",
+            "type": "normal",
+            "show": true,
+            "is_require":true,
+            "searchable":true,
+            "typeof":"string"
+        } ,          
+           {
+            "id": "count",
+            "label": "count",
+            "type": "normal",
+            "show": true,
+            "is_require":true,
+            "searchable":true,
+            "typeof":"number"
+        } ,
+           {
+            "id": "price",
+            "label": "price",
+            "type": "normal",
+            "show": true,
+            "is_require":true,
+            "searchable":true,
+            "typeof":"number"
+        } 
+        
+    ]
+
+}
+
+

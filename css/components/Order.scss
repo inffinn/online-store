@@ -1,0 +1,41 @@
+@import 'globals';
+.orderContainer{
+    color: #6b6b6b;
+     @include border-radius;
+    overflow: hidden;
+   @include shadow;   
+       margin: 0px 0px 20px 0px;
+    .order{
+        cursor: pointer;
+        border-width: 1px;
+    border-color: #d4d4d4;
+    border-style: none;
+    border-bottom-style: solid;
+display: flex;
+    justify-content: space-around;
+    background-color: #abe4ee;
+         background-image: radial-gradient(#c4ecf4 50%, #47cde6);
+   // margin: 10px 0px 0px 0px;
+    height: 40px;
+    align-items: center;
+    /* border-radius: 10px; */
+    //border-style: solid;
+   // border-width: 1px;
+   // border-color: #6b6b6b;
+
+}
+.user_order{
+ .MyTable{ 
+     margin:0px;
+     thead{
+        display: none;
+       
+    }
+    table  {
+        
+        box-shadow: none;
+        margin: 0px;
+    }
+}
+}
+}

@@ -1,0 +1,27 @@
+@import 'globals';
+.Global_Search{
+    position:absolute;
+background-color:white;
+    @include shadow;
+z-index: 3;
+font-size: 20px;
+    overflow: hidden;
+    border-radius:5px;
+    min-width:150px;
+    text-align:center;
+    white-space:nowrap;
+    
+.Global_Search_Item{
+padding: 5px 10px;
+    color:black;
+&:hover{
+    background-color: #e6fafd;
+}
+}
+.Global_Search_Header{
+    padding: 5px 10px;
+      color:white;
+     background-image: radial-gradient(#78ddd6, #37cec2);
+}
+
+}

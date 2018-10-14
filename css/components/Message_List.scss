@@ -1,0 +1,82 @@
+  @keyframes example {
+    0%   {opacity: 0;}
+    100%  { opacity: 1;}
+
+}
+
+
+.msg_container{
+    position: relative;
+    top:5px;
+    //float: right;
+}
+.Message_List{
+    margin: 3px 0px;
+    font-size: 20px;
+    z-index: 3;
+    position:  absolute;
+    right: 0px;
+    top:40px;
+   // width: 200px;
+
+    .Message_Container_error{
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    border-color: #6b6b6b;
+  animation-name: example;
+    background: rgba(255, 40, 0, 0.5);
+      animation-duration: 0.5s;
+      animation-iteration-count:ease-in-out;
+      animation-fill-mode: forwards;
+     // animation: example 2s 1 ease-in-out;
+        display: flex;
+       
+    }
+      .Message_Container_success{
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    border-color: #6b6b6b;
+  animation-name: example;
+    background: rgba(0, 197, 81, 0.74);
+      animation-duration: 0.5s;
+      animation-iteration-count:ease-in-out;
+      animation-fill-mode: forwards;
+     // animation: example 2s 1 ease-in-out;
+        display: flex;
+       
+    }
+      .Message_Container_warning{
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    border-color: #6b6b6b;
+  animation-name: example;
+    background: rgba(197, 192, 0, 0.68);
+      animation-duration: 0.5s;
+      animation-iteration-count:ease-in-out;
+      animation-fill-mode: forwards;
+     // animation: example 2s 1 ease-in-out;
+        display: flex;
+       
+    }
+     .Message{
+            justify-content: flex-start;
+            display: flex;
+            align-items: flex-end;
+            padding: 15px;
+            white-space: nowrap;
+            white-space: 1;
+            justify-content: flex-start;
+             cursor: pointer;
+             width:100%;
+        }            
+        .x{
+            justify-content: flex-end;
+            display: flex;
+            align-items: flex-start;
+            font-size: 15px;
+            cursor: pointer;
+        }
+}

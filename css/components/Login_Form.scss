@@ -1,0 +1,71 @@
+@import 'globals';
+.Login_Form {
+    border-color: #e0e0e0;
+    border-style: groove;
+    border-width: 3px;
+    border-radius: 5px;
+    padding: 10px;
+   
+   .Table_Login_Form   {
+      // margin-right: 100px;
+       font-size: 20px;
+           margin: auto;
+      text-align: center;
+    
+      label{
+          color: white;
+      }
+      input{
+          border-radius: 5px;
+          border-style: none;
+          padding: 0px 5px;
+          height: 20px;
+             height: 25px;
+      }
+      td:last-of-type{
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+      }
+      .btn{
+   //background-image: url("/img/logo/menu2.png");
+   background-image:none;
+      @include  Button;
+   width: 49%;
+  // box-shadow: none;
+  border-style: solid;
+    border-width: 1px;
+    border-color: #197973;
+   height: 25px;
+   font-size: 15px;
+   padding: 0px;         
+   align-items: center;
+    display: flex;
+    justify-content: center;
+          background-image:  radial-gradient(#7ee4e2, #20968e);
+      }
+      .logout{
+          width: 100%;
+          @include  Button;
+       border-style: solid;
+    border-width: 1px;
+    border-color: #197973;
+   height: 25px;
+   font-size: 15px;
+   padding: 0px;
+  background-image:  radial-gradient(#7ee4e2, #20968e);
+  align-items: center;
+    display: flex;
+    justify-content: center;
+      }
+   }
+}
+
+
+
+
+
+
+
+
+

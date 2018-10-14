@@ -1,0 +1,44 @@
+  @import 'globals';
+.Registration_Form {
+       margin: 10px auto;
+       font-size: 14px;
+      text-align: center;
+      padding: 10px 0px 10px 0px;
+    table {margin: auto;}
+      label{
+          color: #6b6b6b;
+      }
+      input{
+          border-radius: 5px;
+          border-style: solid;
+           border-color: #6b6b6b;
+           border-width: 1px;
+          padding: 0px 5px;
+          height: 20px;
+             height: 25px;
+      }
+      td:last-of-type{
+    display: flex;
+          justify-content: space-between;
+          align-items: center;
+      }
+     
+      .button{
+           @include  Button;
+           padding: 0px;
+              font-size: 15px;
+              display: table;
+              border-style: solid;
+    border-width: 1px;
+    border-color: #197973;
+   padding: 0px;
+  background-image:  radial-gradient(#7ee4e2, #20968e);
+   width: 48%;
+   box-shadow: none;
+   height: 25px;
+       align-items: center;
+       justify-content: center;
+    display: flex;
+      }
+}
+

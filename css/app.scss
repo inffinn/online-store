@@ -1,0 +1,91 @@
+@import './components/globals';
+
+.Button {
+    border-radius: 5px;
+    @include shadow;
+    background-color: #56a9b8;
+    border: 0;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 20px;
+    //font-weight: bold;
+    padding: 5px 15px;
+    text-decoration: none;
+    transition-duration: 0.1s;
+    transition-property: transform;
+    background-image: radial-gradient( #b6d7df, #56a9b8);
+    //background-image: url("/img/logo/menu3.png");
+    //  margin:0px 0px 20px 0px;
+    background-size: auto 100%;
+    color:#114952;
+}
+
+.Button:hover {
+    transform: scale(1.1);
+}
+html {
+    // background-size: 60%;
+    //  background-repeat: no-repeat;
+    //background-color: #ffffff;
+    font: 16px Arial;
+    font-family: Arial, sans-serif;
+    background-image: url("/img/logo/back5++.png");
+    background-attachment: fixed; 
+    background-repeat: no-repeat;
+    background-color: #f7f8fa;
+    background-position: top;
+    background-size: 2000px;
+    //background-size: cover;
+}
+.body{ background-image: linear-gradient(to right, #f7f8fa00, #ffffff 30%, #ffffff 70%, #ffffff00);}
+.page_table{
+
+    .td_left{
+        vertical-align: top;
+    }
+    width: 100%;
+    /* position: relative; */
+    /* border-left: solid; */
+    /* background: rgb(238, 252, 255, 0.5); */
+    /* border-width: 1px; */
+    /* border-right: solid; */
+    padding: 0px 80px;
+    // background-image: radial-gradient(circle, #ffffff 30%,#f6f6f600);
+    border-color: #a3e8f5;
+    border-width: 1px;
+    /* box-shadow: 2px 2px 10px black; */
+    margin: auto;
+    /* background-color: white; */
+    width: 1000px;
+    border-collapse: collapse;
+}
+body {
+    margin: auto;
+    width: 1200px;
+    height: 100vh;
+}
+
+@media screen {
+    body{width: device-width}
+}
+
+input, textarea {
+    font-size: 14px;
+    padding: 10px;
+}
+.page_table {
+    width: 1203px;  
+    //position:relative;
+}
+.page_table .td_left
+{
+    // width: 20%;   
+}
+
+.page_table .td_middle
+{ 
+    vertical-align: top;
+    width: 1000px;
+    margin: auto;
+    //  background-color: white; 
+}

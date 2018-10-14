@@ -1,0 +1,59 @@
+@import "globals";
+.Cart_Total 
+{width:100%;
+table{
+  margin: 10px 0px;
+ display:block;
+  width: 100%;
+  font: 20px Arial;
+  width: 100%;
+  border-radius: 5px; 
+  border-width: 1px; 
+  border-color: #d4d4d4;
+  border-style: none;
+  border-collapse: collapse;
+      font-weight: bold;
+     color: #6b6b6b;
+     tr{
+    border-radius: 5px; 
+  border-width: 1px; 
+  border-color: #d4d4d4;
+  border-bottom-style: solid;
+   //text-align: center;
+     }
+   table-layout:  fixed;
+     td{
+         &:nth-of-type(2n+1){
+       padding: 10px;
+       text-align: left;
+       // padding-left: 10%;
+        width: 1%;
+   }}
+   td{
+       &:nth-of-type(2n){
+       padding: 10px;
+        text-align: right;
+       // padding-right: 10%;
+        width: 1%;
+   }
+   }
+   
+}
+.button_container{
+    margin: 50px;
+    display: flex;
+    justify-content:space-around;
+.Button{
+   width: 130px;
+
+   }
+   .disabled_Button{
+     @include Button;  
+   width: 130px;
+   opacity: 0.4;
+  // background: rgba(0, 0, 0, 0.3);
+
+   }
+}
+}
+
