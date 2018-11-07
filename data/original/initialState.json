@@ -1,0 +1,41 @@
+{"store":{
+"firm":[
+{"id":"1", "name":"intel"},
+{"id":"2","name":"asus"},
+{"id":"3","name":"barracuda"}
+],
+"kategory": [
+{"id":"1","name":"mother board"},
+{"id":"2", "name":"processor"},
+{"id":"3","name":"hard disk"}
+],
+"product": [
+{
+"id": "1",
+"firm":"asus",
+"kategory":"mother board",
+"name": "mother board",
+"img": "../static/img/board.jpg",
+ "comment": "comment"
+},
+{
+"id": "2",
+"firm":"intel",
+"kategory":"processor",
+"name": "intel i7",
+"img": "../static/img/board.jpg",
+ "comment": "comment"
+},
+{
+"id": "3",
+"firm":"barracuda",
+"kategory":"hard disk",
+"name": "hard disk",
+"img": "../static/img/board.jpg",
+ "comment": "comment"
+}
+]
+    },
+    "sort":{},
+    "search":{}
+}

@@ -7,7 +7,7 @@ import schema from '../../data/schema.json'
 
 
             if (action.type == consts.type.SORT) {
-                state = Object.assign(state, {[action.entity]: {sortby: action.sortby, descending: action.descending}})
+                return Object.assign(state, {[action.entity]: {sortby: action.sortby, descending: action.descending}})
             }
             return state
         }
@@ -15,7 +15,7 @@ import schema from '../../data/schema.json'
 export const search = (state = {}, action) =>
         {
             if (action.type == consts.type.SEARCH) {
-                state = Object.assign(state, {text: action.text})
+             return   Object.assign({}, {text: action.text})
             }
             return state
         }

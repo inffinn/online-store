@@ -668,7 +668,7 @@ if(false) {}
 /*! exports provided: store, sort, search, current_user, default */
 /***/ (function(module) {
 
-module.exports = {"store":{"firm":[{"id":"1","name":"Intel"},{"id":"2","name":"Asus"},{"id":"3","name":"Barracuda"},{"id":"ef95698e-e4ae-4d68-83c2-ee8278da6ed1","name":"AMD"},{"id":"e799ccda-214a-4b8d-8c8c-b71649def4e9","name":"MSI"},{"id":"c230cb24-729b-4150-8815-ff3872136d3a","name":"Asrock"},{"id":"47ebd01a-63a6-4838-9a11-5c4597a86f55","name":"G.Skill"},{"id":"10f2863c-c579-4b8c-8edb-f55f9e13d85e","name":"Crucial"},{"id":"f7180054-bba3-494f-bfa0-c3c7e494ae91","name":"Sapphire"},{"id":"90df2213-e004-4811-9145-6dbe25a3a211","name":"GIGABYTE"},{"id":"75fde2fe-7c4f-41a2-bf1a-f064cd76b077","name":"Cooler Master"},{"id":"1db8b006-606e-4478-bb6a-6d5ea132a321","name":"Thermalright "},{"id":"f0bd941f-1673-49f9-89d2-7c52d50f13f8","name":"Be quiet!"},{"id":"263dd7df-6c95-4529-931c-91eed737eca9","name":"SONY"},{"id":"3b09312f-134d-4283-bf31-e41d54975f5b","name":"2K Games"},{"id":"10796687-6d7d-42f8-a1db-85715028badf","name":"Microsoft"},{"id":"9a517681-8e44-42c4-85e7-e4570d303f77","name":"LG"},{"id":"69cceb8b-50f5-41e2-a4f1-585560d246b1","name":"Samsung"},{"id":"88b3ec20-b23b-4f9b-8ed0-0c7940f01ffb","name":"Toshiba"},{"id":"2eec5472-80b7-40bb-94e3-cd4dd5362e51","name":"Dell"},{"id":"f07865ad-2ff2-4397-8b6f-eccb288a06e1","name":"AOC"},{"id":"f12e5cb1-d4a4-431e-a2a1-b49333195482","name":"EA Games"}],"kategory":[{"id":"1","name":"Mother board"},{"id":"2","name":"Processor"},{"id":"3","name":"Hard disk"},{"id":"1cdef0ab-4bd1-401d-b578-c5c28908f087","name":"PC"},{"id":"e2696796-4db9-4e39-85ce-545a712b3d09","name":"PC components"},{"id":"768ce8cc-97b5-42ff-b86d-2831cffc8538","name":"Monitor"},{"id":"786040ea-985e-4617-b0af-2f358bdd1261","name":"Processor cooler"},{"id":"9e2e9362-ba88-426d-92f7-94c71cbbebf1","name":"Console"},{"id":"b2d24d82-1d49-4401-9312-941994c9573c","name":"TV"},{"id":"0641fa0a-90ff-4ae6-87d5-d5967fb974e5","name":"Controller"},{"id":"01f1e542-4a2a-49ee-9e81-e85020b165e7","name":"Games"},{"id":"68d76b38-5d3d-46af-9de8-d0920607f95f","name":"Video card cooler"},{"id":"4f779b49-3d37-4733-a5bc-513974be463e","name":"Memory"},{"id":"d32fe44b-94d8-46d0-9e3b-bfc23cf5634e","name":"SSD"},{"id":"aa3e9520-9f48-4e00-bb2a-e92dca09344d","name":"Video card"},{"id":"c101f0ac-8fb3-4f79-ab85-392a508e94e6","name":"Cooler"},{"id":"8b94b56f-e3c0-4e42-86ea-5aa5c913cd8f","name":"Consoles"}],"katalog":[{"id":"1","kategory1":"1cdef0ab-4bd1-401d-b578-c5c28908f087","kategory2":"e2696796-4db9-4e39-85ce-545a712b3d09","kategory3":"1","kategory4":"","kategory5":"","kategory6":"","name":"PC=> PC components=> Mother board"},{"1":"Hard disk","id":"2","kategory1":"1cdef0ab-4bd1-401d-b578-c5c28908f087","kategory2":"e2696796-4db9-4e39-85ce-545a712b3d09","kategory4":"","kategory5":"","kategory6":"","kategory3":"2","name":"PC=> PC components=> Processor"},{"id":"3","kategory1":"1cdef0ab-4bd1-401d-b578-c5c28908f087","kategory2":"e2696796-4db9-4e39-85ce-545a712b3d09","kategory3":"768ce8cc-97b5-42ff-b86d-2831cffc8538","kategory4":"","kategory5":"","kategory6":"","name":"PC=> PC components=> Monitor"},{"id":"5150b153-aca8-4855-abb9-c6bfd6559352","kategory1":"1cdef0ab-4bd1-401d-b578-c5c28908f087","kategory2":"e2696796-4db9-4e39-85ce-545a712b3d09","kategory3":"c101f0ac-8fb3-4f79-ab85-392a508e94e6","kategory4":"786040ea-985e-4617-b0af-2f358bdd1261","kategory5":"","kategory6":"","name":"PC=> PC components=> Cooler=> Processor cooler"},{"id":"85bd8629-b24c-47f9-9b13-47bef85e919d","kategory1":"1cdef0ab-4bd1-401d-b578-c5c28908f087","kategory2":"e2696796-4db9-4e39-85ce-545a712b3d09","kategory3":"3","kategory4":"","kategory5":"","kategory6":"","name":"PC=> PC components=> Hard disk"},{"id":"e99c9f34-e2fc-499b-b03b-bc79562a1083","kategory1":"1cdef0ab-4bd1-401d-b578-c5c28908f087","kategory2":"01f1e542-4a2a-49ee-9e81-e85020b165e7","kategory3":"","kategory4":"","kategory5":"","kategory6":"","name":"PC=> Games"},{"id":"44c966bc-39b8-4f11-acd2-d41c3002f361","kategory1":"1cdef0ab-4bd1-401d-b578-c5c28908f087","kategory2":"e2696796-4db9-4e39-85ce-545a712b3d09","kategory3":"4f779b49-3d37-4733-a5bc-513974be463e","kategory4":"","kategory5":"","kategory6":"","name":"PC=> PC components=> Memory"},{"id":"43abda74-01f8-44f9-9357-e466dbd68d11","kategory1":"1cdef0ab-4bd1-401d-b578-c5c28908f087","kategory2":"e2696796-4db9-4e39-85ce-545a712b3d09","kategory3":"aa3e9520-9f48-4e00-bb2a-e92dca09344d","kategory4":"","kategory5":"","kategory6":"","name":"PC=> PC components=> Video card"},{"id":"79f50501-47e6-47c7-8e21-0036dc972cdd","kategory1":"1cdef0ab-4bd1-401d-b578-c5c28908f087","kategory2":"e2696796-4db9-4e39-85ce-545a712b3d09","kategory3":"c101f0ac-8fb3-4f79-ab85-392a508e94e6","kategory4":"68d76b38-5d3d-46af-9de8-d0920607f95f","kategory5":"","kategory6":"","name":"PC=> PC components=> Cooler=> Videocard cooler"},{"id":"1e5cec7a-702a-4c46-b7c8-0b974204291b","kategory1":"1cdef0ab-4bd1-401d-b578-c5c28908f087","kategory2":"e2696796-4db9-4e39-85ce-545a712b3d09","kategory3":"4f779b49-3d37-4733-a5bc-513974be463e","kategory4":"","kategory5":"","kategory6":"","name":"PC=> PC components=> Memory"},{"id":"9cbc6a73-8aee-4dc7-ba34-f92053de2d06","kategory1":"b2d24d82-1d49-4401-9312-941994c9573c","kategory2":"","kategory3":"","kategory4":"","kategory5":"","kategory6":"","name":"TV"},{"id":"161967ee-bfa5-4653-9f8e-7c314877d4cd","kategory1":"9e2e9362-ba88-426d-92f7-94c71cbbebf1","kategory2":"8b94b56f-e3c0-4e42-86ea-5aa5c913cd8f","kategory3":"","kategory4":"","kategory5":"","kategory6":"","name":"Console=> Consoles"},{"id":"c5641050-25b3-48e0-ab95-67ed3fe76ccc","kategory1":"9e2e9362-ba88-426d-92f7-94c71cbbebf1","kategory2":"01f1e542-4a2a-49ee-9e81-e85020b165e7","kategory3":"","kategory4":"","kategory5":"","kategory6":"","name":"Console=> Games"},{"id":"0dcedac4-4159-499f-b306-08511fa73ef2","kategory1":"9e2e9362-ba88-426d-92f7-94c71cbbebf1","kategory2":"0641fa0a-90ff-4ae6-87d5-d5967fb974e5","kategory3":"","kategory4":"","kategory5":"","kategory6":"","name":"Console=> Controller"},{"id":"d4877a97-a16a-4aa6-b499-77f80183d69b","kategory1":"1cdef0ab-4bd1-401d-b578-c5c28908f087","kategory2":"e2696796-4db9-4e39-85ce-545a712b3d09","kategory3":"d32fe44b-94d8-46d0-9e3b-bfc23cf5634e","kategory4":"","kategory5":"","kategory6":"","name":"PC=> PC components=> SSD"}],"product":[{"id":"e9ddd159-2dce-4742-9417-e2636be7c6ad","firm":"1","katalog":"2","name":"Intel Processor i9-9700k","img":"/img/e7ccb9c7-cf4c-4c32-abae-c9263b41e383.jpg","count":98,"price":500,"comment":"Sockel:1151-v2, TDP:95, Cores/Threads: 8/16, Basic takt:3.70 GHz-4.50 Ghz"},{"id":"c8d241f0-8352-4e9f-97bf-1e2406342dd9","firm":"1","katalog":"2","name":"Intel Processor i5-8600k","img":"/img/edc3c643-e8fe-4386-b208-e4ad25375238.jpg","count":298,"price":350,"comment":"Sockel: 1151-v2, TDP: 95 W,\nCores/Threads:  6/6,\nBasic takt: 3.60 GHz-4.30 GHz"},{"id":"dc0aa9a7-68a1-40bd-ba85-dc33b1c20a30","firm":"ef95698e-e4ae-4d68-83c2-ee8278da6ed1","katalog":"2","name":"AMD Ryzen 5 2600","img":"/img/cad5facc-17b2-4ffc-ab69-ad0420695b95.jpg","count":98,"price":145,"comment":"Sockel:AM4, TDP: 65 W,\nCores/Threads: 6/12,  \nBasic takt: 3.40 GHz -3.90 GHz"},{"id":"e96982a1-78d6-4c30-ae92-74f16234e803","firm":"ef95698e-e4ae-4d68-83c2-ee8278da6ed1","katalog":"2","name":"AMD Ryzen 7 2700X","img":"/img/bfcb4eac-40d7-4087-9361-466793665c05.jpg","count":47,"price":280,"comment":"Sockel: AM4, TDP: 105 W, Cores/Threads: 8/16, \nBasic takt: 3.70 GHz-4.30 GHz"},{"id":"7b179cd2-a3a8-4dfb-9b16-14813d525561","firm":"c230cb24-729b-4150-8815-ff3872136d3a","katalog":"1","name":"ASRock B450M PRO4 AMD AM4 MATX","img":"/img/13b7d4c9-1e01-462e-b3d6-2939cad4fb5f.JPG","count":48,"price":70,"comment":"M-ATX, Socket AM4\nAMD B450, 4x DDR4 up to 64 GB\n2x PCIe (x16), 1x PCIe (x1), CrossfireX\n4x SATA3, M.2 Slot, GB-LAN\n1x USB 3.1 Gen2 Typ C, 1x USB 3.1 Gen2, 6x USB3.0, 6x USB2.0\nHDMI, DVI, VGA"},{"id":"2b04f6af-389f-4ec6-8356-75047ff0027a","firm":"e799ccda-214a-4b8d-8c8c-b71649def4e9","katalog":"1","name":"MSI Z370-A PRO","img":"/img/a3d5824e-c762-415b-86e8-bb0604453140.jpg","count":64,"price":81,"comment":"ATX, Socket 1151 v2\nIntel Z370, 4x DDR4 up to 64 GB\n2x PCIe (x16), 4x PCIe (x1), CrossfireX\n6x SATA3, M.2 Slot, GB-LAN\n8x USB3.0, 6x USB2.0\nDVI, VGA, 1x DisplayPort 1.2"},{"id":"341f3dd6-0a44-4b4d-9b94-51f61b7070a2","firm":"2","katalog":"1","name":"ASUS PRIME Z370-A","img":"/img/5f04a481-680f-4938-bbe8-0b151e4645d9.jpg","count":146,"price":150,"comment":"ATX, Socket 1151 v2\nIntel Z370, 4x DDR4 up to 64 GB\n3x PCIe (x16), 4x PCIe (x1), CrossfireX, SLI\n6x SATA3, M.2 Slot, GB-LAN\n1x USB 3.1 Gen2 Typ C, 4x USB2.0\nHDMI, DVI, 1x DisplayPort 1.2"},{"id":"14bdce1b-f806-4f10-9c29-bf9e5c9d2a02","firm":"e799ccda-214a-4b8d-8c8c-b71649def4e9","katalog":"1","name":"MSI X370 Gaming Plus Sockel AM4","img":"/img/fef1c0d9-fc2e-4c09-8310-d4e19329e471.jpg","count":67,"price":80,"comment":"ATX, Socket AM4\nAMD X370, AMD X370, 4x DDR4 up to 64 GB\n3x PCIe (x16), 3x PCIe (x1), CrossfireX, SLI\n6x SATA3, M.2 Slot, GB-LAN\n2x USB 3.1 Gen2, 8x USB3.0, 6x USB2.0\nHDMI, DVI"},{"id":"7535eab4-519b-4e7d-8a7b-8090411d6574","firm":"10f2863c-c579-4b8c-8edb-f55f9e13d85e","katalog":"1e5cec7a-702a-4c46-b7c8-0b974204291b","name":"G.Skill Aegis 16GB DDR4 16GISB K2 3000 C16","img":"/img/612fd7e2-5e5c-4458-8457-77197fcbab9e.jpg","count":104,"price":109,"comment":"16 GB RAM, 2x 8 GB Kit\nDDR4, 3000 MHz (PC4-24000)\nDIMM 288 Pin, CL16"},{"id":"6e363e6f-d78d-40ea-b187-eb7ca31d5c0a","firm":"10f2863c-c579-4b8c-8edb-f55f9e13d85e","katalog":"1e5cec7a-702a-4c46-b7c8-0b974204291b","name":"Corsair Vengeance LPX Schwarz 16GB DDR4 Kit (2x8GB) 3000MHz C15","img":"/img/146be41e-085c-4cb9-9cfd-230a6855ec23.jpg","count":66,"price":124,"comment":"16 GB RAM, 2x 8 GB Kit\nDDR4, 3000 MHz (PC4-24000)\nDIMM 288 Pin, CL15"},{"id":"6a945f2b-ce8f-411d-99a8-743d24a87366","firm":"10f2863c-c579-4b8c-8edb-f55f9e13d85e","katalog":"1e5cec7a-702a-4c46-b7c8-0b974204291b","name":"Crucial 4GB DDR4 CT4G4DFS824A 2400 MHz","img":"/img/ca713f34-420c-4fe6-816d-07444166efee.jpg","count":297,"price":30,"comment":"4 GB RAM, 1 Module\nDDR4, 2400 MHz (PC4-19200)\nDIMM 288 Pin, CL17"},{"id":"88b611e8-8068-4a44-9d2c-fe0058857ebb","firm":"f7180054-bba3-494f-bfa0-c3c7e494ae91","katalog":"43abda74-01f8-44f9-9357-e466dbd68d11","name":"Sapphire RADEON NITRO+ RX VEGA 64 8.0 GB ","img":"/img/d514a855-45a3-48bc-983d-2119de71ae95.jpg","count":97,"price":520,"comment":"AMD Radeon RX Vega 64 8.0 GB\n1247 MHz Chiptakt, 1546 MHz Boost\nAnschluss per 3.0, Активное охлаждение (Dual-Slot)\n2x HDMI, 2x DisplayPort\nDirectX 12, Card length approx. 310 mm"},{"id":"e4e45fd9-8526-4745-b554-b4de3f034733","firm":"e799ccda-214a-4b8d-8c8c-b71649def4e9","katalog":"43abda74-01f8-44f9-9357-e466dbd68d11","name":"MSI GeForce GTX 1070 Ti ","img":"/img/fb838dee-d487-4273-9ca3-e500a7c49a8b.jpg","count":27,"price":420,"comment":"NVIDIA GeForce® GTX 1070 Ti 8.0 GB\n1607 MHz Chiptakt, 1683 MHz Boost\nAnschluss per 3.0, Активное охлаждение (Dual-Slot)\n1x HDMI, 3x DisplayPort, 1x DVI, SLI\nDirectX 12.1, Card length approx. 279 mm"},{"id":"03ee70d7-0f5c-4839-b141-23dc1108e44e","firm":"90df2213-e004-4811-9145-6dbe25a3a211","katalog":"43abda74-01f8-44f9-9357-e466dbd68d11","name":"GIGABYTE AORUS Radeon RX 580 4G 4.0 GB OC","img":"/img/f5242501-c9a8-4b07-9769-7e3b4a32050e.jpg","count":163,"price":202,"comment":"AMD Radeon RX 580 4.0 GB, Разогнанный\n1365 MHz Chiptakt, 1380 MHz Boost\nAnschluss per 3.0, Активное охлаждение (Dual-Slot)\n1x HDMI, 3x DisplayPort, 1x DVI, CrossFireX\nDirectX 12"},{"id":"0bc7e180-ca17-49ae-b705-c549fc6837e5","firm":"75fde2fe-7c4f-41a2-bf1a-f064cd76b077","katalog":"5150b153-aca8-4855-abb9-c6bfd6559352","name":"Cooler Master MasterAir MA620P für AMD und Intel Prozessoren mit RGB-LEDs","img":"/img/36718e4a-273f-4561-9616-3aefa0316bca.jpg","count":28,"price":60,"comment":"Вертикальный блок-кулеры, 17.1 cm Высота установки\n2x 120 mm Вентилятор (ШИМ), mehrfarbig illumination\n600 - 1800 rpm, (макс.53 cfm (90.0 m³/h) @ 31.0 dB\ncompatible sockets: 775, 1150 / 1151 / 1151-v2 / 1155 / 1156, 1366, 2011 / 2011-v3 / 2066, AM2 (+) / AM3 (+) / FM1 / FM2"},{"id":"dbdc2638-e889-4482-8c3f-cae6fb54f867","firm":"1db8b006-606e-4478-bb6a-6d5ea132a321","katalog":"5150b153-aca8-4855-abb9-c6bfd6559352","name":"Thermalright HR-02 Macho Rev. B","img":"/img/6a3f9c3c-fe2c-454f-a919-bce8e7e5f02f.jpg","count":38,"price":40,"comment":"Вертикальный блок-кулеры bis 240 Watt TDP, 16.2 cm Высота установки \n1x 140 mm Вентилятор (ШИМ)\n300 - 1300 rpm, (макс.73 cfm (124.0 m³/h) @ 21.0 dB\ncompatible sockets: 775, 1150 / 1151 / 1151-v2 / 1155 / 1156, 1356, 1366, 2011 / 2011-v3 / 2066, AM2 (+) / AM3 (+) / FM1"},{"id":"1c4804c6-0298-4d5d-a6c4-3388ef9e3aee","firm":"f0bd941f-1673-49f9-89d2-7c52d50f13f8","katalog":"5150b153-aca8-4855-abb9-c6bfd6559352","name":"be quiet! Pure Rock","img":"/img/288235b6-2d55-4a83-ae96-b63d2ec01846.jpg","count":15,"price":26,"comment":"Вертикальный блок-кулеры bis 150 Watt TDP, 15.5 cm Высота установки\n1x 120 mm Вентилятор (ШИМ)\n1500 rpm, (макс.87 cfm (147.8 m³/h) @ 26.8 dB\ncompatible sockets: 754, 775, 939 / 940, 1150 / 1151 / 1151-v2 / 1155 / 1156, 1356, 1366, 2011 / 2011-v3 / 2066, AM2 (+)"},{"id":"4af66e6f-dcf3-4e0d-94d9-506afab6eb53","firm":"263dd7df-6c95-4529-931c-91eed737eca9","katalog":"0dcedac4-4159-499f-b306-08511fa73ef2","name":"Sony Dualshock 4 Wireless Controller v2 weiß (PS4)","img":"/img/3359cf22-c96b-40e7-ad16-5c4803137360.jpg","count":43,"price":47,"comment":"Wireless "},{"id":"e1c16ce3-deb2-4708-b774-929eb428f367","firm":"263dd7df-6c95-4529-931c-91eed737eca9","katalog":"161967ee-bfa5-4653-9f8e-7c314877d4cd","name":"Sony PlayStation 4 Pro 1TB ","img":"/img/69328129-b866-4d47-9c5e-6ff2c35954ae.jpg","count":348,"price":350,"comment":"console in черный с 1 TB Память\nRevision: CUH-70XXB (Pro Chassis)\nВкл. Контроллер DualShock 4"},{"id":"bd270df1-d125-4978-a77e-5ad9eb7c2f14","firm":"3b09312f-134d-4283-bf31-e41d54975f5b","katalog":"c5641050-25b3-48e0-ab95-67ed3fe76ccc","name":"XCOM 2 (PS4)","img":"/img/bfb2020e-d703-48c6-b5f9-46f229db572d.jpg","count":16,"price":20,"comment":"Standard Edition, deutsche Version\nGenre: Action, Strategie\noptimised for PS4 Pro"},{"id":"337d1e1f-40ed-4f8a-9e2a-40940d5b2d62","firm":"10796687-6d7d-42f8-a1db-85715028badf","katalog":"161967ee-bfa5-4653-9f8e-7c314877d4cd","name":"Microsoft XBox One X 1 TB","img":"/img/06b6ac6a-821d-4ef9-b3f3-81958eae7a80.jpg","count":406,"price":410,"comment":"console in черный с 1 TB Память\nВкл. беспроводной контроллер\nXbox Gamepass (1 Monat), Xbox Live Gold (1 Monat)"},{"id":"e340fab8-b726-4620-87e1-c5a028dd89f0","firm":"9a517681-8e44-42c4-85e7-e4570d303f77","katalog":"9cbc6a73-8aee-4dc7-ba34-f92053de2d06","name":"LG 55SK8100LLA 140 cm ","img":"/img/07a913ae-2373-40a4-88f1-0c6f8718fa2d.jpg","count":97,"price":700,"comment":"140 cm (55\") да HDR Smart TV (Web OS)\nResolution 3840 x 2160, 100 Hz\nTuner: 2 HD, DVB-C, DVB-S 2\n3x USB, CI Slot, LAN, WiFi integrated\n4x HDMI, Bluetooth, Time-Shift\nProduct Data Sheet"},{"id":"3480cbfb-1ed4-431a-b487-9f34631d5106","firm":"69cceb8b-50f5-41e2-a4f1-585560d246b1","katalog":"9cbc6a73-8aee-4dc7-ba34-f92053de2d06","name":"Samsung UE32M5649AUXZG SMART FHD DVB-T2/C/S2 HEVC PVR 81 cm (32\") FullHD","img":"/img/35a86d00-8b1f-48df-a150-10da12d3d2c3.jpg","count":196,"price":361,"comment":"81 cm (32\") да Smart TV\nResolution 1920 x 1080 Full HD, 600 PQI\nTuner: 2 HD, DVB-C, DVB-S 2\n2x USB, CI+ Slot, LAN, WiFi integrated\n3x HDMI, Компонент (YUV), Time-Shift\nProduct Data Sheet"},{"id":"50e9b6cc-d764-4962-ae73-3e6b9d7490dd","firm":"3","katalog":"85bd8629-b24c-47f9-9b13-47bef85e919d","name":"Seagate BarraCuda ST1000DM010 1TB","img":"/img/35fc76ef-4fff-49f1-80f5-55fc26e7d4e4.jpg","count":497,"price":35,"comment":"3.5\", 1.0 TB, SATA3\n7200 rpm, 64 MB Кэш-память"},{"id":"581b17cf-1d6f-4047-8487-3f95ddf3a0b7","firm":"88b3ec20-b23b-4f9b-8ed0-0c7940f01ffb","katalog":"85bd8629-b24c-47f9-9b13-47bef85e919d","name":"Toshiba P300 2TB","img":"/img/eab6ab88-162c-4b17-8cba-ef44c7d49690.jpg","count":97,"price":62,"comment":"3.5\", 2.0 TB, SATA3\n7200 rpm, 64 MB Кэш-память"},{"id":"0264307f-9bed-472b-9191-c4772de9a6aa","firm":"f12e5cb1-d4a4-431e-a2a1-b49333195482","katalog":"d4877a97-a16a-4aa6-b499-77f80183d69b","name":"Crucial BX500 SSD 120GB","img":"/img/bed85b7c-f2c1-40ed-9d7e-3674ea249f6a.jpg","count":39,"price":22,"comment":"120 GB SSD, Anschluss über SATA3\nFormfaktor: 2.5\", Installation height 7 mm\nмакс. 500 MB/s, макс. 540 MB/s\nTLC-Speicherzellen\nInkl. data migration software"},{"id":"f1871fe7-ebdf-4648-abd0-efab10851e48","firm":"f12e5cb1-d4a4-431e-a2a1-b49333195482","katalog":"d4877a97-a16a-4aa6-b499-77f80183d69b","name":"Samsung SSD 850 EVO (Basic) Series 500GB","img":"/img/d72723ff-e90f-4760-bb71-027c6be8848d.jpg","count":104,"price":106,"comment":"500 GB SSD, Anschluss über SATA3\nFormfaktor: 2.5\", Installation height 7 mm\nмакс. 520 MB/s, макс. 540 MB/s\nTLC-Speicherzellen, Hardware encryption\nInkl. data migration software"},{"id":"7d8d236c-410a-473a-84a3-8c8d9fb282af","firm":"2eec5472-80b7-40bb-94e3-cd4dd5362e51","katalog":"3","name":"Dell UltraSharp U2414H","img":"/img/301ea18f-2b84-45e5-9680-58516c8791e7.jpg","count":178,"price":180,"comment":"61.0 cm (24\") 16:9, mattes IPS-Panel\n1920 x 1080 Full HD, 8 ms, 250 cd/m² кд/м², up to 60 Hz\n2x HDMI, 1x DisplayPort, 1x miniDisplayport\nUSB-Hub (4x USB3.1 Gen 1)\nHeight adjustable, поворачивается, наклоняется, поворачивается на 90°\nschmaler Rahmen, VESA 100 x 100mm\nProduct Data Sheet"},{"id":"3993508a-8fd2-4140-8e3d-84143c4ec8e2","firm":"2","katalog":"3","name":"ASUS ROG Swift PG279Q Gaming Monitor","img":"/img/5b5c9b03-6174-4615-8f70-c89cfecb6bec.jpg","count":595,"price":602,"comment":"68.6 cm (27\") 16:9 IPS-Panel\n2560 x 1440, 4 ms, 350 cd/m² кд/м², up to 165 Hz, G-Sync\n1x HDMI, 1x DisplayPort\nДинамик, USB-Hub (2x USB3.1 Gen 1)\nHeight adjustable, поворачивается, наклоняется, поворачивается на 90°\nBeleuchtung, schmaler Rahmen, VESA 100 x 100mm"},{"id":"3d15946d-53e1-48a8-9fbf-5db1a2b1e9a4","firm":"f07865ad-2ff2-4397-8b6f-eccb288a06e1","katalog":"3","name":"AOC Q3279VWFD8","img":"/img/9ed43a26-5aac-4f47-9d59-bd082cbc4158.jpg","count":197,"price":200,"comment":"81.3 cm (32\") 16:9, mattes IPS-Panel\n2560 x 1440, 5 ms, 250 cd/m² кд/м², up to 75 Hz, FreeSync\n1x VGA, 1x DVI, 1x HDMI, 1x DisplayPort\nнаклоняется"},{"id":"fdc61c22-8a50-4aff-bd22-5e9556389416","firm":"f12e5cb1-d4a4-431e-a2a1-b49333195482","katalog":"e99c9f34-e2fc-499b-b03b-bc79562a1083","name":"Battlefield V Code in a Box (CIAB) (PC)","img":"/img/d005879f-c300-4429-9e10-f5757d0daa09.jpg","count":50,"price":52,"comment":"PC Game for Windows\nStandard Edition, german version\nGenre: Action, Shooter\nBroadband Internet Connection required for Download"}],"cart":[],"user":[{"id":"9ac19f4b-def6-4c4f-8b64-eb570e22e2df","login":"d","password":"e1127559109c9729425755da7a669cd827e6bc463e4b27da79515ac4ea4a62ebc2e6613b4a4c61688874d43d3eeceb0400d8063baab56e218eb5154698c15bf2","salt":"671465816963","username":"d","role":"user","email":"d@mail.ru"},{"id":"00f881d8-bc9e-4f18-a30e-6beab5a46cb0","login":"mobile","password":"2884702cb633a99e078232828521043b81022978c0d51afd26b4a2a584293c69298dd356532827f53c1781445eb3fad08875bfa810931a56691f99cbef7137c2","salt":"162240394040","username":"mobilee","role":"admin","email":"mobile@mail.ru"},{"id":"3","login":"admin","password":"2a55c319adefb3fdda6a73dd6c034b1e4f30977ae74e3141001c705b4c1eadf53938c06420c0ca029f2c787a53741412676eadb9387e8141430c78711b9ad666","salt":"783276473524","username":"admin","role":"admin","email":"admin@mail.ru"},{"id":"274ac328-fb9c-4c6f-8404-6e4a0c654fd8","login":"b","password":"bf959ea36591facffb483ddf3b955cdc4e6ccb4bb7355ec8c824141a0e1d41d8ba431b06dca9225e0f022d047be5086e77d57f075e9f7f41d1368b87f8d39c79","salt":"657911046791","username":"b","role":"user","email":"batya@mail.ru"}],"order":[{"id":"285ee6f3-7112-4ed0-a5e1-766851026773","user":"9ac19f4b-def6-4c4f-8b64-eb570e22e2df","date":"2018-10-13 17:44:34","nds":20,"delivery":35,"total":777.8},{"id":"3798f909-2202-4265-8f0a-c15e35fdf29a","user":"00f881d8-bc9e-4f18-a30e-6beab5a46cb0","date":"2018-10-13 02:24:26","nds":20,"delivery":35,"total":163.4},{"id":"2e69cf58-deb6-43a0-b7d3-a9a3542f0035","user":"00f881d8-bc9e-4f18-a30e-6beab5a46cb0","date":"2018-10-13 02:24:02","nds":20,"delivery":35,"total":180.2},{"id":"8f83dd5e-5895-473b-8363-d4679fac5aca","user":"3","date":"2018-10-12 22:31:36","nds":20,"delivery":35,"total":428.6},{"id":"aa33c8f9-d8f9-4d69-8b90-6ddf11db187d","user":"3","date":"2018-10-12 22:31:29","nds":20,"delivery":35,"total":331.4},{"id":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","user":"3","date":"2018-10-12 20:53:53","nds":20,"delivery":50,"total":7650.8}],"user_order":[{"id":"994901ea-8899-46cd-b536-d516db939490","product":"0264307f-9bed-472b-9191-c4772de9a6aa","order":"285ee6f3-7112-4ed0-a5e1-766851026773","count":2,"price":22},{"id":"2d336909-4608-443c-9fc4-03ca4fa57589","product":"7535eab4-519b-4e7d-8a7b-8090411d6574","order":"285ee6f3-7112-4ed0-a5e1-766851026773","count":3,"price":109},{"id":"c0a55cbe-3cae-4e93-bb30-ce647f6ce643","product":"6e363e6f-d78d-40ea-b187-eb7ca31d5c0a","order":"285ee6f3-7112-4ed0-a5e1-766851026773","count":2,"price":124},{"id":"02827505-cfdd-4041-babd-a80aa24a53cb","product":"2b04f6af-389f-4ec6-8356-75047ff0027a","order":"3798f909-2202-4265-8f0a-c15e35fdf29a","count":1,"price":81},{"id":"51ff5df9-d449-474f-ae1a-2fde32edfa08","product":"1c4804c6-0298-4d5d-a6c4-3388ef9e3aee","order":"3798f909-2202-4265-8f0a-c15e35fdf29a","count":1,"price":26},{"id":"603b0112-14e5-40c1-bfad-607950bce724","product":"bd270df1-d125-4978-a77e-5ad9eb7c2f14","order":"2e69cf58-deb6-43a0-b7d3-a9a3542f0035","count":2,"price":20},{"id":"fcc32cfd-b572-41c1-aeb8-f9922dfd92fc","product":"2b04f6af-389f-4ec6-8356-75047ff0027a","order":"2e69cf58-deb6-43a0-b7d3-a9a3542f0035","count":1,"price":81},{"id":"b2a2b429-8102-43f6-a127-48af7f64aeb5","product":"0264307f-9bed-472b-9191-c4772de9a6aa","order":"8f83dd5e-5895-473b-8363-d4679fac5aca","count":3,"price":22},{"id":"a7f3fda4-5608-4de0-b04e-d8eb450d66c6","product":"03ee70d7-0f5c-4839-b141-23dc1108e44e","order":"8f83dd5e-5895-473b-8363-d4679fac5aca","count":1,"price":202},{"id":"3f05bb97-cba1-441c-8dc0-070783742966","product":"0bc7e180-ca17-49ae-b705-c549fc6837e5","order":"8f83dd5e-5895-473b-8363-d4679fac5aca","count":1,"price":60},{"id":"076c64c3-dec3-4b9e-91a9-38c74cc27fbf","product":"3d15946d-53e1-48a8-9fbf-5db1a2b1e9a4","order":"aa33c8f9-d8f9-4d69-8b90-6ddf11db187d","count":1,"price":200},{"id":"81815d35-ce79-40df-89c5-878a96df4a2d","product":"4af66e6f-dcf3-4e0d-94d9-506afab6eb53","order":"aa33c8f9-d8f9-4d69-8b90-6ddf11db187d","count":1,"price":47},{"id":"c1cbb832-a9cf-4778-b0d9-e24c2925b273","product":"0264307f-9bed-472b-9191-c4772de9a6aa","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":22},{"id":"4e7aa1d9-d9a0-4029-907c-953f5ea75dbe","product":"03ee70d7-0f5c-4839-b141-23dc1108e44e","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":202},{"id":"b994b32a-07bb-4f2d-8b0f-afb268347ada","product":"0bc7e180-ca17-49ae-b705-c549fc6837e5","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":60},{"id":"0bb224eb-3e25-4982-98aa-c01b5c85f448","product":"14bdce1b-f806-4f10-9c29-bf9e5c9d2a02","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":80},{"id":"2870264a-12d0-43ba-87be-fd76ee11a092","product":"1c4804c6-0298-4d5d-a6c4-3388ef9e3aee","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":26},{"id":"5a631e31-1591-4578-962b-a3c9aeae6625","product":"2b04f6af-389f-4ec6-8356-75047ff0027a","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":81},{"id":"9ebf8efc-53fa-4676-a712-aa282a8166c5","product":"337d1e1f-40ed-4f8a-9e2a-40940d5b2d62","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":410},{"id":"2a15328b-8ae5-411d-a631-67dd2b4520c8","product":"341f3dd6-0a44-4b4d-9b94-51f61b7070a2","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":150},{"id":"76c5c16e-761c-4aab-a153-8e66e249cddc","product":"3480cbfb-1ed4-431a-b487-9f34631d5106","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":361},{"id":"6309009b-8c1e-432e-b5f9-b919a908e21c","product":"3993508a-8fd2-4140-8e3d-84143c4ec8e2","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":602},{"id":"29ce71d3-48d9-4ff5-98f6-84f35679f6d0","product":"3d15946d-53e1-48a8-9fbf-5db1a2b1e9a4","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":200},{"id":"01249742-e3e0-4a77-ae97-6472700e7af5","product":"4af66e6f-dcf3-4e0d-94d9-506afab6eb53","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":47},{"id":"51a5d675-28dd-4620-97c5-3d6b0694763b","product":"50e9b6cc-d764-4962-ae73-3e6b9d7490dd","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":35},{"id":"968379dc-e0c9-40f6-914e-9d05f6361f0f","product":"581b17cf-1d6f-4047-8487-3f95ddf3a0b7","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":62},{"id":"f5fc8c13-ab9c-48ce-ac74-1a1c4330e4fb","product":"6a945f2b-ce8f-411d-99a8-743d24a87366","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":30},{"id":"26698ef7-05a1-4735-8174-b9e4e6a10b74","product":"6e363e6f-d78d-40ea-b187-eb7ca31d5c0a","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":124},{"id":"e6797692-779c-49d8-9c75-27016098cb3c","product":"7535eab4-519b-4e7d-8a7b-8090411d6574","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":109},{"id":"5c8d6dcc-99aa-4881-bcb4-4989e4d240ff","product":"7b179cd2-a3a8-4dfb-9b16-14813d525561","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":70},{"id":"be282f5d-94c7-4325-b983-3e3099daf590","product":"7d8d236c-410a-473a-84a3-8c8d9fb282af","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":180},{"id":"3c8a30cd-a512-47a0-9a44-9d5dbd54a5cd","product":"88b611e8-8068-4a44-9d2c-fe0058857ebb","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":520},{"id":"2374ab57-e474-46cf-96ed-061992c5b1d3","product":"bd270df1-d125-4978-a77e-5ad9eb7c2f14","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":20},{"id":"a8f41ae4-87dc-43be-8292-fb4fb47b032d","product":"c8d241f0-8352-4e9f-97bf-1e2406342dd9","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":350},{"id":"bbbba411-6bfb-46dc-a775-248c3a7cf004","product":"dbdc2638-e889-4482-8c3f-cae6fb54f867","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":40},{"id":"171fa8d4-3a2c-4af4-abca-c05e1bd8f027","product":"dc0aa9a7-68a1-40bd-ba85-dc33b1c20a30","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":145},{"id":"23137286-7a8f-47f1-aae7-7a71d567b5de","product":"e1c16ce3-deb2-4708-b774-929eb428f367","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":350},{"id":"4db794bd-32ba-4948-b0ea-4ac46af6936a","product":"e340fab8-b726-4620-87e1-c5a028dd89f0","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":700},{"id":"2f30cc4b-a9bc-41e4-ab40-a45e6cb42d33","product":"e4e45fd9-8526-4745-b554-b4de3f034733","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":420},{"id":"0355f078-cad5-4734-b9e5-e8f496c16162","product":"e96982a1-78d6-4c30-ae92-74f16234e803","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":280},{"id":"8ad7eb28-c366-49f8-a96c-27a3e90c63ae","product":"e9ddd159-2dce-4742-9417-e2636be7c6ad","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":500},{"id":"a66073fe-f5bc-4486-bd24-b5ad879c121c","product":"f1871fe7-ebdf-4648-abd0-efab10851e48","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":106},{"id":"00064902-90c2-4a01-a801-b3f8774f3019","product":"fdc61c22-8a50-4aff-bd22-5e9556389416","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":52}]},"sort":{},"search":{},"current_user":{}};
+module.exports = {"store":{"firm":[{"id":"1","name":"Intel"},{"id":"2","name":"Asus"},{"id":"3","name":"Barracuda"},{"id":"ef95698e-e4ae-4d68-83c2-ee8278da6ed1","name":"AMD"},{"id":"e799ccda-214a-4b8d-8c8c-b71649def4e9","name":"MSI"},{"id":"c230cb24-729b-4150-8815-ff3872136d3a","name":"Asrock"},{"id":"47ebd01a-63a6-4838-9a11-5c4597a86f55","name":"G.Skill"},{"id":"10f2863c-c579-4b8c-8edb-f55f9e13d85e","name":"Crucial"},{"id":"f7180054-bba3-494f-bfa0-c3c7e494ae91","name":"Sapphire"},{"id":"90df2213-e004-4811-9145-6dbe25a3a211","name":"GIGABYTE"},{"id":"75fde2fe-7c4f-41a2-bf1a-f064cd76b077","name":"Cooler Master"},{"id":"1db8b006-606e-4478-bb6a-6d5ea132a321","name":"Thermalright "},{"id":"f0bd941f-1673-49f9-89d2-7c52d50f13f8","name":"Be quiet!"},{"id":"263dd7df-6c95-4529-931c-91eed737eca9","name":"SONY"},{"id":"3b09312f-134d-4283-bf31-e41d54975f5b","name":"2K Games"},{"id":"10796687-6d7d-42f8-a1db-85715028badf","name":"Microsoft"},{"id":"9a517681-8e44-42c4-85e7-e4570d303f77","name":"LG"},{"id":"69cceb8b-50f5-41e2-a4f1-585560d246b1","name":"Samsung"},{"id":"88b3ec20-b23b-4f9b-8ed0-0c7940f01ffb","name":"Toshiba"},{"id":"2eec5472-80b7-40bb-94e3-cd4dd5362e51","name":"Dell"},{"id":"f07865ad-2ff2-4397-8b6f-eccb288a06e1","name":"AOC"},{"id":"f12e5cb1-d4a4-431e-a2a1-b49333195482","name":"EA Games"}],"kategory":[{"id":"1","name":"Mother board"},{"id":"2","name":"Processor"},{"id":"3","name":"Hard disk"},{"id":"1cdef0ab-4bd1-401d-b578-c5c28908f087","name":"PC"},{"id":"e2696796-4db9-4e39-85ce-545a712b3d09","name":"PC components"},{"id":"768ce8cc-97b5-42ff-b86d-2831cffc8538","name":"Monitor"},{"id":"786040ea-985e-4617-b0af-2f358bdd1261","name":"Processor cooler"},{"id":"9e2e9362-ba88-426d-92f7-94c71cbbebf1","name":"Console"},{"id":"b2d24d82-1d49-4401-9312-941994c9573c","name":"TV"},{"id":"0641fa0a-90ff-4ae6-87d5-d5967fb974e5","name":"Controller"},{"id":"01f1e542-4a2a-49ee-9e81-e85020b165e7","name":"Games"},{"id":"68d76b38-5d3d-46af-9de8-d0920607f95f","name":"Video card cooler"},{"id":"4f779b49-3d37-4733-a5bc-513974be463e","name":"Memory"},{"id":"d32fe44b-94d8-46d0-9e3b-bfc23cf5634e","name":"SSD"},{"id":"aa3e9520-9f48-4e00-bb2a-e92dca09344d","name":"Video card"},{"id":"c101f0ac-8fb3-4f79-ab85-392a508e94e6","name":"Cooler"},{"id":"8b94b56f-e3c0-4e42-86ea-5aa5c913cd8f","name":"Consoles"}],"katalog":[{"id":"1","kategory1":"1cdef0ab-4bd1-401d-b578-c5c28908f087","kategory2":"e2696796-4db9-4e39-85ce-545a712b3d09","kategory3":"1","kategory4":"","kategory5":"","kategory6":"","name":"PC=> PC components=> Mother board"},{"1":"Hard disk","id":"2","kategory1":"1cdef0ab-4bd1-401d-b578-c5c28908f087","kategory2":"e2696796-4db9-4e39-85ce-545a712b3d09","kategory4":"","kategory5":"","kategory6":"","kategory3":"2","name":"PC=> PC components=> Processor"},{"id":"3","kategory1":"1cdef0ab-4bd1-401d-b578-c5c28908f087","kategory2":"e2696796-4db9-4e39-85ce-545a712b3d09","kategory3":"768ce8cc-97b5-42ff-b86d-2831cffc8538","kategory4":"","kategory5":"","kategory6":"","name":"PC=> PC components=> Monitor"},{"id":"5150b153-aca8-4855-abb9-c6bfd6559352","kategory1":"1cdef0ab-4bd1-401d-b578-c5c28908f087","kategory2":"e2696796-4db9-4e39-85ce-545a712b3d09","kategory3":"c101f0ac-8fb3-4f79-ab85-392a508e94e6","kategory4":"786040ea-985e-4617-b0af-2f358bdd1261","kategory5":"","kategory6":"","name":"PC=> PC components=> Cooler=> Processor cooler"},{"id":"85bd8629-b24c-47f9-9b13-47bef85e919d","kategory1":"1cdef0ab-4bd1-401d-b578-c5c28908f087","kategory2":"e2696796-4db9-4e39-85ce-545a712b3d09","kategory3":"3","kategory4":"","kategory5":"","kategory6":"","name":"PC=> PC components=> Hard disk"},{"id":"e99c9f34-e2fc-499b-b03b-bc79562a1083","kategory1":"1cdef0ab-4bd1-401d-b578-c5c28908f087","kategory2":"01f1e542-4a2a-49ee-9e81-e85020b165e7","kategory3":"","kategory4":"","kategory5":"","kategory6":"","name":"PC=> Games"},{"id":"44c966bc-39b8-4f11-acd2-d41c3002f361","kategory1":"1cdef0ab-4bd1-401d-b578-c5c28908f087","kategory2":"e2696796-4db9-4e39-85ce-545a712b3d09","kategory3":"4f779b49-3d37-4733-a5bc-513974be463e","kategory4":"","kategory5":"","kategory6":"","name":"PC=> PC components=> Memory"},{"id":"43abda74-01f8-44f9-9357-e466dbd68d11","kategory1":"1cdef0ab-4bd1-401d-b578-c5c28908f087","kategory2":"e2696796-4db9-4e39-85ce-545a712b3d09","kategory3":"aa3e9520-9f48-4e00-bb2a-e92dca09344d","kategory4":"","kategory5":"","kategory6":"","name":"PC=> PC components=> Video card"},{"id":"79f50501-47e6-47c7-8e21-0036dc972cdd","kategory1":"1cdef0ab-4bd1-401d-b578-c5c28908f087","kategory2":"e2696796-4db9-4e39-85ce-545a712b3d09","kategory3":"c101f0ac-8fb3-4f79-ab85-392a508e94e6","kategory4":"68d76b38-5d3d-46af-9de8-d0920607f95f","kategory5":"","kategory6":"","name":"PC=> PC components=> Cooler=> Videocard cooler"},{"id":"1e5cec7a-702a-4c46-b7c8-0b974204291b","kategory1":"1cdef0ab-4bd1-401d-b578-c5c28908f087","kategory2":"e2696796-4db9-4e39-85ce-545a712b3d09","kategory3":"4f779b49-3d37-4733-a5bc-513974be463e","kategory4":"","kategory5":"","kategory6":"","name":"PC=> PC components=> Memory"},{"id":"9cbc6a73-8aee-4dc7-ba34-f92053de2d06","kategory1":"b2d24d82-1d49-4401-9312-941994c9573c","kategory2":"","kategory3":"","kategory4":"","kategory5":"","kategory6":"","name":"TV"},{"id":"161967ee-bfa5-4653-9f8e-7c314877d4cd","kategory1":"9e2e9362-ba88-426d-92f7-94c71cbbebf1","kategory2":"8b94b56f-e3c0-4e42-86ea-5aa5c913cd8f","kategory3":"","kategory4":"","kategory5":"","kategory6":"","name":"Console=> Consoles"},{"id":"c5641050-25b3-48e0-ab95-67ed3fe76ccc","kategory1":"9e2e9362-ba88-426d-92f7-94c71cbbebf1","kategory2":"01f1e542-4a2a-49ee-9e81-e85020b165e7","kategory3":"","kategory4":"","kategory5":"","kategory6":"","name":"Console=> Games"},{"id":"0dcedac4-4159-499f-b306-08511fa73ef2","kategory1":"9e2e9362-ba88-426d-92f7-94c71cbbebf1","kategory2":"0641fa0a-90ff-4ae6-87d5-d5967fb974e5","kategory3":"","kategory4":"","kategory5":"","kategory6":"","name":"Console=> Controller"},{"id":"d4877a97-a16a-4aa6-b499-77f80183d69b","kategory1":"1cdef0ab-4bd1-401d-b578-c5c28908f087","kategory2":"e2696796-4db9-4e39-85ce-545a712b3d09","kategory3":"d32fe44b-94d8-46d0-9e3b-bfc23cf5634e","kategory4":"","kategory5":"","kategory6":"","name":"PC=> PC components=> SSD"}],"product":[{"id":"e9ddd159-2dce-4742-9417-e2636be7c6ad","firm":"1","katalog":"2","name":"Intel Processor i9-9700k","img":"/img/e7ccb9c7-cf4c-4c32-abae-c9263b41e383.jpg","count":98,"price":500,"comment":"Sockel:1151-v2, TDP:95, Cores/Threads: 8/16, Basic takt:3.70 GHz-4.50 Ghz"},{"id":"c8d241f0-8352-4e9f-97bf-1e2406342dd9","firm":"1","katalog":"2","name":"Intel Processor i5-8600k","img":"/img/edc3c643-e8fe-4386-b208-e4ad25375238.jpg","count":298,"price":350,"comment":"Sockel: 1151-v2, TDP: 95 W,\nCores/Threads:  6/6,\nBasic takt: 3.60 GHz-4.30 GHz"},{"id":"dc0aa9a7-68a1-40bd-ba85-dc33b1c20a30","firm":"ef95698e-e4ae-4d68-83c2-ee8278da6ed1","katalog":"2","name":"AMD Ryzen 5 2600","img":"/img/cad5facc-17b2-4ffc-ab69-ad0420695b95.jpg","count":98,"price":145,"comment":"Sockel:AM4, TDP: 65 W,\nCores/Threads: 6/12,  \nBasic takt: 3.40 GHz -3.90 GHz"},{"id":"e96982a1-78d6-4c30-ae92-74f16234e803","firm":"ef95698e-e4ae-4d68-83c2-ee8278da6ed1","katalog":"2","name":"AMD Ryzen 7 2700X","img":"/img/bfcb4eac-40d7-4087-9361-466793665c05.jpg","count":47,"price":280,"comment":"Sockel: AM4, TDP: 105 W, Cores/Threads: 8/16, \nBasic takt: 3.70 GHz-4.30 GHz"},{"id":"7b179cd2-a3a8-4dfb-9b16-14813d525561","firm":"c230cb24-729b-4150-8815-ff3872136d3a","katalog":"1","name":"ASRock B450M PRO4 AMD AM4 MATX","img":"/img/13b7d4c9-1e01-462e-b3d6-2939cad4fb5f.JPG","count":48,"price":70,"comment":"M-ATX, Socket AM4\nAMD B450, 4x DDR4 up to 64 GB\n2x PCIe (x16), 1x PCIe (x1), CrossfireX\n4x SATA3, M.2 Slot, GB-LAN\n1x USB 3.1 Gen2 Typ C, 1x USB 3.1 Gen2, 6x USB3.0, 6x USB2.0\nHDMI, DVI, VGA"},{"id":"2b04f6af-389f-4ec6-8356-75047ff0027a","firm":"e799ccda-214a-4b8d-8c8c-b71649def4e9","katalog":"1","name":"MSI Z370-A PRO","img":"/img/a3d5824e-c762-415b-86e8-bb0604453140.jpg","count":64,"price":81,"comment":"ATX, Socket 1151 v2\nIntel Z370, 4x DDR4 up to 64 GB\n2x PCIe (x16), 4x PCIe (x1), CrossfireX\n6x SATA3, M.2 Slot, GB-LAN\n8x USB3.0, 6x USB2.0\nDVI, VGA, 1x DisplayPort 1.2"},{"id":"341f3dd6-0a44-4b4d-9b94-51f61b7070a2","firm":"2","katalog":"1","name":"ASUS PRIME Z370-A","img":"/img/5f04a481-680f-4938-bbe8-0b151e4645d9.jpg","count":146,"price":150,"comment":"ATX, Socket 1151 v2\nIntel Z370, 4x DDR4 up to 64 GB\n3x PCIe (x16), 4x PCIe (x1), CrossfireX, SLI\n6x SATA3, M.2 Slot, GB-LAN\n1x USB 3.1 Gen2 Typ C, 4x USB2.0\nHDMI, DVI, 1x DisplayPort 1.2"},{"id":"14bdce1b-f806-4f10-9c29-bf9e5c9d2a02","firm":"e799ccda-214a-4b8d-8c8c-b71649def4e9","katalog":"1","name":"MSI X370 Gaming Plus Sockel AM4","img":"/img/fef1c0d9-fc2e-4c09-8310-d4e19329e471.jpg","count":67,"price":80,"comment":"ATX, Socket AM4\nAMD X370, AMD X370, 4x DDR4 up to 64 GB\n3x PCIe (x16), 3x PCIe (x1), CrossfireX, SLI\n6x SATA3, M.2 Slot, GB-LAN\n2x USB 3.1 Gen2, 8x USB3.0, 6x USB2.0\nHDMI, DVI"},{"id":"7535eab4-519b-4e7d-8a7b-8090411d6574","firm":"10f2863c-c579-4b8c-8edb-f55f9e13d85e","katalog":"1e5cec7a-702a-4c46-b7c8-0b974204291b","name":"G.Skill Aegis 16GB DDR4 16GISB K2 3000 C16","img":"/img/612fd7e2-5e5c-4458-8457-77197fcbab9e.jpg","count":104,"price":109,"comment":"16 GB RAM, 2x 8 GB Kit\nDDR4, 3000 MHz (PC4-24000)\nDIMM 288 Pin, CL16"},{"id":"6e363e6f-d78d-40ea-b187-eb7ca31d5c0a","firm":"10f2863c-c579-4b8c-8edb-f55f9e13d85e","katalog":"1e5cec7a-702a-4c46-b7c8-0b974204291b","name":"Corsair Vengeance LPX Schwarz 16GB DDR4 Kit (2x8GB) 3000MHz C15","img":"/img/146be41e-085c-4cb9-9cfd-230a6855ec23.jpg","count":66,"price":124,"comment":"16 GB RAM, 2x 8 GB Kit\nDDR4, 3000 MHz (PC4-24000)\nDIMM 288 Pin, CL15"},{"id":"6a945f2b-ce8f-411d-99a8-743d24a87366","firm":"10f2863c-c579-4b8c-8edb-f55f9e13d85e","katalog":"1e5cec7a-702a-4c46-b7c8-0b974204291b","name":"Crucial 4GB DDR4 CT4G4DFS824A 2400 MHz","img":"/img/ca713f34-420c-4fe6-816d-07444166efee.jpg","count":297,"price":30,"comment":"4 GB RAM, 1 Module\nDDR4, 2400 MHz (PC4-19200)\nDIMM 288 Pin, CL17"},{"id":"88b611e8-8068-4a44-9d2c-fe0058857ebb","firm":"f7180054-bba3-494f-bfa0-c3c7e494ae91","katalog":"43abda74-01f8-44f9-9357-e466dbd68d11","name":"Sapphire RADEON NITRO+ RX VEGA 64 8.0 GB ","img":"/img/d514a855-45a3-48bc-983d-2119de71ae95.jpg","count":97,"price":520,"comment":"AMD Radeon RX Vega 64 8.0 GB\n1247 MHz Chiptakt, 1546 MHz Boost\nAnschluss per 3.0, Активное охлаждение (Dual-Slot)\n2x HDMI, 2x DisplayPort\nDirectX 12, Card length approx. 310 mm"},{"id":"e4e45fd9-8526-4745-b554-b4de3f034733","firm":"e799ccda-214a-4b8d-8c8c-b71649def4e9","katalog":"43abda74-01f8-44f9-9357-e466dbd68d11","name":"MSI GeForce GTX 1070 Ti ","img":"/img/fb838dee-d487-4273-9ca3-e500a7c49a8b.jpg","count":27,"price":420,"comment":"NVIDIA GeForce® GTX 1070 Ti 8.0 GB\n1607 MHz Chiptakt, 1683 MHz Boost\nAnschluss per 3.0, Активное охлаждение (Dual-Slot)\n1x HDMI, 3x DisplayPort, 1x DVI, SLI\nDirectX 12.1, Card length approx. 279 mm"},{"id":"03ee70d7-0f5c-4839-b141-23dc1108e44e","firm":"90df2213-e004-4811-9145-6dbe25a3a211","katalog":"43abda74-01f8-44f9-9357-e466dbd68d11","name":"GIGABYTE AORUS Radeon RX 580 4G 4.0 GB OC","img":"/img/f5242501-c9a8-4b07-9769-7e3b4a32050e.jpg","count":163,"price":202,"comment":"AMD Radeon RX 580 4.0 GB, Разогнанный\n1365 MHz Chiptakt, 1380 MHz Boost\nAnschluss per 3.0, Активное охлаждение (Dual-Slot)\n1x HDMI, 3x DisplayPort, 1x DVI, CrossFireX\nDirectX 12"},{"id":"0bc7e180-ca17-49ae-b705-c549fc6837e5","firm":"75fde2fe-7c4f-41a2-bf1a-f064cd76b077","katalog":"5150b153-aca8-4855-abb9-c6bfd6559352","name":"Cooler Master MasterAir MA620P für AMD und Intel Prozessoren mit RGB-LEDs","img":"/img/36718e4a-273f-4561-9616-3aefa0316bca.jpg","count":28,"price":60,"comment":"Вертикальный блок-кулеры, 17.1 cm Высота установки\n2x 120 mm Вентилятор (ШИМ), mehrfarbig illumination\n600 - 1800 rpm, (макс.53 cfm (90.0 m³/h) @ 31.0 dB\ncompatible sockets: 775, 1150 / 1151 / 1151-v2 / 1155 / 1156, 1366, 2011 / 2011-v3 / 2066, AM2 (+) / AM3 (+) / FM1 / FM2"},{"id":"dbdc2638-e889-4482-8c3f-cae6fb54f867","firm":"1db8b006-606e-4478-bb6a-6d5ea132a321","katalog":"5150b153-aca8-4855-abb9-c6bfd6559352","name":"Thermalright HR-02 Macho Rev. B","img":"/img/6a3f9c3c-fe2c-454f-a919-bce8e7e5f02f.jpg","count":38,"price":40,"comment":"Вертикальный блок-кулеры bis 240 Watt TDP, 16.2 cm Высота установки \n1x 140 mm Вентилятор (ШИМ)\n300 - 1300 rpm, (макс.73 cfm (124.0 m³/h) @ 21.0 dB\ncompatible sockets: 775, 1150 / 1151 / 1151-v2 / 1155 / 1156, 1356, 1366, 2011 / 2011-v3 / 2066, AM2 (+) / AM3 (+) / FM1"},{"id":"1c4804c6-0298-4d5d-a6c4-3388ef9e3aee","firm":"f0bd941f-1673-49f9-89d2-7c52d50f13f8","katalog":"5150b153-aca8-4855-abb9-c6bfd6559352","name":"be quiet! Pure Rock","img":"/img/288235b6-2d55-4a83-ae96-b63d2ec01846.jpg","count":15,"price":26,"comment":"Вертикальный блок-кулеры bis 150 Watt TDP, 15.5 cm Высота установки\n1x 120 mm Вентилятор (ШИМ)\n1500 rpm, (макс.87 cfm (147.8 m³/h) @ 26.8 dB\ncompatible sockets: 754, 775, 939 / 940, 1150 / 1151 / 1151-v2 / 1155 / 1156, 1356, 1366, 2011 / 2011-v3 / 2066, AM2 (+)"},{"id":"4af66e6f-dcf3-4e0d-94d9-506afab6eb53","firm":"263dd7df-6c95-4529-931c-91eed737eca9","katalog":"0dcedac4-4159-499f-b306-08511fa73ef2","name":"Sony Dualshock 4 Wireless Controller v2 weiß (PS4)","img":"/img/3359cf22-c96b-40e7-ad16-5c4803137360.jpg","count":43,"price":47,"comment":"Wireless "},{"id":"e1c16ce3-deb2-4708-b774-929eb428f367","firm":"263dd7df-6c95-4529-931c-91eed737eca9","katalog":"161967ee-bfa5-4653-9f8e-7c314877d4cd","name":"Sony PlayStation 4 Pro 1TB ","img":"/img/69328129-b866-4d47-9c5e-6ff2c35954ae.jpg","count":348,"price":350,"comment":"console in черный с 1 TB Память\nRevision: CUH-70XXB (Pro Chassis)\nВкл. Контроллер DualShock 4"},{"id":"bd270df1-d125-4978-a77e-5ad9eb7c2f14","firm":"3b09312f-134d-4283-bf31-e41d54975f5b","katalog":"c5641050-25b3-48e0-ab95-67ed3fe76ccc","name":"XCOM 2 (PS4)","img":"/img/bfb2020e-d703-48c6-b5f9-46f229db572d.jpg","count":16,"price":20,"comment":"Standard Edition, deutsche Version\nGenre: Action, Strategie\noptimised for PS4 Pro"},{"id":"337d1e1f-40ed-4f8a-9e2a-40940d5b2d62","firm":"10796687-6d7d-42f8-a1db-85715028badf","katalog":"161967ee-bfa5-4653-9f8e-7c314877d4cd","name":"Microsoft XBox One X 1 TB","img":"/img/06b6ac6a-821d-4ef9-b3f3-81958eae7a80.jpg","count":406,"price":410,"comment":"console in черный с 1 TB Память\nВкл. беспроводной контроллер\nXbox Gamepass (1 Monat), Xbox Live Gold (1 Monat)"},{"id":"e340fab8-b726-4620-87e1-c5a028dd89f0","firm":"9a517681-8e44-42c4-85e7-e4570d303f77","katalog":"9cbc6a73-8aee-4dc7-ba34-f92053de2d06","name":"LG 55SK8100LLA 140 cm ","img":"/img/07a913ae-2373-40a4-88f1-0c6f8718fa2d.jpg","count":97,"price":700,"comment":"140 cm (55\") да HDR Smart TV (Web OS)\nResolution 3840 x 2160, 100 Hz\nTuner: 2 HD, DVB-C, DVB-S 2\n3x USB, CI Slot, LAN, WiFi integrated\n4x HDMI, Bluetooth, Time-Shift\nProduct Data Sheet"},{"id":"3480cbfb-1ed4-431a-b487-9f34631d5106","firm":"69cceb8b-50f5-41e2-a4f1-585560d246b1","katalog":"9cbc6a73-8aee-4dc7-ba34-f92053de2d06","name":"Samsung UE32M5649AUXZG SMART FHD DVB-T2/C/S2 HEVC PVR 81 cm (32\") FullHD","img":"/img/35a86d00-8b1f-48df-a150-10da12d3d2c3.jpg","count":196,"price":361,"comment":"81 cm (32\") да Smart TV\nResolution 1920 x 1080 Full HD, 600 PQI\nTuner: 2 HD, DVB-C, DVB-S 2\n2x USB, CI+ Slot, LAN, WiFi integrated\n3x HDMI, Компонент (YUV), Time-Shift\nProduct Data Sheet"},{"id":"50e9b6cc-d764-4962-ae73-3e6b9d7490dd","firm":"3","katalog":"85bd8629-b24c-47f9-9b13-47bef85e919d","name":"Seagate BarraCuda ST1000DM010 1TB","img":"/img/35fc76ef-4fff-49f1-80f5-55fc26e7d4e4.jpg","count":497,"price":35,"comment":"3.5\", 1.0 TB, SATA3\n7200 rpm, 64 MB Кэш-память"},{"id":"581b17cf-1d6f-4047-8487-3f95ddf3a0b7","firm":"88b3ec20-b23b-4f9b-8ed0-0c7940f01ffb","katalog":"85bd8629-b24c-47f9-9b13-47bef85e919d","name":"Toshiba P300 2TB","img":"/img/eab6ab88-162c-4b17-8cba-ef44c7d49690.jpg","count":97,"price":62,"comment":"3.5\", 2.0 TB, SATA3\n7200 rpm, 64 MB Кэш-память"},{"id":"0264307f-9bed-472b-9191-c4772de9a6aa","firm":"f12e5cb1-d4a4-431e-a2a1-b49333195482","katalog":"d4877a97-a16a-4aa6-b499-77f80183d69b","name":"Crucial BX500 SSD 120GB","img":"/img/bed85b7c-f2c1-40ed-9d7e-3674ea249f6a.jpg","count":38,"price":22,"comment":"120 GB SSD, Anschluss über SATA3\nFormfaktor: 2.5\", Installation height 7 mm\nмакс. 500 MB/s, макс. 540 MB/s\nTLC-Speicherzellen\nInkl. data migration software"},{"id":"f1871fe7-ebdf-4648-abd0-efab10851e48","firm":"f12e5cb1-d4a4-431e-a2a1-b49333195482","katalog":"d4877a97-a16a-4aa6-b499-77f80183d69b","name":"Samsung SSD 850 EVO (Basic) Series 500GB","img":"/img/d72723ff-e90f-4760-bb71-027c6be8848d.jpg","count":104,"price":106,"comment":"500 GB SSD, Anschluss über SATA3\nFormfaktor: 2.5\", Installation height 7 mm\nмакс. 520 MB/s, макс. 540 MB/s\nTLC-Speicherzellen, Hardware encryption\nInkl. data migration software"},{"id":"7d8d236c-410a-473a-84a3-8c8d9fb282af","firm":"2eec5472-80b7-40bb-94e3-cd4dd5362e51","katalog":"3","name":"Dell UltraSharp U2414H","img":"/img/301ea18f-2b84-45e5-9680-58516c8791e7.jpg","count":178,"price":180,"comment":"61.0 cm (24\") 16:9, mattes IPS-Panel\n1920 x 1080 Full HD, 8 ms, 250 cd/m² кд/м², up to 60 Hz\n2x HDMI, 1x DisplayPort, 1x miniDisplayport\nUSB-Hub (4x USB3.1 Gen 1)\nHeight adjustable, поворачивается, наклоняется, поворачивается на 90°\nschmaler Rahmen, VESA 100 x 100mm\nProduct Data Sheet"},{"id":"3993508a-8fd2-4140-8e3d-84143c4ec8e2","firm":"2","katalog":"3","name":"ASUS ROG Swift PG279Q Gaming Monitor","img":"/img/5b5c9b03-6174-4615-8f70-c89cfecb6bec.jpg","count":595,"price":602,"comment":"68.6 cm (27\") 16:9 IPS-Panel\n2560 x 1440, 4 ms, 350 cd/m² кд/м², up to 165 Hz, G-Sync\n1x HDMI, 1x DisplayPort\nДинамик, USB-Hub (2x USB3.1 Gen 1)\nHeight adjustable, поворачивается, наклоняется, поворачивается на 90°\nBeleuchtung, schmaler Rahmen, VESA 100 x 100mm"},{"id":"3d15946d-53e1-48a8-9fbf-5db1a2b1e9a4","firm":"f07865ad-2ff2-4397-8b6f-eccb288a06e1","katalog":"3","name":"AOC Q3279VWFD8","img":"/img/9ed43a26-5aac-4f47-9d59-bd082cbc4158.jpg","count":197,"price":200,"comment":"81.3 cm (32\") 16:9, mattes IPS-Panel\n2560 x 1440, 5 ms, 250 cd/m² кд/м², up to 75 Hz, FreeSync\n1x VGA, 1x DVI, 1x HDMI, 1x DisplayPort\nнаклоняется"},{"id":"fdc61c22-8a50-4aff-bd22-5e9556389416","firm":"f12e5cb1-d4a4-431e-a2a1-b49333195482","katalog":"e99c9f34-e2fc-499b-b03b-bc79562a1083","name":"Battlefield V Code in a Box (CIAB) (PC)","img":"/img/d005879f-c300-4429-9e10-f5757d0daa09.jpg","count":50,"price":52,"comment":"PC Game for Windows\nStandard Edition, german version\nGenre: Action, Shooter\nBroadband Internet Connection required for Download"}],"cart":[],"user":[{"id":"fc254b73-7ba3-438d-bbb9-8301d059ce17","login":"test","password":"a50f67c5ab67314fdfacce3d43eb8dccb64b99ae4ed0b032519df16b13e7c58281e9e4c80d9cdeaec5145a8c4fdbbd9e5b969e06a1fe496c44a9d29db99f2789","salt":"835230575280","username":"test","role":"user","email":"test@mail.com"},{"id":"9ac19f4b-def6-4c4f-8b64-eb570e22e2df","login":"d","password":"e1127559109c9729425755da7a669cd827e6bc463e4b27da79515ac4ea4a62ebc2e6613b4a4c61688874d43d3eeceb0400d8063baab56e218eb5154698c15bf2","salt":"671465816963","username":"d","role":"user","email":"d@mail.ru"},{"id":"00f881d8-bc9e-4f18-a30e-6beab5a46cb0","login":"mobile","password":"2884702cb633a99e078232828521043b81022978c0d51afd26b4a2a584293c69298dd356532827f53c1781445eb3fad08875bfa810931a56691f99cbef7137c2","salt":"162240394040","username":"mobilee","role":"admin","email":"mobile@mail.ru"},{"id":"3","login":"admin","password":"32bfcd9a0af77549fc022f9262b322980ce8f4a00bd863585c5bcd8ec55b69cd3982a2c46c02e993b335276d473422db6c63948d5ff27a38e2946242b2d8c641","salt":"1362752306787","username":"admin","role":"admin","email":"admin@mail.ru"},{"id":"274ac328-fb9c-4c6f-8404-6e4a0c654fd8","login":"b","password":"ab2147189b126170c4a3a9e3df0e1ea0f7bbd1ecb4b6d6ae38d0c8c858755e1f452b4a20db425c84edfb948e7450f0fe438aecde7c4ffa2ac45b632f9638ae4b","salt":"561663765929","username":"bb","role":"user","email":"batya@mail.ru"}],"order":[{"id":"7000a2bc-f5ca-4d7c-ab03-3b0160070ee7","user":"274ac328-fb9c-4c6f-8404-6e4a0c654fd8","date":"2018-11-07 22:55:32","nds":20,"delivery":35,"total":61.4},{"id":"285ee6f3-7112-4ed0-a5e1-766851026773","user":"9ac19f4b-def6-4c4f-8b64-eb570e22e2df","date":"2018-10-13 17:44:34","nds":20,"delivery":35,"total":385.4},{"id":"2e69cf58-deb6-43a0-b7d3-a9a3542f0035","user":"00f881d8-bc9e-4f18-a30e-6beab5a46cb0","date":"2018-10-13 02:24:02","nds":20,"delivery":35,"total":180.2},{"id":"8f83dd5e-5895-473b-8363-d4679fac5aca","user":"3","date":"2018-10-12 22:31:36","nds":20,"delivery":35,"total":428.6},{"id":"aa33c8f9-d8f9-4d69-8b90-6ddf11db187d","user":"3","date":"2018-10-12 22:31:29","nds":20,"delivery":35,"total":331.4},{"id":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","user":"3","date":"2018-10-12 20:53:53","nds":20,"delivery":50,"total":7650.8}],"user_order":[{"id":"9c4589c3-acaf-4afe-bc0f-4308516f4749","product":"0264307f-9bed-472b-9191-c4772de9a6aa","order":"7000a2bc-f5ca-4d7c-ab03-3b0160070ee7","count":1,"price":22},{"id":"994901ea-8899-46cd-b536-d516db939490","product":"0264307f-9bed-472b-9191-c4772de9a6aa","order":"285ee6f3-7112-4ed0-a5e1-766851026773","count":2,"price":22},{"id":"c0a55cbe-3cae-4e93-bb30-ce647f6ce643","product":"6e363e6f-d78d-40ea-b187-eb7ca31d5c0a","order":"285ee6f3-7112-4ed0-a5e1-766851026773","count":2,"price":124},{"id":"603b0112-14e5-40c1-bfad-607950bce724","product":"bd270df1-d125-4978-a77e-5ad9eb7c2f14","order":"2e69cf58-deb6-43a0-b7d3-a9a3542f0035","count":2,"price":20},{"id":"fcc32cfd-b572-41c1-aeb8-f9922dfd92fc","product":"2b04f6af-389f-4ec6-8356-75047ff0027a","order":"2e69cf58-deb6-43a0-b7d3-a9a3542f0035","count":1,"price":81},{"id":"b2a2b429-8102-43f6-a127-48af7f64aeb5","product":"0264307f-9bed-472b-9191-c4772de9a6aa","order":"8f83dd5e-5895-473b-8363-d4679fac5aca","count":3,"price":22},{"id":"a7f3fda4-5608-4de0-b04e-d8eb450d66c6","product":"03ee70d7-0f5c-4839-b141-23dc1108e44e","order":"8f83dd5e-5895-473b-8363-d4679fac5aca","count":1,"price":202},{"id":"3f05bb97-cba1-441c-8dc0-070783742966","product":"0bc7e180-ca17-49ae-b705-c549fc6837e5","order":"8f83dd5e-5895-473b-8363-d4679fac5aca","count":1,"price":60},{"id":"076c64c3-dec3-4b9e-91a9-38c74cc27fbf","product":"3d15946d-53e1-48a8-9fbf-5db1a2b1e9a4","order":"aa33c8f9-d8f9-4d69-8b90-6ddf11db187d","count":1,"price":200},{"id":"81815d35-ce79-40df-89c5-878a96df4a2d","product":"4af66e6f-dcf3-4e0d-94d9-506afab6eb53","order":"aa33c8f9-d8f9-4d69-8b90-6ddf11db187d","count":1,"price":47},{"id":"c1cbb832-a9cf-4778-b0d9-e24c2925b273","product":"0264307f-9bed-472b-9191-c4772de9a6aa","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":22},{"id":"4e7aa1d9-d9a0-4029-907c-953f5ea75dbe","product":"03ee70d7-0f5c-4839-b141-23dc1108e44e","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":202},{"id":"b994b32a-07bb-4f2d-8b0f-afb268347ada","product":"0bc7e180-ca17-49ae-b705-c549fc6837e5","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":60},{"id":"0bb224eb-3e25-4982-98aa-c01b5c85f448","product":"14bdce1b-f806-4f10-9c29-bf9e5c9d2a02","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":80},{"id":"2870264a-12d0-43ba-87be-fd76ee11a092","product":"1c4804c6-0298-4d5d-a6c4-3388ef9e3aee","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":26},{"id":"5a631e31-1591-4578-962b-a3c9aeae6625","product":"2b04f6af-389f-4ec6-8356-75047ff0027a","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":81},{"id":"9ebf8efc-53fa-4676-a712-aa282a8166c5","product":"337d1e1f-40ed-4f8a-9e2a-40940d5b2d62","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":410},{"id":"2a15328b-8ae5-411d-a631-67dd2b4520c8","product":"341f3dd6-0a44-4b4d-9b94-51f61b7070a2","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":150},{"id":"76c5c16e-761c-4aab-a153-8e66e249cddc","product":"3480cbfb-1ed4-431a-b487-9f34631d5106","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":361},{"id":"6309009b-8c1e-432e-b5f9-b919a908e21c","product":"3993508a-8fd2-4140-8e3d-84143c4ec8e2","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":602},{"id":"29ce71d3-48d9-4ff5-98f6-84f35679f6d0","product":"3d15946d-53e1-48a8-9fbf-5db1a2b1e9a4","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":200},{"id":"01249742-e3e0-4a77-ae97-6472700e7af5","product":"4af66e6f-dcf3-4e0d-94d9-506afab6eb53","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":47},{"id":"51a5d675-28dd-4620-97c5-3d6b0694763b","product":"50e9b6cc-d764-4962-ae73-3e6b9d7490dd","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":35},{"id":"968379dc-e0c9-40f6-914e-9d05f6361f0f","product":"581b17cf-1d6f-4047-8487-3f95ddf3a0b7","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":62},{"id":"f5fc8c13-ab9c-48ce-ac74-1a1c4330e4fb","product":"6a945f2b-ce8f-411d-99a8-743d24a87366","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":30},{"id":"26698ef7-05a1-4735-8174-b9e4e6a10b74","product":"6e363e6f-d78d-40ea-b187-eb7ca31d5c0a","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":124},{"id":"e6797692-779c-49d8-9c75-27016098cb3c","product":"7535eab4-519b-4e7d-8a7b-8090411d6574","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":109},{"id":"5c8d6dcc-99aa-4881-bcb4-4989e4d240ff","product":"7b179cd2-a3a8-4dfb-9b16-14813d525561","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":70},{"id":"be282f5d-94c7-4325-b983-3e3099daf590","product":"7d8d236c-410a-473a-84a3-8c8d9fb282af","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":180},{"id":"3c8a30cd-a512-47a0-9a44-9d5dbd54a5cd","product":"88b611e8-8068-4a44-9d2c-fe0058857ebb","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":520},{"id":"2374ab57-e474-46cf-96ed-061992c5b1d3","product":"bd270df1-d125-4978-a77e-5ad9eb7c2f14","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":20},{"id":"a8f41ae4-87dc-43be-8292-fb4fb47b032d","product":"c8d241f0-8352-4e9f-97bf-1e2406342dd9","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":350},{"id":"bbbba411-6bfb-46dc-a775-248c3a7cf004","product":"dbdc2638-e889-4482-8c3f-cae6fb54f867","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":40},{"id":"171fa8d4-3a2c-4af4-abca-c05e1bd8f027","product":"dc0aa9a7-68a1-40bd-ba85-dc33b1c20a30","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":145},{"id":"23137286-7a8f-47f1-aae7-7a71d567b5de","product":"e1c16ce3-deb2-4708-b774-929eb428f367","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":350},{"id":"4db794bd-32ba-4948-b0ea-4ac46af6936a","product":"e340fab8-b726-4620-87e1-c5a028dd89f0","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":700},{"id":"2f30cc4b-a9bc-41e4-ab40-a45e6cb42d33","product":"e4e45fd9-8526-4745-b554-b4de3f034733","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":420},{"id":"0355f078-cad5-4734-b9e5-e8f496c16162","product":"e96982a1-78d6-4c30-ae92-74f16234e803","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":280},{"id":"8ad7eb28-c366-49f8-a96c-27a3e90c63ae","product":"e9ddd159-2dce-4742-9417-e2636be7c6ad","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":500},{"id":"a66073fe-f5bc-4486-bd24-b5ad879c121c","product":"f1871fe7-ebdf-4648-abd0-efab10851e48","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":106},{"id":"00064902-90c2-4a01-a801-b3f8774f3019","product":"fdc61c22-8a50-4aff-bd22-5e9556389416","order":"73c1ae58-0f52-4dc9-af79-2fc0276ca931","count":1,"price":52}]},"sort":{},"search":{},"current_user":{}};
 
 /***/ }),
 
@@ -772,7 +772,7 @@ var _EventBaseObject = __webpack_require__(/*! ./EventBaseObject */ "./node_modu
 
 var _EventBaseObject2 = _interopRequireDefault(_EventBaseObject);
 
-var _objectAssign = __webpack_require__(/*! object-assign */ "./node_modules/object-assign/index.js");
+var _objectAssign = __webpack_require__(/*! object-assign */ "./node_modules/add-dom-event-listener/node_modules/object-assign/index.js");
 
 var _objectAssign2 = _interopRequireDefault(_objectAssign);
 
@@ -1086,6 +1086,108 @@ function addEventListener(target, eventType, callback) {
   }
 }
 module.exports = exports['default'];
+
+/***/ }),
+
+/***/ "./node_modules/add-dom-event-listener/node_modules/object-assign/index.js":
+/*!*********************************************************************************!*\
+  !*** ./node_modules/add-dom-event-listener/node_modules/object-assign/index.js ***!
+  \*********************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
+
+
+/* eslint-disable no-unused-vars */
+var getOwnPropertySymbols = Object.getOwnPropertySymbols;
+var hasOwnProperty = Object.prototype.hasOwnProperty;
+var propIsEnumerable = Object.prototype.propertyIsEnumerable;
+
+function toObject(val) {
+	if (val === null || val === undefined) {
+		throw new TypeError('Object.assign cannot be called with null or undefined');
+	}
+
+	return Object(val);
+}
+
+function shouldUseNative() {
+	try {
+		if (!Object.assign) {
+			return false;
+		}
+
+		// Detect buggy property enumeration order in older V8 versions.
+
+		// https://bugs.chromium.org/p/v8/issues/detail?id=4118
+		var test1 = new String('abc');  // eslint-disable-line no-new-wrappers
+		test1[5] = 'de';
+		if (Object.getOwnPropertyNames(test1)[0] === '5') {
+			return false;
+		}
+
+		// https://bugs.chromium.org/p/v8/issues/detail?id=3056
+		var test2 = {};
+		for (var i = 0; i < 10; i++) {
+			test2['_' + String.fromCharCode(i)] = i;
+		}
+		var order2 = Object.getOwnPropertyNames(test2).map(function (n) {
+			return test2[n];
+		});
+		if (order2.join('') !== '0123456789') {
+			return false;
+		}
+
+		// https://bugs.chromium.org/p/v8/issues/detail?id=3056
+		var test3 = {};
+		'abcdefghijklmnopqrst'.split('').forEach(function (letter) {
+			test3[letter] = letter;
+		});
+		if (Object.keys(Object.assign({}, test3)).join('') !==
+				'abcdefghijklmnopqrst') {
+			return false;
+		}
+
+		return true;
+	} catch (err) {
+		// We don't expect any of the above to throw, but better to be safe.
+		return false;
+	}
+}
+
+module.exports = shouldUseNative() ? Object.assign : function (target, source) {
+	var from;
+	var to = toObject(target);
+	var symbols;
+
+	for (var s = 1; s < arguments.length; s++) {
+		from = Object(arguments[s]);
+
+		for (var key in from) {
+			if (hasOwnProperty.call(from, key)) {
+				to[key] = from[key];
+			}
+		}
+
+		if (getOwnPropertySymbols) {
+			symbols = getOwnPropertySymbols(from);
+			for (var i = 0; i < symbols.length; i++) {
+				if (propIsEnumerable.call(from, symbols[i])) {
+					to[symbols[i]] = from[symbols[i]];
+				}
+			}
+		}
+	}
+
+	return to;
+};
+
 
 /***/ }),
 
@@ -4237,7 +4339,7 @@ exports = module.exports = __webpack_require__(/*! ../node_modules/css-loader/li
 
 
 // module
-exports.push([module.i, ".Button {\n  border-radius: 5px;\n  box-shadow: 2px 2px 10px #888888;\n  background-color: #56a9b8;\n  border: 0;\n  cursor: pointer;\n  display: inline-block;\n  font-size: 20px;\n  padding: 5px 15px;\n  text-decoration: none;\n  transition-duration: 0.1s;\n  transition-property: transform;\n  background-image: radial-gradient(#b6d7df, #56a9b8);\n  background-size: auto 100%;\n  color: #114952; }\n\n.Button:hover {\n  transform: scale(1.1); }\n\nhtml {\n  font: 16px Arial;\n  font-family: Arial, sans-serif;\n  background-image: url(\"/img/logo/back5++.png\");\n  background-attachment: fixed;\n  background-repeat: no-repeat;\n  background-color: #f7f8fa;\n  background-position: top;\n  background-size: 2000px; }\n\n.body {\n  background-image: linear-gradient(to right, #f7f8fa00, #ffffff 30%, #ffffff 70%, #ffffff00); }\n\n.page_table {\n  width: 100%;\n  /* position: relative; */\n  /* border-left: solid; */\n  /* background: rgb(238, 252, 255, 0.5); */\n  /* border-width: 1px; */\n  /* border-right: solid; */\n  padding: 0px 80px;\n  border-color: #a3e8f5;\n  border-width: 1px;\n  /* box-shadow: 2px 2px 10px black; */\n  margin: auto;\n  /* background-color: white; */\n  width: 1000px;\n  border-collapse: collapse; }\n  .page_table .td_left {\n    vertical-align: top; }\n\nbody {\n  margin: auto;\n  width: 1200px;\n  height: 100vh; }\n\n@media screen {\n  body {\n    width: device-width; } }\n\ninput, textarea {\n  font-size: 14px;\n  padding: 10px; }\n\n.page_table {\n  width: 1203px; }\n\n.page_table .td_middle {\n  vertical-align: top;\n  width: 1000px;\n  margin: auto; }\n", "", {"version":3,"sources":["E:/project6/css/css/app.scss","E:/project6/css/css/components/globals.scss"],"names":[],"mappings":"AAEA;EACI,mBAAkB;ECSnB,iCAAgC;EDP/B,0BAAyB;EACzB,UAAS;EACT,gBAAe;EACf,sBAAqB;EACrB,gBAAe;EAEf,kBAAiB;EACjB,sBAAqB;EACrB,0BAAyB;EACzB,+BAA8B;EAC9B,oDAAoD;EAGpD,2BAA0B;EAC1B,eAAa,EAChB;;AAED;EACI,sBAAqB,EACxB;;AACD;EAII,iBAAgB;EAChB,+BAA8B;EAC9B,+CAA8C;EAC9C,6BAA4B;EAC5B,6BAA4B;EAC5B,0BAAyB;EACzB,yBAAwB;EACxB,wBAAuB,EAE1B;;AACD;EAAO,4FAA2F,EAAG;;AACrG;EAKI,YAAW;EACX,yBAAyB;EACzB,yBAAyB;EACzB,0CAA0C;EAC1C,wBAAwB;EACxB,0BAA0B;EAC1B,kBAAiB;EAEjB,sBAAqB;EACrB,kBAAiB;EACjB,qCAAqC;EACrC,aAAY;EACZ,8BAA8B;EAC9B,cAAa;EACb,0BAAyB,EAC5B;EApBD;IAGQ,oBAAmB,EACtB;;AAiBL;EACI,aAAY;EACZ,cAAa;EACb,cAAa,EAChB;;AAED;EACI;IAAK,oBAAmB,EAAG,EAAA;;AAG/B;EACI,gBAAe;EACf,cAAa,EAChB;;AACD;EACI,cAAa,EAEhB;;AAMD;EAEI,oBAAmB;EACnB,cAAa;EACb,aAAY,EAEf","file":"app.scss","sourcesContent":["@import './components/globals';\r\n\r\n.Button {\r\n    border-radius: 5px;\r\n    @include shadow;\r\n    background-color: #56a9b8;\r\n    border: 0;\r\n    cursor: pointer;\r\n    display: inline-block;\r\n    font-size: 20px;\r\n    //font-weight: bold;\r\n    padding: 5px 15px;\r\n    text-decoration: none;\r\n    transition-duration: 0.1s;\r\n    transition-property: transform;\r\n    background-image: radial-gradient( #b6d7df, #56a9b8);\r\n    //background-image: url(\"/img/logo/menu3.png\");\r\n    //  margin:0px 0px 20px 0px;\r\n    background-size: auto 100%;\r\n    color:#114952;\r\n}\r\n\r\n.Button:hover {\r\n    transform: scale(1.1);\r\n}\r\nhtml {\r\n    // background-size: 60%;\r\n    //  background-repeat: no-repeat;\r\n    //background-color: #ffffff;\r\n    font: 16px Arial;\r\n    font-family: Arial, sans-serif;\r\n    background-image: url(\"/img/logo/back5++.png\");\r\n    background-attachment: fixed; \r\n    background-repeat: no-repeat;\r\n    background-color: #f7f8fa;\r\n    background-position: top;\r\n    background-size: 2000px;\r\n    //background-size: cover;\r\n}\r\n.body{ background-image: linear-gradient(to right, #f7f8fa00, #ffffff 30%, #ffffff 70%, #ffffff00);}\r\n.page_table{\r\n\r\n    .td_left{\r\n        vertical-align: top;\r\n    }\r\n    width: 100%;\r\n    /* position: relative; */\r\n    /* border-left: solid; */\r\n    /* background: rgb(238, 252, 255, 0.5); */\r\n    /* border-width: 1px; */\r\n    /* border-right: solid; */\r\n    padding: 0px 80px;\r\n    // background-image: radial-gradient(circle, #ffffff 30%,#f6f6f600);\r\n    border-color: #a3e8f5;\r\n    border-width: 1px;\r\n    /* box-shadow: 2px 2px 10px black; */\r\n    margin: auto;\r\n    /* background-color: white; */\r\n    width: 1000px;\r\n    border-collapse: collapse;\r\n}\r\nbody {\r\n    margin: auto;\r\n    width: 1200px;\r\n    height: 100vh;\r\n}\r\n\r\n@media screen {\r\n    body{width: device-width}\r\n}\r\n\r\ninput, textarea {\r\n    font-size: 14px;\r\n    padding: 10px;\r\n}\r\n.page_table {\r\n    width: 1203px;  \r\n    //position:relative;\r\n}\r\n.page_table .td_left\r\n{\r\n    // width: 20%;   \r\n}\r\n\r\n.page_table .td_middle\r\n{ \r\n    vertical-align: top;\r\n    width: 1000px;\r\n    margin: auto;\r\n    //  background-color: white; \r\n}\r\n","$light: rgba(255, 255, 255, 1);\n$light-grey: rgba(229, 229, 229, 1);\n$red: #900;\n$font-heading: Verdana, sans-serif;\n\n$break-sm: 700px;\n$break-md: 1100px;\n$break-lg: 1600px;\n$break-xl: 2000px;\n\n@mixin shadow {\n  //box-shadow: 3px 3px 8px 1px darken($light-grey, 20%);\n   box-shadow: 2px 2px 10px #888888;\n}\n\n  @mixin animation {\n      transition-duration: 0.1s;\n  transition-property: transform;   \n  }\n  @mixin color{\n color: #6b6b6b;\n  }\n  @mixin border_color{\n  border-color: darkgray;    \n  }\n  @mixin input_border{\n    border-style: solid;\n    border-width: 1px;\n  @include border_color;\n    border-width: 1px;\n    border-radius: 5px;\n  }\n  @mixin border{\n      border-radius: 5px;\n      border-style:none;\n  }\n  @mixin border-radius{\n      border-radius: 5px;\n  }\n  @mixin Button {\n          background-image: radial-gradient( #b6d7df, #56a9b8);\n color: white;\n  border-radius: 5px;\n   @include shadow;\n  border: 0;\n  cursor: pointer;\n  display: inline-block;\n font-size: 20px;\n  //font-weight: bold;\n  padding: 5px 15px;\n  text-decoration: none;\n  transition-duration: 0.1s;\n  transition-property: transform;\n//background-image: url(\"/img/logo/menu3.png\");\n  //  margin:0px 0px 20px 0px;\n        background-size: auto 100%;\n       // &:hover {\n  //transform: scale(1.1);\n//}\n\n}\n"],"sourceRoot":""}]);
+exports.push([module.i, ".Button {\n  border-radius: 5px;\n  box-shadow: 2px 2px 10px #888888;\n  background-color: #56a9b8;\n  border: 0;\n  cursor: pointer;\n  display: inline-block;\n  font-size: 20px;\n  padding: 5px 15px;\n  text-decoration: none;\n  transition-duration: 0.1s;\n  transition-property: transform;\n  background-image: radial-gradient(#b6d7df, #56a9b8);\n  background-size: auto 100%;\n  color: #114952; }\n\n.Button:hover {\n  transform: scale(1.1); }\n\nhtml {\n  font: 16px Arial;\n  font-family: Arial, sans-serif;\n  background-image: url(\"/img/logo/back5++.png\");\n  background-attachment: fixed;\n  background-repeat: no-repeat;\n  background-color: #f7f8fa;\n  background-position: top;\n  background-size: 2000px; }\n\n.body {\n  background-image: linear-gradient(to right, #f7f8fa00, #ffffff 30%, #ffffff 70%, #ffffff00); }\n\n.page_table {\n  width: 100%;\n  /* position: relative; */\n  /* border-left: solid; */\n  /* background: rgb(238, 252, 255, 0.5); */\n  /* border-width: 1px; */\n  /* border-right: solid; */\n  padding: 0px 80px;\n  border-color: #a3e8f5;\n  border-width: 1px;\n  /* box-shadow: 2px 2px 10px black; */\n  margin: auto;\n  /* background-color: white; */\n  width: 1000px;\n  border-collapse: collapse; }\n  .page_table .td_left {\n    vertical-align: top; }\n\nbody {\n  margin: auto;\n  width: 1200px;\n  height: 100vh; }\n\n@media screen {\n  body {\n    width: device-width; } }\n\ninput, textarea {\n  font-size: 14px;\n  padding: 10px; }\n\n.page_table {\n  width: 1203px; }\n\n.page_table .td_middle {\n  vertical-align: top;\n  width: 1000px;\n  margin: auto; }\n", "", {"version":3,"sources":["E:/projects/project6/css/css/app.scss","E:/projects/project6/css/css/components/globals.scss"],"names":[],"mappings":"AAEA;EACI,mBAAkB;ECSnB,iCAAgC;EDP/B,0BAAyB;EACzB,UAAS;EACT,gBAAe;EACf,sBAAqB;EACrB,gBAAe;EAEf,kBAAiB;EACjB,sBAAqB;EACrB,0BAAyB;EACzB,+BAA8B;EAC9B,oDAAoD;EAGpD,2BAA0B;EAC1B,eAAa,EAChB;;AAED;EACI,sBAAqB,EACxB;;AACD;EAII,iBAAgB;EAChB,+BAA8B;EAC9B,+CAA8C;EAC9C,6BAA4B;EAC5B,6BAA4B;EAC5B,0BAAyB;EACzB,yBAAwB;EACxB,wBAAuB,EAE1B;;AACD;EAAO,4FAA2F,EAAG;;AACrG;EAKI,YAAW;EACX,yBAAyB;EACzB,yBAAyB;EACzB,0CAA0C;EAC1C,wBAAwB;EACxB,0BAA0B;EAC1B,kBAAiB;EAEjB,sBAAqB;EACrB,kBAAiB;EACjB,qCAAqC;EACrC,aAAY;EACZ,8BAA8B;EAC9B,cAAa;EACb,0BAAyB,EAC5B;EApBD;IAGQ,oBAAmB,EACtB;;AAiBL;EACI,aAAY;EACZ,cAAa;EACb,cAAa,EAChB;;AAED;EACI;IAAK,oBAAmB,EAAG,EAAA;;AAG/B;EACI,gBAAe;EACf,cAAa,EAChB;;AACD;EACI,cAAa,EAEhB;;AAMD;EAEI,oBAAmB;EACnB,cAAa;EACb,aAAY,EAEf","file":"app.scss","sourcesContent":["@import './components/globals';\r\n\r\n.Button {\r\n    border-radius: 5px;\r\n    @include shadow;\r\n    background-color: #56a9b8;\r\n    border: 0;\r\n    cursor: pointer;\r\n    display: inline-block;\r\n    font-size: 20px;\r\n    //font-weight: bold;\r\n    padding: 5px 15px;\r\n    text-decoration: none;\r\n    transition-duration: 0.1s;\r\n    transition-property: transform;\r\n    background-image: radial-gradient( #b6d7df, #56a9b8);\r\n    //background-image: url(\"/img/logo/menu3.png\");\r\n    //  margin:0px 0px 20px 0px;\r\n    background-size: auto 100%;\r\n    color:#114952;\r\n}\r\n\r\n.Button:hover {\r\n    transform: scale(1.1);\r\n}\r\nhtml {\r\n    // background-size: 60%;\r\n    //  background-repeat: no-repeat;\r\n    //background-color: #ffffff;\r\n    font: 16px Arial;\r\n    font-family: Arial, sans-serif;\r\n    background-image: url(\"/img/logo/back5++.png\");\r\n    background-attachment: fixed; \r\n    background-repeat: no-repeat;\r\n    background-color: #f7f8fa;\r\n    background-position: top;\r\n    background-size: 2000px;\r\n    //background-size: cover;\r\n}\r\n.body{ background-image: linear-gradient(to right, #f7f8fa00, #ffffff 30%, #ffffff 70%, #ffffff00);}\r\n.page_table{\r\n\r\n    .td_left{\r\n        vertical-align: top;\r\n    }\r\n    width: 100%;\r\n    /* position: relative; */\r\n    /* border-left: solid; */\r\n    /* background: rgb(238, 252, 255, 0.5); */\r\n    /* border-width: 1px; */\r\n    /* border-right: solid; */\r\n    padding: 0px 80px;\r\n    // background-image: radial-gradient(circle, #ffffff 30%,#f6f6f600);\r\n    border-color: #a3e8f5;\r\n    border-width: 1px;\r\n    /* box-shadow: 2px 2px 10px black; */\r\n    margin: auto;\r\n    /* background-color: white; */\r\n    width: 1000px;\r\n    border-collapse: collapse;\r\n}\r\nbody {\r\n    margin: auto;\r\n    width: 1200px;\r\n    height: 100vh;\r\n}\r\n\r\n@media screen {\r\n    body{width: device-width}\r\n}\r\n\r\ninput, textarea {\r\n    font-size: 14px;\r\n    padding: 10px;\r\n}\r\n.page_table {\r\n    width: 1203px;  \r\n    //position:relative;\r\n}\r\n.page_table .td_left\r\n{\r\n    // width: 20%;   \r\n}\r\n\r\n.page_table .td_middle\r\n{ \r\n    vertical-align: top;\r\n    width: 1000px;\r\n    margin: auto;\r\n    //  background-color: white; \r\n}\r\n","$light: rgba(255, 255, 255, 1);\n$light-grey: rgba(229, 229, 229, 1);\n$red: #900;\n$font-heading: Verdana, sans-serif;\n\n$break-sm: 700px;\n$break-md: 1100px;\n$break-lg: 1600px;\n$break-xl: 2000px;\n\n@mixin shadow {\n  //box-shadow: 3px 3px 8px 1px darken($light-grey, 20%);\n   box-shadow: 2px 2px 10px #888888;\n}\n\n  @mixin animation {\n      transition-duration: 0.1s;\n  transition-property: transform;   \n  }\n  @mixin color{\n color: #6b6b6b;\n  }\n  @mixin border_color{\n  border-color: darkgray;    \n  }\n  @mixin input_border{\n    border-style: solid;\n    border-width: 1px;\n  @include border_color;\n    border-width: 1px;\n    border-radius: 5px;\n  }\n  @mixin border{\n      border-radius: 5px;\n      border-style:none;\n  }\n  @mixin border-radius{\n      border-radius: 5px;\n  }\n  @mixin Button {\n          background-image: radial-gradient( #b6d7df, #56a9b8);\n color: white;\n  border-radius: 5px;\n   @include shadow;\n  border: 0;\n  cursor: pointer;\n  display: inline-block;\n font-size: 20px;\n  //font-weight: bold;\n  padding: 5px 15px;\n  text-decoration: none;\n  transition-duration: 0.1s;\n  transition-property: transform;\n//background-image: url(\"/img/logo/menu3.png\");\n  //  margin:0px 0px 20px 0px;\n        background-size: auto 100%;\n       // &:hover {\n  //transform: scale(1.1);\n//}\n\n}\n"],"sourceRoot":""}]);
 
 // exports
 
@@ -4256,7 +4358,7 @@ exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader
 
 
 // module
-exports.push([module.i, ".Actions img {\n  width: 50px;\n  transition-duration: 0.1s;\n  transition-property: transform;\n  cursor: pointer; }\n  .Actions img:hover {\n    transform: scale(1.2); }\n\n.Actions .reset_password {\n  width: 28px; }\n\n.Actions .add_cart {\n  cursor: pointer; }\n\n.Actions .delete_cart {\n  cursor: pointer; }\n\n.Actions span {\n  border-radius: 150%;\n  border: 2px solid black;\n  color: black;\n  cursor: pointer;\n  display: inline-block;\n  font-weight: bold;\n  height: 25px;\n  margin: 5px 15px 5px 15px;\n  padding-top: 6px;\n  text-align: center;\n  transition-duration: 0.1s;\n  transition-property: transform;\n  width: 33px; }\n\n.Actions span:hover {\n  transform: scale(1.1); }\n\n.Actions .ActionsInfo {\n  border-color: #3498DB;\n  color: #3498DB; }\n\n.Actions .ActionsDelete {\n  border-color: #B7477D;\n  color: #B7477D; }\n", "", {"version":3,"sources":["E:/project6/css/components/css/components/Actions.scss","E:/project6/css/components/css/components/globals.scss"],"names":[],"mappings":"AACA;EAGQ,YAAW;ECYb,0BAAyB;EAC7B,+BAA8B;EDX7B,gBAAc,EAIX;EATN;IAOC,sBAAqB,EACd;;AARR;EAuBS,YAAW,EACd;;AAxBN;EA0BQ,gBAAe,EAClB;;AA3BL;EA6BQ,gBAAe,EAClB;;AAEL;EACE,oBAAmB;EACnB,wBAAuB;EACvB,aAAY;EACZ,gBAAe;EACf,sBAAqB;EACrB,kBAAiB;EACjB,aAAY;EACZ,0BAAyB;EACzB,iBAAgB;EAChB,mBAAkB;EAClB,0BAAyB;EACzB,+BAA8B;EAC9B,YAAW,EACZ;;AAED;EACE,sBAAqB,EACtB;;AAED;EACE,sBAAqB;EACrB,eAAc,EACf;;AAED;EACE,sBAAqB;EACrB,eAAc,EACf","file":"Actions.scss","sourcesContent":["@import 'globals';\n.Actions  {\n     img{\n        \n        width: 50px;\n   @include animation;\n   cursor:pointer;\n       &:hover{\n transform: scale(1.2);\n       }\n     }\n     .delete{\n         \n     } \n     .already{\n         \n     }\n     .can{\n         \n     } \n     .cant{\n         \n     }\n     .reset_password {\n         width: 28px;\n     }\n    .add_cart{\n        cursor: pointer;\n    }\n        .delete_cart{\n        cursor: pointer;\n    }\n}\n.Actions span {\n  border-radius: 150%;\n  border: 2px solid black;\n  color: black;\n  cursor: pointer;\n  display: inline-block;\n  font-weight: bold;\n  height: 25px;\n  margin: 5px 15px 5px 15px;\n  padding-top: 6px;\n  text-align: center;\n  transition-duration: 0.1s;\n  transition-property: transform;\n  width: 33px;\n}\n\n.Actions span:hover {\n  transform: scale(1.1);\n}\n\n.Actions .ActionsInfo {\n  border-color: #3498DB;\n  color: #3498DB;\n}\n\n.Actions .ActionsDelete {\n  border-color: #B7477D;\n  color: #B7477D;\n}","$light: rgba(255, 255, 255, 1);\n$light-grey: rgba(229, 229, 229, 1);\n$red: #900;\n$font-heading: Verdana, sans-serif;\n\n$break-sm: 700px;\n$break-md: 1100px;\n$break-lg: 1600px;\n$break-xl: 2000px;\n\n@mixin shadow {\n  //box-shadow: 3px 3px 8px 1px darken($light-grey, 20%);\n   box-shadow: 2px 2px 10px #888888;\n}\n\n  @mixin animation {\n      transition-duration: 0.1s;\n  transition-property: transform;   \n  }\n  @mixin color{\n color: #6b6b6b;\n  }\n  @mixin border_color{\n  border-color: darkgray;    \n  }\n  @mixin input_border{\n    border-style: solid;\n    border-width: 1px;\n  @include border_color;\n    border-width: 1px;\n    border-radius: 5px;\n  }\n  @mixin border{\n      border-radius: 5px;\n      border-style:none;\n  }\n  @mixin border-radius{\n      border-radius: 5px;\n  }\n  @mixin Button {\n          background-image: radial-gradient( #b6d7df, #56a9b8);\n color: white;\n  border-radius: 5px;\n   @include shadow;\n  border: 0;\n  cursor: pointer;\n  display: inline-block;\n font-size: 20px;\n  //font-weight: bold;\n  padding: 5px 15px;\n  text-decoration: none;\n  transition-duration: 0.1s;\n  transition-property: transform;\n//background-image: url(\"/img/logo/menu3.png\");\n  //  margin:0px 0px 20px 0px;\n        background-size: auto 100%;\n       // &:hover {\n  //transform: scale(1.1);\n//}\n\n}\n"],"sourceRoot":""}]);
+exports.push([module.i, ".Actions img {\n  width: 50px;\n  transition-duration: 0.1s;\n  transition-property: transform;\n  cursor: pointer; }\n  .Actions img:hover {\n    transform: scale(1.2); }\n\n.Actions .reset_password {\n  width: 28px; }\n\n.Actions .add_cart {\n  cursor: pointer; }\n\n.Actions .delete_cart {\n  cursor: pointer; }\n\n.Actions span {\n  border-radius: 150%;\n  border: 2px solid black;\n  color: black;\n  cursor: pointer;\n  display: inline-block;\n  font-weight: bold;\n  height: 25px;\n  margin: 5px 15px 5px 15px;\n  padding-top: 6px;\n  text-align: center;\n  transition-duration: 0.1s;\n  transition-property: transform;\n  width: 33px; }\n\n.Actions span:hover {\n  transform: scale(1.1); }\n\n.Actions .ActionsInfo {\n  border-color: #3498DB;\n  color: #3498DB; }\n\n.Actions .ActionsDelete {\n  border-color: #B7477D;\n  color: #B7477D; }\n", "", {"version":3,"sources":["E:/projects/project6/css/components/css/components/Actions.scss","E:/projects/project6/css/components/css/components/globals.scss"],"names":[],"mappings":"AACA;EAGQ,YAAW;ECYb,0BAAyB;EAC7B,+BAA8B;EDX7B,gBAAc,EAIX;EATN;IAOC,sBAAqB,EACd;;AARR;EAuBS,YAAW,EACd;;AAxBN;EA0BQ,gBAAe,EAClB;;AA3BL;EA6BQ,gBAAe,EAClB;;AAEL;EACE,oBAAmB;EACnB,wBAAuB;EACvB,aAAY;EACZ,gBAAe;EACf,sBAAqB;EACrB,kBAAiB;EACjB,aAAY;EACZ,0BAAyB;EACzB,iBAAgB;EAChB,mBAAkB;EAClB,0BAAyB;EACzB,+BAA8B;EAC9B,YAAW,EACZ;;AAED;EACE,sBAAqB,EACtB;;AAED;EACE,sBAAqB;EACrB,eAAc,EACf;;AAED;EACE,sBAAqB;EACrB,eAAc,EACf","file":"Actions.scss","sourcesContent":["@import 'globals';\n.Actions  {\n     img{\n        \n        width: 50px;\n   @include animation;\n   cursor:pointer;\n       &:hover{\n transform: scale(1.2);\n       }\n     }\n     .delete{\n         \n     } \n     .already{\n         \n     }\n     .can{\n         \n     } \n     .cant{\n         \n     }\n     .reset_password {\n         width: 28px;\n     }\n    .add_cart{\n        cursor: pointer;\n    }\n        .delete_cart{\n        cursor: pointer;\n    }\n}\n.Actions span {\n  border-radius: 150%;\n  border: 2px solid black;\n  color: black;\n  cursor: pointer;\n  display: inline-block;\n  font-weight: bold;\n  height: 25px;\n  margin: 5px 15px 5px 15px;\n  padding-top: 6px;\n  text-align: center;\n  transition-duration: 0.1s;\n  transition-property: transform;\n  width: 33px;\n}\n\n.Actions span:hover {\n  transform: scale(1.1);\n}\n\n.Actions .ActionsInfo {\n  border-color: #3498DB;\n  color: #3498DB;\n}\n\n.Actions .ActionsDelete {\n  border-color: #B7477D;\n  color: #B7477D;\n}","$light: rgba(255, 255, 255, 1);\n$light-grey: rgba(229, 229, 229, 1);\n$red: #900;\n$font-heading: Verdana, sans-serif;\n\n$break-sm: 700px;\n$break-md: 1100px;\n$break-lg: 1600px;\n$break-xl: 2000px;\n\n@mixin shadow {\n  //box-shadow: 3px 3px 8px 1px darken($light-grey, 20%);\n   box-shadow: 2px 2px 10px #888888;\n}\n\n  @mixin animation {\n      transition-duration: 0.1s;\n  transition-property: transform;   \n  }\n  @mixin color{\n color: #6b6b6b;\n  }\n  @mixin border_color{\n  border-color: darkgray;    \n  }\n  @mixin input_border{\n    border-style: solid;\n    border-width: 1px;\n  @include border_color;\n    border-width: 1px;\n    border-radius: 5px;\n  }\n  @mixin border{\n      border-radius: 5px;\n      border-style:none;\n  }\n  @mixin border-radius{\n      border-radius: 5px;\n  }\n  @mixin Button {\n          background-image: radial-gradient( #b6d7df, #56a9b8);\n color: white;\n  border-radius: 5px;\n   @include shadow;\n  border: 0;\n  cursor: pointer;\n  display: inline-block;\n font-size: 20px;\n  //font-weight: bold;\n  padding: 5px 15px;\n  text-decoration: none;\n  transition-duration: 0.1s;\n  transition-property: transform;\n//background-image: url(\"/img/logo/menu3.png\");\n  //  margin:0px 0px 20px 0px;\n        background-size: auto 100%;\n       // &:hover {\n  //transform: scale(1.1);\n//}\n\n}\n"],"sourceRoot":""}]);
 
 // exports
 
@@ -4275,7 +4377,7 @@ exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader
 
 
 // module
-exports.push([module.i, ".Cart_Total {\n  width: 100%; }\n  .Cart_Total table {\n    margin: 10px 0px;\n    display: block;\n    width: 100%;\n    font: 20px Arial;\n    width: 100%;\n    border-radius: 5px;\n    border-width: 1px;\n    border-color: #d4d4d4;\n    border-style: none;\n    border-collapse: collapse;\n    font-weight: bold;\n    color: #6b6b6b;\n    table-layout: fixed; }\n    .Cart_Total table tr {\n      border-radius: 5px;\n      border-width: 1px;\n      border-color: #d4d4d4;\n      border-bottom-style: solid; }\n    .Cart_Total table td:nth-of-type(2n+1) {\n      padding: 10px;\n      text-align: left;\n      width: 1%; }\n    .Cart_Total table td:nth-of-type(2n) {\n      padding: 10px;\n      text-align: right;\n      width: 1%; }\n  .Cart_Total .button_container {\n    margin: 50px;\n    display: flex;\n    justify-content: space-around; }\n    .Cart_Total .button_container .Button {\n      width: 130px; }\n    .Cart_Total .button_container .disabled_Button {\n      background-image: radial-gradient(#b6d7df, #56a9b8);\n      color: white;\n      border-radius: 5px;\n      box-shadow: 2px 2px 10px #888888;\n      border: 0;\n      cursor: pointer;\n      display: inline-block;\n      font-size: 20px;\n      padding: 5px 15px;\n      text-decoration: none;\n      transition-duration: 0.1s;\n      transition-property: transform;\n      background-size: auto 100%;\n      width: 130px;\n      opacity: 0.4; }\n", "", {"version":3,"sources":["E:/project6/css/components/css/components/Cart_Total.scss","E:/project6/css/components/css/components/globals.scss"],"names":[],"mappings":"AACA;EACC,YAAU,EAuDV;EAxDD;IAGE,iBAAgB;IACjB,eAAa;IACZ,YAAW;IACX,iBAAgB;IAChB,YAAW;IACX,mBAAkB;IAClB,kBAAiB;IACjB,sBAAqB;IACrB,mBAAkB;IAClB,0BAAyB;IACrB,kBAAiB;IAClB,eAAc;IAQhB,oBAAoB,EAiBtB;IAvCD;MAgBI,mBAAkB;MACpB,kBAAiB;MACjB,sBAAqB;MACrB,2BAA0B,EAEtB;IArBN;MAyBO,cAAa;MACb,iBAAgB;MAEf,UAAS,EACb;IA7BJ;MAgCO,cAAa;MACZ,kBAAiB;MAEjB,UAAS,EACb;EApCJ;IAyCI,aAAY;IACZ,cAAa;IACb,8BAA4B,EAY/B;IAvDD;MA6CG,aAAY,EAEX;IA/CJ;MCuCU,oDAAoD;MAC7D,aAAY;MACX,mBAAkB;MA9BjB,iCAAgC;MAgCjC,UAAS;MACT,gBAAe;MACf,sBAAqB;MACtB,gBAAe;MAEd,kBAAiB;MACjB,sBAAqB;MACrB,0BAAyB;MACzB,+BAA8B;MAGxB,2BAA0B;MDJ/B,aAAY;MACZ,aAAY,EAGX","file":"Cart_Total.scss","sourcesContent":["@import \"globals\";\r\n.Cart_Total \r\n{width:100%;\r\ntable{\r\n  margin: 10px 0px;\r\n display:block;\r\n  width: 100%;\r\n  font: 20px Arial;\r\n  width: 100%;\r\n  border-radius: 5px; \r\n  border-width: 1px; \r\n  border-color: #d4d4d4;\r\n  border-style: none;\r\n  border-collapse: collapse;\r\n      font-weight: bold;\r\n     color: #6b6b6b;\r\n     tr{\r\n    border-radius: 5px; \r\n  border-width: 1px; \r\n  border-color: #d4d4d4;\r\n  border-bottom-style: solid;\r\n   //text-align: center;\r\n     }\r\n   table-layout:  fixed;\r\n     td{\r\n         &:nth-of-type(2n+1){\r\n       padding: 10px;\r\n       text-align: left;\r\n       // padding-left: 10%;\r\n        width: 1%;\r\n   }}\r\n   td{\r\n       &:nth-of-type(2n){\r\n       padding: 10px;\r\n        text-align: right;\r\n       // padding-right: 10%;\r\n        width: 1%;\r\n   }\r\n   }\r\n   \r\n}\r\n.button_container{\r\n    margin: 50px;\r\n    display: flex;\r\n    justify-content:space-around;\r\n.Button{\r\n   width: 130px;\r\n\r\n   }\r\n   .disabled_Button{\r\n     @include Button;  \r\n   width: 130px;\r\n   opacity: 0.4;\r\n  // background: rgba(0, 0, 0, 0.3);\r\n\r\n   }\r\n}\r\n}\r\n\r\n","$light: rgba(255, 255, 255, 1);\n$light-grey: rgba(229, 229, 229, 1);\n$red: #900;\n$font-heading: Verdana, sans-serif;\n\n$break-sm: 700px;\n$break-md: 1100px;\n$break-lg: 1600px;\n$break-xl: 2000px;\n\n@mixin shadow {\n  //box-shadow: 3px 3px 8px 1px darken($light-grey, 20%);\n   box-shadow: 2px 2px 10px #888888;\n}\n\n  @mixin animation {\n      transition-duration: 0.1s;\n  transition-property: transform;   \n  }\n  @mixin color{\n color: #6b6b6b;\n  }\n  @mixin border_color{\n  border-color: darkgray;    \n  }\n  @mixin input_border{\n    border-style: solid;\n    border-width: 1px;\n  @include border_color;\n    border-width: 1px;\n    border-radius: 5px;\n  }\n  @mixin border{\n      border-radius: 5px;\n      border-style:none;\n  }\n  @mixin border-radius{\n      border-radius: 5px;\n  }\n  @mixin Button {\n          background-image: radial-gradient( #b6d7df, #56a9b8);\n color: white;\n  border-radius: 5px;\n   @include shadow;\n  border: 0;\n  cursor: pointer;\n  display: inline-block;\n font-size: 20px;\n  //font-weight: bold;\n  padding: 5px 15px;\n  text-decoration: none;\n  transition-duration: 0.1s;\n  transition-property: transform;\n//background-image: url(\"/img/logo/menu3.png\");\n  //  margin:0px 0px 20px 0px;\n        background-size: auto 100%;\n       // &:hover {\n  //transform: scale(1.1);\n//}\n\n}\n"],"sourceRoot":""}]);
+exports.push([module.i, ".Cart_Total {\n  width: 100%; }\n  .Cart_Total table {\n    margin: 10px 0px;\n    display: block;\n    width: 100%;\n    font: 20px Arial;\n    width: 100%;\n    border-radius: 5px;\n    border-width: 1px;\n    border-color: #d4d4d4;\n    border-style: none;\n    border-collapse: collapse;\n    font-weight: bold;\n    color: #6b6b6b;\n    table-layout: fixed; }\n    .Cart_Total table tr {\n      border-radius: 5px;\n      border-width: 1px;\n      border-color: #d4d4d4;\n      border-bottom-style: solid; }\n    .Cart_Total table td:nth-of-type(2n+1) {\n      padding: 10px;\n      text-align: left;\n      width: 1%; }\n    .Cart_Total table td:nth-of-type(2n) {\n      padding: 10px;\n      text-align: right;\n      width: 1%; }\n  .Cart_Total .button_container {\n    margin: 50px;\n    display: flex;\n    justify-content: space-around; }\n    .Cart_Total .button_container .Button {\n      width: 130px; }\n    .Cart_Total .button_container .disabled_Button {\n      background-image: radial-gradient(#b6d7df, #56a9b8);\n      color: white;\n      border-radius: 5px;\n      box-shadow: 2px 2px 10px #888888;\n      border: 0;\n      cursor: pointer;\n      display: inline-block;\n      font-size: 20px;\n      padding: 5px 15px;\n      text-decoration: none;\n      transition-duration: 0.1s;\n      transition-property: transform;\n      background-size: auto 100%;\n      width: 130px;\n      opacity: 0.4; }\n", "", {"version":3,"sources":["E:/projects/project6/css/components/css/components/Cart_Total.scss","E:/projects/project6/css/components/css/components/globals.scss"],"names":[],"mappings":"AACA;EACC,YAAU,EAuDV;EAxDD;IAGE,iBAAgB;IACjB,eAAa;IACZ,YAAW;IACX,iBAAgB;IAChB,YAAW;IACX,mBAAkB;IAClB,kBAAiB;IACjB,sBAAqB;IACrB,mBAAkB;IAClB,0BAAyB;IACrB,kBAAiB;IAClB,eAAc;IAQhB,oBAAoB,EAiBtB;IAvCD;MAgBI,mBAAkB;MACpB,kBAAiB;MACjB,sBAAqB;MACrB,2BAA0B,EAEtB;IArBN;MAyBO,cAAa;MACb,iBAAgB;MAEf,UAAS,EACb;IA7BJ;MAgCO,cAAa;MACZ,kBAAiB;MAEjB,UAAS,EACb;EApCJ;IAyCI,aAAY;IACZ,cAAa;IACb,8BAA4B,EAY/B;IAvDD;MA6CG,aAAY,EAEX;IA/CJ;MCuCU,oDAAoD;MAC7D,aAAY;MACX,mBAAkB;MA9BjB,iCAAgC;MAgCjC,UAAS;MACT,gBAAe;MACf,sBAAqB;MACtB,gBAAe;MAEd,kBAAiB;MACjB,sBAAqB;MACrB,0BAAyB;MACzB,+BAA8B;MAGxB,2BAA0B;MDJ/B,aAAY;MACZ,aAAY,EAGX","file":"Cart_Total.scss","sourcesContent":["@import \"globals\";\r\n.Cart_Total \r\n{width:100%;\r\ntable{\r\n  margin: 10px 0px;\r\n display:block;\r\n  width: 100%;\r\n  font: 20px Arial;\r\n  width: 100%;\r\n  border-radius: 5px; \r\n  border-width: 1px; \r\n  border-color: #d4d4d4;\r\n  border-style: none;\r\n  border-collapse: collapse;\r\n      font-weight: bold;\r\n     color: #6b6b6b;\r\n     tr{\r\n    border-radius: 5px; \r\n  border-width: 1px; \r\n  border-color: #d4d4d4;\r\n  border-bottom-style: solid;\r\n   //text-align: center;\r\n     }\r\n   table-layout:  fixed;\r\n     td{\r\n         &:nth-of-type(2n+1){\r\n       padding: 10px;\r\n       text-align: left;\r\n       // padding-left: 10%;\r\n        width: 1%;\r\n   }}\r\n   td{\r\n       &:nth-of-type(2n){\r\n       padding: 10px;\r\n        text-align: right;\r\n       // padding-right: 10%;\r\n        width: 1%;\r\n   }\r\n   }\r\n   \r\n}\r\n.button_container{\r\n    margin: 50px;\r\n    display: flex;\r\n    justify-content:space-around;\r\n.Button{\r\n   width: 130px;\r\n\r\n   }\r\n   .disabled_Button{\r\n     @include Button;  \r\n   width: 130px;\r\n   opacity: 0.4;\r\n  // background: rgba(0, 0, 0, 0.3);\r\n\r\n   }\r\n}\r\n}\r\n\r\n","$light: rgba(255, 255, 255, 1);\n$light-grey: rgba(229, 229, 229, 1);\n$red: #900;\n$font-heading: Verdana, sans-serif;\n\n$break-sm: 700px;\n$break-md: 1100px;\n$break-lg: 1600px;\n$break-xl: 2000px;\n\n@mixin shadow {\n  //box-shadow: 3px 3px 8px 1px darken($light-grey, 20%);\n   box-shadow: 2px 2px 10px #888888;\n}\n\n  @mixin animation {\n      transition-duration: 0.1s;\n  transition-property: transform;   \n  }\n  @mixin color{\n color: #6b6b6b;\n  }\n  @mixin border_color{\n  border-color: darkgray;    \n  }\n  @mixin input_border{\n    border-style: solid;\n    border-width: 1px;\n  @include border_color;\n    border-width: 1px;\n    border-radius: 5px;\n  }\n  @mixin border{\n      border-radius: 5px;\n      border-style:none;\n  }\n  @mixin border-radius{\n      border-radius: 5px;\n  }\n  @mixin Button {\n          background-image: radial-gradient( #b6d7df, #56a9b8);\n color: white;\n  border-radius: 5px;\n   @include shadow;\n  border: 0;\n  cursor: pointer;\n  display: inline-block;\n font-size: 20px;\n  //font-weight: bold;\n  padding: 5px 15px;\n  text-decoration: none;\n  transition-duration: 0.1s;\n  transition-property: transform;\n//background-image: url(\"/img/logo/menu3.png\");\n  //  margin:0px 0px 20px 0px;\n        background-size: auto 100%;\n       // &:hover {\n  //transform: scale(1.1);\n//}\n\n}\n"],"sourceRoot":""}]);
 
 // exports
 
@@ -4294,7 +4396,7 @@ exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader
 
 
 // module
-exports.push([module.i, ".Dialog {\n  border: 1px solid lightgray;\n  box-shadow: 2px 2px 10px #888888;\n  border-radius: 5px;\n  overflow: hidden; }\n\n.DialogModalOpen {\n  overflow: hidden;\n  /* no body scroll */ }\n\n.Dialog .DialogHeader {\n  background-image: radial-gradient(#c8eff6, #abe4ee);\n  box-shadow: 2px 2px 10px #888888;\n  background-size: auto 100%;\n  background-color: #abe4ee;\n  font-size: 25px;\n  margin: 0;\n  padding: 10px 10px 10px 20px;\n  text-align: left;\n  height: 20px; }\n  .Dialog .DialogHeader label {\n    color: #3f8c99; }\n\n.Dialog .DialogBody {\n  background: rgba(238, 253, 255, 0.5);\n  border-bottom: 1px solid lightgray;\n  border-top: 1px solid lightgray;\n  height: 100%;\n  overflow-x: hidden;\n  padding: 10px 30px 30px 30px;\n  text-align: center;\n  font-size: 18px; }\n\n.Dialog .DialogFooter {\n  background-color: white;\n  padding: 10px;\n  text-align: right;\n  height: 100%; }\n\n.DialogModal {\n  background: rgba(0, 0, 0, 0.7);\n  bottom: 0;\n  left: 0;\n  position: fixed;\n  right: 0;\n  top: 0;\n  z-index: 1; }\n\n.DialogModal .DialogModalWrap {\n  background: white;\n  margin: 5% auto;\n  width: 350px; }\n\n.DialogDismiss {\n  color: gray;\n  cursor: pointer;\n  text-decoration: underline; }\n\n.DialogFooter .Button {\n  margin: 10px; }\n", "", {"version":3,"sources":["E:/project6/css/components/css/components/Dialog.scss","E:/project6/css/components/css/components/globals.scss"],"names":[],"mappings":"AACA;EACE,4BAA2B;ECU1B,iCAAgC;EAyB7B,mBAAkB;ED/BpB,iBAAgB,EACnB;;AAED;EACE,iBAAgB;EAAG,oBAAoB,EACxC;;AAED;EACI,oDAAmD;ECFpD,iCAAgC;EDM/B,2BAA0B;EAC1B,0BAAyB;EAG3B,gBAAe;EACf,UAAS;EACT,6BAA4B;EAC5B,iBAAgB;EACd,aAAW,EAId;EAjBD;IAeS,eAAe,EACnB;;AAGL;EACM,qCAAoC;EACxC,mCAAkC;EAClC,gCAA+B;EAE/B,aAAW;EACX,mBAAkB;EAClB,6BAA4B;EAC5B,mBAAkB;EAClB,gBAAe,EAChB;;AAED;EACI,wBAAuB;EACzB,cAAa;EACb,kBAAiB;EAChB,aAAW,EACb;;AAED;EACC,+BAA8B;EAC9B,UAAS;EACT,QAAO;EACP,gBAAe;EACf,SAAQ;EACR,OAAM;EACN,WAAU,EACV;;AAED;EACC,kBAAiB;EACjB,gBAAe;EACf,aAAY,EACZ;;AAED;EACE,YAAW;EACX,gBAAe;EACf,2BAA0B,EAC3B;;AAED;EACE,aAAY,EACb","file":"Dialog.scss","sourcesContent":["@import 'globals';\n.Dialog {\n  border: 1px solid lightgray;\n  @include shadow;\n  //  margin: 0px 0px 20px 0px;\n     @include border-radius;\n    overflow: hidden;\n}\n\n.DialogModalOpen {\n  overflow: hidden; /* no body scroll */\n}\n\n.Dialog .DialogHeader {\n    background-image: radial-gradient(#c8eff6, #abe4ee);\n  //background-color: #6F001B;\n  //background-image:  url(\"/img/logo/menu2.png\") ;\n  @include shadow;\n    background-size: auto 100%;\n    background-color: #abe4ee;\n \n // font-family: Norican, cursive;\n  font-size: 25px;\n  margin: 0;\n  padding: 10px 10px 10px 20px;\n  text-align: left;\n    height:20px;\n    label{\n         color:  #3f8c99;\n    }\n}\n\n.Dialog .DialogBody {\n      background: rgba(238, 253, 255, 0.5);\n  border-bottom: 1px solid lightgray;\n  border-top: 1px solid lightgray;\n  //max-height: 10vh;\n  height:100%;\n  overflow-x: hidden;\n  padding: 10px 30px 30px 30px;\n  text-align: center;\n  font-size: 18px;\n}\n\n.Dialog .DialogFooter {\n    background-color: white;\n  padding: 10px;\n  text-align: right;\n   height:100%;\n}\n\n.DialogModal {\n\tbackground: rgba(0, 0, 0, 0.7);\n\tbottom: 0;\n\tleft: 0;\n\tposition: fixed;\n\tright: 0;\n\ttop: 0;\n\tz-index: 1;\n}\n\n.DialogModal .DialogModalWrap {\n\tbackground: white;\n\tmargin: 5% auto;\n\twidth: 350px;\n}\n\n.DialogDismiss {\n  color: gray;\n  cursor: pointer;\n  text-decoration: underline;\n}\n\n.DialogFooter .Button {\n  margin: 10px;\n}","$light: rgba(255, 255, 255, 1);\n$light-grey: rgba(229, 229, 229, 1);\n$red: #900;\n$font-heading: Verdana, sans-serif;\n\n$break-sm: 700px;\n$break-md: 1100px;\n$break-lg: 1600px;\n$break-xl: 2000px;\n\n@mixin shadow {\n  //box-shadow: 3px 3px 8px 1px darken($light-grey, 20%);\n   box-shadow: 2px 2px 10px #888888;\n}\n\n  @mixin animation {\n      transition-duration: 0.1s;\n  transition-property: transform;   \n  }\n  @mixin color{\n color: #6b6b6b;\n  }\n  @mixin border_color{\n  border-color: darkgray;    \n  }\n  @mixin input_border{\n    border-style: solid;\n    border-width: 1px;\n  @include border_color;\n    border-width: 1px;\n    border-radius: 5px;\n  }\n  @mixin border{\n      border-radius: 5px;\n      border-style:none;\n  }\n  @mixin border-radius{\n      border-radius: 5px;\n  }\n  @mixin Button {\n          background-image: radial-gradient( #b6d7df, #56a9b8);\n color: white;\n  border-radius: 5px;\n   @include shadow;\n  border: 0;\n  cursor: pointer;\n  display: inline-block;\n font-size: 20px;\n  //font-weight: bold;\n  padding: 5px 15px;\n  text-decoration: none;\n  transition-duration: 0.1s;\n  transition-property: transform;\n//background-image: url(\"/img/logo/menu3.png\");\n  //  margin:0px 0px 20px 0px;\n        background-size: auto 100%;\n       // &:hover {\n  //transform: scale(1.1);\n//}\n\n}\n"],"sourceRoot":""}]);
+exports.push([module.i, ".Dialog {\n  border: 1px solid lightgray;\n  box-shadow: 2px 2px 10px #888888;\n  border-radius: 5px;\n  overflow: hidden; }\n\n.DialogModalOpen {\n  overflow: hidden;\n  /* no body scroll */ }\n\n.Dialog .DialogHeader {\n  background-image: radial-gradient(#c8eff6, #abe4ee);\n  box-shadow: 2px 2px 10px #888888;\n  background-size: auto 100%;\n  background-color: #abe4ee;\n  font-size: 25px;\n  margin: 0;\n  padding: 10px 10px 10px 20px;\n  text-align: left;\n  height: 20px; }\n  .Dialog .DialogHeader label {\n    color: #3f8c99; }\n\n.Dialog .DialogBody {\n  background: rgba(238, 253, 255, 0.5);\n  border-bottom: 1px solid lightgray;\n  border-top: 1px solid lightgray;\n  height: 100%;\n  overflow-x: hidden;\n  padding: 10px 30px 30px 30px;\n  text-align: center;\n  font-size: 18px; }\n\n.Dialog .DialogFooter {\n  background-color: white;\n  padding: 10px;\n  text-align: right;\n  height: 100%; }\n\n.DialogModal {\n  background: rgba(0, 0, 0, 0.7);\n  bottom: 0;\n  left: 0;\n  position: fixed;\n  right: 0;\n  top: 0;\n  z-index: 1; }\n\n.DialogModal .DialogModalWrap {\n  background: white;\n  margin: 5% auto;\n  width: 350px; }\n\n.DialogDismiss {\n  color: gray;\n  cursor: pointer;\n  text-decoration: underline; }\n\n.DialogFooter .Button {\n  margin: 10px; }\n", "", {"version":3,"sources":["E:/projects/project6/css/components/css/components/Dialog.scss","E:/projects/project6/css/components/css/components/globals.scss"],"names":[],"mappings":"AACA;EACE,4BAA2B;ECU1B,iCAAgC;EAyB7B,mBAAkB;ED/BpB,iBAAgB,EACnB;;AAED;EACE,iBAAgB;EAAG,oBAAoB,EACxC;;AAED;EACI,oDAAmD;ECFpD,iCAAgC;EDM/B,2BAA0B;EAC1B,0BAAyB;EAG3B,gBAAe;EACf,UAAS;EACT,6BAA4B;EAC5B,iBAAgB;EACd,aAAW,EAId;EAjBD;IAeS,eAAe,EACnB;;AAGL;EACM,qCAAoC;EACxC,mCAAkC;EAClC,gCAA+B;EAE/B,aAAW;EACX,mBAAkB;EAClB,6BAA4B;EAC5B,mBAAkB;EAClB,gBAAe,EAChB;;AAED;EACI,wBAAuB;EACzB,cAAa;EACb,kBAAiB;EAChB,aAAW,EACb;;AAED;EACC,+BAA8B;EAC9B,UAAS;EACT,QAAO;EACP,gBAAe;EACf,SAAQ;EACR,OAAM;EACN,WAAU,EACV;;AAED;EACC,kBAAiB;EACjB,gBAAe;EACf,aAAY,EACZ;;AAED;EACE,YAAW;EACX,gBAAe;EACf,2BAA0B,EAC3B;;AAED;EACE,aAAY,EACb","file":"Dialog.scss","sourcesContent":["@import 'globals';\n.Dialog {\n  border: 1px solid lightgray;\n  @include shadow;\n  //  margin: 0px 0px 20px 0px;\n     @include border-radius;\n    overflow: hidden;\n}\n\n.DialogModalOpen {\n  overflow: hidden; /* no body scroll */\n}\n\n.Dialog .DialogHeader {\n    background-image: radial-gradient(#c8eff6, #abe4ee);\n  //background-color: #6F001B;\n  //background-image:  url(\"/img/logo/menu2.png\") ;\n  @include shadow;\n    background-size: auto 100%;\n    background-color: #abe4ee;\n \n // font-family: Norican, cursive;\n  font-size: 25px;\n  margin: 0;\n  padding: 10px 10px 10px 20px;\n  text-align: left;\n    height:20px;\n    label{\n         color:  #3f8c99;\n    }\n}\n\n.Dialog .DialogBody {\n      background: rgba(238, 253, 255, 0.5);\n  border-bottom: 1px solid lightgray;\n  border-top: 1px solid lightgray;\n  //max-height: 10vh;\n  height:100%;\n  overflow-x: hidden;\n  padding: 10px 30px 30px 30px;\n  text-align: center;\n  font-size: 18px;\n}\n\n.Dialog .DialogFooter {\n    background-color: white;\n  padding: 10px;\n  text-align: right;\n   height:100%;\n}\n\n.DialogModal {\n\tbackground: rgba(0, 0, 0, 0.7);\n\tbottom: 0;\n\tleft: 0;\n\tposition: fixed;\n\tright: 0;\n\ttop: 0;\n\tz-index: 1;\n}\n\n.DialogModal .DialogModalWrap {\n\tbackground: white;\n\tmargin: 5% auto;\n\twidth: 350px;\n}\n\n.DialogDismiss {\n  color: gray;\n  cursor: pointer;\n  text-decoration: underline;\n}\n\n.DialogFooter .Button {\n  margin: 10px;\n}","$light: rgba(255, 255, 255, 1);\n$light-grey: rgba(229, 229, 229, 1);\n$red: #900;\n$font-heading: Verdana, sans-serif;\n\n$break-sm: 700px;\n$break-md: 1100px;\n$break-lg: 1600px;\n$break-xl: 2000px;\n\n@mixin shadow {\n  //box-shadow: 3px 3px 8px 1px darken($light-grey, 20%);\n   box-shadow: 2px 2px 10px #888888;\n}\n\n  @mixin animation {\n      transition-duration: 0.1s;\n  transition-property: transform;   \n  }\n  @mixin color{\n color: #6b6b6b;\n  }\n  @mixin border_color{\n  border-color: darkgray;    \n  }\n  @mixin input_border{\n    border-style: solid;\n    border-width: 1px;\n  @include border_color;\n    border-width: 1px;\n    border-radius: 5px;\n  }\n  @mixin border{\n      border-radius: 5px;\n      border-style:none;\n  }\n  @mixin border-radius{\n      border-radius: 5px;\n  }\n  @mixin Button {\n          background-image: radial-gradient( #b6d7df, #56a9b8);\n color: white;\n  border-radius: 5px;\n   @include shadow;\n  border: 0;\n  cursor: pointer;\n  display: inline-block;\n font-size: 20px;\n  //font-weight: bold;\n  padding: 5px 15px;\n  text-decoration: none;\n  transition-duration: 0.1s;\n  transition-property: transform;\n//background-image: url(\"/img/logo/menu3.png\");\n  //  margin:0px 0px 20px 0px;\n        background-size: auto 100%;\n       // &:hover {\n  //transform: scale(1.1);\n//}\n\n}\n"],"sourceRoot":""}]);
 
 // exports
 
@@ -4313,7 +4415,7 @@ exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader
 
 
 // module
-exports.push([module.i, ".Footer {\n  background-color: brown;\n  display: flex;\n  justify-content: space-around;\n  align-items: center;\n  height: 45px;\n  width: 100%;\n  margin: 5px 0px 0px 0px;\n  background-color: #37cec2;\n  background-image: radial-gradient(#78ddd6, #37cec2);\n  box-shadow: 2px 2px 10px #888888;\n  overflow: hidden; }\n  .Footer .Button {\n    background-color: #408c99;\n    background-image: radial-gradient(#54b6ae, #2f7d8b);\n    box-shadow: none;\n    background-color: #37cec2; }\n", "", {"version":3,"sources":["E:/project6/css/components/css/components/Footer.scss","E:/project6/css/components/css/components/globals.scss"],"names":[],"mappings":"AACA;EACI,wBAAuB;EACvB,cAAa;EACb,8BAA6B;EAC7B,oBAAoB;EACpB,aAAY;EACZ,YAAW;EAGX,wBAAuB;EACvB,0BAAyB;EACzB,oDAAmD;ECApD,iCAAgC;EDG/B,iBAAgB,EAUnB;EAxBD;IAgBI,0BAAyB;IACzB,oDAAoD;IAEpD,iBAAgB;IAGhB,0BAAyB,EACxB","file":"Footer.scss","sourcesContent":["@import 'globals';\n.Footer{\n    background-color: brown;\n    display: flex;\n    justify-content: space-around;\n    align-items:  center;\n    height: 45px;\n    width: 100%;\n       // border-bottom-right-radius: 40px;\n    //border-bottom-left-radius: 40px;\n    margin: 5px 0px 0px 0px;\n    background-color: #37cec2;\n    background-image: radial-gradient(#78ddd6, #37cec2);\n    @include shadow;\n   //  @include border-radius;\n    overflow: hidden;\n    .Button{\n    background-color: #408c99;\n    background-image: radial-gradient( #54b6ae, #2f7d8b);\n    //background-image: none;\n    box-shadow: none;\n    \n   \n    background-color: #37cec2;\n    }\n}","$light: rgba(255, 255, 255, 1);\n$light-grey: rgba(229, 229, 229, 1);\n$red: #900;\n$font-heading: Verdana, sans-serif;\n\n$break-sm: 700px;\n$break-md: 1100px;\n$break-lg: 1600px;\n$break-xl: 2000px;\n\n@mixin shadow {\n  //box-shadow: 3px 3px 8px 1px darken($light-grey, 20%);\n   box-shadow: 2px 2px 10px #888888;\n}\n\n  @mixin animation {\n      transition-duration: 0.1s;\n  transition-property: transform;   \n  }\n  @mixin color{\n color: #6b6b6b;\n  }\n  @mixin border_color{\n  border-color: darkgray;    \n  }\n  @mixin input_border{\n    border-style: solid;\n    border-width: 1px;\n  @include border_color;\n    border-width: 1px;\n    border-radius: 5px;\n  }\n  @mixin border{\n      border-radius: 5px;\n      border-style:none;\n  }\n  @mixin border-radius{\n      border-radius: 5px;\n  }\n  @mixin Button {\n          background-image: radial-gradient( #b6d7df, #56a9b8);\n color: white;\n  border-radius: 5px;\n   @include shadow;\n  border: 0;\n  cursor: pointer;\n  display: inline-block;\n font-size: 20px;\n  //font-weight: bold;\n  padding: 5px 15px;\n  text-decoration: none;\n  transition-duration: 0.1s;\n  transition-property: transform;\n//background-image: url(\"/img/logo/menu3.png\");\n  //  margin:0px 0px 20px 0px;\n        background-size: auto 100%;\n       // &:hover {\n  //transform: scale(1.1);\n//}\n\n}\n"],"sourceRoot":""}]);
+exports.push([module.i, ".Footer {\n  background-color: brown;\n  display: flex;\n  justify-content: space-around;\n  align-items: center;\n  height: 45px;\n  width: 100%;\n  margin: 5px 0px 0px 0px;\n  background-color: #37cec2;\n  background-image: radial-gradient(#78ddd6, #37cec2);\n  box-shadow: 2px 2px 10px #888888;\n  overflow: hidden; }\n  .Footer .Button {\n    background-color: #408c99;\n    background-image: radial-gradient(#54b6ae, #2f7d8b);\n    box-shadow: none;\n    background-color: #37cec2; }\n", "", {"version":3,"sources":["E:/projects/project6/css/components/css/components/Footer.scss","E:/projects/project6/css/components/css/components/globals.scss"],"names":[],"mappings":"AACA;EACI,wBAAuB;EACvB,cAAa;EACb,8BAA6B;EAC7B,oBAAoB;EACpB,aAAY;EACZ,YAAW;EAGX,wBAAuB;EACvB,0BAAyB;EACzB,oDAAmD;ECApD,iCAAgC;EDG/B,iBAAgB,EAUnB;EAxBD;IAgBI,0BAAyB;IACzB,oDAAoD;IAEpD,iBAAgB;IAGhB,0BAAyB,EACxB","file":"Footer.scss","sourcesContent":["@import 'globals';\n.Footer{\n    background-color: brown;\n    display: flex;\n    justify-content: space-around;\n    align-items:  center;\n    height: 45px;\n    width: 100%;\n       // border-bottom-right-radius: 40px;\n    //border-bottom-left-radius: 40px;\n    margin: 5px 0px 0px 0px;\n    background-color: #37cec2;\n    background-image: radial-gradient(#78ddd6, #37cec2);\n    @include shadow;\n   //  @include border-radius;\n    overflow: hidden;\n    .Button{\n    background-color: #408c99;\n    background-image: radial-gradient( #54b6ae, #2f7d8b);\n    //background-image: none;\n    box-shadow: none;\n    \n   \n    background-color: #37cec2;\n    }\n}","$light: rgba(255, 255, 255, 1);\n$light-grey: rgba(229, 229, 229, 1);\n$red: #900;\n$font-heading: Verdana, sans-serif;\n\n$break-sm: 700px;\n$break-md: 1100px;\n$break-lg: 1600px;\n$break-xl: 2000px;\n\n@mixin shadow {\n  //box-shadow: 3px 3px 8px 1px darken($light-grey, 20%);\n   box-shadow: 2px 2px 10px #888888;\n}\n\n  @mixin animation {\n      transition-duration: 0.1s;\n  transition-property: transform;   \n  }\n  @mixin color{\n color: #6b6b6b;\n  }\n  @mixin border_color{\n  border-color: darkgray;    \n  }\n  @mixin input_border{\n    border-style: solid;\n    border-width: 1px;\n  @include border_color;\n    border-width: 1px;\n    border-radius: 5px;\n  }\n  @mixin border{\n      border-radius: 5px;\n      border-style:none;\n  }\n  @mixin border-radius{\n      border-radius: 5px;\n  }\n  @mixin Button {\n          background-image: radial-gradient( #b6d7df, #56a9b8);\n color: white;\n  border-radius: 5px;\n   @include shadow;\n  border: 0;\n  cursor: pointer;\n  display: inline-block;\n font-size: 20px;\n  //font-weight: bold;\n  padding: 5px 15px;\n  text-decoration: none;\n  transition-duration: 0.1s;\n  transition-property: transform;\n//background-image: url(\"/img/logo/menu3.png\");\n  //  margin:0px 0px 20px 0px;\n        background-size: auto 100%;\n       // &:hover {\n  //transform: scale(1.1);\n//}\n\n}\n"],"sourceRoot":""}]);
 
 // exports
 
@@ -4332,7 +4434,7 @@ exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader
 
 
 // module
-exports.push([module.i, ".Form .FormLabel {\n  color: #A0A0A0;\n  display: block;\n  font-size: 20px;\n  padding: 12px 0 6px; }\n\n.Form input {\n  width: 100%;\n  height: 40px; }\n\n.Form .file {\n  width: 250px; }\n\n.Form .option {\n  width: 100%;\n  height: 40px;\n  padding: 0px;\n  text-align: center;\n  border-style: solid;\n  border-width: 1px;\n  border-color: darkgray;\n  border-width: 1px;\n  border-radius: 5px;\n  text-align-last: center; }\n\n.Form .input_text {\n  width: 100%;\n  height: 40px;\n  padding: 0px;\n  text-align: center;\n  border-style: solid;\n  border-width: 1px;\n  border-color: darkgray;\n  border-width: 1px;\n  border-radius: 5px; }\n\n.Form .text_area {\n  width: 100%;\n  height: 120px;\n  padding: 0px;\n  text-align: center;\n  border-style: solid;\n  border-width: 1px;\n  border-color: darkgray;\n  border-width: 1px;\n  border-radius: 5px; }\n\n.Form .FormRow {\n  text-align: center; }\n\n.Form img {\n  width: 60%;\n  border-radius: 5px; }\n", "", {"version":3,"sources":["E:/project6/css/components/css/components/Form.scss","E:/project6/css/components/css/components/globals.scss"],"names":[],"mappings":"AACA;EAEE,eAAc;EACd,eAAc;EACd,gBAAe;EACf,oBAAmB,EACpB;;AAND;EASI,YAAU;EAAG,aAAW,EAC3B;;AAVD;EAYO,aAAY,EAAI;;AAZvB;EAeI,YAAU;EAAG,aAAW;EAAG,aAAW;EAAI,mBAAkB;ECU5D,oBAAmB;EACnB,kBAAiB;EAJnB,uBAAsB;EAMpB,kBAAiB;EACjB,mBAAkB;EDblB,wBAAsB,EACzB;;AAjBD;EAoBI,YAAU;EAAG,aAAW;EAAI,aAAW;EAAG,mBAAkB;ECK5D,oBAAmB;EACnB,kBAAiB;EAJnB,uBAAsB;EAMpB,kBAAiB;EACjB,mBAAkB,EDRrB;;AArBD;EAuBI,YAAU;EAAG,cAAY;EAAI,aAAW;EAAG,mBAAkB;ECE7D,oBAAmB;EACnB,kBAAiB;EAJnB,uBAAsB;EAMpB,kBAAiB;EACjB,mBAAkB,EDLrB;;AAxBD;EA0BE,mBAAkB,EACnB;;AA3BD;EA+BI,WAAS;ECKP,mBAAkB,EDHvB","file":"Form.scss","sourcesContent":["@import 'globals';\n.Form {\n.FormLabel {\n  color: #A0A0A0;\n  display: block;\n  font-size: 20px;\n  padding: 12px 0 6px;\n}\n\ninput {\n    width:100%; height:40px;\n}\n\n .file{width: 250px;}\n \n.option {\n    width:100%; height:40px; padding:0px;  text-align: center;   @include input_border; \n    text-align-last:center;\n}\n\n.input_text{\n    width:100%; height:40px;  padding:0px; text-align: center; @include input_border; \n}\n.text_area{\n    width:100%; height:120px;  padding:0px; text-align: center;   @include input_border; \n}\n .FormRow {\n  text-align: center;\n}\n .imgContainer {  \n}\n img {\n    width:60%;\n    @include border-radius;\n}\n}","$light: rgba(255, 255, 255, 1);\n$light-grey: rgba(229, 229, 229, 1);\n$red: #900;\n$font-heading: Verdana, sans-serif;\n\n$break-sm: 700px;\n$break-md: 1100px;\n$break-lg: 1600px;\n$break-xl: 2000px;\n\n@mixin shadow {\n  //box-shadow: 3px 3px 8px 1px darken($light-grey, 20%);\n   box-shadow: 2px 2px 10px #888888;\n}\n\n  @mixin animation {\n      transition-duration: 0.1s;\n  transition-property: transform;   \n  }\n  @mixin color{\n color: #6b6b6b;\n  }\n  @mixin border_color{\n  border-color: darkgray;    \n  }\n  @mixin input_border{\n    border-style: solid;\n    border-width: 1px;\n  @include border_color;\n    border-width: 1px;\n    border-radius: 5px;\n  }\n  @mixin border{\n      border-radius: 5px;\n      border-style:none;\n  }\n  @mixin border-radius{\n      border-radius: 5px;\n  }\n  @mixin Button {\n          background-image: radial-gradient( #b6d7df, #56a9b8);\n color: white;\n  border-radius: 5px;\n   @include shadow;\n  border: 0;\n  cursor: pointer;\n  display: inline-block;\n font-size: 20px;\n  //font-weight: bold;\n  padding: 5px 15px;\n  text-decoration: none;\n  transition-duration: 0.1s;\n  transition-property: transform;\n//background-image: url(\"/img/logo/menu3.png\");\n  //  margin:0px 0px 20px 0px;\n        background-size: auto 100%;\n       // &:hover {\n  //transform: scale(1.1);\n//}\n\n}\n"],"sourceRoot":""}]);
+exports.push([module.i, ".Form .FormLabel {\n  color: #A0A0A0;\n  display: block;\n  font-size: 20px;\n  padding: 12px 0 6px; }\n\n.Form input {\n  width: 100%;\n  height: 40px; }\n\n.Form .file {\n  width: 250px; }\n\n.Form .option {\n  width: 100%;\n  height: 40px;\n  padding: 0px;\n  text-align: center;\n  border-style: solid;\n  border-width: 1px;\n  border-color: darkgray;\n  border-width: 1px;\n  border-radius: 5px;\n  text-align-last: center; }\n\n.Form .input_text {\n  width: 100%;\n  height: 40px;\n  padding: 0px;\n  text-align: center;\n  border-style: solid;\n  border-width: 1px;\n  border-color: darkgray;\n  border-width: 1px;\n  border-radius: 5px; }\n\n.Form .text_area {\n  width: 100%;\n  height: 120px;\n  padding: 0px;\n  text-align: center;\n  border-style: solid;\n  border-width: 1px;\n  border-color: darkgray;\n  border-width: 1px;\n  border-radius: 5px; }\n\n.Form .FormRow {\n  text-align: center; }\n\n.Form img {\n  width: 60%;\n  border-radius: 5px; }\n", "", {"version":3,"sources":["E:/projects/project6/css/components/css/components/Form.scss","E:/projects/project6/css/components/css/components/globals.scss"],"names":[],"mappings":"AACA;EAEE,eAAc;EACd,eAAc;EACd,gBAAe;EACf,oBAAmB,EACpB;;AAND;EASI,YAAU;EAAG,aAAW,EAC3B;;AAVD;EAYO,aAAY,EAAI;;AAZvB;EAeI,YAAU;EAAG,aAAW;EAAG,aAAW;EAAI,mBAAkB;ECU5D,oBAAmB;EACnB,kBAAiB;EAJnB,uBAAsB;EAMpB,kBAAiB;EACjB,mBAAkB;EDblB,wBAAsB,EACzB;;AAjBD;EAoBI,YAAU;EAAG,aAAW;EAAI,aAAW;EAAG,mBAAkB;ECK5D,oBAAmB;EACnB,kBAAiB;EAJnB,uBAAsB;EAMpB,kBAAiB;EACjB,mBAAkB,EDRrB;;AArBD;EAuBI,YAAU;EAAG,cAAY;EAAI,aAAW;EAAG,mBAAkB;ECE7D,oBAAmB;EACnB,kBAAiB;EAJnB,uBAAsB;EAMpB,kBAAiB;EACjB,mBAAkB,EDLrB;;AAxBD;EA0BE,mBAAkB,EACnB;;AA3BD;EA+BI,WAAS;ECKP,mBAAkB,EDHvB","file":"Form.scss","sourcesContent":["@import 'globals';\n.Form {\n.FormLabel {\n  color: #A0A0A0;\n  display: block;\n  font-size: 20px;\n  padding: 12px 0 6px;\n}\n\ninput {\n    width:100%; height:40px;\n}\n\n .file{width: 250px;}\n \n.option {\n    width:100%; height:40px; padding:0px;  text-align: center;   @include input_border; \n    text-align-last:center;\n}\n\n.input_text{\n    width:100%; height:40px;  padding:0px; text-align: center; @include input_border; \n}\n.text_area{\n    width:100%; height:120px;  padding:0px; text-align: center;   @include input_border; \n}\n .FormRow {\n  text-align: center;\n}\n .imgContainer {  \n}\n img {\n    width:60%;\n    @include border-radius;\n}\n}","$light: rgba(255, 255, 255, 1);\n$light-grey: rgba(229, 229, 229, 1);\n$red: #900;\n$font-heading: Verdana, sans-serif;\n\n$break-sm: 700px;\n$break-md: 1100px;\n$break-lg: 1600px;\n$break-xl: 2000px;\n\n@mixin shadow {\n  //box-shadow: 3px 3px 8px 1px darken($light-grey, 20%);\n   box-shadow: 2px 2px 10px #888888;\n}\n\n  @mixin animation {\n      transition-duration: 0.1s;\n  transition-property: transform;   \n  }\n  @mixin color{\n color: #6b6b6b;\n  }\n  @mixin border_color{\n  border-color: darkgray;    \n  }\n  @mixin input_border{\n    border-style: solid;\n    border-width: 1px;\n  @include border_color;\n    border-width: 1px;\n    border-radius: 5px;\n  }\n  @mixin border{\n      border-radius: 5px;\n      border-style:none;\n  }\n  @mixin border-radius{\n      border-radius: 5px;\n  }\n  @mixin Button {\n          background-image: radial-gradient( #b6d7df, #56a9b8);\n color: white;\n  border-radius: 5px;\n   @include shadow;\n  border: 0;\n  cursor: pointer;\n  display: inline-block;\n font-size: 20px;\n  //font-weight: bold;\n  padding: 5px 15px;\n  text-decoration: none;\n  transition-duration: 0.1s;\n  transition-property: transform;\n//background-image: url(\"/img/logo/menu3.png\");\n  //  margin:0px 0px 20px 0px;\n        background-size: auto 100%;\n       // &:hover {\n  //transform: scale(1.1);\n//}\n\n}\n"],"sourceRoot":""}]);
 
 // exports
 
@@ -4351,7 +4453,7 @@ exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader
 
 
 // module
-exports.push([module.i, ".Global_Search {\n  position: absolute;\n  background-color: white;\n  box-shadow: 2px 2px 10px #888888;\n  z-index: 3;\n  font-size: 20px;\n  overflow: hidden;\n  border-radius: 5px;\n  min-width: 150px;\n  text-align: center;\n  white-space: nowrap; }\n  .Global_Search .Global_Search_Item {\n    padding: 5px 10px;\n    color: black; }\n    .Global_Search .Global_Search_Item:hover {\n      background-color: #e6fafd; }\n  .Global_Search .Global_Search_Header {\n    padding: 5px 10px;\n    color: white;\n    background-image: radial-gradient(#78ddd6, #37cec2); }\n", "", {"version":3,"sources":["E:/project6/css/components/css/components/Global_Search.scss","E:/project6/css/components/css/components/globals.scss"],"names":[],"mappings":"AACA;EACI,mBAAiB;EACrB,wBAAsB;ECSnB,iCAAgC;EDPnC,WAAU;EACV,gBAAe;EACX,iBAAgB;EAChB,mBAAiB;EACjB,iBAAe;EACf,mBAAiB;EACjB,oBAAkB,EAerB;EAzBD;IAaA,kBAAiB;IACb,aAAW,EAId;IAlBD;MAgBI,0BAAyB,EAC5B;EAjBD;IAoBI,kBAAiB;IACf,aAAW;IACZ,oDAAmD,EACvD","file":"Global_Search.scss","sourcesContent":["@import 'globals';\n.Global_Search{\n    position:absolute;\nbackground-color:white;\n    @include shadow;\nz-index: 3;\nfont-size: 20px;\n    overflow: hidden;\n    border-radius:5px;\n    min-width:150px;\n    text-align:center;\n    white-space:nowrap;\n    \n.Global_Search_Item{\npadding: 5px 10px;\n    color:black;\n&:hover{\n    background-color: #e6fafd;\n}\n}\n.Global_Search_Header{\n    padding: 5px 10px;\n      color:white;\n     background-image: radial-gradient(#78ddd6, #37cec2);\n}\n\n}","$light: rgba(255, 255, 255, 1);\n$light-grey: rgba(229, 229, 229, 1);\n$red: #900;\n$font-heading: Verdana, sans-serif;\n\n$break-sm: 700px;\n$break-md: 1100px;\n$break-lg: 1600px;\n$break-xl: 2000px;\n\n@mixin shadow {\n  //box-shadow: 3px 3px 8px 1px darken($light-grey, 20%);\n   box-shadow: 2px 2px 10px #888888;\n}\n\n  @mixin animation {\n      transition-duration: 0.1s;\n  transition-property: transform;   \n  }\n  @mixin color{\n color: #6b6b6b;\n  }\n  @mixin border_color{\n  border-color: darkgray;    \n  }\n  @mixin input_border{\n    border-style: solid;\n    border-width: 1px;\n  @include border_color;\n    border-width: 1px;\n    border-radius: 5px;\n  }\n  @mixin border{\n      border-radius: 5px;\n      border-style:none;\n  }\n  @mixin border-radius{\n      border-radius: 5px;\n  }\n  @mixin Button {\n          background-image: radial-gradient( #b6d7df, #56a9b8);\n color: white;\n  border-radius: 5px;\n   @include shadow;\n  border: 0;\n  cursor: pointer;\n  display: inline-block;\n font-size: 20px;\n  //font-weight: bold;\n  padding: 5px 15px;\n  text-decoration: none;\n  transition-duration: 0.1s;\n  transition-property: transform;\n//background-image: url(\"/img/logo/menu3.png\");\n  //  margin:0px 0px 20px 0px;\n        background-size: auto 100%;\n       // &:hover {\n  //transform: scale(1.1);\n//}\n\n}\n"],"sourceRoot":""}]);
+exports.push([module.i, ".Global_Search {\n  position: absolute;\n  background-color: white;\n  box-shadow: 2px 2px 10px #888888;\n  z-index: 3;\n  font-size: 20px;\n  overflow: hidden;\n  border-radius: 5px;\n  min-width: 150px;\n  text-align: center;\n  white-space: nowrap; }\n  .Global_Search .Global_Search_Item {\n    padding: 5px 10px;\n    color: black; }\n    .Global_Search .Global_Search_Item:hover {\n      background-color: #e6fafd; }\n  .Global_Search .Global_Search_Header {\n    padding: 5px 10px;\n    color: white;\n    background-image: radial-gradient(#78ddd6, #37cec2); }\n", "", {"version":3,"sources":["E:/projects/project6/css/components/css/components/Global_Search.scss","E:/projects/project6/css/components/css/components/globals.scss"],"names":[],"mappings":"AACA;EACI,mBAAiB;EACrB,wBAAsB;ECSnB,iCAAgC;EDPnC,WAAU;EACV,gBAAe;EACX,iBAAgB;EAChB,mBAAiB;EACjB,iBAAe;EACf,mBAAiB;EACjB,oBAAkB,EAerB;EAzBD;IAaA,kBAAiB;IACb,aAAW,EAId;IAlBD;MAgBI,0BAAyB,EAC5B;EAjBD;IAoBI,kBAAiB;IACf,aAAW;IACZ,oDAAmD,EACvD","file":"Global_Search.scss","sourcesContent":["@import 'globals';\n.Global_Search{\n    position:absolute;\nbackground-color:white;\n    @include shadow;\nz-index: 3;\nfont-size: 20px;\n    overflow: hidden;\n    border-radius:5px;\n    min-width:150px;\n    text-align:center;\n    white-space:nowrap;\n    \n.Global_Search_Item{\npadding: 5px 10px;\n    color:black;\n&:hover{\n    background-color: #e6fafd;\n}\n}\n.Global_Search_Header{\n    padding: 5px 10px;\n      color:white;\n     background-image: radial-gradient(#78ddd6, #37cec2);\n}\n\n}","$light: rgba(255, 255, 255, 1);\n$light-grey: rgba(229, 229, 229, 1);\n$red: #900;\n$font-heading: Verdana, sans-serif;\n\n$break-sm: 700px;\n$break-md: 1100px;\n$break-lg: 1600px;\n$break-xl: 2000px;\n\n@mixin shadow {\n  //box-shadow: 3px 3px 8px 1px darken($light-grey, 20%);\n   box-shadow: 2px 2px 10px #888888;\n}\n\n  @mixin animation {\n      transition-duration: 0.1s;\n  transition-property: transform;   \n  }\n  @mixin color{\n color: #6b6b6b;\n  }\n  @mixin border_color{\n  border-color: darkgray;    \n  }\n  @mixin input_border{\n    border-style: solid;\n    border-width: 1px;\n  @include border_color;\n    border-width: 1px;\n    border-radius: 5px;\n  }\n  @mixin border{\n      border-radius: 5px;\n      border-style:none;\n  }\n  @mixin border-radius{\n      border-radius: 5px;\n  }\n  @mixin Button {\n          background-image: radial-gradient( #b6d7df, #56a9b8);\n color: white;\n  border-radius: 5px;\n   @include shadow;\n  border: 0;\n  cursor: pointer;\n  display: inline-block;\n font-size: 20px;\n  //font-weight: bold;\n  padding: 5px 15px;\n  text-decoration: none;\n  transition-duration: 0.1s;\n  transition-property: transform;\n//background-image: url(\"/img/logo/menu3.png\");\n  //  margin:0px 0px 20px 0px;\n        background-size: auto 100%;\n       // &:hover {\n  //transform: scale(1.1);\n//}\n\n}\n"],"sourceRoot":""}]);
 
 // exports
 
@@ -4370,7 +4472,7 @@ exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader
 
 
 // module
-exports.push([module.i, ".header {\n  color: #F0F0F0;\n  font-size: 30px;\n  font-style: normal;\n  margin: 0;\n  width: 100%;\n  position: relative; }\n  .header .head_board {\n    background-image: url(\"/img/logo/head_back.jpg\");\n    justify-content: space-between;\n    align-items: center;\n    display: flex;\n    height: 200px;\n    padding: 0px 20px;\n    margin: auto; }\n    .header .head_board .head_img {\n      /*   \n         position: absolute;\n         width: 1600px;\n         left:-200px;\n         z-index:-1;\n         height: 400px;\n         background-repeat: no-repeat;\n         */ }\n    .header .head_board .head_item_container .advertising {\n      color: white; }\n", "", {"version":3,"sources":["E:/project6/css/components/css/components/Header.scss"],"names":[],"mappings":"AACA;EACE,eAAc;EACd,gBAAe;EACf,mBAAkB;EAClB,UAAS;EACT,YAAU;EAEV,mBAAiB,EAqClB;EA5CD;IAUI,iDAAgD;IAcpD,+BAA8B;IAC1B,oBAAmB;IACnB,cAAa;IACb,cAAa;IACZ,kBAAiB;IAGlB,aAAW,EASd;IAxCD;MAaM;;;;;;;WAOK,EACL;IArBN;MAmCO,aAAY,EACf","file":"Header.scss","sourcesContent":["@import 'globals';\n.header {\n  color: #F0F0F0;\n  font-size: 30px;\n  font-style: normal;\n  margin: 0;\n  width:100%;\n  //overflow:hidden;\n  position:relative;\n  .head_board\n{\n    background-image: url(\"/img/logo/head_back.jpg\");\n     // overflow:hidden;\n     .head_img{\n      /*   \n         position: absolute;\n         width: 1600px;\n         left:-200px;\n         z-index:-1;\n         height: 400px;\n         background-repeat: no-repeat;\n         */\n     }\n//background-size: cover;\n//box-shadow: inset 0px 0px 5px black;\njustify-content: space-between;\n    align-items: center;\n    display: flex;\n    height: 200px;\n     padding: 0px 20px;\n      //width:100%;\n   // width:1000px;\n    margin:auto;\n.head_item_container{\n   // width:20%;\n   .advertising   {\n       color: white;\n   }\n}\n     \n\n}\n\n\n  \n}\n\n\n\n"],"sourceRoot":""}]);
+exports.push([module.i, ".header {\n  color: #F0F0F0;\n  font-size: 30px;\n  font-style: normal;\n  margin: 0;\n  width: 100%;\n  position: relative; }\n  .header .head_board {\n    background-image: url(\"/img/logo/head_back.jpg\");\n    justify-content: space-between;\n    align-items: center;\n    display: flex;\n    height: 200px;\n    padding: 0px 20px;\n    margin: auto; }\n    .header .head_board .head_img {\n      /*   \n         position: absolute;\n         width: 1600px;\n         left:-200px;\n         z-index:-1;\n         height: 400px;\n         background-repeat: no-repeat;\n         */ }\n    .header .head_board .head_item_container .advertising {\n      color: white; }\n", "", {"version":3,"sources":["E:/projects/project6/css/components/css/components/Header.scss"],"names":[],"mappings":"AACA;EACE,eAAc;EACd,gBAAe;EACf,mBAAkB;EAClB,UAAS;EACT,YAAU;EAEV,mBAAiB,EAqClB;EA5CD;IAUI,iDAAgD;IAcpD,+BAA8B;IAC1B,oBAAmB;IACnB,cAAa;IACb,cAAa;IACZ,kBAAiB;IAGlB,aAAW,EASd;IAxCD;MAaM;;;;;;;WAOK,EACL;IArBN;MAmCO,aAAY,EACf","file":"Header.scss","sourcesContent":["@import 'globals';\n.header {\n  color: #F0F0F0;\n  font-size: 30px;\n  font-style: normal;\n  margin: 0;\n  width:100%;\n  //overflow:hidden;\n  position:relative;\n  .head_board\n{\n    background-image: url(\"/img/logo/head_back.jpg\");\n     // overflow:hidden;\n     .head_img{\n      /*   \n         position: absolute;\n         width: 1600px;\n         left:-200px;\n         z-index:-1;\n         height: 400px;\n         background-repeat: no-repeat;\n         */\n     }\n//background-size: cover;\n//box-shadow: inset 0px 0px 5px black;\njustify-content: space-between;\n    align-items: center;\n    display: flex;\n    height: 200px;\n     padding: 0px 20px;\n      //width:100%;\n   // width:1000px;\n    margin:auto;\n.head_item_container{\n   // width:20%;\n   .advertising   {\n       color: white;\n   }\n}\n     \n\n}\n\n\n  \n}\n\n\n\n"],"sourceRoot":""}]);
 
 // exports
 
@@ -4389,7 +4491,7 @@ exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader
 
 
 // module
-exports.push([module.i, ".ImgLoader {\n  display: inline; }\n\n.ImgLoader .FormLabel {\n  color: #A0A0A0;\n  display: block;\n  font-size: 12px;\n  padding: 12px 0 6px; }\n\n.ImgLoader .Status {\n  text-align: center;\n  color: #009926;\n  display: block;\n  font-size: 17px;\n  padding: 12px 0 6px; }\n\n.ImgLoader .Cancel {\n  background-color: #6f001b;\n  border-radius: 28px;\n  box-shadow: 0px 1px 1px #d9d9d9;\n  border: 0;\n  cursor: pointer;\n  right: 0;\n  text-align: right;\n  color: white; }\n", "", {"version":3,"sources":["E:/project6/css/components/css/components/ImgLoader.scss"],"names":[],"mappings":"AAAA;EACK,gBAAc,EAGlB;;AACD;EAEE,eAAc;EACd,eAAc;EACd,gBAAe;EACf,oBAAmB,EACpB;;AAED;EACO,mBAAiB;EACtB,eAAc;EACd,eAAc;EACd,gBAAe;EACf,oBAAmB,EACpB;;AAOD;EACM,0BAAyB;EAC7B,oBAAmB;EAChB,gCAA+B;EAClC,UAAS;EAEP,gBAAc;EAGd,SAAO;EACR,kBAAiB;EACjB,aAAW,EACb","file":"ImgLoader.scss","sourcesContent":[".ImgLoader {\n     display:inline;\n     \n    //  text-align: center;\n}\n.ImgLoader .FormLabel {\n \n  color: #A0A0A0;\n  display: block;\n  font-size: 12px;\n  padding: 12px 0 6px;\n}\n\n.ImgLoader .Status {\n       text-align:center;\n  color: #009926;\n  display: block;\n  font-size: 17px;\n  padding: 12px 0 6px;\n}\n\n.ImgLoader img {\n   \n         // width: 2vw;\n}\n\n.ImgLoader .Cancel {\n      background-color: #6f001b;\n  border-radius: 28px;\n     box-shadow: 0px 1px 1px #d9d9d9;\n  border: 0;\n     //text-decoration: underline;\n    cursor:pointer;\n   // display:block;\n  // position:relative;\n    right:0;\n   text-align :right;\n   color:white;\n}\n.ImgLoader  {\n     // text-align :right;\n\n\n}"],"sourceRoot":""}]);
+exports.push([module.i, ".ImgLoader {\n  display: inline; }\n\n.ImgLoader .FormLabel {\n  color: #A0A0A0;\n  display: block;\n  font-size: 12px;\n  padding: 12px 0 6px; }\n\n.ImgLoader .Status {\n  text-align: center;\n  color: #009926;\n  display: block;\n  font-size: 17px;\n  padding: 12px 0 6px; }\n\n.ImgLoader .Cancel {\n  background-color: #6f001b;\n  border-radius: 28px;\n  box-shadow: 0px 1px 1px #d9d9d9;\n  border: 0;\n  cursor: pointer;\n  right: 0;\n  text-align: right;\n  color: white; }\n", "", {"version":3,"sources":["E:/projects/project6/css/components/css/components/ImgLoader.scss"],"names":[],"mappings":"AAAA;EACK,gBAAc,EAGlB;;AACD;EAEE,eAAc;EACd,eAAc;EACd,gBAAe;EACf,oBAAmB,EACpB;;AAED;EACO,mBAAiB;EACtB,eAAc;EACd,eAAc;EACd,gBAAe;EACf,oBAAmB,EACpB;;AAOD;EACM,0BAAyB;EAC7B,oBAAmB;EAChB,gCAA+B;EAClC,UAAS;EAEP,gBAAc;EAGd,SAAO;EACR,kBAAiB;EACjB,aAAW,EACb","file":"ImgLoader.scss","sourcesContent":[".ImgLoader {\n     display:inline;\n     \n    //  text-align: center;\n}\n.ImgLoader .FormLabel {\n \n  color: #A0A0A0;\n  display: block;\n  font-size: 12px;\n  padding: 12px 0 6px;\n}\n\n.ImgLoader .Status {\n       text-align:center;\n  color: #009926;\n  display: block;\n  font-size: 17px;\n  padding: 12px 0 6px;\n}\n\n.ImgLoader img {\n   \n         // width: 2vw;\n}\n\n.ImgLoader .Cancel {\n      background-color: #6f001b;\n  border-radius: 28px;\n     box-shadow: 0px 1px 1px #d9d9d9;\n  border: 0;\n     //text-decoration: underline;\n    cursor:pointer;\n   // display:block;\n  // position:relative;\n    right:0;\n   text-align :right;\n   color:white;\n}\n.ImgLoader  {\n     // text-align :right;\n\n\n}"],"sourceRoot":""}]);
 
 // exports
 
@@ -4408,7 +4510,7 @@ exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader
 
 
 // module
-exports.push([module.i, ".Login_Form {\n  border-color: #e0e0e0;\n  border-style: groove;\n  border-width: 3px;\n  border-radius: 5px;\n  padding: 10px; }\n  .Login_Form .Table_Login_Form {\n    font-size: 20px;\n    margin: auto;\n    text-align: center; }\n    .Login_Form .Table_Login_Form label {\n      color: white; }\n    .Login_Form .Table_Login_Form input {\n      border-radius: 5px;\n      border-style: none;\n      padding: 0px 5px;\n      height: 20px;\n      height: 25px; }\n    .Login_Form .Table_Login_Form td:last-of-type {\n      display: flex;\n      justify-content: space-between;\n      align-items: center; }\n    .Login_Form .Table_Login_Form .btn {\n      background-image: none;\n      background-image: radial-gradient(#b6d7df, #56a9b8);\n      color: white;\n      border-radius: 5px;\n      box-shadow: 2px 2px 10px #888888;\n      border: 0;\n      cursor: pointer;\n      display: inline-block;\n      font-size: 20px;\n      padding: 5px 15px;\n      text-decoration: none;\n      transition-duration: 0.1s;\n      transition-property: transform;\n      background-size: auto 100%;\n      width: 49%;\n      border-style: solid;\n      border-width: 1px;\n      border-color: #197973;\n      height: 25px;\n      font-size: 15px;\n      padding: 0px;\n      align-items: center;\n      display: flex;\n      justify-content: center;\n      background-image: radial-gradient(#7ee4e2, #20968e); }\n    .Login_Form .Table_Login_Form .logout {\n      width: 100%;\n      background-image: radial-gradient(#b6d7df, #56a9b8);\n      color: white;\n      border-radius: 5px;\n      box-shadow: 2px 2px 10px #888888;\n      border: 0;\n      cursor: pointer;\n      display: inline-block;\n      font-size: 20px;\n      padding: 5px 15px;\n      text-decoration: none;\n      transition-duration: 0.1s;\n      transition-property: transform;\n      background-size: auto 100%;\n      border-style: solid;\n      border-width: 1px;\n      border-color: #197973;\n      height: 25px;\n      font-size: 15px;\n      padding: 0px;\n      background-image: radial-gradient(#7ee4e2, #20968e);\n      align-items: center;\n      display: flex;\n      justify-content: center; }\n", "", {"version":3,"sources":["E:/project6/css/components/css/components/Login_Form.scss","E:/project6/css/components/css/components/globals.scss"],"names":[],"mappings":"AACA;EACI,sBAAqB;EACrB,qBAAoB;EACpB,kBAAiB;EACjB,mBAAkB;EAClB,cAAa,EAuDhB;EA5DD;IASO,gBAAe;IACX,aAAY;IACjB,mBAAkB,EAgDpB;IA3DJ;MAcU,aAAY,EACf;IAfP;MAiBU,mBAAkB;MAClB,mBAAkB;MAClB,iBAAgB;MAChB,aAAY;MACT,aAAY,EAClB;IAtBP;MAwBU,cAAa;MACb,+BAA8B;MAC9B,oBAAmB,EACtB;IA3BP;MA8BG,uBAAqB;MCSd,oDAAoD;MAC7D,aAAY;MACX,mBAAkB;MA9BjB,iCAAgC;MAgCjC,UAAS;MACT,gBAAe;MACf,sBAAqB;MACtB,gBAAe;MAEd,kBAAiB;MACjB,sBAAqB;MACrB,0BAAyB;MACzB,+BAA8B;MAGxB,2BAA0B;MDtB/B,WAAU;MAEX,oBAAmB;MACjB,kBAAiB;MACjB,sBAAqB;MACtB,aAAY;MACZ,gBAAe;MACf,aAAY;MACZ,oBAAmB;MAClB,cAAa;MACb,wBAAuB;MACjB,oDAAoD,EACvD;IA5CP;MA8CU,YAAW;MCPX,oDAAoD;MAC7D,aAAY;MACX,mBAAkB;MA9BjB,iCAAgC;MAgCjC,UAAS;MACT,gBAAe;MACf,sBAAqB;MACtB,gBAAe;MAEd,kBAAiB;MACjB,sBAAqB;MACrB,0BAAyB;MACzB,+BAA8B;MAGxB,2BAA0B;MDN3B,oBAAmB;MACtB,kBAAiB;MACjB,sBAAqB;MACtB,aAAY;MACZ,gBAAe;MACf,aAAY;MACb,oDAAoD;MACpD,oBAAmB;MACjB,cAAa;MACb,wBAAuB,EACpB","file":"Login_Form.scss","sourcesContent":["@import 'globals';\n.Login_Form {\n    border-color: #e0e0e0;\n    border-style: groove;\n    border-width: 3px;\n    border-radius: 5px;\n    padding: 10px;\n   \n   .Table_Login_Form   {\n      // margin-right: 100px;\n       font-size: 20px;\n           margin: auto;\n      text-align: center;\n    \n      label{\n          color: white;\n      }\n      input{\n          border-radius: 5px;\n          border-style: none;\n          padding: 0px 5px;\n          height: 20px;\n             height: 25px;\n      }\n      td:last-of-type{\n          display: flex;\n          justify-content: space-between;\n          align-items: center;\n      }\n      .btn{\n   //background-image: url(\"/img/logo/menu2.png\");\n   background-image:none;\n      @include  Button;\n   width: 49%;\n  // box-shadow: none;\n  border-style: solid;\n    border-width: 1px;\n    border-color: #197973;\n   height: 25px;\n   font-size: 15px;\n   padding: 0px;         \n   align-items: center;\n    display: flex;\n    justify-content: center;\n          background-image:  radial-gradient(#7ee4e2, #20968e);\n      }\n      .logout{\n          width: 100%;\n          @include  Button;\n       border-style: solid;\n    border-width: 1px;\n    border-color: #197973;\n   height: 25px;\n   font-size: 15px;\n   padding: 0px;\n  background-image:  radial-gradient(#7ee4e2, #20968e);\n  align-items: center;\n    display: flex;\n    justify-content: center;\n      }\n   }\n}\n\n\n\n\n\n\n\n\n\n","$light: rgba(255, 255, 255, 1);\n$light-grey: rgba(229, 229, 229, 1);\n$red: #900;\n$font-heading: Verdana, sans-serif;\n\n$break-sm: 700px;\n$break-md: 1100px;\n$break-lg: 1600px;\n$break-xl: 2000px;\n\n@mixin shadow {\n  //box-shadow: 3px 3px 8px 1px darken($light-grey, 20%);\n   box-shadow: 2px 2px 10px #888888;\n}\n\n  @mixin animation {\n      transition-duration: 0.1s;\n  transition-property: transform;   \n  }\n  @mixin color{\n color: #6b6b6b;\n  }\n  @mixin border_color{\n  border-color: darkgray;    \n  }\n  @mixin input_border{\n    border-style: solid;\n    border-width: 1px;\n  @include border_color;\n    border-width: 1px;\n    border-radius: 5px;\n  }\n  @mixin border{\n      border-radius: 5px;\n      border-style:none;\n  }\n  @mixin border-radius{\n      border-radius: 5px;\n  }\n  @mixin Button {\n          background-image: radial-gradient( #b6d7df, #56a9b8);\n color: white;\n  border-radius: 5px;\n   @include shadow;\n  border: 0;\n  cursor: pointer;\n  display: inline-block;\n font-size: 20px;\n  //font-weight: bold;\n  padding: 5px 15px;\n  text-decoration: none;\n  transition-duration: 0.1s;\n  transition-property: transform;\n//background-image: url(\"/img/logo/menu3.png\");\n  //  margin:0px 0px 20px 0px;\n        background-size: auto 100%;\n       // &:hover {\n  //transform: scale(1.1);\n//}\n\n}\n"],"sourceRoot":""}]);
+exports.push([module.i, ".Login_Form {\n  border-color: #e0e0e0;\n  border-style: groove;\n  border-width: 3px;\n  border-radius: 5px;\n  padding: 10px; }\n  .Login_Form .Table_Login_Form {\n    font-size: 20px;\n    margin: auto;\n    text-align: center; }\n    .Login_Form .Table_Login_Form label {\n      color: white; }\n    .Login_Form .Table_Login_Form input {\n      border-radius: 5px;\n      border-style: none;\n      padding: 0px 5px;\n      height: 20px;\n      height: 25px; }\n    .Login_Form .Table_Login_Form td:last-of-type {\n      display: flex;\n      justify-content: space-between;\n      align-items: center; }\n    .Login_Form .Table_Login_Form .btn {\n      background-image: none;\n      background-image: radial-gradient(#b6d7df, #56a9b8);\n      color: white;\n      border-radius: 5px;\n      box-shadow: 2px 2px 10px #888888;\n      border: 0;\n      cursor: pointer;\n      display: inline-block;\n      font-size: 20px;\n      padding: 5px 15px;\n      text-decoration: none;\n      transition-duration: 0.1s;\n      transition-property: transform;\n      background-size: auto 100%;\n      width: 49%;\n      border-style: solid;\n      border-width: 1px;\n      border-color: #197973;\n      height: 25px;\n      font-size: 15px;\n      padding: 0px;\n      align-items: center;\n      display: flex;\n      justify-content: center;\n      background-image: radial-gradient(#7ee4e2, #20968e); }\n    .Login_Form .Table_Login_Form .logout {\n      width: 100%;\n      background-image: radial-gradient(#b6d7df, #56a9b8);\n      color: white;\n      border-radius: 5px;\n      box-shadow: 2px 2px 10px #888888;\n      border: 0;\n      cursor: pointer;\n      display: inline-block;\n      font-size: 20px;\n      padding: 5px 15px;\n      text-decoration: none;\n      transition-duration: 0.1s;\n      transition-property: transform;\n      background-size: auto 100%;\n      border-style: solid;\n      border-width: 1px;\n      border-color: #197973;\n      height: 25px;\n      font-size: 15px;\n      padding: 0px;\n      background-image: radial-gradient(#7ee4e2, #20968e);\n      align-items: center;\n      display: flex;\n      justify-content: center; }\n", "", {"version":3,"sources":["E:/projects/project6/css/components/css/components/Login_Form.scss","E:/projects/project6/css/components/css/components/globals.scss"],"names":[],"mappings":"AACA;EACI,sBAAqB;EACrB,qBAAoB;EACpB,kBAAiB;EACjB,mBAAkB;EAClB,cAAa,EAuDhB;EA5DD;IASO,gBAAe;IACX,aAAY;IACjB,mBAAkB,EAgDpB;IA3DJ;MAcU,aAAY,EACf;IAfP;MAiBU,mBAAkB;MAClB,mBAAkB;MAClB,iBAAgB;MAChB,aAAY;MACT,aAAY,EAClB;IAtBP;MAwBU,cAAa;MACb,+BAA8B;MAC9B,oBAAmB,EACtB;IA3BP;MA8BG,uBAAqB;MCSd,oDAAoD;MAC7D,aAAY;MACX,mBAAkB;MA9BjB,iCAAgC;MAgCjC,UAAS;MACT,gBAAe;MACf,sBAAqB;MACtB,gBAAe;MAEd,kBAAiB;MACjB,sBAAqB;MACrB,0BAAyB;MACzB,+BAA8B;MAGxB,2BAA0B;MDtB/B,WAAU;MAEX,oBAAmB;MACjB,kBAAiB;MACjB,sBAAqB;MACtB,aAAY;MACZ,gBAAe;MACf,aAAY;MACZ,oBAAmB;MAClB,cAAa;MACb,wBAAuB;MACjB,oDAAoD,EACvD;IA5CP;MA8CU,YAAW;MCPX,oDAAoD;MAC7D,aAAY;MACX,mBAAkB;MA9BjB,iCAAgC;MAgCjC,UAAS;MACT,gBAAe;MACf,sBAAqB;MACtB,gBAAe;MAEd,kBAAiB;MACjB,sBAAqB;MACrB,0BAAyB;MACzB,+BAA8B;MAGxB,2BAA0B;MDN3B,oBAAmB;MACtB,kBAAiB;MACjB,sBAAqB;MACtB,aAAY;MACZ,gBAAe;MACf,aAAY;MACb,oDAAoD;MACpD,oBAAmB;MACjB,cAAa;MACb,wBAAuB,EACpB","file":"Login_Form.scss","sourcesContent":["@import 'globals';\n.Login_Form {\n    border-color: #e0e0e0;\n    border-style: groove;\n    border-width: 3px;\n    border-radius: 5px;\n    padding: 10px;\n   \n   .Table_Login_Form   {\n      // margin-right: 100px;\n       font-size: 20px;\n           margin: auto;\n      text-align: center;\n    \n      label{\n          color: white;\n      }\n      input{\n          border-radius: 5px;\n          border-style: none;\n          padding: 0px 5px;\n          height: 20px;\n             height: 25px;\n      }\n      td:last-of-type{\n          display: flex;\n          justify-content: space-between;\n          align-items: center;\n      }\n      .btn{\n   //background-image: url(\"/img/logo/menu2.png\");\n   background-image:none;\n      @include  Button;\n   width: 49%;\n  // box-shadow: none;\n  border-style: solid;\n    border-width: 1px;\n    border-color: #197973;\n   height: 25px;\n   font-size: 15px;\n   padding: 0px;         \n   align-items: center;\n    display: flex;\n    justify-content: center;\n          background-image:  radial-gradient(#7ee4e2, #20968e);\n      }\n      .logout{\n          width: 100%;\n          @include  Button;\n       border-style: solid;\n    border-width: 1px;\n    border-color: #197973;\n   height: 25px;\n   font-size: 15px;\n   padding: 0px;\n  background-image:  radial-gradient(#7ee4e2, #20968e);\n  align-items: center;\n    display: flex;\n    justify-content: center;\n      }\n   }\n}\n\n\n\n\n\n\n\n\n\n","$light: rgba(255, 255, 255, 1);\n$light-grey: rgba(229, 229, 229, 1);\n$red: #900;\n$font-heading: Verdana, sans-serif;\n\n$break-sm: 700px;\n$break-md: 1100px;\n$break-lg: 1600px;\n$break-xl: 2000px;\n\n@mixin shadow {\n  //box-shadow: 3px 3px 8px 1px darken($light-grey, 20%);\n   box-shadow: 2px 2px 10px #888888;\n}\n\n  @mixin animation {\n      transition-duration: 0.1s;\n  transition-property: transform;   \n  }\n  @mixin color{\n color: #6b6b6b;\n  }\n  @mixin border_color{\n  border-color: darkgray;    \n  }\n  @mixin input_border{\n    border-style: solid;\n    border-width: 1px;\n  @include border_color;\n    border-width: 1px;\n    border-radius: 5px;\n  }\n  @mixin border{\n      border-radius: 5px;\n      border-style:none;\n  }\n  @mixin border-radius{\n      border-radius: 5px;\n  }\n  @mixin Button {\n          background-image: radial-gradient( #b6d7df, #56a9b8);\n color: white;\n  border-radius: 5px;\n   @include shadow;\n  border: 0;\n  cursor: pointer;\n  display: inline-block;\n font-size: 20px;\n  //font-weight: bold;\n  padding: 5px 15px;\n  text-decoration: none;\n  transition-duration: 0.1s;\n  transition-property: transform;\n//background-image: url(\"/img/logo/menu3.png\");\n  //  margin:0px 0px 20px 0px;\n        background-size: auto 100%;\n       // &:hover {\n  //transform: scale(1.1);\n//}\n\n}\n"],"sourceRoot":""}]);
 
 // exports
 
@@ -4427,7 +4529,7 @@ exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader
 
 
 // module
-exports.push([module.i, ".head_board a {\n  text-decoration: none;\n  color: white;\n  display: inline-block;\n  transition-duration: 0.1s;\n  transition-property: transform; }\n\n.head_board .Logo {\n  height: 180px;\n  transition-duration: 0.1s;\n  transition-property: transform; }\n\n.head_board a:hover {\n  transform: scale(1.1); }\n\n/*\r\n.Logo {\r\n  background-image: url('../../images/wp-logo2.png');\r\n  background-repeat: no-repeat;\r\n  display: inline-block;\r\n  height: 80px;\r\n  vertical-align: middle;\r\n  width: 111px;\r\n}*/\n", "", {"version":3,"sources":["E:/project6/css/components/css/components/Logo.scss"],"names":[],"mappings":"AAAC;EAEG,sBAAqB;EACrB,aAAY;EACP,sBAAqB;EAEjB,0BAAyB;EACpC,+BAA8B,EAC/B;;AAEA;EACG,cAAa;EAKP,0BAAyB;EACjC,+BAA8B,EAC/B;;AACD;EACI,sBAAqB,EAGxB;;AACD;;;;;;;;GAQG","file":"Logo.scss","sourcesContent":[" .head_board a{\r\n      // margin: 100px 100 px;\r\n    text-decoration: none;\r\n    color: white;\r\n         display: inline-block;\r\n     //vertical-align: central;\r\n             transition-duration: 0.1s;\r\n  transition-property: transform;\r\n}\r\n\r\n .head_board .Logo{\r\n    height: 180px;\r\n   // width: 100%;\r\n  // box-shadow: 10px 10px 10px;\r\n  //height: 80%;\r\n  //margin: 10px 10px;\r\n          transition-duration: 0.1s;\r\n  transition-property: transform;\r\n}\r\n.head_board a:hover{\r\n    transform: scale(1.1)   ;\r\n\r\n    \r\n}\r\n/*\r\n.Logo {\r\n  background-image: url('../../images/wp-logo2.png');\r\n  background-repeat: no-repeat;\r\n  display: inline-block;\r\n  height: 80px;\r\n  vertical-align: middle;\r\n  width: 111px;\r\n}*/"],"sourceRoot":""}]);
+exports.push([module.i, ".head_board a {\n  text-decoration: none;\n  color: white;\n  display: inline-block;\n  transition-duration: 0.1s;\n  transition-property: transform; }\n\n.head_board .Logo {\n  height: 180px;\n  transition-duration: 0.1s;\n  transition-property: transform; }\n\n.head_board a:hover {\n  transform: scale(1.1); }\n\n/*\r\n.Logo {\r\n  background-image: url('../../images/wp-logo2.png');\r\n  background-repeat: no-repeat;\r\n  display: inline-block;\r\n  height: 80px;\r\n  vertical-align: middle;\r\n  width: 111px;\r\n}*/\n", "", {"version":3,"sources":["E:/projects/project6/css/components/css/components/Logo.scss"],"names":[],"mappings":"AAAC;EAEG,sBAAqB;EACrB,aAAY;EACP,sBAAqB;EAEjB,0BAAyB;EACpC,+BAA8B,EAC/B;;AAEA;EACG,cAAa;EAKP,0BAAyB;EACjC,+BAA8B,EAC/B;;AACD;EACI,sBAAqB,EAGxB;;AACD;;;;;;;;GAQG","file":"Logo.scss","sourcesContent":[" .head_board a{\r\n      // margin: 100px 100 px;\r\n    text-decoration: none;\r\n    color: white;\r\n         display: inline-block;\r\n     //vertical-align: central;\r\n             transition-duration: 0.1s;\r\n  transition-property: transform;\r\n}\r\n\r\n .head_board .Logo{\r\n    height: 180px;\r\n   // width: 100%;\r\n  // box-shadow: 10px 10px 10px;\r\n  //height: 80%;\r\n  //margin: 10px 10px;\r\n          transition-duration: 0.1s;\r\n  transition-property: transform;\r\n}\r\n.head_board a:hover{\r\n    transform: scale(1.1)   ;\r\n\r\n    \r\n}\r\n/*\r\n.Logo {\r\n  background-image: url('../../images/wp-logo2.png');\r\n  background-repeat: no-repeat;\r\n  display: inline-block;\r\n  height: 80px;\r\n  vertical-align: middle;\r\n  width: 111px;\r\n}*/"],"sourceRoot":""}]);
 
 // exports
 
@@ -4446,7 +4548,7 @@ exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader
 
 
 // module
-exports.push([module.i, ".Menu {\n  overflow: hidden;\n  background-image: radial-gradient(#c4ecf4 50%, #47cde6);\n  background-color: #abeffc;\n  display: block;\n  box-shadow: 2px 2px 10px black;\n  margin: 5px 0px 0px 0px;\n  background-size: auto 100%;\n  width: 100%; }\n\n.Menu_container {\n  margin: auto;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  justify-content: space-between;\n  height: 40px;\n  color: white; }\n\n.Menu h1 {\n  display: none;\n  text-decoration: none; }\n\n.Menu .back {\n  visibility: hidden;\n  display: block;\n  position: absolute;\n  top: 0;\n  left: 0;\n  width: 100px;\n  height: 100px;\n  background-color: #ffa50059;\n  filter: blur(10px); }\n\n.Menu .back:hover {\n  display: block;\n  visibility: visible; }\n\n.Menu .container {\n  border-right-style: solid;\n  border-width: 2px;\n  border-color: #07756f;\n  width: 200px;\n  text-align: center; }\n  .Menu .container:last-of-type {\n    border-style: none; }\n  .Menu .container a {\n    display: block;\n    transition-duration: 0.1s;\n    transition-property: transform;\n    color: #408c99;\n    font-size: 30px;\n    text-decoration: none; }\n    .Menu .container a:hover {\n      transform: scale(1.1);\n      text-decoration: none; }\n", "", {"version":3,"sources":["E:/project6/css/components/css/components/Menu.scss","E:/project6/css/components/css/components/globals.scss"],"names":[],"mappings":"AACA;EAEI,iBAAgB;EAClB,wDAAuD;EACjD,0BAAyB;EAC7B,eAAc;EACd,+BAA8B;EAC9B,wBAAuB;EAEvB,2BAA0B;EAE9B,YAAW,EAGV;;AACD;EAEI,aAAY;EACZ,cAAa;EACb,wBAAuB;EAEvB,oBAAmB;EACnB,+BAA+B;EAC/B,aAAW;EACX,aAAY,EAEf;;AACD;EACI,cAAa;EAAK,sBAAqB,EAC1C;;AACD;EACI,mBAAmB;EACnB,eAAa;EACb,mBAAiB;EACjB,OAAK;EACL,QAAM;EACN,aAAY;EACZ,cAAY;EACZ,4BAA2B;EAC3B,mBAAkB,EACrB;;AACD;EAAmB,eAAa;EAAE,oBAAoB,EAAI;;AAC1D;EAGO,0BAAyB;EAC5B,kBAAiB;EACjB,sBAAqB;EAItB,aAAY;EACZ,mBAAkB,EAgBpB;EA1BD;IAOQ,mBAAkB,EACrB;EARL;IAYU,eAAc;ICvClB,0BAAyB;IAC7B,+BAA8B;IDyC5B,eAAc;IACd,gBAAe;IACf,sBAAqB,EAOxB;IAxBD;MAmBwB,sBAAsB;MAE1C,sBAAqB,EACJ","file":"Menu.scss","sourcesContent":["@import 'globals';\n.Menu {\n   // @include border-radius;\n    overflow: hidden;\n  background-image: radial-gradient(#c4ecf4 50%, #47cde6);\n        background-color: #abeffc;\n    display: block;\n    box-shadow: 2px 2px 10px black;\n    margin: 5px 0px 0px 0px;\n  //  background-image:  url(\"/img/logo/menu2.png\") ;\n    background-size: auto 100%;\n   // background-image: linear-gradient(to bottom, #ffffff, #baf5ff  10%, #baf5ff  100%, black);\nwidth: 100%;\n    //border-bottom-right-radius: 40px;\n    //border-bottom-left-radius: 40px;\n}\n.Menu_container{\n   // width: 95%;\n    margin: auto;\n    display: flex;\n    justify-content: center;\n    //padding:2px;\n    align-items: center;\n    justify-content:  space-between;\n    height:40px;\n    color: white;  \n \n}\n.Menu  h1 {\n    display: none;   text-decoration: none;\n}\n.Menu  .back {\n    visibility:  hidden;\n    display:block;\n    position:absolute;\n    top:0;\n    left:0;\n    width: 100px;\n    height:100px;\n    background-color: #ffa50059 ;\n    filter: blur(10px);\n}\n.Menu  .back:hover{display:block;visibility:  visible;}\n.Menu  .container {\n    //background-image: radial-gradient(#e1faff, #baf5ff);\n   \n       border-right-style: solid;\n    border-width: 2px;\n    border-color: #07756f;\n    &:last-of-type{\n        border-style: none;\n    }\n   width: 200px;\n   text-align: center;\n     a {\n          display: block;\n  @include animation;\n  //  margin: auto;\n    color: #408c99;\n    font-size: 30px;     \n    text-decoration: none;\n          &:hover {    \n                        transform:  scale(1.1);\n                             // color: black;   \n    text-decoration: none;\n                    }\n  \n}\n   \n}\n\n\n\n\n","$light: rgba(255, 255, 255, 1);\n$light-grey: rgba(229, 229, 229, 1);\n$red: #900;\n$font-heading: Verdana, sans-serif;\n\n$break-sm: 700px;\n$break-md: 1100px;\n$break-lg: 1600px;\n$break-xl: 2000px;\n\n@mixin shadow {\n  //box-shadow: 3px 3px 8px 1px darken($light-grey, 20%);\n   box-shadow: 2px 2px 10px #888888;\n}\n\n  @mixin animation {\n      transition-duration: 0.1s;\n  transition-property: transform;   \n  }\n  @mixin color{\n color: #6b6b6b;\n  }\n  @mixin border_color{\n  border-color: darkgray;    \n  }\n  @mixin input_border{\n    border-style: solid;\n    border-width: 1px;\n  @include border_color;\n    border-width: 1px;\n    border-radius: 5px;\n  }\n  @mixin border{\n      border-radius: 5px;\n      border-style:none;\n  }\n  @mixin border-radius{\n      border-radius: 5px;\n  }\n  @mixin Button {\n          background-image: radial-gradient( #b6d7df, #56a9b8);\n color: white;\n  border-radius: 5px;\n   @include shadow;\n  border: 0;\n  cursor: pointer;\n  display: inline-block;\n font-size: 20px;\n  //font-weight: bold;\n  padding: 5px 15px;\n  text-decoration: none;\n  transition-duration: 0.1s;\n  transition-property: transform;\n//background-image: url(\"/img/logo/menu3.png\");\n  //  margin:0px 0px 20px 0px;\n        background-size: auto 100%;\n       // &:hover {\n  //transform: scale(1.1);\n//}\n\n}\n"],"sourceRoot":""}]);
+exports.push([module.i, ".Menu {\n  overflow: hidden;\n  background-image: radial-gradient(#c4ecf4 50%, #47cde6);\n  background-color: #abeffc;\n  display: block;\n  box-shadow: 2px 2px 10px black;\n  margin: 5px 0px 0px 0px;\n  background-size: auto 100%;\n  width: 100%; }\n\n.Menu_container {\n  margin: auto;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  justify-content: space-between;\n  height: 40px;\n  color: white; }\n\n.Menu h1 {\n  display: none;\n  text-decoration: none; }\n\n.Menu .back {\n  visibility: hidden;\n  display: block;\n  position: absolute;\n  top: 0;\n  left: 0;\n  width: 100px;\n  height: 100px;\n  background-color: #ffa50059;\n  filter: blur(10px); }\n\n.Menu .back:hover {\n  display: block;\n  visibility: visible; }\n\n.Menu .container {\n  border-right-style: solid;\n  border-width: 2px;\n  border-color: #07756f;\n  width: 200px;\n  text-align: center; }\n  .Menu .container:last-of-type {\n    border-style: none; }\n  .Menu .container a {\n    display: block;\n    transition-duration: 0.1s;\n    transition-property: transform;\n    color: #408c99;\n    font-size: 30px;\n    text-decoration: none; }\n    .Menu .container a:hover {\n      transform: scale(1.1);\n      text-decoration: none; }\n", "", {"version":3,"sources":["E:/projects/project6/css/components/css/components/Menu.scss","E:/projects/project6/css/components/css/components/globals.scss"],"names":[],"mappings":"AACA;EAEI,iBAAgB;EAClB,wDAAuD;EACjD,0BAAyB;EAC7B,eAAc;EACd,+BAA8B;EAC9B,wBAAuB;EAEvB,2BAA0B;EAE9B,YAAW,EAGV;;AACD;EAEI,aAAY;EACZ,cAAa;EACb,wBAAuB;EAEvB,oBAAmB;EACnB,+BAA+B;EAC/B,aAAW;EACX,aAAY,EAEf;;AACD;EACI,cAAa;EAAK,sBAAqB,EAC1C;;AACD;EACI,mBAAmB;EACnB,eAAa;EACb,mBAAiB;EACjB,OAAK;EACL,QAAM;EACN,aAAY;EACZ,cAAY;EACZ,4BAA2B;EAC3B,mBAAkB,EACrB;;AACD;EAAmB,eAAa;EAAE,oBAAoB,EAAI;;AAC1D;EAGO,0BAAyB;EAC5B,kBAAiB;EACjB,sBAAqB;EAItB,aAAY;EACZ,mBAAkB,EAgBpB;EA1BD;IAOQ,mBAAkB,EACrB;EARL;IAYU,eAAc;ICvClB,0BAAyB;IAC7B,+BAA8B;IDyC5B,eAAc;IACd,gBAAe;IACf,sBAAqB,EAOxB;IAxBD;MAmBwB,sBAAsB;MAE1C,sBAAqB,EACJ","file":"Menu.scss","sourcesContent":["@import 'globals';\n.Menu {\n   // @include border-radius;\n    overflow: hidden;\n  background-image: radial-gradient(#c4ecf4 50%, #47cde6);\n        background-color: #abeffc;\n    display: block;\n    box-shadow: 2px 2px 10px black;\n    margin: 5px 0px 0px 0px;\n  //  background-image:  url(\"/img/logo/menu2.png\") ;\n    background-size: auto 100%;\n   // background-image: linear-gradient(to bottom, #ffffff, #baf5ff  10%, #baf5ff  100%, black);\nwidth: 100%;\n    //border-bottom-right-radius: 40px;\n    //border-bottom-left-radius: 40px;\n}\n.Menu_container{\n   // width: 95%;\n    margin: auto;\n    display: flex;\n    justify-content: center;\n    //padding:2px;\n    align-items: center;\n    justify-content:  space-between;\n    height:40px;\n    color: white;  \n \n}\n.Menu  h1 {\n    display: none;   text-decoration: none;\n}\n.Menu  .back {\n    visibility:  hidden;\n    display:block;\n    position:absolute;\n    top:0;\n    left:0;\n    width: 100px;\n    height:100px;\n    background-color: #ffa50059 ;\n    filter: blur(10px);\n}\n.Menu  .back:hover{display:block;visibility:  visible;}\n.Menu  .container {\n    //background-image: radial-gradient(#e1faff, #baf5ff);\n   \n       border-right-style: solid;\n    border-width: 2px;\n    border-color: #07756f;\n    &:last-of-type{\n        border-style: none;\n    }\n   width: 200px;\n   text-align: center;\n     a {\n          display: block;\n  @include animation;\n  //  margin: auto;\n    color: #408c99;\n    font-size: 30px;     \n    text-decoration: none;\n          &:hover {    \n                        transform:  scale(1.1);\n                             // color: black;   \n    text-decoration: none;\n                    }\n  \n}\n   \n}\n\n\n\n\n","$light: rgba(255, 255, 255, 1);\n$light-grey: rgba(229, 229, 229, 1);\n$red: #900;\n$font-heading: Verdana, sans-serif;\n\n$break-sm: 700px;\n$break-md: 1100px;\n$break-lg: 1600px;\n$break-xl: 2000px;\n\n@mixin shadow {\n  //box-shadow: 3px 3px 8px 1px darken($light-grey, 20%);\n   box-shadow: 2px 2px 10px #888888;\n}\n\n  @mixin animation {\n      transition-duration: 0.1s;\n  transition-property: transform;   \n  }\n  @mixin color{\n color: #6b6b6b;\n  }\n  @mixin border_color{\n  border-color: darkgray;    \n  }\n  @mixin input_border{\n    border-style: solid;\n    border-width: 1px;\n  @include border_color;\n    border-width: 1px;\n    border-radius: 5px;\n  }\n  @mixin border{\n      border-radius: 5px;\n      border-style:none;\n  }\n  @mixin border-radius{\n      border-radius: 5px;\n  }\n  @mixin Button {\n          background-image: radial-gradient( #b6d7df, #56a9b8);\n color: white;\n  border-radius: 5px;\n   @include shadow;\n  border: 0;\n  cursor: pointer;\n  display: inline-block;\n font-size: 20px;\n  //font-weight: bold;\n  padding: 5px 15px;\n  text-decoration: none;\n  transition-duration: 0.1s;\n  transition-property: transform;\n//background-image: url(\"/img/logo/menu3.png\");\n  //  margin:0px 0px 20px 0px;\n        background-size: auto 100%;\n       // &:hover {\n  //transform: scale(1.1);\n//}\n\n}\n"],"sourceRoot":""}]);
 
 // exports
 
@@ -4465,7 +4567,7 @@ exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader
 
 
 // module
-exports.push([module.i, "@keyframes example {\n  0% {\n    opacity: 0; }\n  100% {\n    opacity: 1; } }\n\n.msg_container {\n  position: relative;\n  top: 5px; }\n\n.Message_List {\n  margin: 3px 0px;\n  font-size: 20px;\n  z-index: 3;\n  position: absolute;\n  right: 0px;\n  top: 40px; }\n  .Message_List .Message_Container_error {\n    border-style: solid;\n    border-width: 1px;\n    border-radius: 5px;\n    border-color: #6b6b6b;\n    animation-name: example;\n    background: rgba(255, 40, 0, 0.5);\n    animation-duration: 0.5s;\n    animation-iteration-count: ease-in-out;\n    animation-fill-mode: forwards;\n    display: flex; }\n  .Message_List .Message_Container_success {\n    border-style: solid;\n    border-width: 1px;\n    border-radius: 5px;\n    border-color: #6b6b6b;\n    animation-name: example;\n    background: rgba(0, 197, 81, 0.74);\n    animation-duration: 0.5s;\n    animation-iteration-count: ease-in-out;\n    animation-fill-mode: forwards;\n    display: flex; }\n  .Message_List .Message_Container_warning {\n    border-style: solid;\n    border-width: 1px;\n    border-radius: 5px;\n    border-color: #6b6b6b;\n    animation-name: example;\n    background: rgba(197, 192, 0, 0.68);\n    animation-duration: 0.5s;\n    animation-iteration-count: ease-in-out;\n    animation-fill-mode: forwards;\n    display: flex; }\n  .Message_List .Message {\n    justify-content: flex-start;\n    display: flex;\n    align-items: flex-end;\n    padding: 15px;\n    white-space: nowrap;\n    white-space: 1;\n    justify-content: flex-start;\n    cursor: pointer;\n    width: 100%; }\n  .Message_List .x {\n    justify-content: flex-end;\n    display: flex;\n    align-items: flex-start;\n    font-size: 15px;\n    cursor: pointer; }\n", "", {"version":3,"sources":["E:/project6/css/components/css/components/Message_List.scss"],"names":[],"mappings":"AAAE;EACE;IAAM,WAAU,EAAA;EAChB;IAAQ,WAAU,EAAA,EAAA;;AAKtB;EACI,mBAAkB;EAClB,SAAO,EAEV;;AACD;EACI,gBAAe;EACf,gBAAe;EACf,WAAU;EACV,mBAAmB;EACnB,WAAU;EACV,UAAQ,EA+DX;EArED;IAUI,oBAAmB;IACnB,kBAAiB;IACjB,mBAAkB;IAClB,sBAAqB;IACvB,wBAAuB;IACrB,kCAAiC;IAC/B,yBAAwB;IACxB,uCAAqC;IACrC,8BAA6B;IAE3B,cAAa,EAEhB;EAtBL;IAwBI,oBAAmB;IACnB,kBAAiB;IACjB,mBAAkB;IAClB,sBAAqB;IACvB,wBAAuB;IACrB,mCAAkC;IAChC,yBAAwB;IACxB,uCAAqC;IACrC,8BAA6B;IAE3B,cAAa,EAEhB;EApCL;IAsCI,oBAAmB;IACnB,kBAAiB;IACjB,mBAAkB;IAClB,sBAAqB;IACvB,wBAAuB;IACrB,oCAAmC;IACjC,yBAAwB;IACxB,uCAAqC;IACrC,8BAA6B;IAE3B,cAAa,EAEhB;EAlDL;IAoDY,4BAA2B;IAC3B,cAAa;IACb,sBAAqB;IACrB,cAAa;IACb,oBAAmB;IACnB,eAAc;IACd,4BAA2B;IAC1B,gBAAe;IACf,YAAU,EACd;EA7DT;IA+DY,0BAAyB;IACzB,cAAa;IACb,wBAAuB;IACvB,gBAAe;IACf,gBAAe,EAClB","file":"Message_List.scss","sourcesContent":["  @keyframes example {\n    0%   {opacity: 0;}\n    100%  { opacity: 1;}\n\n}\n\n\n.msg_container{\n    position: relative;\n    top:5px;\n    //float: right;\n}\n.Message_List{\n    margin: 3px 0px;\n    font-size: 20px;\n    z-index: 3;\n    position:  absolute;\n    right: 0px;\n    top:40px;\n   // width: 200px;\n\n    .Message_Container_error{\n    border-style: solid;\n    border-width: 1px;\n    border-radius: 5px;\n    border-color: #6b6b6b;\n  animation-name: example;\n    background: rgba(255, 40, 0, 0.5);\n      animation-duration: 0.5s;\n      animation-iteration-count:ease-in-out;\n      animation-fill-mode: forwards;\n     // animation: example 2s 1 ease-in-out;\n        display: flex;\n       \n    }\n      .Message_Container_success{\n    border-style: solid;\n    border-width: 1px;\n    border-radius: 5px;\n    border-color: #6b6b6b;\n  animation-name: example;\n    background: rgba(0, 197, 81, 0.74);\n      animation-duration: 0.5s;\n      animation-iteration-count:ease-in-out;\n      animation-fill-mode: forwards;\n     // animation: example 2s 1 ease-in-out;\n        display: flex;\n       \n    }\n      .Message_Container_warning{\n    border-style: solid;\n    border-width: 1px;\n    border-radius: 5px;\n    border-color: #6b6b6b;\n  animation-name: example;\n    background: rgba(197, 192, 0, 0.68);\n      animation-duration: 0.5s;\n      animation-iteration-count:ease-in-out;\n      animation-fill-mode: forwards;\n     // animation: example 2s 1 ease-in-out;\n        display: flex;\n       \n    }\n     .Message{\n            justify-content: flex-start;\n            display: flex;\n            align-items: flex-end;\n            padding: 15px;\n            white-space: nowrap;\n            white-space: 1;\n            justify-content: flex-start;\n             cursor: pointer;\n             width:100%;\n        }            \n        .x{\n            justify-content: flex-end;\n            display: flex;\n            align-items: flex-start;\n            font-size: 15px;\n            cursor: pointer;\n        }\n}\n"],"sourceRoot":""}]);
+exports.push([module.i, "@keyframes example {\n  0% {\n    opacity: 0; }\n  100% {\n    opacity: 1; } }\n\n.msg_container {\n  position: relative;\n  top: 5px; }\n\n.Message_List {\n  margin: 3px 0px;\n  font-size: 20px;\n  z-index: 3;\n  position: absolute;\n  right: 0px;\n  top: 40px; }\n  .Message_List .Message_Container_error {\n    border-style: solid;\n    border-width: 1px;\n    border-radius: 5px;\n    border-color: #6b6b6b;\n    animation-name: example;\n    background: rgba(255, 40, 0, 0.5);\n    animation-duration: 0.5s;\n    animation-iteration-count: ease-in-out;\n    animation-fill-mode: forwards;\n    display: flex; }\n  .Message_List .Message_Container_success {\n    border-style: solid;\n    border-width: 1px;\n    border-radius: 5px;\n    border-color: #6b6b6b;\n    animation-name: example;\n    background: rgba(0, 197, 81, 0.74);\n    animation-duration: 0.5s;\n    animation-iteration-count: ease-in-out;\n    animation-fill-mode: forwards;\n    display: flex; }\n  .Message_List .Message_Container_warning {\n    border-style: solid;\n    border-width: 1px;\n    border-radius: 5px;\n    border-color: #6b6b6b;\n    animation-name: example;\n    background: rgba(197, 192, 0, 0.68);\n    animation-duration: 0.5s;\n    animation-iteration-count: ease-in-out;\n    animation-fill-mode: forwards;\n    display: flex; }\n  .Message_List .Message {\n    justify-content: flex-start;\n    display: flex;\n    align-items: flex-end;\n    padding: 15px;\n    white-space: nowrap;\n    white-space: 1;\n    justify-content: flex-start;\n    cursor: pointer;\n    width: 100%; }\n  .Message_List .x {\n    justify-content: flex-end;\n    display: flex;\n    align-items: flex-start;\n    font-size: 15px;\n    cursor: pointer; }\n", "", {"version":3,"sources":["E:/projects/project6/css/components/css/components/Message_List.scss"],"names":[],"mappings":"AAAE;EACE;IAAM,WAAU,EAAA;EAChB;IAAQ,WAAU,EAAA,EAAA;;AAKtB;EACI,mBAAkB;EAClB,SAAO,EAEV;;AACD;EACI,gBAAe;EACf,gBAAe;EACf,WAAU;EACV,mBAAmB;EACnB,WAAU;EACV,UAAQ,EA+DX;EArED;IAUI,oBAAmB;IACnB,kBAAiB;IACjB,mBAAkB;IAClB,sBAAqB;IACvB,wBAAuB;IACrB,kCAAiC;IAC/B,yBAAwB;IACxB,uCAAqC;IACrC,8BAA6B;IAE3B,cAAa,EAEhB;EAtBL;IAwBI,oBAAmB;IACnB,kBAAiB;IACjB,mBAAkB;IAClB,sBAAqB;IACvB,wBAAuB;IACrB,mCAAkC;IAChC,yBAAwB;IACxB,uCAAqC;IACrC,8BAA6B;IAE3B,cAAa,EAEhB;EApCL;IAsCI,oBAAmB;IACnB,kBAAiB;IACjB,mBAAkB;IAClB,sBAAqB;IACvB,wBAAuB;IACrB,oCAAmC;IACjC,yBAAwB;IACxB,uCAAqC;IACrC,8BAA6B;IAE3B,cAAa,EAEhB;EAlDL;IAoDY,4BAA2B;IAC3B,cAAa;IACb,sBAAqB;IACrB,cAAa;IACb,oBAAmB;IACnB,eAAc;IACd,4BAA2B;IAC1B,gBAAe;IACf,YAAU,EACd;EA7DT;IA+DY,0BAAyB;IACzB,cAAa;IACb,wBAAuB;IACvB,gBAAe;IACf,gBAAe,EAClB","file":"Message_List.scss","sourcesContent":["  @keyframes example {\n    0%   {opacity: 0;}\n    100%  { opacity: 1;}\n\n}\n\n\n.msg_container{\n    position: relative;\n    top:5px;\n    //float: right;\n}\n.Message_List{\n    margin: 3px 0px;\n    font-size: 20px;\n    z-index: 3;\n    position:  absolute;\n    right: 0px;\n    top:40px;\n   // width: 200px;\n\n    .Message_Container_error{\n    border-style: solid;\n    border-width: 1px;\n    border-radius: 5px;\n    border-color: #6b6b6b;\n  animation-name: example;\n    background: rgba(255, 40, 0, 0.5);\n      animation-duration: 0.5s;\n      animation-iteration-count:ease-in-out;\n      animation-fill-mode: forwards;\n     // animation: example 2s 1 ease-in-out;\n        display: flex;\n       \n    }\n      .Message_Container_success{\n    border-style: solid;\n    border-width: 1px;\n    border-radius: 5px;\n    border-color: #6b6b6b;\n  animation-name: example;\n    background: rgba(0, 197, 81, 0.74);\n      animation-duration: 0.5s;\n      animation-iteration-count:ease-in-out;\n      animation-fill-mode: forwards;\n     // animation: example 2s 1 ease-in-out;\n        display: flex;\n       \n    }\n      .Message_Container_warning{\n    border-style: solid;\n    border-width: 1px;\n    border-radius: 5px;\n    border-color: #6b6b6b;\n  animation-name: example;\n    background: rgba(197, 192, 0, 0.68);\n      animation-duration: 0.5s;\n      animation-iteration-count:ease-in-out;\n      animation-fill-mode: forwards;\n     // animation: example 2s 1 ease-in-out;\n        display: flex;\n       \n    }\n     .Message{\n            justify-content: flex-start;\n            display: flex;\n            align-items: flex-end;\n            padding: 15px;\n            white-space: nowrap;\n            white-space: 1;\n            justify-content: flex-start;\n             cursor: pointer;\n             width:100%;\n        }            \n        .x{\n            justify-content: flex-end;\n            display: flex;\n            align-items: flex-start;\n            font-size: 15px;\n            cursor: pointer;\n        }\n}\n"],"sourceRoot":""}]);
 
 // exports
 
@@ -4484,7 +4586,7 @@ exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader
 
 
 // module
-exports.push([module.i, ".Table_PanelDatagrid {\n  width: 100%;\n  margin: auto; }\n\n.empty {\n  display: flex;\n  justify-content: center;\n  font-size: 30px; }\n\n.MyTable {\n  display: block;\n  width: 100%; }\n  .MyTable table {\n    border-radius: 5px;\n    overflow: hidden;\n    box-shadow: 2px 2px 10px #888888;\n    font-family: Arial, sans-serif;\n    border-collapse: collapse;\n    width: 100%;\n    table-layout: fixed;\n    border-radius: 5px; }\n    .MyTable table input {\n      border-style: solid;\n      border-width: 1px;\n      border-color: darkgray;\n      border-width: 1px;\n      border-radius: 5px;\n      padding: 0px;\n      height: 30px;\n      text-align: center; }\n    .MyTable table .tr {\n      font-size: 12px;\n      border-radius: 5px;\n      border-width: 1px;\n      border-color: #d4d4d4;\n      border-style: none;\n      border-bottom-style: solid;\n      background: rgba(238, 253, 255, 0.5); }\n    .MyTable table .tr_product {\n      font-size: 12px;\n      border-radius: 5px;\n      border-width: 1px;\n      border-color: #d4d4d4;\n      border-style: none;\n      border-bottom-style: solid;\n      background: rgba(238, 253, 255, 0.5);\n      height: 150px; }\n    .MyTable table td {\n      cursor: pointer;\n      color: #6b6b6b;\n      height: 50px;\n      text-align: center;\n      vertical-align: central;\n      word-wrap: normal;\n      white-space: normal;\n      padding: 5px; }\n    .MyTable table th {\n      color: #6b6b6b;\n      font-size: 15px;\n      font-weight: normal;\n      height: 30px;\n      text-align: center; }\n    .MyTable table thead {\n      background-image: radial-gradient(#c4ecf4 50%, #47cde6);\n      background-color: #abe4ee; }\n      .MyTable table thead tr {\n        height: 30px; }\n    .MyTable table .imgContainer {\n      text-align: left; }\n      .MyTable table .imgContainer img {\n        width: 120px;\n        border-radius: 5px;\n        cursor: pointer; }\n    .MyTable table .MyTableEditable:hover {\n      background: #FBFBFB; }\n    .MyTable table .MyTableDataCenter {\n      text-align: center; }\n    .MyTable table .MyTableDataLeft {\n      text-align: left; }\n    .MyTable table .MyTableDataRight {\n      text-align: right; }\n", "", {"version":3,"sources":["E:/project6/css/components/css/components/MyTable.scss","E:/project6/css/components/css/components/globals.scss"],"names":[],"mappings":"AAEA;EAEI,YAAW;EACX,aAAY,EACf;;AACD;EACI,cAAa;EACb,wBAAuB;EACvB,gBAAe,EAClB;;AACD;EAEI,eAAa;EACb,YAAW,EAmGT;EAtGN;ICyBM,mBAAkB;IDhBpB,iBAAgB;ICTjB,iCAAgC;IDW3B,+BAA8B;IAC9B,0BAAyB;IACzB,YAAW;IACX,oBAAoB;ICWtB,mBAAkB,ED6EnB;IAtGL;MCcI,oBAAmB;MACnB,kBAAiB;MAJnB,uBAAsB;MAMpB,kBAAiB;MACjB,mBAAkB;MDIL,aAAY;MACZ,aAAY;MACZ,mBAAkB,EAC1B;IAzBT;MA2BY,gBAAe;MACf,mBAAkB;MAClB,kBAAiB;MACjB,sBAAqB;MACrB,mBAAkB;MAClB,2BAA0B;MAC1B,qCAAoC,EAEvC;IAnCT;MAqCY,gBAAe;MACf,mBAAkB;MAClB,kBAAiB;MACjB,sBAAqB;MACrB,mBAAkB;MAClB,2BAA0B;MAC1B,qCAAoC;MACpC,cAAY,EACf;IA7CT;MA+CY,gBAAe;MACf,eAAa;MACb,aAAY;MAEd,mBAAkB;MAClB,wBAAuB;MACrB,kBAAiB;MACjB,oBAAmB;MACnB,aAAY,EACf;IAxDT;MA0DY,eAAc;MAGd,gBAAe;MACf,oBAAmB;MAEnB,aAAY;MAGZ,mBAAkB,EACrB;IApET;MAsEY,wDAAuD;MACvD,0BAAyB,EAK5B;MA5ET;QAwEe,aAAW,EAAG;IAxE7B;MA8EY,iBAAgB,EAUnB;MAxFT;QAiFgB,aAAW;QAEX,mBAAkB;QAClB,gBAAe,EAGlB;IAvFb;MA0FY,oBAAmB,EACtB;IA3FT;MA6FY,mBAAkB,EACrB;IA9FT;MAiGY,iBAAgB,EACnB;IAlGT;MAoGY,kBAAiB,EACpB","file":"MyTable.scss","sourcesContent":["@import 'globals';\r\n//#hidden { display:none; }\r\n.Table_PanelDatagrid{\r\n    // width: 800px;\r\n    width: 100%;\r\n    margin: auto;\r\n}\r\n.empty{\r\n    display: flex;\r\n    justify-content: center;\r\n    font-size: 30px;\r\n}\r\n.MyTable {\r\n  \r\n    display:block;\r\n    width: 100%;\r\n    //max-width:900px;\r\n    //border-style:none;\r\n      //margin: 0px 0px 20px 0px;\r\n    table{\r\n         @include border-radius;\r\n    overflow: hidden;\r\n          @include shadow;\r\n        font-family: Arial, sans-serif;\r\n        border-collapse: collapse; \r\n        width: 100%;\r\n        table-layout:  fixed;\r\n        @include border-radius;\r\n       // border-width: 1px; \r\n        //border-color: #d4d4d4;\r\n        //border-style: solid;\r\n\r\n        input {  \r\n            @include input_border;\r\n                 padding: 0px;\r\n                 height: 30px;\r\n                 text-align: center;\r\n        }\r\n        .tr{\r\n            font-size: 12px;\r\n            border-radius: 5px; \r\n            border-width: 1px; \r\n            border-color: #d4d4d4;\r\n            border-style: none;\r\n            border-bottom-style: solid;\r\n            background: rgba(238, 253, 255, 0.5);\r\n           // height:150px;\r\n        }\r\n           .tr_product{\r\n            font-size: 12px;\r\n            border-radius: 5px; \r\n            border-width: 1px; \r\n            border-color: #d4d4d4;\r\n            border-style: none;\r\n            border-bottom-style: solid;\r\n            background: rgba(238, 253, 255, 0.5);\r\n            height:150px;\r\n        }\r\n        td {\r\n            cursor: pointer;\r\n            color:#6b6b6b;\r\n            height: 50px;\r\n          //  overflow: hidden;\r\n          text-align: center;\r\n          vertical-align: central;\r\n            word-wrap: normal;\r\n            white-space: normal;\r\n            padding: 5px;\r\n        }\r\n        th {\r\n            color: #6b6b6b;;\r\n\r\n            //cursor: pointer;\r\n            font-size: 15px;\r\n            font-weight: normal;\r\n\r\n            height: 30px;\r\n            //width: 10%;\r\n            // padding: 5px;\r\n            text-align: center;\r\n        }\r\n        thead{\r\n            background-image: radial-gradient(#c4ecf4 50%, #47cde6);\r\n            background-color: #abe4ee;\r\n            tr{height:30px}\r\n            //border-color: black;\r\n            // border-style: solid;\r\n            //border-width: 1px;\r\n        }\r\n        .imgContainer{\r\n            text-align: left;\r\n\r\n            img {\r\n                width:120px;\r\n                //height:80px;\r\n                border-radius: 5px; \r\n                cursor: pointer;\r\n\r\n\r\n            }\r\n        }\r\n        .MyTableEditable:hover {\r\n            background: #FBFBFB;\r\n        }\r\n        .MyTableDataCenter {\r\n            text-align: center;\r\n        }\r\n        .MyTableDataLeft {\r\n            //padding: 0 10px;\r\n            text-align: left;\r\n        }\r\n        .MyTableDataRight {\r\n            text-align: right;\r\n        }\r\n    }}\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n","$light: rgba(255, 255, 255, 1);\n$light-grey: rgba(229, 229, 229, 1);\n$red: #900;\n$font-heading: Verdana, sans-serif;\n\n$break-sm: 700px;\n$break-md: 1100px;\n$break-lg: 1600px;\n$break-xl: 2000px;\n\n@mixin shadow {\n  //box-shadow: 3px 3px 8px 1px darken($light-grey, 20%);\n   box-shadow: 2px 2px 10px #888888;\n}\n\n  @mixin animation {\n      transition-duration: 0.1s;\n  transition-property: transform;   \n  }\n  @mixin color{\n color: #6b6b6b;\n  }\n  @mixin border_color{\n  border-color: darkgray;    \n  }\n  @mixin input_border{\n    border-style: solid;\n    border-width: 1px;\n  @include border_color;\n    border-width: 1px;\n    border-radius: 5px;\n  }\n  @mixin border{\n      border-radius: 5px;\n      border-style:none;\n  }\n  @mixin border-radius{\n      border-radius: 5px;\n  }\n  @mixin Button {\n          background-image: radial-gradient( #b6d7df, #56a9b8);\n color: white;\n  border-radius: 5px;\n   @include shadow;\n  border: 0;\n  cursor: pointer;\n  display: inline-block;\n font-size: 20px;\n  //font-weight: bold;\n  padding: 5px 15px;\n  text-decoration: none;\n  transition-duration: 0.1s;\n  transition-property: transform;\n//background-image: url(\"/img/logo/menu3.png\");\n  //  margin:0px 0px 20px 0px;\n        background-size: auto 100%;\n       // &:hover {\n  //transform: scale(1.1);\n//}\n\n}\n"],"sourceRoot":""}]);
+exports.push([module.i, ".Table_PanelDatagrid {\n  width: 100%;\n  margin: auto; }\n\n.empty {\n  display: flex;\n  justify-content: center;\n  font-size: 30px; }\n\n.MyTable {\n  display: block;\n  width: 100%; }\n  .MyTable table {\n    border-radius: 5px;\n    overflow: hidden;\n    box-shadow: 2px 2px 10px #888888;\n    font-family: Arial, sans-serif;\n    border-collapse: collapse;\n    width: 100%;\n    table-layout: fixed;\n    border-radius: 5px; }\n    .MyTable table input {\n      border-style: solid;\n      border-width: 1px;\n      border-color: darkgray;\n      border-width: 1px;\n      border-radius: 5px;\n      padding: 0px;\n      height: 30px;\n      text-align: center; }\n    .MyTable table .tr {\n      font-size: 12px;\n      border-radius: 5px;\n      border-width: 1px;\n      border-color: #d4d4d4;\n      border-style: none;\n      border-bottom-style: solid;\n      background: rgba(238, 253, 255, 0.5); }\n    .MyTable table .tr_product {\n      font-size: 12px;\n      border-radius: 5px;\n      border-width: 1px;\n      border-color: #d4d4d4;\n      border-style: none;\n      border-bottom-style: solid;\n      background: rgba(238, 253, 255, 0.5);\n      height: 150px; }\n    .MyTable table td {\n      cursor: pointer;\n      color: #6b6b6b;\n      height: 50px;\n      text-align: center;\n      vertical-align: central;\n      word-wrap: normal;\n      white-space: normal;\n      padding: 5px; }\n    .MyTable table th {\n      color: #6b6b6b;\n      font-size: 15px;\n      font-weight: normal;\n      height: 30px;\n      text-align: center; }\n    .MyTable table thead {\n      background-image: radial-gradient(#c4ecf4 50%, #47cde6);\n      background-color: #abe4ee; }\n      .MyTable table thead tr {\n        height: 30px; }\n    .MyTable table .imgContainer {\n      text-align: left; }\n      .MyTable table .imgContainer img {\n        width: 120px;\n        border-radius: 5px;\n        cursor: pointer; }\n    .MyTable table .MyTableEditable:hover {\n      background: #FBFBFB; }\n    .MyTable table .MyTableDataCenter {\n      text-align: center; }\n    .MyTable table .MyTableDataLeft {\n      text-align: left; }\n    .MyTable table .MyTableDataRight {\n      text-align: right; }\n", "", {"version":3,"sources":["E:/projects/project6/css/components/css/components/MyTable.scss","E:/projects/project6/css/components/css/components/globals.scss"],"names":[],"mappings":"AAEA;EAEI,YAAW;EACX,aAAY,EACf;;AACD;EACI,cAAa;EACb,wBAAuB;EACvB,gBAAe,EAClB;;AACD;EAEI,eAAa;EACb,YAAW,EAmGT;EAtGN;ICyBM,mBAAkB;IDhBpB,iBAAgB;ICTjB,iCAAgC;IDW3B,+BAA8B;IAC9B,0BAAyB;IACzB,YAAW;IACX,oBAAoB;ICWtB,mBAAkB,ED6EnB;IAtGL;MCcI,oBAAmB;MACnB,kBAAiB;MAJnB,uBAAsB;MAMpB,kBAAiB;MACjB,mBAAkB;MDIL,aAAY;MACZ,aAAY;MACZ,mBAAkB,EAC1B;IAzBT;MA2BY,gBAAe;MACf,mBAAkB;MAClB,kBAAiB;MACjB,sBAAqB;MACrB,mBAAkB;MAClB,2BAA0B;MAC1B,qCAAoC,EAEvC;IAnCT;MAqCY,gBAAe;MACf,mBAAkB;MAClB,kBAAiB;MACjB,sBAAqB;MACrB,mBAAkB;MAClB,2BAA0B;MAC1B,qCAAoC;MACpC,cAAY,EACf;IA7CT;MA+CY,gBAAe;MACf,eAAa;MACb,aAAY;MAEd,mBAAkB;MAClB,wBAAuB;MACrB,kBAAiB;MACjB,oBAAmB;MACnB,aAAY,EACf;IAxDT;MA0DY,eAAc;MAGd,gBAAe;MACf,oBAAmB;MAEnB,aAAY;MAGZ,mBAAkB,EACrB;IApET;MAsEY,wDAAuD;MACvD,0BAAyB,EAK5B;MA5ET;QAwEe,aAAW,EAAG;IAxE7B;MA8EY,iBAAgB,EAUnB;MAxFT;QAiFgB,aAAW;QAEX,mBAAkB;QAClB,gBAAe,EAGlB;IAvFb;MA0FY,oBAAmB,EACtB;IA3FT;MA6FY,mBAAkB,EACrB;IA9FT;MAiGY,iBAAgB,EACnB;IAlGT;MAoGY,kBAAiB,EACpB","file":"MyTable.scss","sourcesContent":["@import 'globals';\r\n//#hidden { display:none; }\r\n.Table_PanelDatagrid{\r\n    // width: 800px;\r\n    width: 100%;\r\n    margin: auto;\r\n}\r\n.empty{\r\n    display: flex;\r\n    justify-content: center;\r\n    font-size: 30px;\r\n}\r\n.MyTable {\r\n  \r\n    display:block;\r\n    width: 100%;\r\n    //max-width:900px;\r\n    //border-style:none;\r\n      //margin: 0px 0px 20px 0px;\r\n    table{\r\n         @include border-radius;\r\n    overflow: hidden;\r\n          @include shadow;\r\n        font-family: Arial, sans-serif;\r\n        border-collapse: collapse; \r\n        width: 100%;\r\n        table-layout:  fixed;\r\n        @include border-radius;\r\n       // border-width: 1px; \r\n        //border-color: #d4d4d4;\r\n        //border-style: solid;\r\n\r\n        input {  \r\n            @include input_border;\r\n                 padding: 0px;\r\n                 height: 30px;\r\n                 text-align: center;\r\n        }\r\n        .tr{\r\n            font-size: 12px;\r\n            border-radius: 5px; \r\n            border-width: 1px; \r\n            border-color: #d4d4d4;\r\n            border-style: none;\r\n            border-bottom-style: solid;\r\n            background: rgba(238, 253, 255, 0.5);\r\n           // height:150px;\r\n        }\r\n           .tr_product{\r\n            font-size: 12px;\r\n            border-radius: 5px; \r\n            border-width: 1px; \r\n            border-color: #d4d4d4;\r\n            border-style: none;\r\n            border-bottom-style: solid;\r\n            background: rgba(238, 253, 255, 0.5);\r\n            height:150px;\r\n        }\r\n        td {\r\n            cursor: pointer;\r\n            color:#6b6b6b;\r\n            height: 50px;\r\n          //  overflow: hidden;\r\n          text-align: center;\r\n          vertical-align: central;\r\n            word-wrap: normal;\r\n            white-space: normal;\r\n            padding: 5px;\r\n        }\r\n        th {\r\n            color: #6b6b6b;;\r\n\r\n            //cursor: pointer;\r\n            font-size: 15px;\r\n            font-weight: normal;\r\n\r\n            height: 30px;\r\n            //width: 10%;\r\n            // padding: 5px;\r\n            text-align: center;\r\n        }\r\n        thead{\r\n            background-image: radial-gradient(#c4ecf4 50%, #47cde6);\r\n            background-color: #abe4ee;\r\n            tr{height:30px}\r\n            //border-color: black;\r\n            // border-style: solid;\r\n            //border-width: 1px;\r\n        }\r\n        .imgContainer{\r\n            text-align: left;\r\n\r\n            img {\r\n                width:120px;\r\n                //height:80px;\r\n                border-radius: 5px; \r\n                cursor: pointer;\r\n\r\n\r\n            }\r\n        }\r\n        .MyTableEditable:hover {\r\n            background: #FBFBFB;\r\n        }\r\n        .MyTableDataCenter {\r\n            text-align: center;\r\n        }\r\n        .MyTableDataLeft {\r\n            //padding: 0 10px;\r\n            text-align: left;\r\n        }\r\n        .MyTableDataRight {\r\n            text-align: right;\r\n        }\r\n    }}\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n","$light: rgba(255, 255, 255, 1);\n$light-grey: rgba(229, 229, 229, 1);\n$red: #900;\n$font-heading: Verdana, sans-serif;\n\n$break-sm: 700px;\n$break-md: 1100px;\n$break-lg: 1600px;\n$break-xl: 2000px;\n\n@mixin shadow {\n  //box-shadow: 3px 3px 8px 1px darken($light-grey, 20%);\n   box-shadow: 2px 2px 10px #888888;\n}\n\n  @mixin animation {\n      transition-duration: 0.1s;\n  transition-property: transform;   \n  }\n  @mixin color{\n color: #6b6b6b;\n  }\n  @mixin border_color{\n  border-color: darkgray;    \n  }\n  @mixin input_border{\n    border-style: solid;\n    border-width: 1px;\n  @include border_color;\n    border-width: 1px;\n    border-radius: 5px;\n  }\n  @mixin border{\n      border-radius: 5px;\n      border-style:none;\n  }\n  @mixin border-radius{\n      border-radius: 5px;\n  }\n  @mixin Button {\n          background-image: radial-gradient( #b6d7df, #56a9b8);\n color: white;\n  border-radius: 5px;\n   @include shadow;\n  border: 0;\n  cursor: pointer;\n  display: inline-block;\n font-size: 20px;\n  //font-weight: bold;\n  padding: 5px 15px;\n  text-decoration: none;\n  transition-duration: 0.1s;\n  transition-property: transform;\n//background-image: url(\"/img/logo/menu3.png\");\n  //  margin:0px 0px 20px 0px;\n        background-size: auto 100%;\n       // &:hover {\n  //transform: scale(1.1);\n//}\n\n}\n"],"sourceRoot":""}]);
 
 // exports
 
@@ -4503,7 +4605,7 @@ exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader
 
 
 // module
-exports.push([module.i, ".orderContainer {\n  color: #6b6b6b;\n  border-radius: 5px;\n  overflow: hidden;\n  box-shadow: 2px 2px 10px #888888;\n  margin: 0px 0px 20px 0px; }\n  .orderContainer .order {\n    cursor: pointer;\n    border-width: 1px;\n    border-color: #d4d4d4;\n    border-style: none;\n    border-bottom-style: solid;\n    display: flex;\n    justify-content: space-around;\n    background-color: #abe4ee;\n    background-image: radial-gradient(#c4ecf4 50%, #47cde6);\n    height: 40px;\n    align-items: center;\n    /* border-radius: 10px; */ }\n  .orderContainer .user_order .MyTable {\n    margin: 0px; }\n    .orderContainer .user_order .MyTable thead {\n      display: none; }\n    .orderContainer .user_order .MyTable table {\n      box-shadow: none;\n      margin: 0px; }\n", "", {"version":3,"sources":["E:/project6/css/components/css/components/Order.scss","E:/project6/css/components/css/components/globals.scss"],"names":[],"mappings":"AACA;EACI,eAAc;ECmCZ,mBAAkB;EDjCpB,iBAAgB;ECQjB,iCAAgC;EDN5B,yBAAwB,EAkC9B;EAvCD;IAOQ,gBAAe;IACf,kBAAiB;IACrB,sBAAqB;IACrB,mBAAkB;IAClB,2BAA0B;IAC9B,cAAa;IACT,8BAA6B;IAC7B,0BAAyB;IACpB,wDAAuD;IAE5D,aAAY;IACZ,oBAAmB;IACnB,0BAA0B,EAK7B;EAxBD;IA2BK,YAAU,EAUd;IArCD;MA6BQ,cAAa,EAEhB;IA/BL;MAkCQ,iBAAgB;MAChB,YAAW,EACd","file":"Order.scss","sourcesContent":["@import 'globals';\n.orderContainer{\n    color: #6b6b6b;\n     @include border-radius;\n    overflow: hidden;\n   @include shadow;   \n       margin: 0px 0px 20px 0px;\n    .order{\n        cursor: pointer;\n        border-width: 1px;\n    border-color: #d4d4d4;\n    border-style: none;\n    border-bottom-style: solid;\ndisplay: flex;\n    justify-content: space-around;\n    background-color: #abe4ee;\n         background-image: radial-gradient(#c4ecf4 50%, #47cde6);\n   // margin: 10px 0px 0px 0px;\n    height: 40px;\n    align-items: center;\n    /* border-radius: 10px; */\n    //border-style: solid;\n   // border-width: 1px;\n   // border-color: #6b6b6b;\n\n}\n.user_order{\n .MyTable{ \n     margin:0px;\n     thead{\n        display: none;\n       \n    }\n    table  {\n        \n        box-shadow: none;\n        margin: 0px;\n    }\n}\n}\n}\n","$light: rgba(255, 255, 255, 1);\n$light-grey: rgba(229, 229, 229, 1);\n$red: #900;\n$font-heading: Verdana, sans-serif;\n\n$break-sm: 700px;\n$break-md: 1100px;\n$break-lg: 1600px;\n$break-xl: 2000px;\n\n@mixin shadow {\n  //box-shadow: 3px 3px 8px 1px darken($light-grey, 20%);\n   box-shadow: 2px 2px 10px #888888;\n}\n\n  @mixin animation {\n      transition-duration: 0.1s;\n  transition-property: transform;   \n  }\n  @mixin color{\n color: #6b6b6b;\n  }\n  @mixin border_color{\n  border-color: darkgray;    \n  }\n  @mixin input_border{\n    border-style: solid;\n    border-width: 1px;\n  @include border_color;\n    border-width: 1px;\n    border-radius: 5px;\n  }\n  @mixin border{\n      border-radius: 5px;\n      border-style:none;\n  }\n  @mixin border-radius{\n      border-radius: 5px;\n  }\n  @mixin Button {\n          background-image: radial-gradient( #b6d7df, #56a9b8);\n color: white;\n  border-radius: 5px;\n   @include shadow;\n  border: 0;\n  cursor: pointer;\n  display: inline-block;\n font-size: 20px;\n  //font-weight: bold;\n  padding: 5px 15px;\n  text-decoration: none;\n  transition-duration: 0.1s;\n  transition-property: transform;\n//background-image: url(\"/img/logo/menu3.png\");\n  //  margin:0px 0px 20px 0px;\n        background-size: auto 100%;\n       // &:hover {\n  //transform: scale(1.1);\n//}\n\n}\n"],"sourceRoot":""}]);
+exports.push([module.i, ".orderContainer {\n  color: #6b6b6b;\n  border-radius: 5px;\n  overflow: hidden;\n  box-shadow: 2px 2px 10px #888888;\n  margin: 0px 0px 20px 0px; }\n  .orderContainer .order {\n    cursor: pointer;\n    border-width: 1px;\n    border-color: #d4d4d4;\n    border-style: none;\n    border-bottom-style: solid;\n    display: flex;\n    justify-content: space-around;\n    background-color: #abe4ee;\n    background-image: radial-gradient(#c4ecf4 50%, #47cde6);\n    height: 40px;\n    align-items: center;\n    /* border-radius: 10px; */ }\n  .orderContainer .user_order .MyTable {\n    margin: 0px; }\n    .orderContainer .user_order .MyTable thead {\n      display: none; }\n    .orderContainer .user_order .MyTable table {\n      box-shadow: none;\n      margin: 0px; }\n", "", {"version":3,"sources":["E:/projects/project6/css/components/css/components/Order.scss","E:/projects/project6/css/components/css/components/globals.scss"],"names":[],"mappings":"AACA;EACI,eAAc;ECmCZ,mBAAkB;EDjCpB,iBAAgB;ECQjB,iCAAgC;EDN5B,yBAAwB,EAkC9B;EAvCD;IAOQ,gBAAe;IACf,kBAAiB;IACrB,sBAAqB;IACrB,mBAAkB;IAClB,2BAA0B;IAC9B,cAAa;IACT,8BAA6B;IAC7B,0BAAyB;IACpB,wDAAuD;IAE5D,aAAY;IACZ,oBAAmB;IACnB,0BAA0B,EAK7B;EAxBD;IA2BK,YAAU,EAUd;IArCD;MA6BQ,cAAa,EAEhB;IA/BL;MAkCQ,iBAAgB;MAChB,YAAW,EACd","file":"Order.scss","sourcesContent":["@import 'globals';\n.orderContainer{\n    color: #6b6b6b;\n     @include border-radius;\n    overflow: hidden;\n   @include shadow;   \n       margin: 0px 0px 20px 0px;\n    .order{\n        cursor: pointer;\n        border-width: 1px;\n    border-color: #d4d4d4;\n    border-style: none;\n    border-bottom-style: solid;\ndisplay: flex;\n    justify-content: space-around;\n    background-color: #abe4ee;\n         background-image: radial-gradient(#c4ecf4 50%, #47cde6);\n   // margin: 10px 0px 0px 0px;\n    height: 40px;\n    align-items: center;\n    /* border-radius: 10px; */\n    //border-style: solid;\n   // border-width: 1px;\n   // border-color: #6b6b6b;\n\n}\n.user_order{\n .MyTable{ \n     margin:0px;\n     thead{\n        display: none;\n       \n    }\n    table  {\n        \n        box-shadow: none;\n        margin: 0px;\n    }\n}\n}\n}\n","$light: rgba(255, 255, 255, 1);\n$light-grey: rgba(229, 229, 229, 1);\n$red: #900;\n$font-heading: Verdana, sans-serif;\n\n$break-sm: 700px;\n$break-md: 1100px;\n$break-lg: 1600px;\n$break-xl: 2000px;\n\n@mixin shadow {\n  //box-shadow: 3px 3px 8px 1px darken($light-grey, 20%);\n   box-shadow: 2px 2px 10px #888888;\n}\n\n  @mixin animation {\n      transition-duration: 0.1s;\n  transition-property: transform;   \n  }\n  @mixin color{\n color: #6b6b6b;\n  }\n  @mixin border_color{\n  border-color: darkgray;    \n  }\n  @mixin input_border{\n    border-style: solid;\n    border-width: 1px;\n  @include border_color;\n    border-width: 1px;\n    border-radius: 5px;\n  }\n  @mixin border{\n      border-radius: 5px;\n      border-style:none;\n  }\n  @mixin border-radius{\n      border-radius: 5px;\n  }\n  @mixin Button {\n          background-image: radial-gradient( #b6d7df, #56a9b8);\n color: white;\n  border-radius: 5px;\n   @include shadow;\n  border: 0;\n  cursor: pointer;\n  display: inline-block;\n font-size: 20px;\n  //font-weight: bold;\n  padding: 5px 15px;\n  text-decoration: none;\n  transition-duration: 0.1s;\n  transition-property: transform;\n//background-image: url(\"/img/logo/menu3.png\");\n  //  margin:0px 0px 20px 0px;\n        background-size: auto 100%;\n       // &:hover {\n  //transform: scale(1.1);\n//}\n\n}\n"],"sourceRoot":""}]);
 
 // exports
 
@@ -4522,7 +4624,7 @@ exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader
 
 
 // module
-exports.push([module.i, ".Registration_Form {\n  margin: 10px auto;\n  font-size: 14px;\n  text-align: center;\n  padding: 10px 0px 10px 0px; }\n  .Registration_Form table {\n    margin: auto; }\n  .Registration_Form label {\n    color: #6b6b6b; }\n  .Registration_Form input {\n    border-radius: 5px;\n    border-style: solid;\n    border-color: #6b6b6b;\n    border-width: 1px;\n    padding: 0px 5px;\n    height: 20px;\n    height: 25px; }\n  .Registration_Form td:last-of-type {\n    display: flex;\n    justify-content: space-between;\n    align-items: center; }\n  .Registration_Form .button {\n    background-image: radial-gradient(#b6d7df, #56a9b8);\n    color: white;\n    border-radius: 5px;\n    box-shadow: 2px 2px 10px #888888;\n    border: 0;\n    cursor: pointer;\n    display: inline-block;\n    font-size: 20px;\n    padding: 5px 15px;\n    text-decoration: none;\n    transition-duration: 0.1s;\n    transition-property: transform;\n    background-size: auto 100%;\n    padding: 0px;\n    font-size: 15px;\n    display: table;\n    border-style: solid;\n    border-width: 1px;\n    border-color: #197973;\n    padding: 0px;\n    background-image: radial-gradient(#7ee4e2, #20968e);\n    width: 48%;\n    box-shadow: none;\n    height: 25px;\n    align-items: center;\n    justify-content: center;\n    display: flex; }\n", "", {"version":3,"sources":["E:/project6/css/components/css/components/Registration_Form.scss","E:/project6/css/components/css/components/globals.scss"],"names":[],"mappings":"AACA;EACO,kBAAiB;EACjB,gBAAe;EAChB,mBAAkB;EAClB,2BAA0B,EAqC/B;EAzCD;IAKW,aAAY,EAAI;EAL3B;IAOU,eAAc,EACjB;EARP;IAUU,mBAAkB;IAClB,oBAAmB;IAClB,sBAAqB;IACrB,kBAAiB;IAClB,iBAAgB;IAChB,aAAY;IACT,aAAY,EAClB;EAjBP;IAmBI,cAAa;IACP,+BAA8B;IAC9B,oBAAmB,EACtB;EAtBP;ICuCU,oDAAoD;IAC7D,aAAY;IACX,mBAAkB;IA9BjB,iCAAgC;IAgCjC,UAAS;IACT,gBAAe;IACf,sBAAqB;IACtB,gBAAe;IAEd,kBAAiB;IACjB,sBAAqB;IACrB,0BAAyB;IACzB,+BAA8B;IAGxB,2BAA0B;ID5BvB,aAAY;IACT,gBAAe;IACf,eAAc;IACd,oBAAmB;IAC7B,kBAAiB;IACjB,sBAAqB;IACtB,aAAY;IACb,oDAAoD;IACnD,WAAU;IACV,iBAAgB;IAChB,aAAY;IACR,oBAAmB;IACnB,wBAAuB;IAC1B,cAAa,EACV","file":"Registration_Form.scss","sourcesContent":["  @import 'globals';\n.Registration_Form {\n       margin: 10px auto;\n       font-size: 14px;\n      text-align: center;\n      padding: 10px 0px 10px 0px;\n    table {margin: auto;}\n      label{\n          color: #6b6b6b;\n      }\n      input{\n          border-radius: 5px;\n          border-style: solid;\n           border-color: #6b6b6b;\n           border-width: 1px;\n          padding: 0px 5px;\n          height: 20px;\n             height: 25px;\n      }\n      td:last-of-type{\n    display: flex;\n          justify-content: space-between;\n          align-items: center;\n      }\n     \n      .button{\n           @include  Button;\n           padding: 0px;\n              font-size: 15px;\n              display: table;\n              border-style: solid;\n    border-width: 1px;\n    border-color: #197973;\n   padding: 0px;\n  background-image:  radial-gradient(#7ee4e2, #20968e);\n   width: 48%;\n   box-shadow: none;\n   height: 25px;\n       align-items: center;\n       justify-content: center;\n    display: flex;\n      }\n}\n\n","$light: rgba(255, 255, 255, 1);\n$light-grey: rgba(229, 229, 229, 1);\n$red: #900;\n$font-heading: Verdana, sans-serif;\n\n$break-sm: 700px;\n$break-md: 1100px;\n$break-lg: 1600px;\n$break-xl: 2000px;\n\n@mixin shadow {\n  //box-shadow: 3px 3px 8px 1px darken($light-grey, 20%);\n   box-shadow: 2px 2px 10px #888888;\n}\n\n  @mixin animation {\n      transition-duration: 0.1s;\n  transition-property: transform;   \n  }\n  @mixin color{\n color: #6b6b6b;\n  }\n  @mixin border_color{\n  border-color: darkgray;    \n  }\n  @mixin input_border{\n    border-style: solid;\n    border-width: 1px;\n  @include border_color;\n    border-width: 1px;\n    border-radius: 5px;\n  }\n  @mixin border{\n      border-radius: 5px;\n      border-style:none;\n  }\n  @mixin border-radius{\n      border-radius: 5px;\n  }\n  @mixin Button {\n          background-image: radial-gradient( #b6d7df, #56a9b8);\n color: white;\n  border-radius: 5px;\n   @include shadow;\n  border: 0;\n  cursor: pointer;\n  display: inline-block;\n font-size: 20px;\n  //font-weight: bold;\n  padding: 5px 15px;\n  text-decoration: none;\n  transition-duration: 0.1s;\n  transition-property: transform;\n//background-image: url(\"/img/logo/menu3.png\");\n  //  margin:0px 0px 20px 0px;\n        background-size: auto 100%;\n       // &:hover {\n  //transform: scale(1.1);\n//}\n\n}\n"],"sourceRoot":""}]);
+exports.push([module.i, ".Registration_Form {\n  margin: 10px auto;\n  font-size: 14px;\n  text-align: center;\n  padding: 10px 0px 10px 0px; }\n  .Registration_Form table {\n    margin: auto; }\n  .Registration_Form label {\n    color: #6b6b6b; }\n  .Registration_Form input {\n    border-radius: 5px;\n    border-style: solid;\n    border-color: #6b6b6b;\n    border-width: 1px;\n    padding: 0px 5px;\n    height: 20px;\n    height: 25px; }\n  .Registration_Form td:last-of-type {\n    display: flex;\n    justify-content: space-between;\n    align-items: center; }\n  .Registration_Form .button {\n    background-image: radial-gradient(#b6d7df, #56a9b8);\n    color: white;\n    border-radius: 5px;\n    box-shadow: 2px 2px 10px #888888;\n    border: 0;\n    cursor: pointer;\n    display: inline-block;\n    font-size: 20px;\n    padding: 5px 15px;\n    text-decoration: none;\n    transition-duration: 0.1s;\n    transition-property: transform;\n    background-size: auto 100%;\n    padding: 0px;\n    font-size: 15px;\n    display: table;\n    border-style: solid;\n    border-width: 1px;\n    border-color: #197973;\n    padding: 0px;\n    background-image: radial-gradient(#7ee4e2, #20968e);\n    width: 48%;\n    box-shadow: none;\n    height: 25px;\n    align-items: center;\n    justify-content: center;\n    display: flex; }\n", "", {"version":3,"sources":["E:/projects/project6/css/components/css/components/Registration_Form.scss","E:/projects/project6/css/components/css/components/globals.scss"],"names":[],"mappings":"AACA;EACO,kBAAiB;EACjB,gBAAe;EAChB,mBAAkB;EAClB,2BAA0B,EAqC/B;EAzCD;IAKW,aAAY,EAAI;EAL3B;IAOU,eAAc,EACjB;EARP;IAUU,mBAAkB;IAClB,oBAAmB;IAClB,sBAAqB;IACrB,kBAAiB;IAClB,iBAAgB;IAChB,aAAY;IACT,aAAY,EAClB;EAjBP;IAmBI,cAAa;IACP,+BAA8B;IAC9B,oBAAmB,EACtB;EAtBP;ICuCU,oDAAoD;IAC7D,aAAY;IACX,mBAAkB;IA9BjB,iCAAgC;IAgCjC,UAAS;IACT,gBAAe;IACf,sBAAqB;IACtB,gBAAe;IAEd,kBAAiB;IACjB,sBAAqB;IACrB,0BAAyB;IACzB,+BAA8B;IAGxB,2BAA0B;ID5BvB,aAAY;IACT,gBAAe;IACf,eAAc;IACd,oBAAmB;IAC7B,kBAAiB;IACjB,sBAAqB;IACtB,aAAY;IACb,oDAAoD;IACnD,WAAU;IACV,iBAAgB;IAChB,aAAY;IACR,oBAAmB;IACnB,wBAAuB;IAC1B,cAAa,EACV","file":"Registration_Form.scss","sourcesContent":["  @import 'globals';\n.Registration_Form {\n       margin: 10px auto;\n       font-size: 14px;\n      text-align: center;\n      padding: 10px 0px 10px 0px;\n    table {margin: auto;}\n      label{\n          color: #6b6b6b;\n      }\n      input{\n          border-radius: 5px;\n          border-style: solid;\n           border-color: #6b6b6b;\n           border-width: 1px;\n          padding: 0px 5px;\n          height: 20px;\n             height: 25px;\n      }\n      td:last-of-type{\n    display: flex;\n          justify-content: space-between;\n          align-items: center;\n      }\n     \n      .button{\n           @include  Button;\n           padding: 0px;\n              font-size: 15px;\n              display: table;\n              border-style: solid;\n    border-width: 1px;\n    border-color: #197973;\n   padding: 0px;\n  background-image:  radial-gradient(#7ee4e2, #20968e);\n   width: 48%;\n   box-shadow: none;\n   height: 25px;\n       align-items: center;\n       justify-content: center;\n    display: flex;\n      }\n}\n\n","$light: rgba(255, 255, 255, 1);\n$light-grey: rgba(229, 229, 229, 1);\n$red: #900;\n$font-heading: Verdana, sans-serif;\n\n$break-sm: 700px;\n$break-md: 1100px;\n$break-lg: 1600px;\n$break-xl: 2000px;\n\n@mixin shadow {\n  //box-shadow: 3px 3px 8px 1px darken($light-grey, 20%);\n   box-shadow: 2px 2px 10px #888888;\n}\n\n  @mixin animation {\n      transition-duration: 0.1s;\n  transition-property: transform;   \n  }\n  @mixin color{\n color: #6b6b6b;\n  }\n  @mixin border_color{\n  border-color: darkgray;    \n  }\n  @mixin input_border{\n    border-style: solid;\n    border-width: 1px;\n  @include border_color;\n    border-width: 1px;\n    border-radius: 5px;\n  }\n  @mixin border{\n      border-radius: 5px;\n      border-style:none;\n  }\n  @mixin border-radius{\n      border-radius: 5px;\n  }\n  @mixin Button {\n          background-image: radial-gradient( #b6d7df, #56a9b8);\n color: white;\n  border-radius: 5px;\n   @include shadow;\n  border: 0;\n  cursor: pointer;\n  display: inline-block;\n font-size: 20px;\n  //font-weight: bold;\n  padding: 5px 15px;\n  text-decoration: none;\n  transition-duration: 0.1s;\n  transition-property: transform;\n//background-image: url(\"/img/logo/menu3.png\");\n  //  margin:0px 0px 20px 0px;\n        background-size: auto 100%;\n       // &:hover {\n  //transform: scale(1.1);\n//}\n\n}\n"],"sourceRoot":""}]);
 
 // exports
 
@@ -4541,7 +4643,7 @@ exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader
 
 
 // module
-exports.push([module.i, ".Search_Panel {\n  overflow: hidden;\n  text-align: center;\n  margin: 0px 5px 5px 0px;\n  width: 195px;\n  border-radius: 5px;\n  background-size: auto 100%;\n  position: relative;\n  background-color: white;\n  box-shadow: 2px 2px 10px #888888;\n  color: #6b6b6b;\n  font-size: 15px;\n  /*  .btn {\n          background-color: #56a9b8;\n          alignment-adjust: central;\n          align-items: center;\n          transition-duration: 0.1s;\n          transition-property: transform;\n          display: flex;\n          //background-image: url(\"/img/logo/menu2.png\");\n          background-size: auto 100%;\n          @include border-radius;\n          @include shadow;\n          border: 0;\n          background-image: radial-gradient(#77c7d5,#56a9b8);\n          color: #fff;\n          cursor: pointer;\n          font-size: 25px;\n          justify-content: center;\n          align-content: center;\n          text-decoration: none; \n          width: 100%;\n          height:100%;\n          margin: auto;\n          @include animation;\n          &:hover{\n              transform: scale(1.1);\n          }*/ }\n  .Search_Panel .search_header {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    background-image: radial-gradient(#b5e8f2 10%, #5bd1e8);\n    height: 32px;\n    font-size: 15px; }\n  .Search_Panel .btn {\n    margin: 5px 0px;\n    background-color: #56a9b8;\n    justify-content: center;\n    align-items: center;\n    transition-duration: 0.1s;\n    transition-property: transform;\n    display: flex;\n    cursor: pointer;\n    transition-duration: 0.1s;\n    transition-property: transform;\n    border-radius: 5px;\n    width: 50%;\n    background-image: radial-gradient(#daf5f9 50%, #9ee3f1);\n    margin: 10px auto;\n    cursor: pointer;\n    transition-duration: 0.1s;\n    transition-property: transform; }\n    .Search_Panel .btn:hover {\n      transform: scale(1.1); }\n  .Search_Panel .container {\n    font-size: 15px; }\n    .Search_Panel .container .container_options_price {\n      margin: 5px auto;\n      width: 80%; }\n    .Search_Panel .container .container_header {\n      display: flex;\n      justify-content: center;\n      margin: 10px 0px;\n      background-image: linear-gradient(to right, #ffffff, #d9f9f6 50%, #ffffff 100%);\n      font-size: 15px; }\n      .Search_Panel .container .container_header .arrow {\n        display: flex;\n        align-items: center;\n        margin: 0px 2px;\n        font-size: 10px; }\n    .Search_Panel .container .container_options {\n      margin: 5px auto;\n      width: 80%; }\n      .Search_Panel .container .container_options .container_options_item {\n        display: flex;\n        justify-content: space-between;\n        align-items: center;\n        height: 25px; }\n        .Search_Panel .container .container_options .container_options_item .date {\n          border-radius: 5px;\n          border-style: solid;\n          border-color: darkgray;\n          font-size: inherit;\n          padding: 0px;\n          width: 130px;\n          color: #6b6b6b;\n          font-size: 13px;\n          text-align: right;\n          border-width: 1px;\n          height: 18px; }\n        .Search_Panel .container .container_options .container_options_item .text {\n          display: flex; }\n        .Search_Panel .container .container_options .container_options_item .check_container {\n          width: 20px;\n          height: 20px;\n          display: flex;\n          position: relative;\n          cursor: pointer;\n          font-size: 20px;\n          /* Hide the browser's default checkbox */\n          /* On mouse-over, add a grey background color */\n          /* When the checkbox is checked, add a blue background */\n          /* Create the checkmark/indicator (hidden when not checked) */\n          /* Show the checkmark when checked */\n          /* Style the checkmark/indicator */ }\n          .Search_Panel .container .container_options .container_options_item .check_container input {\n            position: absolute;\n            opacity: 0; }\n          .Search_Panel .container .container_options .container_options_item .check_container .checkmark {\n            position: absolute;\n            height: 20px;\n            width: 20px;\n            background-color: #e3faf8; }\n          .Search_Panel .container .container_options .container_options_item .check_container:hover input ~ .checkmark {\n            background-color: #56d4cb; }\n          .Search_Panel .container .container_options .container_options_item .check_container input:checked ~ .checkmark {\n            background-color: #56d4cb; }\n          .Search_Panel .container .container_options .container_options_item .check_container .checkmark:after {\n            content: \"\";\n            position: absolute;\n            display: none; }\n          .Search_Panel .container .container_options .container_options_item .check_container input:checked ~ .checkmark:after {\n            display: block; }\n          .Search_Panel .container .container_options .container_options_item .check_container .checkmark:after {\n            left: 7px;\n            top: 2px;\n            width: 5px;\n            height: 10px;\n            border: solid white;\n            border-width: 0 3px 3px 0;\n            -webkit-transform: rotate(45deg);\n            -ms-transform: rotate(45deg);\n            transform: rotate(45deg); }\n  .Search_Panel .search {\n    color: #6b6b6b;\n    display: block;\n    width: 95%;\n    height: 95%;\n    border-radius: 5px;\n    border-style: solid;\n    border-width: 1px;\n    margin: auto;\n    padding: 0px;\n    border-color: darkgray; }\n  .Search_Panel .min_max_container {\n    display: flex;\n    justify-content: space-between;\n    align-items: center; }\n  .Search_Panel .min_max {\n    color: #6b6b6b;\n    display: block;\n    border-radius: 5px;\n    border-style: solid;\n    border-width: 1px;\n    border-color: darkgray;\n    width: 50px;\n    height: 20px;\n    padding: 0px; }\n", "", {"version":3,"sources":["E:/project6/css/components/css/components/Search_Panel.scss","E:/project6/css/components/css/components/globals.scss"],"names":[],"mappings":"AACA;EACI,iBAAgB;EAChB,mBAAiB;EACjB,wBAAsB;EACtB,aAAW;ECgCT,mBAAkB;EDtBpB,2BAA0B;EAC1B,mBAAiB;EAEjB,wBAAsB;ECNvB,iCAAgC;EDQ/B,eAAc;EAEd,gBAAe;EAEf;;;;;;;;;;;;;;;;;;;;;;;;;aAyBS,EA2KZ;EA3ND;IAMQ,cAAa;IACb,oBAAmB;IACnB,wBAAuB;IACxB,wDAAuD;IACtD,aAAW;IACX,gBAAc,EACjB;EAZL;IAkDQ,gBAAe;IAEf,0BAAyB;IACzB,wBAAuB;IACvB,oBAAmB;IACnB,0BAAyB;IACzB,+BAA8B;IAC9B,cAAa;IACb,gBAAe;IACf,0BAAyB;IACzB,+BAA8B;IAC9B,mBAAkB;IAClB,WAAU;IAEV,wDAAuD;IACvD,kBAAiB;IACjB,gBAAe;ICnDjB,0BAAyB;IAC7B,+BAA8B,EDyD3B;IAzEL;MAsEY,sBAAqB,EACxB;EAvET;IA4EQ,gBAAc,EA4GF;IAxLpB;MA8EY,iBAAgB;MAChB,WAAU,EAEb;IAjFT;MAmFS,cAAa;MACb,wBAAuB;MACvB,iBAAgB;MAChB,gFAA8E;MAC9E,gBAAc,EAOd;MA9FT;QAyFS,cAAa;QACb,oBAAmB;QAClB,gBAAe;QACd,gBAAc,EACZ;IA7Fb;MAgGY,iBAAgB;MAChB,WAAU,EAuFH;MAxLnB;QAmGgB,cAAY;QACZ,+BAA8B;QAC9B,oBAAmB;QAEnB,aAAY,EAiFV;QAxLlB;UAyGoB,mBAAkB;UAClB,oBAAmB;UACnB,uBAAsB;UACtB,mBAAkB;UAClB,aAAW;UACX,aAAY;UACZ,eAAc;UACd,gBAAe;UACf,kBAAiB;UACjB,kBAAiB;UACjB,aAAY,EACf;QApHjB;UAsHoB,cAAY,EAEf;QAxHjB;UA0HoB,YAAU;UACV,aAAW;UACX,cAAY;UAEZ,mBAAkB;UAGlB,gBAAe;UACf,gBAAe;UAIf,yCAAyC;UAezC,gDAAgD;UAKhD,yDAAyD;UAMzD,8DAA8D;UAO9D,qCAAqC;UAKrC,mCAAmC,EAYtC;UAxLjB;YAwIwB,mBAAkB;YAClB,WAAU,EAEb;UA3IrB;YA6IwB,mBAAkB;YAGlB,aAAY;YACZ,YAAW;YACX,0BAAyB,EAC5B;UAnJrB;YAuJwB,0BAAyB,EAC5B;UAxJrB;YA4JwB,0BAAyB,EAE5B;UA9JrB;YAkKwB,YAAW;YACX,mBAAkB;YAClB,cAAa,EAChB;UArKrB;YAyKwB,eAAc,EACjB;UA1KrB;YA8KwB,UAAS;YACT,SAAQ;YACR,WAAU;YACV,aAAY;YACZ,oBAAmB;YACnB,0BAAyB;YACzB,iCAAgC;YAChC,6BAA4B;YAC5B,yBAAwB,EAC3B;EAvLrB;IA4LQ,eAAc;IACd,eAAc;IACd,WAAS;IACT,YAAW;IC3Jb,mBAAkB;ID6JhB,oBAAmB;IACnB,kBAAiB;IACjB,aAAY;IACZ,aAAY;IACZ,uBAAsB,EAEzB;EAvML;IAyMS,cAAY;IACT,+BAA8B;IAC9B,oBAAmB,EAC1B;EA5ML;IA8MQ,eAAc;IACd,eAAc;IC3KhB,mBAAkB;ID6KhB,oBAAmB;IACnB,kBAAiB;IACjB,uBAAsB;IACtB,YAAU;IACV,aAAW;IACX,aAAW,EACd","file":"Search_Panel.scss","sourcesContent":["@import 'globals';\n.Search_Panel{\n    overflow: hidden;\n    text-align:center;\n    margin:0px 5px 5px 0px;\n    width:195px;\n    .search_header{\n        display: flex;\n        align-items: center;\n        justify-content: center;\n       background-image: radial-gradient(#b5e8f2 10%, #5bd1e8);\n        height:32px;\n        font-size:15px;     \n    }\n    @include border-radius;\n    background-size: auto 100%;\n    position:relative;\n    //left:0px;\n    background-color:white;\n    @include shadow;\n    color: #6b6b6b;\n    //padding: 5px 0px;\n    font-size: 15px;\n\n    /*  .btn {\n          background-color: #56a9b8;\n          alignment-adjust: central;\n          align-items: center;\n          transition-duration: 0.1s;\n          transition-property: transform;\n          display: flex;\n          //background-image: url(\"/img/logo/menu2.png\");\n          background-size: auto 100%;\n          @include border-radius;\n          @include shadow;\n          border: 0;\n          background-image: radial-gradient(#77c7d5,#56a9b8);\n          color: #fff;\n          cursor: pointer;\n          font-size: 25px;\n          justify-content: center;\n          align-content: center;\n          text-decoration: none; \n          width: 100%;\n          height:100%;\n          margin: auto;\n          @include animation;\n          &:hover{\n              transform: scale(1.1);\n          }*/\n    .btn {\n        margin: 5px 0px;\n\n        background-color: #56a9b8;\n        justify-content: center;\n        align-items: center;\n        transition-duration: 0.1s;\n        transition-property: transform;\n        display: flex;\n        cursor: pointer;\n        transition-duration: 0.1s;\n        transition-property: transform;\n        border-radius: 5px;\n        width: 50%;\n\n        background-image: radial-gradient(#daf5f9 50%, #9ee3f1);\n        margin: 10px auto;\n        cursor: pointer;\n\n        @include animation;\n        &:hover{\n            transform: scale(1.1);\n        }\n\n    }\n\n    .container{\n        font-size:15px;\n        .container_options_price{\n            margin: 5px auto;\n            width: 80%;\n      \n        }\n        .container_header{\n         display: flex;\n         justify-content: center;\n         margin: 10px 0px;\n         background-image: linear-gradient(to right, #ffffff,#d9f9f6 50%, #ffffff 100%);\n         font-size:15px;    \n            .arrow{\n         display: flex;\n         align-items: center;\n          margin: 0px 2px;\n           font-size:10px;  \n            }\n        }\n        .container_options{\n            margin: 5px auto;\n            width: 80%;\n            .container_options_item{\n                display:flex;\n                justify-content: space-between;\n                align-items: center;         \n\n                height: 25px;\n                .date{\n                    border-radius: 5px;\n                    border-style: solid;\n                    border-color: darkgray;\n                    font-size: inherit;\n                    padding:0px;\n                    width: 130px;\n                    color: #6b6b6b;\n                    font-size: 13px;\n                    text-align: right;\n                    border-width: 1px;\n                    height: 18px;\n                }\n                .text {\n                    display:flex;\n                    \n                }\n                .check_container{\n                    width:20px;\n                    height:20px;\n                    display:flex;\n                    //display: block;\n                    position: relative;\n                    //padding-left: 35px;\n                    //margin-bottom: 12px;\n                    cursor: pointer;\n                    font-size: 20px;\n                    //user-select: none;\n\n\n                    /* Hide the browser's default checkbox */\n                    input {\n                        position: absolute;\n                        opacity: 0;\n                        // cursor: pointer;\n                    }\n                    .checkmark {\n                        position: absolute;\n                        // top: 0;\n                        //left: 0;\n                        height: 20px;\n                        width: 20px;\n                        background-color: #e3faf8;\n                    }\n\n                    /* On mouse-over, add a grey background color */\n                    &:hover input ~ .checkmark {\n                        background-color: #56d4cb;\n                    }\n\n                    /* When the checkbox is checked, add a blue background */\n                    input:checked ~ .checkmark {\n                        background-color: #56d4cb;\n                        //#95d6e7;\n                    }\n\n                    /* Create the checkmark/indicator (hidden when not checked) */\n                    .checkmark:after {\n                        content: \"\";\n                        position: absolute;\n                        display: none;\n                    }\n\n                    /* Show the checkmark when checked */\n                    input:checked ~ .checkmark:after {\n                        display: block;\n                    }\n\n                    /* Style the checkmark/indicator */\n                    .checkmark:after {\n                        left: 7px;\n                        top: 2px;\n                        width: 5px;\n                        height: 10px;\n                        border: solid white;\n                        border-width: 0 3px 3px 0;\n                        -webkit-transform: rotate(45deg);\n                        -ms-transform: rotate(45deg);\n                        transform: rotate(45deg);\n                    }\n                }}}}\n\n\n    .search {\n        color: #6b6b6b;\n        display: block;        \n        width:95%;     \n        height: 95%;\n        @include border-radius;\n        border-style: solid;\n        border-width: 1px;\n        margin: auto;\n        padding: 0px;\n        border-color: darkgray;\n\n    }\n    .min_max_container{\n         display:flex;\n            justify-content: space-between;\n            align-items: center;      \n    }\n    .min_max{\n        color: #6b6b6b;\n        display: block;        \n        @include border-radius;\n        border-style: solid;\n        border-width: 1px;\n        border-color: darkgray;\n        width:50px;\n        height:20px;\n        padding:0px;\n    }\n\n\n\n}\n","$light: rgba(255, 255, 255, 1);\n$light-grey: rgba(229, 229, 229, 1);\n$red: #900;\n$font-heading: Verdana, sans-serif;\n\n$break-sm: 700px;\n$break-md: 1100px;\n$break-lg: 1600px;\n$break-xl: 2000px;\n\n@mixin shadow {\n  //box-shadow: 3px 3px 8px 1px darken($light-grey, 20%);\n   box-shadow: 2px 2px 10px #888888;\n}\n\n  @mixin animation {\n      transition-duration: 0.1s;\n  transition-property: transform;   \n  }\n  @mixin color{\n color: #6b6b6b;\n  }\n  @mixin border_color{\n  border-color: darkgray;    \n  }\n  @mixin input_border{\n    border-style: solid;\n    border-width: 1px;\n  @include border_color;\n    border-width: 1px;\n    border-radius: 5px;\n  }\n  @mixin border{\n      border-radius: 5px;\n      border-style:none;\n  }\n  @mixin border-radius{\n      border-radius: 5px;\n  }\n  @mixin Button {\n          background-image: radial-gradient( #b6d7df, #56a9b8);\n color: white;\n  border-radius: 5px;\n   @include shadow;\n  border: 0;\n  cursor: pointer;\n  display: inline-block;\n font-size: 20px;\n  //font-weight: bold;\n  padding: 5px 15px;\n  text-decoration: none;\n  transition-duration: 0.1s;\n  transition-property: transform;\n//background-image: url(\"/img/logo/menu3.png\");\n  //  margin:0px 0px 20px 0px;\n        background-size: auto 100%;\n       // &:hover {\n  //transform: scale(1.1);\n//}\n\n}\n"],"sourceRoot":""}]);
+exports.push([module.i, ".Search_Panel {\n  overflow: hidden;\n  text-align: center;\n  margin: 0px 5px 5px 0px;\n  width: 195px;\n  border-radius: 5px;\n  background-size: auto 100%;\n  position: relative;\n  background-color: white;\n  box-shadow: 2px 2px 10px #888888;\n  color: #6b6b6b;\n  font-size: 15px;\n  /*  .btn {\n          background-color: #56a9b8;\n          alignment-adjust: central;\n          align-items: center;\n          transition-duration: 0.1s;\n          transition-property: transform;\n          display: flex;\n          //background-image: url(\"/img/logo/menu2.png\");\n          background-size: auto 100%;\n          @include border-radius;\n          @include shadow;\n          border: 0;\n          background-image: radial-gradient(#77c7d5,#56a9b8);\n          color: #fff;\n          cursor: pointer;\n          font-size: 25px;\n          justify-content: center;\n          align-content: center;\n          text-decoration: none; \n          width: 100%;\n          height:100%;\n          margin: auto;\n          @include animation;\n          &:hover{\n              transform: scale(1.1);\n          }*/ }\n  .Search_Panel .search_header {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    background-image: radial-gradient(#b5e8f2 10%, #5bd1e8);\n    height: 32px;\n    font-size: 15px; }\n  .Search_Panel .btn {\n    margin: 5px 0px;\n    background-color: #56a9b8;\n    justify-content: center;\n    align-items: center;\n    transition-duration: 0.1s;\n    transition-property: transform;\n    display: flex;\n    cursor: pointer;\n    transition-duration: 0.1s;\n    transition-property: transform;\n    border-radius: 5px;\n    width: 50%;\n    background-image: radial-gradient(#daf5f9 50%, #9ee3f1);\n    margin: 10px auto;\n    cursor: pointer;\n    transition-duration: 0.1s;\n    transition-property: transform; }\n    .Search_Panel .btn:hover {\n      transform: scale(1.1); }\n  .Search_Panel .container {\n    font-size: 15px; }\n    .Search_Panel .container .container_options_price {\n      margin: 5px auto;\n      width: 80%; }\n    .Search_Panel .container .container_header {\n      display: flex;\n      justify-content: center;\n      margin: 10px 0px;\n      background-image: linear-gradient(to right, #ffffff, #d9f9f6 50%, #ffffff 100%);\n      font-size: 15px; }\n      .Search_Panel .container .container_header .arrow {\n        display: flex;\n        align-items: center;\n        margin: 0px 2px;\n        font-size: 10px; }\n    .Search_Panel .container .container_options {\n      margin: 5px auto;\n      width: 80%; }\n      .Search_Panel .container .container_options .container_options_item {\n        display: flex;\n        justify-content: space-between;\n        align-items: center;\n        height: 25px; }\n        .Search_Panel .container .container_options .container_options_item .date {\n          border-radius: 5px;\n          border-style: solid;\n          border-color: darkgray;\n          font-size: inherit;\n          padding: 0px;\n          width: 130px;\n          color: #6b6b6b;\n          font-size: 13px;\n          text-align: right;\n          border-width: 1px;\n          height: 18px; }\n        .Search_Panel .container .container_options .container_options_item .text {\n          display: flex; }\n        .Search_Panel .container .container_options .container_options_item .check_container {\n          width: 20px;\n          height: 20px;\n          display: flex;\n          position: relative;\n          cursor: pointer;\n          font-size: 20px;\n          /* Hide the browser's default checkbox */\n          /* On mouse-over, add a grey background color */\n          /* When the checkbox is checked, add a blue background */\n          /* Create the checkmark/indicator (hidden when not checked) */\n          /* Show the checkmark when checked */\n          /* Style the checkmark/indicator */ }\n          .Search_Panel .container .container_options .container_options_item .check_container input {\n            position: absolute;\n            opacity: 0; }\n          .Search_Panel .container .container_options .container_options_item .check_container .checkmark {\n            position: absolute;\n            height: 20px;\n            width: 20px;\n            background-color: #e3faf8; }\n          .Search_Panel .container .container_options .container_options_item .check_container:hover input ~ .checkmark {\n            background-color: #56d4cb; }\n          .Search_Panel .container .container_options .container_options_item .check_container input:checked ~ .checkmark {\n            background-color: #56d4cb; }\n          .Search_Panel .container .container_options .container_options_item .check_container .checkmark:after {\n            content: \"\";\n            position: absolute;\n            display: none; }\n          .Search_Panel .container .container_options .container_options_item .check_container input:checked ~ .checkmark:after {\n            display: block; }\n          .Search_Panel .container .container_options .container_options_item .check_container .checkmark:after {\n            left: 7px;\n            top: 2px;\n            width: 5px;\n            height: 10px;\n            border: solid white;\n            border-width: 0 3px 3px 0;\n            -webkit-transform: rotate(45deg);\n            -ms-transform: rotate(45deg);\n            transform: rotate(45deg); }\n  .Search_Panel .search {\n    color: #6b6b6b;\n    display: block;\n    width: 95%;\n    height: 95%;\n    border-radius: 5px;\n    border-style: solid;\n    border-width: 1px;\n    margin: auto;\n    padding: 0px;\n    border-color: darkgray; }\n  .Search_Panel .min_max_container {\n    display: flex;\n    justify-content: space-between;\n    align-items: center; }\n  .Search_Panel .min_max {\n    color: #6b6b6b;\n    display: block;\n    border-radius: 5px;\n    border-style: solid;\n    border-width: 1px;\n    border-color: darkgray;\n    width: 50px;\n    height: 20px;\n    padding: 0px; }\n", "", {"version":3,"sources":["E:/projects/project6/css/components/css/components/Search_Panel.scss","E:/projects/project6/css/components/css/components/globals.scss"],"names":[],"mappings":"AACA;EACI,iBAAgB;EAChB,mBAAiB;EACjB,wBAAsB;EACtB,aAAW;ECgCT,mBAAkB;EDtBpB,2BAA0B;EAC1B,mBAAiB;EAEjB,wBAAsB;ECNvB,iCAAgC;EDQ/B,eAAc;EAEd,gBAAe;EAEf;;;;;;;;;;;;;;;;;;;;;;;;;aAyBS,EA2KZ;EA3ND;IAMQ,cAAa;IACb,oBAAmB;IACnB,wBAAuB;IACxB,wDAAuD;IACtD,aAAW;IACX,gBAAc,EACjB;EAZL;IAkDQ,gBAAe;IAEf,0BAAyB;IACzB,wBAAuB;IACvB,oBAAmB;IACnB,0BAAyB;IACzB,+BAA8B;IAC9B,cAAa;IACb,gBAAe;IACf,0BAAyB;IACzB,+BAA8B;IAC9B,mBAAkB;IAClB,WAAU;IAEV,wDAAuD;IACvD,kBAAiB;IACjB,gBAAe;ICnDjB,0BAAyB;IAC7B,+BAA8B,EDyD3B;IAzEL;MAsEY,sBAAqB,EACxB;EAvET;IA4EQ,gBAAc,EA4GF;IAxLpB;MA8EY,iBAAgB;MAChB,WAAU,EAEb;IAjFT;MAmFS,cAAa;MACb,wBAAuB;MACvB,iBAAgB;MAChB,gFAA8E;MAC9E,gBAAc,EAOd;MA9FT;QAyFS,cAAa;QACb,oBAAmB;QAClB,gBAAe;QACd,gBAAc,EACZ;IA7Fb;MAgGY,iBAAgB;MAChB,WAAU,EAuFH;MAxLnB;QAmGgB,cAAY;QACZ,+BAA8B;QAC9B,oBAAmB;QAEnB,aAAY,EAiFV;QAxLlB;UAyGoB,mBAAkB;UAClB,oBAAmB;UACnB,uBAAsB;UACtB,mBAAkB;UAClB,aAAW;UACX,aAAY;UACZ,eAAc;UACd,gBAAe;UACf,kBAAiB;UACjB,kBAAiB;UACjB,aAAY,EACf;QApHjB;UAsHoB,cAAY,EAEf;QAxHjB;UA0HoB,YAAU;UACV,aAAW;UACX,cAAY;UAEZ,mBAAkB;UAGlB,gBAAe;UACf,gBAAe;UAIf,yCAAyC;UAezC,gDAAgD;UAKhD,yDAAyD;UAMzD,8DAA8D;UAO9D,qCAAqC;UAKrC,mCAAmC,EAYtC;UAxLjB;YAwIwB,mBAAkB;YAClB,WAAU,EAEb;UA3IrB;YA6IwB,mBAAkB;YAGlB,aAAY;YACZ,YAAW;YACX,0BAAyB,EAC5B;UAnJrB;YAuJwB,0BAAyB,EAC5B;UAxJrB;YA4JwB,0BAAyB,EAE5B;UA9JrB;YAkKwB,YAAW;YACX,mBAAkB;YAClB,cAAa,EAChB;UArKrB;YAyKwB,eAAc,EACjB;UA1KrB;YA8KwB,UAAS;YACT,SAAQ;YACR,WAAU;YACV,aAAY;YACZ,oBAAmB;YACnB,0BAAyB;YACzB,iCAAgC;YAChC,6BAA4B;YAC5B,yBAAwB,EAC3B;EAvLrB;IA4LQ,eAAc;IACd,eAAc;IACd,WAAS;IACT,YAAW;IC3Jb,mBAAkB;ID6JhB,oBAAmB;IACnB,kBAAiB;IACjB,aAAY;IACZ,aAAY;IACZ,uBAAsB,EAEzB;EAvML;IAyMS,cAAY;IACT,+BAA8B;IAC9B,oBAAmB,EAC1B;EA5ML;IA8MQ,eAAc;IACd,eAAc;IC3KhB,mBAAkB;ID6KhB,oBAAmB;IACnB,kBAAiB;IACjB,uBAAsB;IACtB,YAAU;IACV,aAAW;IACX,aAAW,EACd","file":"Search_Panel.scss","sourcesContent":["@import 'globals';\n.Search_Panel{\n    overflow: hidden;\n    text-align:center;\n    margin:0px 5px 5px 0px;\n    width:195px;\n    .search_header{\n        display: flex;\n        align-items: center;\n        justify-content: center;\n       background-image: radial-gradient(#b5e8f2 10%, #5bd1e8);\n        height:32px;\n        font-size:15px;     \n    }\n    @include border-radius;\n    background-size: auto 100%;\n    position:relative;\n    //left:0px;\n    background-color:white;\n    @include shadow;\n    color: #6b6b6b;\n    //padding: 5px 0px;\n    font-size: 15px;\n\n    /*  .btn {\n          background-color: #56a9b8;\n          alignment-adjust: central;\n          align-items: center;\n          transition-duration: 0.1s;\n          transition-property: transform;\n          display: flex;\n          //background-image: url(\"/img/logo/menu2.png\");\n          background-size: auto 100%;\n          @include border-radius;\n          @include shadow;\n          border: 0;\n          background-image: radial-gradient(#77c7d5,#56a9b8);\n          color: #fff;\n          cursor: pointer;\n          font-size: 25px;\n          justify-content: center;\n          align-content: center;\n          text-decoration: none; \n          width: 100%;\n          height:100%;\n          margin: auto;\n          @include animation;\n          &:hover{\n              transform: scale(1.1);\n          }*/\n    .btn {\n        margin: 5px 0px;\n\n        background-color: #56a9b8;\n        justify-content: center;\n        align-items: center;\n        transition-duration: 0.1s;\n        transition-property: transform;\n        display: flex;\n        cursor: pointer;\n        transition-duration: 0.1s;\n        transition-property: transform;\n        border-radius: 5px;\n        width: 50%;\n\n        background-image: radial-gradient(#daf5f9 50%, #9ee3f1);\n        margin: 10px auto;\n        cursor: pointer;\n\n        @include animation;\n        &:hover{\n            transform: scale(1.1);\n        }\n\n    }\n\n    .container{\n        font-size:15px;\n        .container_options_price{\n            margin: 5px auto;\n            width: 80%;\n      \n        }\n        .container_header{\n         display: flex;\n         justify-content: center;\n         margin: 10px 0px;\n         background-image: linear-gradient(to right, #ffffff,#d9f9f6 50%, #ffffff 100%);\n         font-size:15px;    \n            .arrow{\n         display: flex;\n         align-items: center;\n          margin: 0px 2px;\n           font-size:10px;  \n            }\n        }\n        .container_options{\n            margin: 5px auto;\n            width: 80%;\n            .container_options_item{\n                display:flex;\n                justify-content: space-between;\n                align-items: center;         \n\n                height: 25px;\n                .date{\n                    border-radius: 5px;\n                    border-style: solid;\n                    border-color: darkgray;\n                    font-size: inherit;\n                    padding:0px;\n                    width: 130px;\n                    color: #6b6b6b;\n                    font-size: 13px;\n                    text-align: right;\n                    border-width: 1px;\n                    height: 18px;\n                }\n                .text {\n                    display:flex;\n                    \n                }\n                .check_container{\n                    width:20px;\n                    height:20px;\n                    display:flex;\n                    //display: block;\n                    position: relative;\n                    //padding-left: 35px;\n                    //margin-bottom: 12px;\n                    cursor: pointer;\n                    font-size: 20px;\n                    //user-select: none;\n\n\n                    /* Hide the browser's default checkbox */\n                    input {\n                        position: absolute;\n                        opacity: 0;\n                        // cursor: pointer;\n                    }\n                    .checkmark {\n                        position: absolute;\n                        // top: 0;\n                        //left: 0;\n                        height: 20px;\n                        width: 20px;\n                        background-color: #e3faf8;\n                    }\n\n                    /* On mouse-over, add a grey background color */\n                    &:hover input ~ .checkmark {\n                        background-color: #56d4cb;\n                    }\n\n                    /* When the checkbox is checked, add a blue background */\n                    input:checked ~ .checkmark {\n                        background-color: #56d4cb;\n                        //#95d6e7;\n                    }\n\n                    /* Create the checkmark/indicator (hidden when not checked) */\n                    .checkmark:after {\n                        content: \"\";\n                        position: absolute;\n                        display: none;\n                    }\n\n                    /* Show the checkmark when checked */\n                    input:checked ~ .checkmark:after {\n                        display: block;\n                    }\n\n                    /* Style the checkmark/indicator */\n                    .checkmark:after {\n                        left: 7px;\n                        top: 2px;\n                        width: 5px;\n                        height: 10px;\n                        border: solid white;\n                        border-width: 0 3px 3px 0;\n                        -webkit-transform: rotate(45deg);\n                        -ms-transform: rotate(45deg);\n                        transform: rotate(45deg);\n                    }\n                }}}}\n\n\n    .search {\n        color: #6b6b6b;\n        display: block;        \n        width:95%;     \n        height: 95%;\n        @include border-radius;\n        border-style: solid;\n        border-width: 1px;\n        margin: auto;\n        padding: 0px;\n        border-color: darkgray;\n\n    }\n    .min_max_container{\n         display:flex;\n            justify-content: space-between;\n            align-items: center;      \n    }\n    .min_max{\n        color: #6b6b6b;\n        display: block;        \n        @include border-radius;\n        border-style: solid;\n        border-width: 1px;\n        border-color: darkgray;\n        width:50px;\n        height:20px;\n        padding:0px;\n    }\n\n\n\n}\n","$light: rgba(255, 255, 255, 1);\n$light-grey: rgba(229, 229, 229, 1);\n$red: #900;\n$font-heading: Verdana, sans-serif;\n\n$break-sm: 700px;\n$break-md: 1100px;\n$break-lg: 1600px;\n$break-xl: 2000px;\n\n@mixin shadow {\n  //box-shadow: 3px 3px 8px 1px darken($light-grey, 20%);\n   box-shadow: 2px 2px 10px #888888;\n}\n\n  @mixin animation {\n      transition-duration: 0.1s;\n  transition-property: transform;   \n  }\n  @mixin color{\n color: #6b6b6b;\n  }\n  @mixin border_color{\n  border-color: darkgray;    \n  }\n  @mixin input_border{\n    border-style: solid;\n    border-width: 1px;\n  @include border_color;\n    border-width: 1px;\n    border-radius: 5px;\n  }\n  @mixin border{\n      border-radius: 5px;\n      border-style:none;\n  }\n  @mixin border-radius{\n      border-radius: 5px;\n  }\n  @mixin Button {\n          background-image: radial-gradient( #b6d7df, #56a9b8);\n color: white;\n  border-radius: 5px;\n   @include shadow;\n  border: 0;\n  cursor: pointer;\n  display: inline-block;\n font-size: 20px;\n  //font-weight: bold;\n  padding: 5px 15px;\n  text-decoration: none;\n  transition-duration: 0.1s;\n  transition-property: transform;\n//background-image: url(\"/img/logo/menu3.png\");\n  //  margin:0px 0px 20px 0px;\n        background-size: auto 100%;\n       // &:hover {\n  //transform: scale(1.1);\n//}\n\n}\n"],"sourceRoot":""}]);
 
 // exports
 
@@ -4560,7 +4662,7 @@ exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader
 
 
 // module
-exports.push([module.i, ".rc-slider {\n  position: relative;\n  height: 14px;\n  padding: 5px 0px 20px;\n  width: 100%;\n  border-radius: 6px;\n  -ms-touch-action: none;\n  touch-action: none;\n  box-sizing: border-box;\n  -webkit-tap-highlight-color: transparent; }\n\n.rc-slider * {\n  box-sizing: border-box;\n  -webkit-tap-highlight-color: transparent; }\n\n.rc-slider-rail {\n  position: absolute;\n  width: 100%;\n  background-color: #e9e9e9;\n  height: 4px;\n  border-radius: 6px; }\n\n.rc-slider-track {\n  position: absolute;\n  left: 0;\n  height: 4px;\n  border-radius: 6px;\n  background-color: #abe2fb; }\n\n.rc-slider-handle {\n  position: absolute;\n  margin-left: -7px;\n  margin-top: -5px;\n  width: 14px;\n  height: 14px;\n  cursor: pointer;\n  cursor: -webkit-grab;\n  cursor: grab;\n  border-radius: 50%;\n  border: solid 2px #96dbfa;\n  background-color: #fff;\n  -ms-touch-action: pan-x;\n  touch-action: pan-x; }\n\n.rc-slider-handle:focus {\n  border-color: #57c5f7;\n  box-shadow: 0 0 0 5px #96dbfa;\n  outline: none; }\n\n.rc-slider-handle-click-focused:focus {\n  border-color: #96dbfa;\n  box-shadow: unset; }\n\n.rc-slider-handle:hover {\n  border-color: #57c5f7; }\n\n.rc-slider-handle:active {\n  border-color: #57c5f7;\n  box-shadow: 0 0 5px #57c5f7;\n  cursor: -webkit-grabbing;\n  cursor: grabbing; }\n\n.rc-slider-mark {\n  position: absolute;\n  top: 18px;\n  left: 0;\n  width: 100%;\n  font-size: 12px; }\n\n.rc-slider-mark-text {\n  position: absolute;\n  display: inline-block;\n  vertical-align: middle;\n  text-align: center;\n  cursor: pointer;\n  color: #999; }\n\n.rc-slider-mark-text-active {\n  color: #666; }\n\n.rc-slider-step {\n  position: absolute;\n  width: 100%;\n  height: 4px;\n  background: transparent; }\n\n.rc-slider-dot {\n  position: absolute;\n  bottom: -2px;\n  margin-left: -4px;\n  width: 8px;\n  height: 8px;\n  border: 2px solid #e9e9e9;\n  background-color: #fff;\n  cursor: pointer;\n  border-radius: 50%;\n  vertical-align: middle; }\n\n.rc-slider-dot-active {\n  border-color: #96dbfa; }\n\n.rc-slider-disabled {\n  background-color: #e9e9e9; }\n\n.rc-slider-disabled .rc-slider-track {\n  background-color: #ccc; }\n\n.rc-slider-disabled .rc-slider-handle,\n.rc-slider-disabled .rc-slider-dot {\n  border-color: #ccc;\n  box-shadow: none;\n  background-color: #fff;\n  cursor: not-allowed; }\n\n.rc-slider-disabled .rc-slider-mark-text,\n.rc-slider-disabled .rc-slider-dot {\n  cursor: not-allowed !important; }\n\n.rc-slider-vertical {\n  width: 14px;\n  height: 100%;\n  padding: 0 5px; }\n\n.rc-slider-vertical .rc-slider-rail {\n  height: 100%;\n  width: 4px; }\n\n.rc-slider-vertical .rc-slider-track {\n  left: 5px;\n  bottom: 0;\n  width: 4px; }\n\n.rc-slider-vertical .rc-slider-handle {\n  margin-left: -5px;\n  margin-bottom: -7px;\n  -ms-touch-action: pan-y;\n  touch-action: pan-y; }\n\n.rc-slider-vertical .rc-slider-mark {\n  top: 0;\n  left: 18px;\n  height: 100%; }\n\n.rc-slider-vertical .rc-slider-step {\n  height: 100%;\n  width: 4px; }\n\n.rc-slider-vertical .rc-slider-dot {\n  left: 2px;\n  margin-bottom: -4px; }\n\n.rc-slider-vertical .rc-slider-dot:first-child {\n  margin-bottom: -4px; }\n\n.rc-slider-vertical .rc-slider-dot:last-child {\n  margin-bottom: -4px; }\n\n.rc-slider-tooltip-zoom-down-enter,\n.rc-slider-tooltip-zoom-down-appear {\n  animation-duration: .3s;\n  animation-fill-mode: both;\n  display: block !important;\n  animation-play-state: paused; }\n\n.rc-slider-tooltip-zoom-down-leave {\n  animation-duration: .3s;\n  animation-fill-mode: both;\n  display: block !important;\n  animation-play-state: paused; }\n\n.rc-slider-tooltip-zoom-down-enter.rc-slider-tooltip-zoom-down-enter-active,\n.rc-slider-tooltip-zoom-down-appear.rc-slider-tooltip-zoom-down-appear-active {\n  animation-name: rcSliderTooltipZoomDownIn;\n  animation-play-state: running; }\n\n.rc-slider-tooltip-zoom-down-leave.rc-slider-tooltip-zoom-down-leave-active {\n  animation-name: rcSliderTooltipZoomDownOut;\n  animation-play-state: running; }\n\n.rc-slider-tooltip-zoom-down-enter,\n.rc-slider-tooltip-zoom-down-appear {\n  transform: scale(0, 0);\n  animation-timing-function: cubic-bezier(0.23, 1, 0.32, 1); }\n\n.rc-slider-tooltip-zoom-down-leave {\n  animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06); }\n\n@keyframes rcSliderTooltipZoomDownIn {\n  0% {\n    opacity: 0;\n    transform-origin: 50% 100%;\n    transform: scale(0, 0); }\n  100% {\n    transform-origin: 50% 100%;\n    transform: scale(1, 1); } }\n\n@keyframes rcSliderTooltipZoomDownOut {\n  0% {\n    transform-origin: 50% 100%;\n    transform: scale(1, 1); }\n  100% {\n    opacity: 0;\n    transform-origin: 50% 100%;\n    transform: scale(0, 0); } }\n\n.rc-slider-tooltip {\n  position: absolute;\n  left: -9999px;\n  top: -9999px;\n  visibility: visible;\n  box-sizing: border-box;\n  -webkit-tap-highlight-color: transparent; }\n\n.rc-slider-tooltip * {\n  box-sizing: border-box;\n  -webkit-tap-highlight-color: transparent; }\n\n.rc-slider-tooltip-hidden {\n  display: none; }\n\n.rc-slider-tooltip-placement-top {\n  padding: 4px 0 8px 0; }\n\n.rc-slider-tooltip-inner {\n  padding: 6px 2px;\n  min-width: 24px;\n  height: 24px;\n  font-size: 12px;\n  line-height: 1;\n  color: #fff;\n  text-align: center;\n  text-decoration: none;\n  background-color: #6c6c6c;\n  border-radius: 6px;\n  box-shadow: 0 0 4px #d9d9d9; }\n\n.rc-slider-tooltip-arrow {\n  position: absolute;\n  width: 0;\n  height: 0;\n  border-color: transparent;\n  border-style: solid; }\n\n.rc-slider-tooltip-placement-top .rc-slider-tooltip-arrow {\n  bottom: 4px;\n  left: 50%;\n  margin-left: -4px;\n  border-width: 4px 4px 0;\n  border-top-color: #6c6c6c; }\n", "", {"version":3,"sources":["E:/project6/css/components/css/components/Slider.scss"],"names":[],"mappings":"AAAA;EACE,mBAAkB;EAClB,aAAY;EACZ,sBAAqB;EACrB,YAAW;EACX,mBAAkB;EAClB,uBAAsB;EAClB,mBAAkB;EACtB,uBAAsB;EACtB,yCAA6C,EAC9C;;AACD;EACE,uBAAsB;EACtB,yCAA6C,EAC9C;;AACD;EACE,mBAAkB;EAClB,YAAW;EACX,0BAAyB;EACzB,YAAW;EACX,mBAAkB,EACnB;;AACD;EACE,mBAAkB;EAClB,QAAO;EACP,YAAW;EACX,mBAAkB;EAClB,0BAAyB,EAC1B;;AACD;EACE,mBAAkB;EAClB,kBAAiB;EACjB,iBAAgB;EAChB,YAAW;EACX,aAAY;EACZ,gBAAe;EACf,qBAAoB;EACpB,aAAY;EACZ,mBAAkB;EAClB,0BAAyB;EACzB,uBAAsB;EACtB,wBAAuB;EACnB,oBAAmB,EACxB;;AACD;EACE,sBAAqB;EACrB,8BAA6B;EAC7B,cAAa,EACd;;AACD;EACE,sBAAqB;EACrB,kBAAiB,EAClB;;AACD;EACE,sBAAqB,EACtB;;AACD;EACE,sBAAqB;EACrB,4BAA2B;EAC3B,yBAAwB;EACxB,iBAAgB,EACjB;;AACD;EACE,mBAAkB;EAClB,UAAS;EACT,QAAO;EACP,YAAW;EACX,gBAAe,EAChB;;AACD;EACE,mBAAkB;EAClB,sBAAqB;EACrB,uBAAsB;EACtB,mBAAkB;EAClB,gBAAe;EACf,YAAW,EACZ;;AACD;EACE,YAAW,EACZ;;AACD;EACE,mBAAkB;EAClB,YAAW;EACX,YAAW;EACX,wBAAuB,EACxB;;AACD;EACE,mBAAkB;EAClB,aAAY;EACZ,kBAAiB;EACjB,WAAU;EACV,YAAW;EACX,0BAAyB;EACzB,uBAAsB;EACtB,gBAAe;EACf,mBAAkB;EAClB,uBAAsB,EACvB;;AACD;EACE,sBAAqB,EACtB;;AACD;EACE,0BAAyB,EAC1B;;AACD;EACE,uBAAsB,EACvB;;AACD;;EAEE,mBAAkB;EAClB,iBAAgB;EAChB,uBAAsB;EACtB,oBAAmB,EACpB;;AACD;;EAEE,+BAA8B,EAC/B;;AACD;EACE,YAAW;EACX,aAAY;EACZ,eAAc,EACf;;AACD;EACE,aAAY;EACZ,WAAU,EACX;;AACD;EACE,UAAS;EACT,UAAS;EACT,WAAU,EACX;;AACD;EACE,kBAAiB;EACjB,oBAAmB;EACnB,wBAAuB;EACnB,oBAAmB,EACxB;;AACD;EACE,OAAM;EACN,WAAU;EACV,aAAY,EACb;;AACD;EACE,aAAY;EACZ,WAAU,EACX;;AACD;EACE,UAAS;EACT,oBAAmB,EACpB;;AACD;EACE,oBAAmB,EACpB;;AACD;EACE,oBAAmB,EACpB;;AACD;;EAEE,wBAAuB;EACvB,0BAAyB;EACzB,0BAAyB;EACzB,6BAA4B,EAC7B;;AACD;EACE,wBAAuB;EACvB,0BAAyB;EACzB,0BAAyB;EACzB,6BAA4B,EAC7B;;AACD;;EAEE,0CAAyC;EACzC,8BAA6B,EAC9B;;AACD;EACE,2CAA0C;EAC1C,8BAA6B,EAC9B;;AACD;;EAEE,uBAAsB;EACtB,0DAAyD,EAC1D;;AACD;EACE,kEAAiE,EAClE;;AACD;EACE;IACE,WAAU;IACV,2BAA0B;IAC1B,uBAAsB,EAAA;EAExB;IACE,2BAA0B;IAC1B,uBAAsB,EAAA,EAAA;;AAG1B;EACE;IACE,2BAA0B;IAC1B,uBAAsB,EAAA;EAExB;IACE,WAAU;IACV,2BAA0B;IAC1B,uBAAsB,EAAA,EAAA;;AAG1B;EACE,mBAAkB;EAClB,cAAa;EACb,aAAY;EACZ,oBAAmB;EACnB,uBAAsB;EACtB,yCAA6C,EAC9C;;AACD;EACE,uBAAsB;EACtB,yCAA6C,EAC9C;;AACD;EACE,cAAa,EACd;;AACD;EACE,qBAAoB,EACrB;;AACD;EACE,iBAAgB;EAChB,gBAAe;EACf,aAAY;EACZ,gBAAe;EACf,eAAc;EACd,YAAW;EACX,mBAAkB;EAClB,sBAAqB;EACrB,0BAAyB;EACzB,mBAAkB;EAClB,4BAA2B,EAC5B;;AACD;EACE,mBAAkB;EAClB,SAAQ;EACR,UAAS;EACT,0BAAyB;EACzB,oBAAmB,EACpB;;AACD;EACE,YAAW;EACX,UAAS;EACT,kBAAiB;EACjB,wBAAuB;EACvB,0BAAyB,EAC1B","file":"Slider.scss","sourcesContent":[".rc-slider {\n  position: relative;\n  height: 14px;\n  padding: 5px 0px 20px;\n  width: 100%;\n  border-radius: 6px;\n  -ms-touch-action: none;\n      touch-action: none;\n  box-sizing: border-box;\n  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\n}\n.rc-slider * {\n  box-sizing: border-box;\n  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\n}\n.rc-slider-rail {\n  position: absolute;\n  width: 100%;\n  background-color: #e9e9e9;\n  height: 4px;\n  border-radius: 6px;\n}\n.rc-slider-track {\n  position: absolute;\n  left: 0;\n  height: 4px;\n  border-radius: 6px;\n  background-color: #abe2fb;\n}\n.rc-slider-handle {\n  position: absolute;\n  margin-left: -7px;\n  margin-top: -5px;\n  width: 14px;\n  height: 14px;\n  cursor: pointer;\n  cursor: -webkit-grab;\n  cursor: grab;\n  border-radius: 50%;\n  border: solid 2px #96dbfa;\n  background-color: #fff;\n  -ms-touch-action: pan-x;\n      touch-action: pan-x;\n}\n.rc-slider-handle:focus {\n  border-color: #57c5f7;\n  box-shadow: 0 0 0 5px #96dbfa;\n  outline: none;\n}\n.rc-slider-handle-click-focused:focus {\n  border-color: #96dbfa;\n  box-shadow: unset;\n}\n.rc-slider-handle:hover {\n  border-color: #57c5f7;\n}\n.rc-slider-handle:active {\n  border-color: #57c5f7;\n  box-shadow: 0 0 5px #57c5f7;\n  cursor: -webkit-grabbing;\n  cursor: grabbing;\n}\n.rc-slider-mark {\n  position: absolute;\n  top: 18px;\n  left: 0;\n  width: 100%;\n  font-size: 12px;\n}\n.rc-slider-mark-text {\n  position: absolute;\n  display: inline-block;\n  vertical-align: middle;\n  text-align: center;\n  cursor: pointer;\n  color: #999;\n}\n.rc-slider-mark-text-active {\n  color: #666;\n}\n.rc-slider-step {\n  position: absolute;\n  width: 100%;\n  height: 4px;\n  background: transparent;\n}\n.rc-slider-dot {\n  position: absolute;\n  bottom: -2px;\n  margin-left: -4px;\n  width: 8px;\n  height: 8px;\n  border: 2px solid #e9e9e9;\n  background-color: #fff;\n  cursor: pointer;\n  border-radius: 50%;\n  vertical-align: middle;\n}\n.rc-slider-dot-active {\n  border-color: #96dbfa;\n}\n.rc-slider-disabled {\n  background-color: #e9e9e9;\n}\n.rc-slider-disabled .rc-slider-track {\n  background-color: #ccc;\n}\n.rc-slider-disabled .rc-slider-handle,\n.rc-slider-disabled .rc-slider-dot {\n  border-color: #ccc;\n  box-shadow: none;\n  background-color: #fff;\n  cursor: not-allowed;\n}\n.rc-slider-disabled .rc-slider-mark-text,\n.rc-slider-disabled .rc-slider-dot {\n  cursor: not-allowed !important;\n}\n.rc-slider-vertical {\n  width: 14px;\n  height: 100%;\n  padding: 0 5px;\n}\n.rc-slider-vertical .rc-slider-rail {\n  height: 100%;\n  width: 4px;\n}\n.rc-slider-vertical .rc-slider-track {\n  left: 5px;\n  bottom: 0;\n  width: 4px;\n}\n.rc-slider-vertical .rc-slider-handle {\n  margin-left: -5px;\n  margin-bottom: -7px;\n  -ms-touch-action: pan-y;\n      touch-action: pan-y;\n}\n.rc-slider-vertical .rc-slider-mark {\n  top: 0;\n  left: 18px;\n  height: 100%;\n}\n.rc-slider-vertical .rc-slider-step {\n  height: 100%;\n  width: 4px;\n}\n.rc-slider-vertical .rc-slider-dot {\n  left: 2px;\n  margin-bottom: -4px;\n}\n.rc-slider-vertical .rc-slider-dot:first-child {\n  margin-bottom: -4px;\n}\n.rc-slider-vertical .rc-slider-dot:last-child {\n  margin-bottom: -4px;\n}\n.rc-slider-tooltip-zoom-down-enter,\n.rc-slider-tooltip-zoom-down-appear {\n  animation-duration: .3s;\n  animation-fill-mode: both;\n  display: block !important;\n  animation-play-state: paused;\n}\n.rc-slider-tooltip-zoom-down-leave {\n  animation-duration: .3s;\n  animation-fill-mode: both;\n  display: block !important;\n  animation-play-state: paused;\n}\n.rc-slider-tooltip-zoom-down-enter.rc-slider-tooltip-zoom-down-enter-active,\n.rc-slider-tooltip-zoom-down-appear.rc-slider-tooltip-zoom-down-appear-active {\n  animation-name: rcSliderTooltipZoomDownIn;\n  animation-play-state: running;\n}\n.rc-slider-tooltip-zoom-down-leave.rc-slider-tooltip-zoom-down-leave-active {\n  animation-name: rcSliderTooltipZoomDownOut;\n  animation-play-state: running;\n}\n.rc-slider-tooltip-zoom-down-enter,\n.rc-slider-tooltip-zoom-down-appear {\n  transform: scale(0, 0);\n  animation-timing-function: cubic-bezier(0.23, 1, 0.32, 1);\n}\n.rc-slider-tooltip-zoom-down-leave {\n  animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06);\n}\n@keyframes rcSliderTooltipZoomDownIn {\n  0% {\n    opacity: 0;\n    transform-origin: 50% 100%;\n    transform: scale(0, 0);\n  }\n  100% {\n    transform-origin: 50% 100%;\n    transform: scale(1, 1);\n  }\n}\n@keyframes rcSliderTooltipZoomDownOut {\n  0% {\n    transform-origin: 50% 100%;\n    transform: scale(1, 1);\n  }\n  100% {\n    opacity: 0;\n    transform-origin: 50% 100%;\n    transform: scale(0, 0);\n  }\n}\n.rc-slider-tooltip {\n  position: absolute;\n  left: -9999px;\n  top: -9999px;\n  visibility: visible;\n  box-sizing: border-box;\n  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\n}\n.rc-slider-tooltip * {\n  box-sizing: border-box;\n  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\n}\n.rc-slider-tooltip-hidden {\n  display: none;\n}\n.rc-slider-tooltip-placement-top {\n  padding: 4px 0 8px 0;\n}\n.rc-slider-tooltip-inner {\n  padding: 6px 2px;\n  min-width: 24px;\n  height: 24px;\n  font-size: 12px;\n  line-height: 1;\n  color: #fff;\n  text-align: center;\n  text-decoration: none;\n  background-color: #6c6c6c;\n  border-radius: 6px;\n  box-shadow: 0 0 4px #d9d9d9;\n}\n.rc-slider-tooltip-arrow {\n  position: absolute;\n  width: 0;\n  height: 0;\n  border-color: transparent;\n  border-style: solid;\n}\n.rc-slider-tooltip-placement-top .rc-slider-tooltip-arrow {\n  bottom: 4px;\n  left: 50%;\n  margin-left: -4px;\n  border-width: 4px 4px 0;\n  border-top-color: #6c6c6c;\n}\n"],"sourceRoot":""}]);
+exports.push([module.i, ".rc-slider {\n  position: relative;\n  height: 14px;\n  padding: 5px 0px 20px;\n  width: 100%;\n  border-radius: 6px;\n  -ms-touch-action: none;\n  touch-action: none;\n  box-sizing: border-box;\n  -webkit-tap-highlight-color: transparent; }\n\n.rc-slider * {\n  box-sizing: border-box;\n  -webkit-tap-highlight-color: transparent; }\n\n.rc-slider-rail {\n  position: absolute;\n  width: 100%;\n  background-color: #e9e9e9;\n  height: 4px;\n  border-radius: 6px; }\n\n.rc-slider-track {\n  position: absolute;\n  left: 0;\n  height: 4px;\n  border-radius: 6px;\n  background-color: #abe2fb; }\n\n.rc-slider-handle {\n  position: absolute;\n  margin-left: -7px;\n  margin-top: -5px;\n  width: 14px;\n  height: 14px;\n  cursor: pointer;\n  cursor: -webkit-grab;\n  cursor: grab;\n  border-radius: 50%;\n  border: solid 2px #96dbfa;\n  background-color: #fff;\n  -ms-touch-action: pan-x;\n  touch-action: pan-x; }\n\n.rc-slider-handle:focus {\n  border-color: #57c5f7;\n  box-shadow: 0 0 0 5px #96dbfa;\n  outline: none; }\n\n.rc-slider-handle-click-focused:focus {\n  border-color: #96dbfa;\n  box-shadow: unset; }\n\n.rc-slider-handle:hover {\n  border-color: #57c5f7; }\n\n.rc-slider-handle:active {\n  border-color: #57c5f7;\n  box-shadow: 0 0 5px #57c5f7;\n  cursor: -webkit-grabbing;\n  cursor: grabbing; }\n\n.rc-slider-mark {\n  position: absolute;\n  top: 18px;\n  left: 0;\n  width: 100%;\n  font-size: 12px; }\n\n.rc-slider-mark-text {\n  position: absolute;\n  display: inline-block;\n  vertical-align: middle;\n  text-align: center;\n  cursor: pointer;\n  color: #999; }\n\n.rc-slider-mark-text-active {\n  color: #666; }\n\n.rc-slider-step {\n  position: absolute;\n  width: 100%;\n  height: 4px;\n  background: transparent; }\n\n.rc-slider-dot {\n  position: absolute;\n  bottom: -2px;\n  margin-left: -4px;\n  width: 8px;\n  height: 8px;\n  border: 2px solid #e9e9e9;\n  background-color: #fff;\n  cursor: pointer;\n  border-radius: 50%;\n  vertical-align: middle; }\n\n.rc-slider-dot-active {\n  border-color: #96dbfa; }\n\n.rc-slider-disabled {\n  background-color: #e9e9e9; }\n\n.rc-slider-disabled .rc-slider-track {\n  background-color: #ccc; }\n\n.rc-slider-disabled .rc-slider-handle,\n.rc-slider-disabled .rc-slider-dot {\n  border-color: #ccc;\n  box-shadow: none;\n  background-color: #fff;\n  cursor: not-allowed; }\n\n.rc-slider-disabled .rc-slider-mark-text,\n.rc-slider-disabled .rc-slider-dot {\n  cursor: not-allowed !important; }\n\n.rc-slider-vertical {\n  width: 14px;\n  height: 100%;\n  padding: 0 5px; }\n\n.rc-slider-vertical .rc-slider-rail {\n  height: 100%;\n  width: 4px; }\n\n.rc-slider-vertical .rc-slider-track {\n  left: 5px;\n  bottom: 0;\n  width: 4px; }\n\n.rc-slider-vertical .rc-slider-handle {\n  margin-left: -5px;\n  margin-bottom: -7px;\n  -ms-touch-action: pan-y;\n  touch-action: pan-y; }\n\n.rc-slider-vertical .rc-slider-mark {\n  top: 0;\n  left: 18px;\n  height: 100%; }\n\n.rc-slider-vertical .rc-slider-step {\n  height: 100%;\n  width: 4px; }\n\n.rc-slider-vertical .rc-slider-dot {\n  left: 2px;\n  margin-bottom: -4px; }\n\n.rc-slider-vertical .rc-slider-dot:first-child {\n  margin-bottom: -4px; }\n\n.rc-slider-vertical .rc-slider-dot:last-child {\n  margin-bottom: -4px; }\n\n.rc-slider-tooltip-zoom-down-enter,\n.rc-slider-tooltip-zoom-down-appear {\n  animation-duration: .3s;\n  animation-fill-mode: both;\n  display: block !important;\n  animation-play-state: paused; }\n\n.rc-slider-tooltip-zoom-down-leave {\n  animation-duration: .3s;\n  animation-fill-mode: both;\n  display: block !important;\n  animation-play-state: paused; }\n\n.rc-slider-tooltip-zoom-down-enter.rc-slider-tooltip-zoom-down-enter-active,\n.rc-slider-tooltip-zoom-down-appear.rc-slider-tooltip-zoom-down-appear-active {\n  animation-name: rcSliderTooltipZoomDownIn;\n  animation-play-state: running; }\n\n.rc-slider-tooltip-zoom-down-leave.rc-slider-tooltip-zoom-down-leave-active {\n  animation-name: rcSliderTooltipZoomDownOut;\n  animation-play-state: running; }\n\n.rc-slider-tooltip-zoom-down-enter,\n.rc-slider-tooltip-zoom-down-appear {\n  transform: scale(0, 0);\n  animation-timing-function: cubic-bezier(0.23, 1, 0.32, 1); }\n\n.rc-slider-tooltip-zoom-down-leave {\n  animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06); }\n\n@keyframes rcSliderTooltipZoomDownIn {\n  0% {\n    opacity: 0;\n    transform-origin: 50% 100%;\n    transform: scale(0, 0); }\n  100% {\n    transform-origin: 50% 100%;\n    transform: scale(1, 1); } }\n\n@keyframes rcSliderTooltipZoomDownOut {\n  0% {\n    transform-origin: 50% 100%;\n    transform: scale(1, 1); }\n  100% {\n    opacity: 0;\n    transform-origin: 50% 100%;\n    transform: scale(0, 0); } }\n\n.rc-slider-tooltip {\n  position: absolute;\n  left: -9999px;\n  top: -9999px;\n  visibility: visible;\n  box-sizing: border-box;\n  -webkit-tap-highlight-color: transparent; }\n\n.rc-slider-tooltip * {\n  box-sizing: border-box;\n  -webkit-tap-highlight-color: transparent; }\n\n.rc-slider-tooltip-hidden {\n  display: none; }\n\n.rc-slider-tooltip-placement-top {\n  padding: 4px 0 8px 0; }\n\n.rc-slider-tooltip-inner {\n  padding: 6px 2px;\n  min-width: 24px;\n  height: 24px;\n  font-size: 12px;\n  line-height: 1;\n  color: #fff;\n  text-align: center;\n  text-decoration: none;\n  background-color: #6c6c6c;\n  border-radius: 6px;\n  box-shadow: 0 0 4px #d9d9d9; }\n\n.rc-slider-tooltip-arrow {\n  position: absolute;\n  width: 0;\n  height: 0;\n  border-color: transparent;\n  border-style: solid; }\n\n.rc-slider-tooltip-placement-top .rc-slider-tooltip-arrow {\n  bottom: 4px;\n  left: 50%;\n  margin-left: -4px;\n  border-width: 4px 4px 0;\n  border-top-color: #6c6c6c; }\n", "", {"version":3,"sources":["E:/projects/project6/css/components/css/components/Slider.scss"],"names":[],"mappings":"AAAA;EACE,mBAAkB;EAClB,aAAY;EACZ,sBAAqB;EACrB,YAAW;EACX,mBAAkB;EAClB,uBAAsB;EAClB,mBAAkB;EACtB,uBAAsB;EACtB,yCAA6C,EAC9C;;AACD;EACE,uBAAsB;EACtB,yCAA6C,EAC9C;;AACD;EACE,mBAAkB;EAClB,YAAW;EACX,0BAAyB;EACzB,YAAW;EACX,mBAAkB,EACnB;;AACD;EACE,mBAAkB;EAClB,QAAO;EACP,YAAW;EACX,mBAAkB;EAClB,0BAAyB,EAC1B;;AACD;EACE,mBAAkB;EAClB,kBAAiB;EACjB,iBAAgB;EAChB,YAAW;EACX,aAAY;EACZ,gBAAe;EACf,qBAAoB;EACpB,aAAY;EACZ,mBAAkB;EAClB,0BAAyB;EACzB,uBAAsB;EACtB,wBAAuB;EACnB,oBAAmB,EACxB;;AACD;EACE,sBAAqB;EACrB,8BAA6B;EAC7B,cAAa,EACd;;AACD;EACE,sBAAqB;EACrB,kBAAiB,EAClB;;AACD;EACE,sBAAqB,EACtB;;AACD;EACE,sBAAqB;EACrB,4BAA2B;EAC3B,yBAAwB;EACxB,iBAAgB,EACjB;;AACD;EACE,mBAAkB;EAClB,UAAS;EACT,QAAO;EACP,YAAW;EACX,gBAAe,EAChB;;AACD;EACE,mBAAkB;EAClB,sBAAqB;EACrB,uBAAsB;EACtB,mBAAkB;EAClB,gBAAe;EACf,YAAW,EACZ;;AACD;EACE,YAAW,EACZ;;AACD;EACE,mBAAkB;EAClB,YAAW;EACX,YAAW;EACX,wBAAuB,EACxB;;AACD;EACE,mBAAkB;EAClB,aAAY;EACZ,kBAAiB;EACjB,WAAU;EACV,YAAW;EACX,0BAAyB;EACzB,uBAAsB;EACtB,gBAAe;EACf,mBAAkB;EAClB,uBAAsB,EACvB;;AACD;EACE,sBAAqB,EACtB;;AACD;EACE,0BAAyB,EAC1B;;AACD;EACE,uBAAsB,EACvB;;AACD;;EAEE,mBAAkB;EAClB,iBAAgB;EAChB,uBAAsB;EACtB,oBAAmB,EACpB;;AACD;;EAEE,+BAA8B,EAC/B;;AACD;EACE,YAAW;EACX,aAAY;EACZ,eAAc,EACf;;AACD;EACE,aAAY;EACZ,WAAU,EACX;;AACD;EACE,UAAS;EACT,UAAS;EACT,WAAU,EACX;;AACD;EACE,kBAAiB;EACjB,oBAAmB;EACnB,wBAAuB;EACnB,oBAAmB,EACxB;;AACD;EACE,OAAM;EACN,WAAU;EACV,aAAY,EACb;;AACD;EACE,aAAY;EACZ,WAAU,EACX;;AACD;EACE,UAAS;EACT,oBAAmB,EACpB;;AACD;EACE,oBAAmB,EACpB;;AACD;EACE,oBAAmB,EACpB;;AACD;;EAEE,wBAAuB;EACvB,0BAAyB;EACzB,0BAAyB;EACzB,6BAA4B,EAC7B;;AACD;EACE,wBAAuB;EACvB,0BAAyB;EACzB,0BAAyB;EACzB,6BAA4B,EAC7B;;AACD;;EAEE,0CAAyC;EACzC,8BAA6B,EAC9B;;AACD;EACE,2CAA0C;EAC1C,8BAA6B,EAC9B;;AACD;;EAEE,uBAAsB;EACtB,0DAAyD,EAC1D;;AACD;EACE,kEAAiE,EAClE;;AACD;EACE;IACE,WAAU;IACV,2BAA0B;IAC1B,uBAAsB,EAAA;EAExB;IACE,2BAA0B;IAC1B,uBAAsB,EAAA,EAAA;;AAG1B;EACE;IACE,2BAA0B;IAC1B,uBAAsB,EAAA;EAExB;IACE,WAAU;IACV,2BAA0B;IAC1B,uBAAsB,EAAA,EAAA;;AAG1B;EACE,mBAAkB;EAClB,cAAa;EACb,aAAY;EACZ,oBAAmB;EACnB,uBAAsB;EACtB,yCAA6C,EAC9C;;AACD;EACE,uBAAsB;EACtB,yCAA6C,EAC9C;;AACD;EACE,cAAa,EACd;;AACD;EACE,qBAAoB,EACrB;;AACD;EACE,iBAAgB;EAChB,gBAAe;EACf,aAAY;EACZ,gBAAe;EACf,eAAc;EACd,YAAW;EACX,mBAAkB;EAClB,sBAAqB;EACrB,0BAAyB;EACzB,mBAAkB;EAClB,4BAA2B,EAC5B;;AACD;EACE,mBAAkB;EAClB,SAAQ;EACR,UAAS;EACT,0BAAyB;EACzB,oBAAmB,EACpB;;AACD;EACE,YAAW;EACX,UAAS;EACT,kBAAiB;EACjB,wBAAuB;EACvB,0BAAyB,EAC1B","file":"Slider.scss","sourcesContent":[".rc-slider {\n  position: relative;\n  height: 14px;\n  padding: 5px 0px 20px;\n  width: 100%;\n  border-radius: 6px;\n  -ms-touch-action: none;\n      touch-action: none;\n  box-sizing: border-box;\n  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\n}\n.rc-slider * {\n  box-sizing: border-box;\n  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\n}\n.rc-slider-rail {\n  position: absolute;\n  width: 100%;\n  background-color: #e9e9e9;\n  height: 4px;\n  border-radius: 6px;\n}\n.rc-slider-track {\n  position: absolute;\n  left: 0;\n  height: 4px;\n  border-radius: 6px;\n  background-color: #abe2fb;\n}\n.rc-slider-handle {\n  position: absolute;\n  margin-left: -7px;\n  margin-top: -5px;\n  width: 14px;\n  height: 14px;\n  cursor: pointer;\n  cursor: -webkit-grab;\n  cursor: grab;\n  border-radius: 50%;\n  border: solid 2px #96dbfa;\n  background-color: #fff;\n  -ms-touch-action: pan-x;\n      touch-action: pan-x;\n}\n.rc-slider-handle:focus {\n  border-color: #57c5f7;\n  box-shadow: 0 0 0 5px #96dbfa;\n  outline: none;\n}\n.rc-slider-handle-click-focused:focus {\n  border-color: #96dbfa;\n  box-shadow: unset;\n}\n.rc-slider-handle:hover {\n  border-color: #57c5f7;\n}\n.rc-slider-handle:active {\n  border-color: #57c5f7;\n  box-shadow: 0 0 5px #57c5f7;\n  cursor: -webkit-grabbing;\n  cursor: grabbing;\n}\n.rc-slider-mark {\n  position: absolute;\n  top: 18px;\n  left: 0;\n  width: 100%;\n  font-size: 12px;\n}\n.rc-slider-mark-text {\n  position: absolute;\n  display: inline-block;\n  vertical-align: middle;\n  text-align: center;\n  cursor: pointer;\n  color: #999;\n}\n.rc-slider-mark-text-active {\n  color: #666;\n}\n.rc-slider-step {\n  position: absolute;\n  width: 100%;\n  height: 4px;\n  background: transparent;\n}\n.rc-slider-dot {\n  position: absolute;\n  bottom: -2px;\n  margin-left: -4px;\n  width: 8px;\n  height: 8px;\n  border: 2px solid #e9e9e9;\n  background-color: #fff;\n  cursor: pointer;\n  border-radius: 50%;\n  vertical-align: middle;\n}\n.rc-slider-dot-active {\n  border-color: #96dbfa;\n}\n.rc-slider-disabled {\n  background-color: #e9e9e9;\n}\n.rc-slider-disabled .rc-slider-track {\n  background-color: #ccc;\n}\n.rc-slider-disabled .rc-slider-handle,\n.rc-slider-disabled .rc-slider-dot {\n  border-color: #ccc;\n  box-shadow: none;\n  background-color: #fff;\n  cursor: not-allowed;\n}\n.rc-slider-disabled .rc-slider-mark-text,\n.rc-slider-disabled .rc-slider-dot {\n  cursor: not-allowed !important;\n}\n.rc-slider-vertical {\n  width: 14px;\n  height: 100%;\n  padding: 0 5px;\n}\n.rc-slider-vertical .rc-slider-rail {\n  height: 100%;\n  width: 4px;\n}\n.rc-slider-vertical .rc-slider-track {\n  left: 5px;\n  bottom: 0;\n  width: 4px;\n}\n.rc-slider-vertical .rc-slider-handle {\n  margin-left: -5px;\n  margin-bottom: -7px;\n  -ms-touch-action: pan-y;\n      touch-action: pan-y;\n}\n.rc-slider-vertical .rc-slider-mark {\n  top: 0;\n  left: 18px;\n  height: 100%;\n}\n.rc-slider-vertical .rc-slider-step {\n  height: 100%;\n  width: 4px;\n}\n.rc-slider-vertical .rc-slider-dot {\n  left: 2px;\n  margin-bottom: -4px;\n}\n.rc-slider-vertical .rc-slider-dot:first-child {\n  margin-bottom: -4px;\n}\n.rc-slider-vertical .rc-slider-dot:last-child {\n  margin-bottom: -4px;\n}\n.rc-slider-tooltip-zoom-down-enter,\n.rc-slider-tooltip-zoom-down-appear {\n  animation-duration: .3s;\n  animation-fill-mode: both;\n  display: block !important;\n  animation-play-state: paused;\n}\n.rc-slider-tooltip-zoom-down-leave {\n  animation-duration: .3s;\n  animation-fill-mode: both;\n  display: block !important;\n  animation-play-state: paused;\n}\n.rc-slider-tooltip-zoom-down-enter.rc-slider-tooltip-zoom-down-enter-active,\n.rc-slider-tooltip-zoom-down-appear.rc-slider-tooltip-zoom-down-appear-active {\n  animation-name: rcSliderTooltipZoomDownIn;\n  animation-play-state: running;\n}\n.rc-slider-tooltip-zoom-down-leave.rc-slider-tooltip-zoom-down-leave-active {\n  animation-name: rcSliderTooltipZoomDownOut;\n  animation-play-state: running;\n}\n.rc-slider-tooltip-zoom-down-enter,\n.rc-slider-tooltip-zoom-down-appear {\n  transform: scale(0, 0);\n  animation-timing-function: cubic-bezier(0.23, 1, 0.32, 1);\n}\n.rc-slider-tooltip-zoom-down-leave {\n  animation-timing-function: cubic-bezier(0.755, 0.05, 0.855, 0.06);\n}\n@keyframes rcSliderTooltipZoomDownIn {\n  0% {\n    opacity: 0;\n    transform-origin: 50% 100%;\n    transform: scale(0, 0);\n  }\n  100% {\n    transform-origin: 50% 100%;\n    transform: scale(1, 1);\n  }\n}\n@keyframes rcSliderTooltipZoomDownOut {\n  0% {\n    transform-origin: 50% 100%;\n    transform: scale(1, 1);\n  }\n  100% {\n    opacity: 0;\n    transform-origin: 50% 100%;\n    transform: scale(0, 0);\n  }\n}\n.rc-slider-tooltip {\n  position: absolute;\n  left: -9999px;\n  top: -9999px;\n  visibility: visible;\n  box-sizing: border-box;\n  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\n}\n.rc-slider-tooltip * {\n  box-sizing: border-box;\n  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\n}\n.rc-slider-tooltip-hidden {\n  display: none;\n}\n.rc-slider-tooltip-placement-top {\n  padding: 4px 0 8px 0;\n}\n.rc-slider-tooltip-inner {\n  padding: 6px 2px;\n  min-width: 24px;\n  height: 24px;\n  font-size: 12px;\n  line-height: 1;\n  color: #fff;\n  text-align: center;\n  text-decoration: none;\n  background-color: #6c6c6c;\n  border-radius: 6px;\n  box-shadow: 0 0 4px #d9d9d9;\n}\n.rc-slider-tooltip-arrow {\n  position: absolute;\n  width: 0;\n  height: 0;\n  border-color: transparent;\n  border-style: solid;\n}\n.rc-slider-tooltip-placement-top .rc-slider-tooltip-arrow {\n  bottom: 4px;\n  left: 50%;\n  margin-left: -4px;\n  border-width: 4px 4px 0;\n  border-top-color: #6c6c6c;\n}\n"],"sourceRoot":""}]);
 
 // exports
 
@@ -4579,7 +4681,7 @@ exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader
 
 
 // module
-exports.push([module.i, ".TableItem {\n  cursor: pointer; }\n", "", {"version":3,"sources":["E:/project6/css/components/css/components/TableItem.scss"],"names":[],"mappings":"AAAA;EACC,gBAAe,EACf","file":"TableItem.scss","sourcesContent":[".TableItem {\n cursor: pointer;   \n}\n"],"sourceRoot":""}]);
+exports.push([module.i, ".TableItem {\n  cursor: pointer; }\n", "", {"version":3,"sources":["E:/projects/project6/css/components/css/components/TableItem.scss"],"names":[],"mappings":"AAAA;EACC,gBAAe,EACf","file":"TableItem.scss","sourcesContent":[".TableItem {\n cursor: pointer;   \n}\n"],"sourceRoot":""}]);
 
 // exports
 
@@ -4598,7 +4700,7 @@ exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader
 
 
 // module
-exports.push([module.i, ".Table_Panel .btn {\n  background-color: #56a9b8;\n  alignment-adjust: central;\n  align-items: center;\n  transition-duration: 0.1s;\n  transition-property: transform;\n  display: flex;\n  background-size: auto 100%;\n  border-radius: 5px;\n  box-shadow: 2px 2px 10px #888888;\n  border: 0;\n  background-image: radial-gradient(#77c7d5, #56a9b8);\n  color: #fff;\n  cursor: pointer;\n  font-size: 25px;\n  justify-content: center;\n  align-content: center;\n  text-decoration: none;\n  width: 100%;\n  height: 100%;\n  margin: auto;\n  transition-duration: 0.1s;\n  transition-property: transform; }\n  .Table_Panel .btn:hover {\n    transform: scale(1.1); }\n\n.Table_Panel_container {\n  height: 45px;\n  position: relative; }\n\n.Table_PanelToolbar .container {\n  height: 100%;\n  width: 150px;\n  text-align: center; }\n\n.Table_Panel {\n  margin: 5px 0px 0px 0px;\n  background-size: auto 100%;\n  z-index: 1;\n  position: relative;\n  left: 0px;\n  width: 100%;\n  background-color: white;\n  box-shadow: 2px 2px 10px #888888;\n  height: 35px;\n  color: white;\n  padding: 5px 0px; }\n  .Table_Panel .x_container {\n    position: absolute;\n    right: 0px; }\n\n.Table_PanelToolbar {\n  width: 75%;\n  margin: auto;\n  height: 100%;\n  display: flex;\n  justify-content: space-between;\n  text-align: center;\n  margin: auto; }\n\n.Table_Panel .search {\n  display: block;\n  width: 95%;\n  height: 95%;\n  border-radius: 5px;\n  border-style: solid;\n  border-width: 1px;\n  margin: auto;\n  padding: 0px;\n  border-color: #6b6b6b; }\n\n.Table_PanelToolbar .search_container {\n  text-align: center;\n  height: 39px;\n  padding: 0px;\n  border-style: solid;\n  border-width: 1px;\n  border-color: #6b6b6b;\n  box-shadow: 2px 2px 10px #888888;\n  border-radius: 5px; }\n\n.Table_Panel_cart_button {\n  width: 100%;\n  height: 100%;\n  display: inline-block; }\n\n.Table_Panel_add_button {\n  width: 100%;\n  height: 35px;\n  display: inline-block; }\n\n.TablePanel .TablePanelToolbarAddButton {\n  font-size: 25px; }\n", "", {"version":3,"sources":["E:/project6/css/components/css/components/Table_Panel.scss","E:/project6/css/components/css/components/globals.scss"],"names":[],"mappings":"AACA;EACE,0BAAyB;EACzB,0BAAyB;EACzB,oBAAmB;EACnB,0BAAyB;EACzB,+BAA8B;EAChC,cAAa;EAEX,2BAA0B;EC4BtB,mBAAkB;EAzBrB,iCAAgC;EDAjC,UAAS;EACT,oDAAkD;EAClD,YAAW;EACX,gBAAe;EAChB,gBAAe;EAChB,wBAAuB;EACvB,sBAAqB;EACnB,sBAAqB;EACrB,YAAW;EACP,aAAW;EACX,aAAY;ECNZ,0BAAyB;EAC7B,+BAA8B,EDW/B;EA3BD;IAwBU,sBAAqB,EACxB;;AAGP;EACE,aAAW;EACX,mBAAkB,EACnB;;AACD;EACE,aAAW;EACZ,aAAY;EACV,mBAAkB,EACpB;;AACD;EAMG,wBAAuB;EACtB,2BAA0B;EAC1B,WAAS;EACT,mBAAiB;EAEjB,UAAQ;EACR,YAAU;EACV,wBAAsB;ECvCvB,iCAAgC;EDyC/B,aAAW;EACX,aAAY;EACZ,iBAAgB,EAKnB;EAtBD;IAmBS,mBAAkB;IAClB,WAAU,EACb;;AAEN;EAEI,WAAS;EAEV,aAAW;EACV,aAAY;EACZ,cAAc;EACd,+BAA+B;EAC/B,mBAAmB;EACnB,aAAW,EACd;;AAED;EACQ,eAAc;EACnB,WAAS;EACT,YAAW;ECvCR,mBAAkB;EDyCrB,oBAAmB;EACnB,kBAAiB;EACjB,aAAY;EACZ,aAAY;EACX,sBAAqB,EAExB;;AACD;EACG,mBAAkB;EACX,aAAY;EACD,aAAY;EAEZ,oBAAqB;EACrB,kBAAiB;EAEjB,sBAAqB;ECjFvC,iCAAgC;EAyB7B,mBAAkB,ED2DvB;;AAED;EAE0B,YAAW;EACX,aAAY;EACZ,sBAAoB,EAC7C;;AACD;EAEyB,YAAW;EACX,aAAY;EACZ,sBAAoB,EAC5C;;AAED;EACI,gBAAe,EAClB","file":"Table_Panel.scss","sourcesContent":["@import 'globals';\n.Table_Panel .btn {\n  background-color: #56a9b8;\n  alignment-adjust: central;\n  align-items: center;\n  transition-duration: 0.1s;\n  transition-property: transform;\ndisplay: flex;\n  //background-image: url(\"/img/logo/menu2.png\");\n  background-size: auto 100%;\n  @include border-radius;\n @include shadow;\n  border: 0;\n  background-image: radial-gradient(#77c7d5,#56a9b8);\n  color: #fff;\n  cursor: pointer;\n font-size: 25px;\njustify-content: center;\nalign-content: center;\n  text-decoration: none; \n  width: 100%;\n      height:100%;\n      margin: auto;\n      @include animation;\n      &:hover{\n          transform: scale(1.1);\n      }\n\n}\n.Table_Panel_container{ \n  height:45px;\n  position: relative;\n}\n.Table_PanelToolbar .container{ \n  height:100%;\n width: 150px;\n   text-align: center;\n}\n.Table_Panel{\n     //@include border-radius;\n   \n     //   border-top-right-radius: 40px;\n   // border-top-left-radius: 40px;\n  //background-image:  url(\"/img/logo/menu.png\") ;\n   margin: 5px 0px 0px 0px;\n    background-size: auto 100%;\n    z-index:1;\n    position:relative;\n    // position:fixed;\n    left:0px;\n    width:100%;\n    background-color:white;\n    @include shadow;\n    height:35px;\n    color: white;\n    padding: 5px 0px;\n      .x_container{\n         position: absolute;\n         right: 0px;\n     }\n}\n.Table_PanelToolbar{ \n     // overflow:hidden;\n    width:75%;\n   //width:800px;\n   margin:auto;\n    height: 100%;\n    display:  flex;    \n    justify-content:  space-between;\n    text-align:  center;\n    margin:auto;\n}\n\n.Table_Panel .search {\n        display: block;        \n   width:95%;     \n   height: 95%;\n   @include border-radius;\n   border-style: solid;\n   border-width: 1px;\n   margin: auto;\n   padding: 0px;\n    border-color: #6b6b6b;\n   \n}\n.Table_PanelToolbar .search_container{ \n   text-align: center;\n          height: 39px;\n                     padding: 0px;\n                     //justify-content: space-between;\n                     border-style:   solid;\n                     border-width: 1px;\n                     //  border-style:none;\n                     border-color: #6b6b6b;\n                      @include shadow;\n                     @include border-radius;\n}\n\n.Table_Panel_cart_button {//flex:4;\n                          // @include shadow;\n                          width: 100%;\n                          height: 100%;    \n                          display:inline-block;\n}\n.Table_Panel_add_button {//flex:4;\n                      //  @include shadow;\n                         width: 100%;\n                         height: 35px;    \n                         display:inline-block;\n}\n\n.TablePanel .TablePanelToolbarAddButton {\n    font-size: 25px;\n}\n\n.TablePanel .TablePanelDatagrid {\n}\n\n","$light: rgba(255, 255, 255, 1);\n$light-grey: rgba(229, 229, 229, 1);\n$red: #900;\n$font-heading: Verdana, sans-serif;\n\n$break-sm: 700px;\n$break-md: 1100px;\n$break-lg: 1600px;\n$break-xl: 2000px;\n\n@mixin shadow {\n  //box-shadow: 3px 3px 8px 1px darken($light-grey, 20%);\n   box-shadow: 2px 2px 10px #888888;\n}\n\n  @mixin animation {\n      transition-duration: 0.1s;\n  transition-property: transform;   \n  }\n  @mixin color{\n color: #6b6b6b;\n  }\n  @mixin border_color{\n  border-color: darkgray;    \n  }\n  @mixin input_border{\n    border-style: solid;\n    border-width: 1px;\n  @include border_color;\n    border-width: 1px;\n    border-radius: 5px;\n  }\n  @mixin border{\n      border-radius: 5px;\n      border-style:none;\n  }\n  @mixin border-radius{\n      border-radius: 5px;\n  }\n  @mixin Button {\n          background-image: radial-gradient( #b6d7df, #56a9b8);\n color: white;\n  border-radius: 5px;\n   @include shadow;\n  border: 0;\n  cursor: pointer;\n  display: inline-block;\n font-size: 20px;\n  //font-weight: bold;\n  padding: 5px 15px;\n  text-decoration: none;\n  transition-duration: 0.1s;\n  transition-property: transform;\n//background-image: url(\"/img/logo/menu3.png\");\n  //  margin:0px 0px 20px 0px;\n        background-size: auto 100%;\n       // &:hover {\n  //transform: scale(1.1);\n//}\n\n}\n"],"sourceRoot":""}]);
+exports.push([module.i, ".Table_Panel .btn {\n  background-color: #56a9b8;\n  alignment-adjust: central;\n  align-items: center;\n  transition-duration: 0.1s;\n  transition-property: transform;\n  display: flex;\n  background-size: auto 100%;\n  border-radius: 5px;\n  box-shadow: 2px 2px 10px #888888;\n  border: 0;\n  background-image: radial-gradient(#77c7d5, #56a9b8);\n  color: #fff;\n  cursor: pointer;\n  font-size: 25px;\n  justify-content: center;\n  align-content: center;\n  text-decoration: none;\n  width: 100%;\n  height: 100%;\n  margin: auto;\n  transition-duration: 0.1s;\n  transition-property: transform; }\n  .Table_Panel .btn:hover {\n    transform: scale(1.1); }\n\n.Table_Panel_container {\n  height: 45px;\n  position: relative; }\n\n.Table_PanelToolbar .container {\n  height: 100%;\n  width: 150px;\n  text-align: center; }\n\n.Table_Panel {\n  margin: 5px 0px 0px 0px;\n  background-size: auto 100%;\n  z-index: 1;\n  position: relative;\n  left: 0px;\n  width: 100%;\n  background-color: white;\n  box-shadow: 2px 2px 10px #888888;\n  height: 35px;\n  color: white;\n  padding: 5px 0px; }\n  .Table_Panel .x_container {\n    position: absolute;\n    right: 0px; }\n\n.Table_PanelToolbar {\n  width: 75%;\n  margin: auto;\n  height: 100%;\n  display: flex;\n  justify-content: space-between;\n  text-align: center;\n  margin: auto; }\n\n.Table_Panel .search {\n  display: block;\n  width: 95%;\n  height: 95%;\n  border-radius: 5px;\n  border-style: solid;\n  border-width: 1px;\n  margin: auto;\n  padding: 0px;\n  border-color: #6b6b6b; }\n\n.Table_PanelToolbar .search_container {\n  text-align: center;\n  height: 39px;\n  padding: 0px;\n  border-style: solid;\n  border-width: 1px;\n  border-color: #6b6b6b;\n  box-shadow: 2px 2px 10px #888888;\n  border-radius: 5px; }\n\n.Table_Panel_cart_button {\n  width: 100%;\n  height: 100%;\n  display: inline-block; }\n\n.Table_Panel_add_button {\n  width: 100%;\n  height: 35px;\n  display: inline-block; }\n\n.TablePanel .TablePanelToolbarAddButton {\n  font-size: 25px; }\n", "", {"version":3,"sources":["E:/projects/project6/css/components/css/components/Table_Panel.scss","E:/projects/project6/css/components/css/components/globals.scss"],"names":[],"mappings":"AACA;EACE,0BAAyB;EACzB,0BAAyB;EACzB,oBAAmB;EACnB,0BAAyB;EACzB,+BAA8B;EAChC,cAAa;EAEX,2BAA0B;EC4BtB,mBAAkB;EAzBrB,iCAAgC;EDAjC,UAAS;EACT,oDAAkD;EAClD,YAAW;EACX,gBAAe;EAChB,gBAAe;EAChB,wBAAuB;EACvB,sBAAqB;EACnB,sBAAqB;EACrB,YAAW;EACP,aAAW;EACX,aAAY;ECNZ,0BAAyB;EAC7B,+BAA8B,EDW/B;EA3BD;IAwBU,sBAAqB,EACxB;;AAGP;EACE,aAAW;EACX,mBAAkB,EACnB;;AACD;EACE,aAAW;EACZ,aAAY;EACV,mBAAkB,EACpB;;AACD;EAMG,wBAAuB;EACtB,2BAA0B;EAC1B,WAAS;EACT,mBAAiB;EAEjB,UAAQ;EACR,YAAU;EACV,wBAAsB;ECvCvB,iCAAgC;EDyC/B,aAAW;EACX,aAAY;EACZ,iBAAgB,EAKnB;EAtBD;IAmBS,mBAAkB;IAClB,WAAU,EACb;;AAEN;EAEI,WAAS;EAEV,aAAW;EACV,aAAY;EACZ,cAAc;EACd,+BAA+B;EAC/B,mBAAmB;EACnB,aAAW,EACd;;AAED;EACQ,eAAc;EACnB,WAAS;EACT,YAAW;ECvCR,mBAAkB;EDyCrB,oBAAmB;EACnB,kBAAiB;EACjB,aAAY;EACZ,aAAY;EACX,sBAAqB,EAExB;;AACD;EACG,mBAAkB;EACX,aAAY;EACD,aAAY;EAEZ,oBAAqB;EACrB,kBAAiB;EAEjB,sBAAqB;ECjFvC,iCAAgC;EAyB7B,mBAAkB,ED2DvB;;AAED;EAE0B,YAAW;EACX,aAAY;EACZ,sBAAoB,EAC7C;;AACD;EAEyB,YAAW;EACX,aAAY;EACZ,sBAAoB,EAC5C;;AAED;EACI,gBAAe,EAClB","file":"Table_Panel.scss","sourcesContent":["@import 'globals';\n.Table_Panel .btn {\n  background-color: #56a9b8;\n  alignment-adjust: central;\n  align-items: center;\n  transition-duration: 0.1s;\n  transition-property: transform;\ndisplay: flex;\n  //background-image: url(\"/img/logo/menu2.png\");\n  background-size: auto 100%;\n  @include border-radius;\n @include shadow;\n  border: 0;\n  background-image: radial-gradient(#77c7d5,#56a9b8);\n  color: #fff;\n  cursor: pointer;\n font-size: 25px;\njustify-content: center;\nalign-content: center;\n  text-decoration: none; \n  width: 100%;\n      height:100%;\n      margin: auto;\n      @include animation;\n      &:hover{\n          transform: scale(1.1);\n      }\n\n}\n.Table_Panel_container{ \n  height:45px;\n  position: relative;\n}\n.Table_PanelToolbar .container{ \n  height:100%;\n width: 150px;\n   text-align: center;\n}\n.Table_Panel{\n     //@include border-radius;\n   \n     //   border-top-right-radius: 40px;\n   // border-top-left-radius: 40px;\n  //background-image:  url(\"/img/logo/menu.png\") ;\n   margin: 5px 0px 0px 0px;\n    background-size: auto 100%;\n    z-index:1;\n    position:relative;\n    // position:fixed;\n    left:0px;\n    width:100%;\n    background-color:white;\n    @include shadow;\n    height:35px;\n    color: white;\n    padding: 5px 0px;\n      .x_container{\n         position: absolute;\n         right: 0px;\n     }\n}\n.Table_PanelToolbar{ \n     // overflow:hidden;\n    width:75%;\n   //width:800px;\n   margin:auto;\n    height: 100%;\n    display:  flex;    \n    justify-content:  space-between;\n    text-align:  center;\n    margin:auto;\n}\n\n.Table_Panel .search {\n        display: block;        \n   width:95%;     \n   height: 95%;\n   @include border-radius;\n   border-style: solid;\n   border-width: 1px;\n   margin: auto;\n   padding: 0px;\n    border-color: #6b6b6b;\n   \n}\n.Table_PanelToolbar .search_container{ \n   text-align: center;\n          height: 39px;\n                     padding: 0px;\n                     //justify-content: space-between;\n                     border-style:   solid;\n                     border-width: 1px;\n                     //  border-style:none;\n                     border-color: #6b6b6b;\n                      @include shadow;\n                     @include border-radius;\n}\n\n.Table_Panel_cart_button {//flex:4;\n                          // @include shadow;\n                          width: 100%;\n                          height: 100%;    \n                          display:inline-block;\n}\n.Table_Panel_add_button {//flex:4;\n                      //  @include shadow;\n                         width: 100%;\n                         height: 35px;    \n                         display:inline-block;\n}\n\n.TablePanel .TablePanelToolbarAddButton {\n    font-size: 25px;\n}\n\n.TablePanel .TablePanelDatagrid {\n}\n\n","$light: rgba(255, 255, 255, 1);\n$light-grey: rgba(229, 229, 229, 1);\n$red: #900;\n$font-heading: Verdana, sans-serif;\n\n$break-sm: 700px;\n$break-md: 1100px;\n$break-lg: 1600px;\n$break-xl: 2000px;\n\n@mixin shadow {\n  //box-shadow: 3px 3px 8px 1px darken($light-grey, 20%);\n   box-shadow: 2px 2px 10px #888888;\n}\n\n  @mixin animation {\n      transition-duration: 0.1s;\n  transition-property: transform;   \n  }\n  @mixin color{\n color: #6b6b6b;\n  }\n  @mixin border_color{\n  border-color: darkgray;    \n  }\n  @mixin input_border{\n    border-style: solid;\n    border-width: 1px;\n  @include border_color;\n    border-width: 1px;\n    border-radius: 5px;\n  }\n  @mixin border{\n      border-radius: 5px;\n      border-style:none;\n  }\n  @mixin border-radius{\n      border-radius: 5px;\n  }\n  @mixin Button {\n          background-image: radial-gradient( #b6d7df, #56a9b8);\n color: white;\n  border-radius: 5px;\n   @include shadow;\n  border: 0;\n  cursor: pointer;\n  display: inline-block;\n font-size: 20px;\n  //font-weight: bold;\n  padding: 5px 15px;\n  text-decoration: none;\n  transition-duration: 0.1s;\n  transition-property: transform;\n//background-image: url(\"/img/logo/menu3.png\");\n  //  margin:0px 0px 20px 0px;\n        background-size: auto 100%;\n       // &:hover {\n  //transform: scale(1.1);\n//}\n\n}\n"],"sourceRoot":""}]);
 
 // exports
 
@@ -4617,7 +4719,7 @@ exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader
 
 
 // module
-exports.push([module.i, ".rc-tooltip.rc-tooltip-zoom-enter,\n.rc-tooltip.rc-tooltip-zoom-leave {\n  display: block; }\n\n.rc-tooltip-zoom-enter,\n.rc-tooltip-zoom-appear {\n  opacity: 0;\n  animation-duration: 0.3s;\n  animation-fill-mode: both;\n  animation-timing-function: cubic-bezier(0.18, 0.89, 0.32, 1.28);\n  animation-play-state: paused; }\n\n.rc-tooltip-zoom-leave {\n  animation-duration: 0.3s;\n  animation-fill-mode: both;\n  animation-timing-function: cubic-bezier(0.6, -0.3, 0.74, 0.05);\n  animation-play-state: paused; }\n\n.rc-tooltip-zoom-enter.rc-tooltip-zoom-enter-active,\n.rc-tooltip-zoom-appear.rc-tooltip-zoom-appear-active {\n  animation-name: rcToolTipZoomIn;\n  animation-play-state: running; }\n\n.rc-tooltip-zoom-leave.rc-tooltip-zoom-leave-active {\n  animation-name: rcToolTipZoomOut;\n  animation-play-state: running; }\n\n@keyframes rcToolTipZoomIn {\n  0% {\n    opacity: 0;\n    transform-origin: 50% 50%;\n    transform: scale(0, 0); }\n  100% {\n    opacity: 1;\n    transform-origin: 50% 50%;\n    transform: scale(1, 1); } }\n\n@keyframes rcToolTipZoomOut {\n  0% {\n    opacity: 1;\n    transform-origin: 50% 50%;\n    transform: scale(1, 1); }\n  100% {\n    opacity: 0;\n    transform-origin: 50% 50%;\n    transform: scale(0, 0); } }\n\n.rc-tooltip {\n  position: absolute;\n  z-index: 1070;\n  display: block;\n  visibility: visible;\n  font-size: 12px;\n  line-height: 1.5;\n  opacity: 0.9; }\n\n.rc-tooltip-hidden {\n  display: none; }\n\n.rc-tooltip-placement-top,\n.rc-tooltip-placement-topLeft,\n.rc-tooltip-placement-topRight {\n  padding: 5px 0 9px 0; }\n\n.rc-tooltip-placement-right,\n.rc-tooltip-placement-rightTop,\n.rc-tooltip-placement-rightBottom {\n  padding: 0 5px 0 9px; }\n\n.rc-tooltip-placement-bottom,\n.rc-tooltip-placement-bottomLeft,\n.rc-tooltip-placement-bottomRight {\n  padding: 9px 0 5px 0; }\n\n.rc-tooltip-placement-left,\n.rc-tooltip-placement-leftTop,\n.rc-tooltip-placement-leftBottom {\n  padding: 0 9px 0 5px; }\n\n.rc-tooltip-inner {\n  padding: 8px 10px;\n  color: #fff;\n  text-align: left;\n  text-decoration: none;\n  background-color: #373737;\n  border-radius: 6px;\n  box-shadow: 0 0 4px rgba(0, 0, 0, 0.17);\n  min-height: 34px; }\n\n.rc-tooltip-arrow {\n  position: absolute;\n  width: 0;\n  height: 0;\n  border-color: transparent;\n  border-style: solid; }\n\n.rc-tooltip-placement-top .rc-tooltip-arrow,\n.rc-tooltip-placement-topLeft .rc-tooltip-arrow,\n.rc-tooltip-placement-topRight .rc-tooltip-arrow {\n  bottom: 4px;\n  margin-left: -5px;\n  border-width: 5px 5px 0;\n  border-top-color: #373737; }\n\n.rc-tooltip-placement-top .rc-tooltip-arrow {\n  left: 50%; }\n\n.rc-tooltip-placement-topLeft .rc-tooltip-arrow {\n  left: 15%; }\n\n.rc-tooltip-placement-topRight .rc-tooltip-arrow {\n  right: 15%; }\n\n.rc-tooltip-placement-right .rc-tooltip-arrow,\n.rc-tooltip-placement-rightTop .rc-tooltip-arrow,\n.rc-tooltip-placement-rightBottom .rc-tooltip-arrow {\n  left: 4px;\n  margin-top: -5px;\n  border-width: 5px 5px 5px 0;\n  border-right-color: #373737; }\n\n.rc-tooltip-placement-right .rc-tooltip-arrow {\n  top: 50%; }\n\n.rc-tooltip-placement-rightTop .rc-tooltip-arrow {\n  top: 15%;\n  margin-top: 0; }\n\n.rc-tooltip-placement-rightBottom .rc-tooltip-arrow {\n  bottom: 15%; }\n\n.rc-tooltip-placement-left .rc-tooltip-arrow,\n.rc-tooltip-placement-leftTop .rc-tooltip-arrow,\n.rc-tooltip-placement-leftBottom .rc-tooltip-arrow {\n  right: 4px;\n  margin-top: -5px;\n  border-width: 5px 0 5px 5px;\n  border-left-color: #373737; }\n\n.rc-tooltip-placement-left .rc-tooltip-arrow {\n  top: 50%; }\n\n.rc-tooltip-placement-leftTop .rc-tooltip-arrow {\n  top: 15%;\n  margin-top: 0; }\n\n.rc-tooltip-placement-leftBottom .rc-tooltip-arrow {\n  bottom: 15%; }\n\n.rc-tooltip-placement-bottom .rc-tooltip-arrow,\n.rc-tooltip-placement-bottomLeft .rc-tooltip-arrow,\n.rc-tooltip-placement-bottomRight .rc-tooltip-arrow {\n  top: 4px;\n  margin-left: -5px;\n  border-width: 0 5px 5px;\n  border-bottom-color: #373737; }\n\n.rc-tooltip-placement-bottom .rc-tooltip-arrow {\n  left: 50%; }\n\n.rc-tooltip-placement-bottomLeft .rc-tooltip-arrow {\n  left: 15%; }\n\n.rc-tooltip-placement-bottomRight .rc-tooltip-arrow {\n  right: 15%; }\n", "", {"version":3,"sources":["E:/project6/css/components/css/components/ToolTip.scss"],"names":[],"mappings":"AAAA;;EAEE,eAAc,EACf;;AACD;;EAEE,WAAU;EACV,yBAAwB;EACxB,0BAAyB;EACzB,gEAA+D;EAC/D,6BAA4B,EAC7B;;AACD;EACE,yBAAwB;EACxB,0BAAyB;EACzB,+DAA8D;EAC9D,6BAA4B,EAC7B;;AACD;;EAEE,gCAA+B;EAC/B,8BAA6B,EAC9B;;AACD;EACE,iCAAgC;EAChC,8BAA6B,EAC9B;;AACD;EACE;IACE,WAAU;IACV,0BAAyB;IACzB,uBAAsB,EAAA;EAExB;IACE,WAAU;IACV,0BAAyB;IACzB,uBAAsB,EAAA,EAAA;;AAG1B;EACE;IACE,WAAU;IACV,0BAAyB;IACzB,uBAAsB,EAAA;EAExB;IACE,WAAU;IACV,0BAAyB;IACzB,uBAAsB,EAAA,EAAA;;AAG1B;EACE,mBAAkB;EAClB,cAAa;EACb,eAAc;EACd,oBAAmB;EACnB,gBAAe;EACf,iBAAgB;EAChB,aAAY,EACb;;AACD;EACE,cAAa,EACd;;AACD;;;EAGE,qBAAoB,EACrB;;AACD;;;EAGE,qBAAoB,EACrB;;AACD;;;EAGE,qBAAoB,EACrB;;AACD;;;EAGE,qBAAoB,EACrB;;AACD;EACE,kBAAiB;EACjB,YAAW;EACX,iBAAgB;EAChB,sBAAqB;EACrB,0BAAyB;EACzB,mBAAkB;EAClB,wCAAuC;EACvC,iBAAgB,EACjB;;AACD;EACE,mBAAkB;EAClB,SAAQ;EACR,UAAS;EACT,0BAAyB;EACzB,oBAAmB,EACpB;;AACD;;;EAGE,YAAW;EACX,kBAAiB;EACjB,wBAAuB;EACvB,0BAAyB,EAC1B;;AACD;EACE,UAAS,EACV;;AACD;EACE,UAAS,EACV;;AACD;EACE,WAAU,EACX;;AACD;;;EAGE,UAAS;EACT,iBAAgB;EAChB,4BAA2B;EAC3B,4BAA2B,EAC5B;;AACD;EACE,SAAQ,EACT;;AACD;EACE,SAAQ;EACR,cAAa,EACd;;AACD;EACE,YAAW,EACZ;;AACD;;;EAGE,WAAU;EACV,iBAAgB;EAChB,4BAA2B;EAC3B,2BAA0B,EAC3B;;AACD;EACE,SAAQ,EACT;;AACD;EACE,SAAQ;EACR,cAAa,EACd;;AACD;EACE,YAAW,EACZ;;AACD;;;EAGE,SAAQ;EACR,kBAAiB;EACjB,wBAAuB;EACvB,6BAA4B,EAC7B;;AACD;EACE,UAAS,EACV;;AACD;EACE,UAAS,EACV;;AACD;EACE,WAAU,EACX","file":"ToolTip.scss","sourcesContent":[".rc-tooltip.rc-tooltip-zoom-enter,\n.rc-tooltip.rc-tooltip-zoom-leave {\n  display: block;\n}\n.rc-tooltip-zoom-enter,\n.rc-tooltip-zoom-appear {\n  opacity: 0;\n  animation-duration: 0.3s;\n  animation-fill-mode: both;\n  animation-timing-function: cubic-bezier(0.18, 0.89, 0.32, 1.28);\n  animation-play-state: paused;\n}\n.rc-tooltip-zoom-leave {\n  animation-duration: 0.3s;\n  animation-fill-mode: both;\n  animation-timing-function: cubic-bezier(0.6, -0.3, 0.74, 0.05);\n  animation-play-state: paused;\n}\n.rc-tooltip-zoom-enter.rc-tooltip-zoom-enter-active,\n.rc-tooltip-zoom-appear.rc-tooltip-zoom-appear-active {\n  animation-name: rcToolTipZoomIn;\n  animation-play-state: running;\n}\n.rc-tooltip-zoom-leave.rc-tooltip-zoom-leave-active {\n  animation-name: rcToolTipZoomOut;\n  animation-play-state: running;\n}\n@keyframes rcToolTipZoomIn {\n  0% {\n    opacity: 0;\n    transform-origin: 50% 50%;\n    transform: scale(0, 0);\n  }\n  100% {\n    opacity: 1;\n    transform-origin: 50% 50%;\n    transform: scale(1, 1);\n  }\n}\n@keyframes rcToolTipZoomOut {\n  0% {\n    opacity: 1;\n    transform-origin: 50% 50%;\n    transform: scale(1, 1);\n  }\n  100% {\n    opacity: 0;\n    transform-origin: 50% 50%;\n    transform: scale(0, 0);\n  }\n}\n.rc-tooltip {\n  position: absolute;\n  z-index: 1070;\n  display: block;\n  visibility: visible;\n  font-size: 12px;\n  line-height: 1.5;\n  opacity: 0.9;\n}\n.rc-tooltip-hidden {\n  display: none;\n}\n.rc-tooltip-placement-top,\n.rc-tooltip-placement-topLeft,\n.rc-tooltip-placement-topRight {\n  padding: 5px 0 9px 0;\n}\n.rc-tooltip-placement-right,\n.rc-tooltip-placement-rightTop,\n.rc-tooltip-placement-rightBottom {\n  padding: 0 5px 0 9px;\n}\n.rc-tooltip-placement-bottom,\n.rc-tooltip-placement-bottomLeft,\n.rc-tooltip-placement-bottomRight {\n  padding: 9px 0 5px 0;\n}\n.rc-tooltip-placement-left,\n.rc-tooltip-placement-leftTop,\n.rc-tooltip-placement-leftBottom {\n  padding: 0 9px 0 5px;\n}\n.rc-tooltip-inner {\n  padding: 8px 10px;\n  color: #fff;\n  text-align: left;\n  text-decoration: none;\n  background-color: #373737;\n  border-radius: 6px;\n  box-shadow: 0 0 4px rgba(0, 0, 0, 0.17);\n  min-height: 34px;\n}\n.rc-tooltip-arrow {\n  position: absolute;\n  width: 0;\n  height: 0;\n  border-color: transparent;\n  border-style: solid;\n}\n.rc-tooltip-placement-top .rc-tooltip-arrow,\n.rc-tooltip-placement-topLeft .rc-tooltip-arrow,\n.rc-tooltip-placement-topRight .rc-tooltip-arrow {\n  bottom: 4px;\n  margin-left: -5px;\n  border-width: 5px 5px 0;\n  border-top-color: #373737;\n}\n.rc-tooltip-placement-top .rc-tooltip-arrow {\n  left: 50%;\n}\n.rc-tooltip-placement-topLeft .rc-tooltip-arrow {\n  left: 15%;\n}\n.rc-tooltip-placement-topRight .rc-tooltip-arrow {\n  right: 15%;\n}\n.rc-tooltip-placement-right .rc-tooltip-arrow,\n.rc-tooltip-placement-rightTop .rc-tooltip-arrow,\n.rc-tooltip-placement-rightBottom .rc-tooltip-arrow {\n  left: 4px;\n  margin-top: -5px;\n  border-width: 5px 5px 5px 0;\n  border-right-color: #373737;\n}\n.rc-tooltip-placement-right .rc-tooltip-arrow {\n  top: 50%;\n}\n.rc-tooltip-placement-rightTop .rc-tooltip-arrow {\n  top: 15%;\n  margin-top: 0;\n}\n.rc-tooltip-placement-rightBottom .rc-tooltip-arrow {\n  bottom: 15%;\n}\n.rc-tooltip-placement-left .rc-tooltip-arrow,\n.rc-tooltip-placement-leftTop .rc-tooltip-arrow,\n.rc-tooltip-placement-leftBottom .rc-tooltip-arrow {\n  right: 4px;\n  margin-top: -5px;\n  border-width: 5px 0 5px 5px;\n  border-left-color: #373737;\n}\n.rc-tooltip-placement-left .rc-tooltip-arrow {\n  top: 50%;\n}\n.rc-tooltip-placement-leftTop .rc-tooltip-arrow {\n  top: 15%;\n  margin-top: 0;\n}\n.rc-tooltip-placement-leftBottom .rc-tooltip-arrow {\n  bottom: 15%;\n}\n.rc-tooltip-placement-bottom .rc-tooltip-arrow,\n.rc-tooltip-placement-bottomLeft .rc-tooltip-arrow,\n.rc-tooltip-placement-bottomRight .rc-tooltip-arrow {\n  top: 4px;\n  margin-left: -5px;\n  border-width: 0 5px 5px;\n  border-bottom-color: #373737;\n}\n.rc-tooltip-placement-bottom .rc-tooltip-arrow {\n  left: 50%;\n}\n.rc-tooltip-placement-bottomLeft .rc-tooltip-arrow {\n  left: 15%;\n}\n.rc-tooltip-placement-bottomRight .rc-tooltip-arrow {\n  right: 15%;\n}\n"],"sourceRoot":""}]);
+exports.push([module.i, ".rc-tooltip.rc-tooltip-zoom-enter,\n.rc-tooltip.rc-tooltip-zoom-leave {\n  display: block; }\n\n.rc-tooltip-zoom-enter,\n.rc-tooltip-zoom-appear {\n  opacity: 0;\n  animation-duration: 0.3s;\n  animation-fill-mode: both;\n  animation-timing-function: cubic-bezier(0.18, 0.89, 0.32, 1.28);\n  animation-play-state: paused; }\n\n.rc-tooltip-zoom-leave {\n  animation-duration: 0.3s;\n  animation-fill-mode: both;\n  animation-timing-function: cubic-bezier(0.6, -0.3, 0.74, 0.05);\n  animation-play-state: paused; }\n\n.rc-tooltip-zoom-enter.rc-tooltip-zoom-enter-active,\n.rc-tooltip-zoom-appear.rc-tooltip-zoom-appear-active {\n  animation-name: rcToolTipZoomIn;\n  animation-play-state: running; }\n\n.rc-tooltip-zoom-leave.rc-tooltip-zoom-leave-active {\n  animation-name: rcToolTipZoomOut;\n  animation-play-state: running; }\n\n@keyframes rcToolTipZoomIn {\n  0% {\n    opacity: 0;\n    transform-origin: 50% 50%;\n    transform: scale(0, 0); }\n  100% {\n    opacity: 1;\n    transform-origin: 50% 50%;\n    transform: scale(1, 1); } }\n\n@keyframes rcToolTipZoomOut {\n  0% {\n    opacity: 1;\n    transform-origin: 50% 50%;\n    transform: scale(1, 1); }\n  100% {\n    opacity: 0;\n    transform-origin: 50% 50%;\n    transform: scale(0, 0); } }\n\n.rc-tooltip {\n  position: absolute;\n  z-index: 1070;\n  display: block;\n  visibility: visible;\n  font-size: 12px;\n  line-height: 1.5;\n  opacity: 0.9; }\n\n.rc-tooltip-hidden {\n  display: none; }\n\n.rc-tooltip-placement-top,\n.rc-tooltip-placement-topLeft,\n.rc-tooltip-placement-topRight {\n  padding: 5px 0 9px 0; }\n\n.rc-tooltip-placement-right,\n.rc-tooltip-placement-rightTop,\n.rc-tooltip-placement-rightBottom {\n  padding: 0 5px 0 9px; }\n\n.rc-tooltip-placement-bottom,\n.rc-tooltip-placement-bottomLeft,\n.rc-tooltip-placement-bottomRight {\n  padding: 9px 0 5px 0; }\n\n.rc-tooltip-placement-left,\n.rc-tooltip-placement-leftTop,\n.rc-tooltip-placement-leftBottom {\n  padding: 0 9px 0 5px; }\n\n.rc-tooltip-inner {\n  padding: 8px 10px;\n  color: #fff;\n  text-align: left;\n  text-decoration: none;\n  background-color: #373737;\n  border-radius: 6px;\n  box-shadow: 0 0 4px rgba(0, 0, 0, 0.17);\n  min-height: 34px; }\n\n.rc-tooltip-arrow {\n  position: absolute;\n  width: 0;\n  height: 0;\n  border-color: transparent;\n  border-style: solid; }\n\n.rc-tooltip-placement-top .rc-tooltip-arrow,\n.rc-tooltip-placement-topLeft .rc-tooltip-arrow,\n.rc-tooltip-placement-topRight .rc-tooltip-arrow {\n  bottom: 4px;\n  margin-left: -5px;\n  border-width: 5px 5px 0;\n  border-top-color: #373737; }\n\n.rc-tooltip-placement-top .rc-tooltip-arrow {\n  left: 50%; }\n\n.rc-tooltip-placement-topLeft .rc-tooltip-arrow {\n  left: 15%; }\n\n.rc-tooltip-placement-topRight .rc-tooltip-arrow {\n  right: 15%; }\n\n.rc-tooltip-placement-right .rc-tooltip-arrow,\n.rc-tooltip-placement-rightTop .rc-tooltip-arrow,\n.rc-tooltip-placement-rightBottom .rc-tooltip-arrow {\n  left: 4px;\n  margin-top: -5px;\n  border-width: 5px 5px 5px 0;\n  border-right-color: #373737; }\n\n.rc-tooltip-placement-right .rc-tooltip-arrow {\n  top: 50%; }\n\n.rc-tooltip-placement-rightTop .rc-tooltip-arrow {\n  top: 15%;\n  margin-top: 0; }\n\n.rc-tooltip-placement-rightBottom .rc-tooltip-arrow {\n  bottom: 15%; }\n\n.rc-tooltip-placement-left .rc-tooltip-arrow,\n.rc-tooltip-placement-leftTop .rc-tooltip-arrow,\n.rc-tooltip-placement-leftBottom .rc-tooltip-arrow {\n  right: 4px;\n  margin-top: -5px;\n  border-width: 5px 0 5px 5px;\n  border-left-color: #373737; }\n\n.rc-tooltip-placement-left .rc-tooltip-arrow {\n  top: 50%; }\n\n.rc-tooltip-placement-leftTop .rc-tooltip-arrow {\n  top: 15%;\n  margin-top: 0; }\n\n.rc-tooltip-placement-leftBottom .rc-tooltip-arrow {\n  bottom: 15%; }\n\n.rc-tooltip-placement-bottom .rc-tooltip-arrow,\n.rc-tooltip-placement-bottomLeft .rc-tooltip-arrow,\n.rc-tooltip-placement-bottomRight .rc-tooltip-arrow {\n  top: 4px;\n  margin-left: -5px;\n  border-width: 0 5px 5px;\n  border-bottom-color: #373737; }\n\n.rc-tooltip-placement-bottom .rc-tooltip-arrow {\n  left: 50%; }\n\n.rc-tooltip-placement-bottomLeft .rc-tooltip-arrow {\n  left: 15%; }\n\n.rc-tooltip-placement-bottomRight .rc-tooltip-arrow {\n  right: 15%; }\n", "", {"version":3,"sources":["E:/projects/project6/css/components/css/components/ToolTip.scss"],"names":[],"mappings":"AAAA;;EAEE,eAAc,EACf;;AACD;;EAEE,WAAU;EACV,yBAAwB;EACxB,0BAAyB;EACzB,gEAA+D;EAC/D,6BAA4B,EAC7B;;AACD;EACE,yBAAwB;EACxB,0BAAyB;EACzB,+DAA8D;EAC9D,6BAA4B,EAC7B;;AACD;;EAEE,gCAA+B;EAC/B,8BAA6B,EAC9B;;AACD;EACE,iCAAgC;EAChC,8BAA6B,EAC9B;;AACD;EACE;IACE,WAAU;IACV,0BAAyB;IACzB,uBAAsB,EAAA;EAExB;IACE,WAAU;IACV,0BAAyB;IACzB,uBAAsB,EAAA,EAAA;;AAG1B;EACE;IACE,WAAU;IACV,0BAAyB;IACzB,uBAAsB,EAAA;EAExB;IACE,WAAU;IACV,0BAAyB;IACzB,uBAAsB,EAAA,EAAA;;AAG1B;EACE,mBAAkB;EAClB,cAAa;EACb,eAAc;EACd,oBAAmB;EACnB,gBAAe;EACf,iBAAgB;EAChB,aAAY,EACb;;AACD;EACE,cAAa,EACd;;AACD;;;EAGE,qBAAoB,EACrB;;AACD;;;EAGE,qBAAoB,EACrB;;AACD;;;EAGE,qBAAoB,EACrB;;AACD;;;EAGE,qBAAoB,EACrB;;AACD;EACE,kBAAiB;EACjB,YAAW;EACX,iBAAgB;EAChB,sBAAqB;EACrB,0BAAyB;EACzB,mBAAkB;EAClB,wCAAuC;EACvC,iBAAgB,EACjB;;AACD;EACE,mBAAkB;EAClB,SAAQ;EACR,UAAS;EACT,0BAAyB;EACzB,oBAAmB,EACpB;;AACD;;;EAGE,YAAW;EACX,kBAAiB;EACjB,wBAAuB;EACvB,0BAAyB,EAC1B;;AACD;EACE,UAAS,EACV;;AACD;EACE,UAAS,EACV;;AACD;EACE,WAAU,EACX;;AACD;;;EAGE,UAAS;EACT,iBAAgB;EAChB,4BAA2B;EAC3B,4BAA2B,EAC5B;;AACD;EACE,SAAQ,EACT;;AACD;EACE,SAAQ;EACR,cAAa,EACd;;AACD;EACE,YAAW,EACZ;;AACD;;;EAGE,WAAU;EACV,iBAAgB;EAChB,4BAA2B;EAC3B,2BAA0B,EAC3B;;AACD;EACE,SAAQ,EACT;;AACD;EACE,SAAQ;EACR,cAAa,EACd;;AACD;EACE,YAAW,EACZ;;AACD;;;EAGE,SAAQ;EACR,kBAAiB;EACjB,wBAAuB;EACvB,6BAA4B,EAC7B;;AACD;EACE,UAAS,EACV;;AACD;EACE,UAAS,EACV;;AACD;EACE,WAAU,EACX","file":"ToolTip.scss","sourcesContent":[".rc-tooltip.rc-tooltip-zoom-enter,\n.rc-tooltip.rc-tooltip-zoom-leave {\n  display: block;\n}\n.rc-tooltip-zoom-enter,\n.rc-tooltip-zoom-appear {\n  opacity: 0;\n  animation-duration: 0.3s;\n  animation-fill-mode: both;\n  animation-timing-function: cubic-bezier(0.18, 0.89, 0.32, 1.28);\n  animation-play-state: paused;\n}\n.rc-tooltip-zoom-leave {\n  animation-duration: 0.3s;\n  animation-fill-mode: both;\n  animation-timing-function: cubic-bezier(0.6, -0.3, 0.74, 0.05);\n  animation-play-state: paused;\n}\n.rc-tooltip-zoom-enter.rc-tooltip-zoom-enter-active,\n.rc-tooltip-zoom-appear.rc-tooltip-zoom-appear-active {\n  animation-name: rcToolTipZoomIn;\n  animation-play-state: running;\n}\n.rc-tooltip-zoom-leave.rc-tooltip-zoom-leave-active {\n  animation-name: rcToolTipZoomOut;\n  animation-play-state: running;\n}\n@keyframes rcToolTipZoomIn {\n  0% {\n    opacity: 0;\n    transform-origin: 50% 50%;\n    transform: scale(0, 0);\n  }\n  100% {\n    opacity: 1;\n    transform-origin: 50% 50%;\n    transform: scale(1, 1);\n  }\n}\n@keyframes rcToolTipZoomOut {\n  0% {\n    opacity: 1;\n    transform-origin: 50% 50%;\n    transform: scale(1, 1);\n  }\n  100% {\n    opacity: 0;\n    transform-origin: 50% 50%;\n    transform: scale(0, 0);\n  }\n}\n.rc-tooltip {\n  position: absolute;\n  z-index: 1070;\n  display: block;\n  visibility: visible;\n  font-size: 12px;\n  line-height: 1.5;\n  opacity: 0.9;\n}\n.rc-tooltip-hidden {\n  display: none;\n}\n.rc-tooltip-placement-top,\n.rc-tooltip-placement-topLeft,\n.rc-tooltip-placement-topRight {\n  padding: 5px 0 9px 0;\n}\n.rc-tooltip-placement-right,\n.rc-tooltip-placement-rightTop,\n.rc-tooltip-placement-rightBottom {\n  padding: 0 5px 0 9px;\n}\n.rc-tooltip-placement-bottom,\n.rc-tooltip-placement-bottomLeft,\n.rc-tooltip-placement-bottomRight {\n  padding: 9px 0 5px 0;\n}\n.rc-tooltip-placement-left,\n.rc-tooltip-placement-leftTop,\n.rc-tooltip-placement-leftBottom {\n  padding: 0 9px 0 5px;\n}\n.rc-tooltip-inner {\n  padding: 8px 10px;\n  color: #fff;\n  text-align: left;\n  text-decoration: none;\n  background-color: #373737;\n  border-radius: 6px;\n  box-shadow: 0 0 4px rgba(0, 0, 0, 0.17);\n  min-height: 34px;\n}\n.rc-tooltip-arrow {\n  position: absolute;\n  width: 0;\n  height: 0;\n  border-color: transparent;\n  border-style: solid;\n}\n.rc-tooltip-placement-top .rc-tooltip-arrow,\n.rc-tooltip-placement-topLeft .rc-tooltip-arrow,\n.rc-tooltip-placement-topRight .rc-tooltip-arrow {\n  bottom: 4px;\n  margin-left: -5px;\n  border-width: 5px 5px 0;\n  border-top-color: #373737;\n}\n.rc-tooltip-placement-top .rc-tooltip-arrow {\n  left: 50%;\n}\n.rc-tooltip-placement-topLeft .rc-tooltip-arrow {\n  left: 15%;\n}\n.rc-tooltip-placement-topRight .rc-tooltip-arrow {\n  right: 15%;\n}\n.rc-tooltip-placement-right .rc-tooltip-arrow,\n.rc-tooltip-placement-rightTop .rc-tooltip-arrow,\n.rc-tooltip-placement-rightBottom .rc-tooltip-arrow {\n  left: 4px;\n  margin-top: -5px;\n  border-width: 5px 5px 5px 0;\n  border-right-color: #373737;\n}\n.rc-tooltip-placement-right .rc-tooltip-arrow {\n  top: 50%;\n}\n.rc-tooltip-placement-rightTop .rc-tooltip-arrow {\n  top: 15%;\n  margin-top: 0;\n}\n.rc-tooltip-placement-rightBottom .rc-tooltip-arrow {\n  bottom: 15%;\n}\n.rc-tooltip-placement-left .rc-tooltip-arrow,\n.rc-tooltip-placement-leftTop .rc-tooltip-arrow,\n.rc-tooltip-placement-leftBottom .rc-tooltip-arrow {\n  right: 4px;\n  margin-top: -5px;\n  border-width: 5px 0 5px 5px;\n  border-left-color: #373737;\n}\n.rc-tooltip-placement-left .rc-tooltip-arrow {\n  top: 50%;\n}\n.rc-tooltip-placement-leftTop .rc-tooltip-arrow {\n  top: 15%;\n  margin-top: 0;\n}\n.rc-tooltip-placement-leftBottom .rc-tooltip-arrow {\n  bottom: 15%;\n}\n.rc-tooltip-placement-bottom .rc-tooltip-arrow,\n.rc-tooltip-placement-bottomLeft .rc-tooltip-arrow,\n.rc-tooltip-placement-bottomRight .rc-tooltip-arrow {\n  top: 4px;\n  margin-left: -5px;\n  border-width: 0 5px 5px;\n  border-bottom-color: #373737;\n}\n.rc-tooltip-placement-bottom .rc-tooltip-arrow {\n  left: 50%;\n}\n.rc-tooltip-placement-bottomLeft .rc-tooltip-arrow {\n  left: 15%;\n}\n.rc-tooltip-placement-bottomRight .rc-tooltip-arrow {\n  right: 15%;\n}\n"],"sourceRoot":""}]);
 
 // exports
 
@@ -4636,7 +4738,7 @@ exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader
 
 
 // module
-exports.push([module.i, ".Katalog_Menu {\n  width: 100%;\n  height: 100%; }\n  .Katalog_Menu body {\n    margin: 0;\n    padding: 0; }\n  .Katalog_Menu ul {\n    position: relative;\n    z-index: 2;\n    display: block;\n    margin: 0;\n    padding: 0;\n    list-style: none;\n    font-size: 23px;\n    margin: 0px 0px 2px 0px;\n    box-shadow: 2px 2px 10px #b9b9b9;\n    background-size: auto 100%;\n    box-shadow: 2px 2px 10px #888888; }\n    .Katalog_Menu ul li {\n      white-space: nowrap;\n      height: 35px;\n      border-radius: 5px;\n      display: flex;\n      alignment-adjust: central;\n      align-items: center;\n      transition-duration: 0.1s;\n      transition-property: transform; }\n      .Katalog_Menu ul li a {\n        text-decoration: none;\n        color: #6b6b6b;\n        font-size: 20px;\n        transition-duration: 0.1s;\n        transition-property: transform;\n        display: block;\n        margin: auto;\n        flex-shrink: 0;\n        display: inline-block; }\n      .Katalog_Menu ul li .str {\n        margin: auto;\n        display: flex;\n        justify-content: center; }\n      .Katalog_Menu ul li .gt {\n        justify-content: flex-end;\n        text-decoration: none;\n        color: #6b6b6b;\n        float: right;\n        font-size: 20px; }\n      .Katalog_Menu ul li .count {\n        justify-content: flex-end;\n        text-decoration: none;\n        color: #6b6b6b;\n        float: right;\n        font-size: 20px;\n        transition-duration: 0.1s;\n        transition-property: transform; }\n    .Katalog_Menu ul:after {\n      display: block;\n      content: ' ';\n      clear: both;\n      float: none; }\n    .Katalog_Menu ul > li:hover > ul {\n      display: block; }\n  .Katalog_Menu .menu {\n    background-image: radial-gradient(#77c7d5, #56a9b8);\n    box-shadow: 2px 2px 10px #888888;\n    border-radius: 5px;\n    cursor: pointer;\n    background-color: #56a9b8; }\n    .Katalog_Menu .menu li a {\n      font-size: 25px;\n      color: white;\n      white-space: nowrap;\n      transition-duration: 0.1s;\n      transition-property: transform; }\n      .Katalog_Menu .menu li a:hover {\n        transform: scale(1.1); }\n  .Katalog_Menu .submenu {\n    display: none;\n    position: absolute;\n    border-radius: 5px;\n    background-color: white;\n    padding: 10px;\n    min-width: 100px; }\n    .Katalog_Menu .submenu li {\n      border-style: solid;\n      border-radius: 0px;\n      border-color: #6b6b6b;\n      border-width: 0px 0px 1px 0px; }\n      .Katalog_Menu .submenu li:last-of-type {\n        border-style: none; }\n      .Katalog_Menu .submenu li a {\n        color: #6b6b6b;\n        font-size: 15px; }\n        .Katalog_Menu .submenu li a:hover {\n          transition-duration: 0.1s;\n          transition-property: transform;\n          transform: scale(1.1); }\n", "", {"version":3,"sources":["E:/project6/css/components/css/components/katalog_Menu.scss","E:/project6/css/components/css/components/globals.scss"],"names":[],"mappings":"AAEA;EACI,YAAW;EACX,aAAY,EA0Hf;EA5HD;IAIQ,UAAS;IACT,WAAU,EACb;EANL;IAUQ,mBAAkB;IAClB,WAAU;IACV,eAAc;IACd,UAAS;IACT,WAAU;IACV,iBAAgB;IAChB,gBAAe;IACf,wBAAsB;IACtB,iCAAgC;IAChC,2BAA0B;ICT/B,iCAAgC,EDiE9B;IA3EL;MAsBY,oBAAoB;MACpB,aAAY;MACZ,mBAAkB;MAClB,cAAa;MACb,0BAAyB;MACzB,oBAAmB;MCbzB,0BAAyB;MAC7B,+BAA8B,EDgDvB;MA/DT;QA8BgB,sBAAqB;QACrB,eAAc;QACd,gBAAe;QACf,0BAAyB;QACzB,+BAA8B;QAC9B,eAAc;QACd,aAAY;QACZ,eAAc;QACd,sBAAqB,EACxB;MAvCb;QA0CgB,aAAY;QACZ,cAAa;QACb,wBAAuB,EAC1B;MA7Cb;QA+CgB,0BAAyB;QACzB,sBAAqB;QACrB,eAAc;QACd,aAAY;QACZ,gBAAe,EAClB;MApDb;QAsDgB,0BAAyB;QACzB,sBAAqB;QACrB,eAAc;QACd,aAAY;QACZ,gBAAe;QAEf,0BAAyB;QACzB,+BAA8B,EACjC;IA9Db;MAiEY,eAAc;MACd,aAAY;MACZ,YAAW;MACX,YAAW,EACd;IArET;MAyEY,eAAc,EACjB;EA1ET;IA+EW,oDAAkD;ICrE1D,iCAAgC;IDuEvB,mBAAkB;IAClB,gBAAc;IAC1B,0BAAyB,EAYhB;IA/FT;MAqFmB,gBAAe;MACd,aAAY;MACZ,oBAAmB;MCzEjC,0BAAyB;MAC7B,+BAA8B,ED6Ef;MA5FjB;QA0FwB,sBAAsB,EACzB;EA3FrB;IAkGY,cAAa;IACb,mBAAkB;IAClB,mBAAkB;IAClB,wBAAuB;IACvB,cAAY;IAGZ,iBAAgB,EAkBnB;IA3HT;MA2GgB,oBAAmB;MACnB,mBAAiB;MACjB,sBAAoB;MACpB,8BAA6B,EAYhC;MA1Hb;QAgHoB,mBAAkB,EACrB;MAjHjB;QAmHmB,eAAa;QACZ,gBAAe,EAKlB;QAzHjB;UCcM,0BAAyB;UAC7B,+BAA8B;UDwGR,sBAAsB,EACzB","file":"katalog_Menu.scss","sourcesContent":["@import \"globals\";\n\n.Katalog_Menu{ \n    width: 100%;\n    height: 100%;\n    body{\n        margin: 0;\n        padding: 0;\n    }\n\n  \n    ul{\n        position: relative;\n        z-index: 2; \n        display: block;\n        margin: 0;\n        padding: 0;\n        list-style: none;\n        font-size: 23px;\n        margin:0px 0px 2px 0px;\n        box-shadow: 2px 2px 10px #b9b9b9;\n        background-size: auto 100%;\n        @include shadow;\n        li {\n            white-space:  nowrap;\n            height: 35px;  \n            border-radius: 5px;\n            display: flex;\n            alignment-adjust: central;\n            align-items: center;\n            @include animation;  \n            a{\n                text-decoration: none;\n                color: #6b6b6b;\n                font-size: 20px;\n                transition-duration: 0.1s;\n                transition-property: transform;\n                display: block;\n                margin: auto;\n                flex-shrink: 0;\n                display: inline-block;\n            }\n\n            .str{\n                margin: auto;\n                display: flex;\n                justify-content: center;\n            }\n            .gt{\n                justify-content: flex-end;\n                text-decoration: none;\n                color: #6b6b6b;\n                float: right;\n                font-size: 20px;\n            }\n            .count{\n                justify-content: flex-end;\n                text-decoration: none;\n                color: #6b6b6b;\n                float: right;\n                font-size: 20px;\n                // font-weight: bold;\n                transition-duration: 0.1s;\n                transition-property: transform;\n            }\n        } \n        &:after {\n            display: block;\n            content: ' ';\n            clear: both;\n            float: none;\n        }\n\n       \n        > li:hover > ul {\n            display: block;\n        }\n    }\n    \n          .menu{\n           // background-image: url(\"/img/logo/menu2.png\");\n           background-image: radial-gradient(#77c7d5,#56a9b8);\n           @include shadow;\n            border-radius: 5px;\n            cursor:pointer;\nbackground-color: #56a9b8;\n            li{\n                a{ font-size: 25px;\n                    color: white;\n                    white-space: nowrap; \n                    @include animation;\n                 &:hover {\n                        transform:  scale(1.1)\n                    }\n                }\n            }\n\n        }\n        \n         .submenu {\n            display: none;\n            position: absolute;\n            border-radius: 5px;\n            background-color: white;\n            padding:10px;\n\n            //padding-top:10px;\n            min-width: 100px;\n            li {\n                border-style: solid;\n                border-radius:0px;\n                border-color:#6b6b6b;\n                border-width: 0px 0px 1px 0px;\n                &:last-of-type {\n                    border-style: none;\n                }\n                a {\n                   color:#6b6b6b;\n                    font-size: 15px; \n                    &:hover {    \n                        @include animation\n                        transform:  scale(1.1)\n                    }\n                }\n            }   \n        }\n}\n\n","$light: rgba(255, 255, 255, 1);\n$light-grey: rgba(229, 229, 229, 1);\n$red: #900;\n$font-heading: Verdana, sans-serif;\n\n$break-sm: 700px;\n$break-md: 1100px;\n$break-lg: 1600px;\n$break-xl: 2000px;\n\n@mixin shadow {\n  //box-shadow: 3px 3px 8px 1px darken($light-grey, 20%);\n   box-shadow: 2px 2px 10px #888888;\n}\n\n  @mixin animation {\n      transition-duration: 0.1s;\n  transition-property: transform;   \n  }\n  @mixin color{\n color: #6b6b6b;\n  }\n  @mixin border_color{\n  border-color: darkgray;    \n  }\n  @mixin input_border{\n    border-style: solid;\n    border-width: 1px;\n  @include border_color;\n    border-width: 1px;\n    border-radius: 5px;\n  }\n  @mixin border{\n      border-radius: 5px;\n      border-style:none;\n  }\n  @mixin border-radius{\n      border-radius: 5px;\n  }\n  @mixin Button {\n          background-image: radial-gradient( #b6d7df, #56a9b8);\n color: white;\n  border-radius: 5px;\n   @include shadow;\n  border: 0;\n  cursor: pointer;\n  display: inline-block;\n font-size: 20px;\n  //font-weight: bold;\n  padding: 5px 15px;\n  text-decoration: none;\n  transition-duration: 0.1s;\n  transition-property: transform;\n//background-image: url(\"/img/logo/menu3.png\");\n  //  margin:0px 0px 20px 0px;\n        background-size: auto 100%;\n       // &:hover {\n  //transform: scale(1.1);\n//}\n\n}\n"],"sourceRoot":""}]);
+exports.push([module.i, ".Katalog_Menu {\n  width: 100%;\n  height: 100%; }\n  .Katalog_Menu body {\n    margin: 0;\n    padding: 0; }\n  .Katalog_Menu ul {\n    position: relative;\n    z-index: 2;\n    display: block;\n    margin: 0;\n    padding: 0;\n    list-style: none;\n    font-size: 23px;\n    margin: 0px 0px 2px 0px;\n    box-shadow: 2px 2px 10px #b9b9b9;\n    background-size: auto 100%;\n    box-shadow: 2px 2px 10px #888888; }\n    .Katalog_Menu ul li {\n      white-space: nowrap;\n      height: 35px;\n      border-radius: 5px;\n      display: flex;\n      alignment-adjust: central;\n      align-items: center;\n      transition-duration: 0.1s;\n      transition-property: transform; }\n      .Katalog_Menu ul li a {\n        text-decoration: none;\n        color: #6b6b6b;\n        font-size: 20px;\n        transition-duration: 0.1s;\n        transition-property: transform;\n        display: block;\n        margin: auto;\n        flex-shrink: 0;\n        display: inline-block; }\n      .Katalog_Menu ul li .str {\n        margin: auto;\n        display: flex;\n        justify-content: center; }\n      .Katalog_Menu ul li .gt {\n        justify-content: flex-end;\n        text-decoration: none;\n        color: #6b6b6b;\n        float: right;\n        font-size: 20px; }\n      .Katalog_Menu ul li .count {\n        justify-content: flex-end;\n        text-decoration: none;\n        color: #6b6b6b;\n        float: right;\n        font-size: 20px;\n        transition-duration: 0.1s;\n        transition-property: transform; }\n    .Katalog_Menu ul:after {\n      display: block;\n      content: ' ';\n      clear: both;\n      float: none; }\n    .Katalog_Menu ul > li:hover > ul {\n      display: block; }\n  .Katalog_Menu .menu {\n    background-image: radial-gradient(#77c7d5, #56a9b8);\n    box-shadow: 2px 2px 10px #888888;\n    border-radius: 5px;\n    cursor: pointer;\n    background-color: #56a9b8; }\n    .Katalog_Menu .menu li a {\n      font-size: 25px;\n      color: white;\n      white-space: nowrap;\n      transition-duration: 0.1s;\n      transition-property: transform; }\n      .Katalog_Menu .menu li a:hover {\n        transform: scale(1.1); }\n  .Katalog_Menu .submenu {\n    display: none;\n    position: absolute;\n    border-radius: 5px;\n    background-color: white;\n    padding: 10px;\n    min-width: 100px; }\n    .Katalog_Menu .submenu li {\n      border-style: solid;\n      border-radius: 0px;\n      border-color: #6b6b6b;\n      border-width: 0px 0px 1px 0px; }\n      .Katalog_Menu .submenu li:last-of-type {\n        border-style: none; }\n      .Katalog_Menu .submenu li a {\n        color: #6b6b6b;\n        font-size: 15px; }\n        .Katalog_Menu .submenu li a:hover {\n          transition-duration: 0.1s;\n          transition-property: transform;\n          transform: scale(1.1); }\n", "", {"version":3,"sources":["E:/projects/project6/css/components/css/components/katalog_Menu.scss","E:/projects/project6/css/components/css/components/globals.scss"],"names":[],"mappings":"AAEA;EACI,YAAW;EACX,aAAY,EA0Hf;EA5HD;IAIQ,UAAS;IACT,WAAU,EACb;EANL;IAUQ,mBAAkB;IAClB,WAAU;IACV,eAAc;IACd,UAAS;IACT,WAAU;IACV,iBAAgB;IAChB,gBAAe;IACf,wBAAsB;IACtB,iCAAgC;IAChC,2BAA0B;ICT/B,iCAAgC,EDiE9B;IA3EL;MAsBY,oBAAoB;MACpB,aAAY;MACZ,mBAAkB;MAClB,cAAa;MACb,0BAAyB;MACzB,oBAAmB;MCbzB,0BAAyB;MAC7B,+BAA8B,EDgDvB;MA/DT;QA8BgB,sBAAqB;QACrB,eAAc;QACd,gBAAe;QACf,0BAAyB;QACzB,+BAA8B;QAC9B,eAAc;QACd,aAAY;QACZ,eAAc;QACd,sBAAqB,EACxB;MAvCb;QA0CgB,aAAY;QACZ,cAAa;QACb,wBAAuB,EAC1B;MA7Cb;QA+CgB,0BAAyB;QACzB,sBAAqB;QACrB,eAAc;QACd,aAAY;QACZ,gBAAe,EAClB;MApDb;QAsDgB,0BAAyB;QACzB,sBAAqB;QACrB,eAAc;QACd,aAAY;QACZ,gBAAe;QAEf,0BAAyB;QACzB,+BAA8B,EACjC;IA9Db;MAiEY,eAAc;MACd,aAAY;MACZ,YAAW;MACX,YAAW,EACd;IArET;MAyEY,eAAc,EACjB;EA1ET;IA+EW,oDAAkD;ICrE1D,iCAAgC;IDuEvB,mBAAkB;IAClB,gBAAc;IAC1B,0BAAyB,EAYhB;IA/FT;MAqFmB,gBAAe;MACd,aAAY;MACZ,oBAAmB;MCzEjC,0BAAyB;MAC7B,+BAA8B,ED6Ef;MA5FjB;QA0FwB,sBAAsB,EACzB;EA3FrB;IAkGY,cAAa;IACb,mBAAkB;IAClB,mBAAkB;IAClB,wBAAuB;IACvB,cAAY;IAGZ,iBAAgB,EAkBnB;IA3HT;MA2GgB,oBAAmB;MACnB,mBAAiB;MACjB,sBAAoB;MACpB,8BAA6B,EAYhC;MA1Hb;QAgHoB,mBAAkB,EACrB;MAjHjB;QAmHmB,eAAa;QACZ,gBAAe,EAKlB;QAzHjB;UCcM,0BAAyB;UAC7B,+BAA8B;UDwGR,sBAAsB,EACzB","file":"katalog_Menu.scss","sourcesContent":["@import \"globals\";\n\n.Katalog_Menu{ \n    width: 100%;\n    height: 100%;\n    body{\n        margin: 0;\n        padding: 0;\n    }\n\n  \n    ul{\n        position: relative;\n        z-index: 2; \n        display: block;\n        margin: 0;\n        padding: 0;\n        list-style: none;\n        font-size: 23px;\n        margin:0px 0px 2px 0px;\n        box-shadow: 2px 2px 10px #b9b9b9;\n        background-size: auto 100%;\n        @include shadow;\n        li {\n            white-space:  nowrap;\n            height: 35px;  \n            border-radius: 5px;\n            display: flex;\n            alignment-adjust: central;\n            align-items: center;\n            @include animation;  \n            a{\n                text-decoration: none;\n                color: #6b6b6b;\n                font-size: 20px;\n                transition-duration: 0.1s;\n                transition-property: transform;\n                display: block;\n                margin: auto;\n                flex-shrink: 0;\n                display: inline-block;\n            }\n\n            .str{\n                margin: auto;\n                display: flex;\n                justify-content: center;\n            }\n            .gt{\n                justify-content: flex-end;\n                text-decoration: none;\n                color: #6b6b6b;\n                float: right;\n                font-size: 20px;\n            }\n            .count{\n                justify-content: flex-end;\n                text-decoration: none;\n                color: #6b6b6b;\n                float: right;\n                font-size: 20px;\n                // font-weight: bold;\n                transition-duration: 0.1s;\n                transition-property: transform;\n            }\n        } \n        &:after {\n            display: block;\n            content: ' ';\n            clear: both;\n            float: none;\n        }\n\n       \n        > li:hover > ul {\n            display: block;\n        }\n    }\n    \n          .menu{\n           // background-image: url(\"/img/logo/menu2.png\");\n           background-image: radial-gradient(#77c7d5,#56a9b8);\n           @include shadow;\n            border-radius: 5px;\n            cursor:pointer;\nbackground-color: #56a9b8;\n            li{\n                a{ font-size: 25px;\n                    color: white;\n                    white-space: nowrap; \n                    @include animation;\n                 &:hover {\n                        transform:  scale(1.1)\n                    }\n                }\n            }\n\n        }\n        \n         .submenu {\n            display: none;\n            position: absolute;\n            border-radius: 5px;\n            background-color: white;\n            padding:10px;\n\n            //padding-top:10px;\n            min-width: 100px;\n            li {\n                border-style: solid;\n                border-radius:0px;\n                border-color:#6b6b6b;\n                border-width: 0px 0px 1px 0px;\n                &:last-of-type {\n                    border-style: none;\n                }\n                a {\n                   color:#6b6b6b;\n                    font-size: 15px; \n                    &:hover {    \n                        @include animation\n                        transform:  scale(1.1)\n                    }\n                }\n            }   \n        }\n}\n\n","$light: rgba(255, 255, 255, 1);\n$light-grey: rgba(229, 229, 229, 1);\n$red: #900;\n$font-heading: Verdana, sans-serif;\n\n$break-sm: 700px;\n$break-md: 1100px;\n$break-lg: 1600px;\n$break-xl: 2000px;\n\n@mixin shadow {\n  //box-shadow: 3px 3px 8px 1px darken($light-grey, 20%);\n   box-shadow: 2px 2px 10px #888888;\n}\n\n  @mixin animation {\n      transition-duration: 0.1s;\n  transition-property: transform;   \n  }\n  @mixin color{\n color: #6b6b6b;\n  }\n  @mixin border_color{\n  border-color: darkgray;    \n  }\n  @mixin input_border{\n    border-style: solid;\n    border-width: 1px;\n  @include border_color;\n    border-width: 1px;\n    border-radius: 5px;\n  }\n  @mixin border{\n      border-radius: 5px;\n      border-style:none;\n  }\n  @mixin border-radius{\n      border-radius: 5px;\n  }\n  @mixin Button {\n          background-image: radial-gradient( #b6d7df, #56a9b8);\n color: white;\n  border-radius: 5px;\n   @include shadow;\n  border: 0;\n  cursor: pointer;\n  display: inline-block;\n font-size: 20px;\n  //font-weight: bold;\n  padding: 5px 15px;\n  text-decoration: none;\n  transition-duration: 0.1s;\n  transition-property: transform;\n//background-image: url(\"/img/logo/menu3.png\");\n  //  margin:0px 0px 20px 0px;\n        background-size: auto 100%;\n       // &:hover {\n  //transform: scale(1.1);\n//}\n\n}\n"],"sourceRoot":""}]);
 
 // exports
 
@@ -4655,7 +4757,7 @@ exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader
 
 
 // module
-exports.push([module.i, ".Katalog_Navigator {\n  min-height: 5px; }\n  .Katalog_Navigator .filters {\n    border-radius: 5px;\n    margin: 0px 0px 0px 10px;\n    animation-name: example;\n    background: #dcf6fb;\n    display: flex; }\n    .Katalog_Navigator .filters .Message {\n      display: flex;\n      align-items: flex-end;\n      padding: 5px;\n      white-space: nowrap;\n      justify-content: flex-start;\n      cursor: pointe; }\n    .Katalog_Navigator .filters .x {\n      justify-content: flex-end;\n      display: flex;\n      align-items: flex-start;\n      font-size: 15px;\n      cursor: pointer; }\n  .Katalog_Navigator .list_spacer {\n    width: 200px; }\n  .Katalog_Navigator .page_spacer {\n    width: 100px; }\n  .Katalog_Navigator .container {\n    padding: 5px;\n    border-radius: 5px;\n    display: flex;\n    alignment-adjust: central;\n    align-items: center;\n    justify-content: flex-start;\n    margin: auto;\n    font-size: 15px;\n    color: #6b6b6b;\n    text-decoration: none; }\n    .Katalog_Navigator .container a {\n      display: inline-block;\n      transition-duration: 0.1s;\n      transition-property: transform;\n      color: #6b6b6b; }\n    .Katalog_Navigator .container label {\n      margin: 0px; }\n    .Katalog_Navigator .container .Link_container {\n      margin: 0px; }\n", "", {"version":3,"sources":["E:/project6/css/components/css/components/katalog_Navigator.scss","E:/project6/css/components/css/components/globals.scss"],"names":[],"mappings":"AACA;EA0BI,gBAAe,EAkClB;EA5DD;IAEQ,mBAAkB;IAClB,yBAAwB;IACxB,wBAAuB;IACvB,oBAA8B;IAC9B,cAAa,EAgBhB;IAtBL;MAQY,cAAa;MACb,sBAAqB;MACrB,aAAY;MACZ,oBAAmB;MACnB,4BAA2B;MAC3B,eACJ,EAAE;IAdV;MAgBY,0BAAyB;MACzB,cAAa;MACb,wBAAuB;MACvB,gBAAe;MACf,gBAAe,EAClB;EArBT;IAuBc,aAAY,EAAI;EAvB9B;IAwBc,aAAY,EAAI;EAxB9B;IA+BQ,aAAY;IACZ,mBAAkB;IAClB,cAAa;IACb,0BAAyB;IACzB,oBAAmB;IACnB,4BAA4B;IAE5B,aAAY;IAEZ,gBAAe;IACf,eAAc;IACd,sBAAqB,EAgBxB;IA1DL;MA4CY,sBAAqB;MC7B3B,0BAAyB;MAC7B,+BAA8B;MD8BpB,eAAc,EAMjB;IApDT;MAqDe,YAAW,EACjB;IAtDT;MAwDY,YAAW,EACd","file":"katalog_Navigator.scss","sourcesContent":["@import 'globals';\n.Katalog_Navigator {\n    .filters{\n        border-radius: 5px;\n        margin: 0px 0px 0px 10px;\n        animation-name: example;\n        background: rgb(220, 246, 251);\n        display: flex;\n        .Message{\n            display: flex;\n            align-items: flex-end;\n            padding: 5px;\n            white-space: nowrap;\n            justify-content: flex-start;\n            cursor: pointe\n        }\n        .x{\n            justify-content: flex-end;\n            display: flex;\n            align-items: flex-start;\n            font-size: 15px;\n            cursor: pointer;\n        }\n    }\n.list_spacer {width: 200px;}\n.page_spacer {width: 100px;}\n    //background-color:white;\n    min-height: 5px;\n    //margin:0px 0px 0px 200px;\n    .container{\n        // height: 25px;  \n        // padding: 5px 0px 0px 0px;\n        padding: 5px;\n        border-radius: 5px;\n        display: flex;\n        alignment-adjust: central;\n        align-items: center;\n        justify-content:  flex-start;\n       // width:100%;\n        margin: auto;\n\n        font-size: 15px;\n        color: #6b6b6b;\n        text-decoration: none;\n        a{\n            display: inline-block;\n            @include animation;\n            color: #6b6b6b;\n            //   text-decoration: none; \n            &:hover {\n\n                //     transform:  scale(1.1)\n            }\n        }\n        label{ margin: 0px;\n        }\n        .Link_container{\n            margin: 0px; \n        }\n    }\n\n} \n\n","$light: rgba(255, 255, 255, 1);\n$light-grey: rgba(229, 229, 229, 1);\n$red: #900;\n$font-heading: Verdana, sans-serif;\n\n$break-sm: 700px;\n$break-md: 1100px;\n$break-lg: 1600px;\n$break-xl: 2000px;\n\n@mixin shadow {\n  //box-shadow: 3px 3px 8px 1px darken($light-grey, 20%);\n   box-shadow: 2px 2px 10px #888888;\n}\n\n  @mixin animation {\n      transition-duration: 0.1s;\n  transition-property: transform;   \n  }\n  @mixin color{\n color: #6b6b6b;\n  }\n  @mixin border_color{\n  border-color: darkgray;    \n  }\n  @mixin input_border{\n    border-style: solid;\n    border-width: 1px;\n  @include border_color;\n    border-width: 1px;\n    border-radius: 5px;\n  }\n  @mixin border{\n      border-radius: 5px;\n      border-style:none;\n  }\n  @mixin border-radius{\n      border-radius: 5px;\n  }\n  @mixin Button {\n          background-image: radial-gradient( #b6d7df, #56a9b8);\n color: white;\n  border-radius: 5px;\n   @include shadow;\n  border: 0;\n  cursor: pointer;\n  display: inline-block;\n font-size: 20px;\n  //font-weight: bold;\n  padding: 5px 15px;\n  text-decoration: none;\n  transition-duration: 0.1s;\n  transition-property: transform;\n//background-image: url(\"/img/logo/menu3.png\");\n  //  margin:0px 0px 20px 0px;\n        background-size: auto 100%;\n       // &:hover {\n  //transform: scale(1.1);\n//}\n\n}\n"],"sourceRoot":""}]);
+exports.push([module.i, ".Katalog_Navigator {\n  min-height: 5px; }\n  .Katalog_Navigator .filters {\n    border-radius: 5px;\n    margin: 0px 0px 0px 10px;\n    animation-name: example;\n    background: #dcf6fb;\n    display: flex; }\n    .Katalog_Navigator .filters .Message {\n      display: flex;\n      align-items: flex-end;\n      padding: 5px;\n      white-space: nowrap;\n      justify-content: flex-start;\n      cursor: pointe; }\n    .Katalog_Navigator .filters .x {\n      justify-content: flex-end;\n      display: flex;\n      align-items: flex-start;\n      font-size: 15px;\n      cursor: pointer; }\n  .Katalog_Navigator .list_spacer {\n    width: 200px; }\n  .Katalog_Navigator .page_spacer {\n    width: 100px; }\n  .Katalog_Navigator .container {\n    padding: 5px;\n    border-radius: 5px;\n    display: flex;\n    alignment-adjust: central;\n    align-items: center;\n    justify-content: flex-start;\n    margin: auto;\n    font-size: 15px;\n    color: #6b6b6b;\n    text-decoration: none; }\n    .Katalog_Navigator .container a {\n      display: inline-block;\n      transition-duration: 0.1s;\n      transition-property: transform;\n      color: #6b6b6b; }\n    .Katalog_Navigator .container label {\n      margin: 0px; }\n    .Katalog_Navigator .container .Link_container {\n      margin: 0px; }\n", "", {"version":3,"sources":["E:/projects/project6/css/components/css/components/katalog_Navigator.scss","E:/projects/project6/css/components/css/components/globals.scss"],"names":[],"mappings":"AACA;EA0BI,gBAAe,EAkClB;EA5DD;IAEQ,mBAAkB;IAClB,yBAAwB;IACxB,wBAAuB;IACvB,oBAA8B;IAC9B,cAAa,EAgBhB;IAtBL;MAQY,cAAa;MACb,sBAAqB;MACrB,aAAY;MACZ,oBAAmB;MACnB,4BAA2B;MAC3B,eACJ,EAAE;IAdV;MAgBY,0BAAyB;MACzB,cAAa;MACb,wBAAuB;MACvB,gBAAe;MACf,gBAAe,EAClB;EArBT;IAuBc,aAAY,EAAI;EAvB9B;IAwBc,aAAY,EAAI;EAxB9B;IA+BQ,aAAY;IACZ,mBAAkB;IAClB,cAAa;IACb,0BAAyB;IACzB,oBAAmB;IACnB,4BAA4B;IAE5B,aAAY;IAEZ,gBAAe;IACf,eAAc;IACd,sBAAqB,EAgBxB;IA1DL;MA4CY,sBAAqB;MC7B3B,0BAAyB;MAC7B,+BAA8B;MD8BpB,eAAc,EAMjB;IApDT;MAqDe,YAAW,EACjB;IAtDT;MAwDY,YAAW,EACd","file":"katalog_Navigator.scss","sourcesContent":["@import 'globals';\n.Katalog_Navigator {\n    .filters{\n        border-radius: 5px;\n        margin: 0px 0px 0px 10px;\n        animation-name: example;\n        background: rgb(220, 246, 251);\n        display: flex;\n        .Message{\n            display: flex;\n            align-items: flex-end;\n            padding: 5px;\n            white-space: nowrap;\n            justify-content: flex-start;\n            cursor: pointe\n        }\n        .x{\n            justify-content: flex-end;\n            display: flex;\n            align-items: flex-start;\n            font-size: 15px;\n            cursor: pointer;\n        }\n    }\n.list_spacer {width: 200px;}\n.page_spacer {width: 100px;}\n    //background-color:white;\n    min-height: 5px;\n    //margin:0px 0px 0px 200px;\n    .container{\n        // height: 25px;  \n        // padding: 5px 0px 0px 0px;\n        padding: 5px;\n        border-radius: 5px;\n        display: flex;\n        alignment-adjust: central;\n        align-items: center;\n        justify-content:  flex-start;\n       // width:100%;\n        margin: auto;\n\n        font-size: 15px;\n        color: #6b6b6b;\n        text-decoration: none;\n        a{\n            display: inline-block;\n            @include animation;\n            color: #6b6b6b;\n            //   text-decoration: none; \n            &:hover {\n\n                //     transform:  scale(1.1)\n            }\n        }\n        label{ margin: 0px;\n        }\n        .Link_container{\n            margin: 0px; \n        }\n    }\n\n} \n\n","$light: rgba(255, 255, 255, 1);\n$light-grey: rgba(229, 229, 229, 1);\n$red: #900;\n$font-heading: Verdana, sans-serif;\n\n$break-sm: 700px;\n$break-md: 1100px;\n$break-lg: 1600px;\n$break-xl: 2000px;\n\n@mixin shadow {\n  //box-shadow: 3px 3px 8px 1px darken($light-grey, 20%);\n   box-shadow: 2px 2px 10px #888888;\n}\n\n  @mixin animation {\n      transition-duration: 0.1s;\n  transition-property: transform;   \n  }\n  @mixin color{\n color: #6b6b6b;\n  }\n  @mixin border_color{\n  border-color: darkgray;    \n  }\n  @mixin input_border{\n    border-style: solid;\n    border-width: 1px;\n  @include border_color;\n    border-width: 1px;\n    border-radius: 5px;\n  }\n  @mixin border{\n      border-radius: 5px;\n      border-style:none;\n  }\n  @mixin border-radius{\n      border-radius: 5px;\n  }\n  @mixin Button {\n          background-image: radial-gradient( #b6d7df, #56a9b8);\n color: white;\n  border-radius: 5px;\n   @include shadow;\n  border: 0;\n  cursor: pointer;\n  display: inline-block;\n font-size: 20px;\n  //font-weight: bold;\n  padding: 5px 15px;\n  text-decoration: none;\n  transition-duration: 0.1s;\n  transition-property: transform;\n//background-image: url(\"/img/logo/menu3.png\");\n  //  margin:0px 0px 20px 0px;\n        background-size: auto 100%;\n       // &:hover {\n  //transform: scale(1.1);\n//}\n\n}\n"],"sourceRoot":""}]);
 
 // exports
 
@@ -7266,7 +7368,7 @@ var createPath = function createPath(location) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! warning */ "./node_modules/history/node_modules/warning/browser.js");
+/* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! warning */ "./node_modules/warning/browser.js");
 /* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(warning__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var invariant__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! invariant */ "./node_modules/invariant/browser.js");
 /* harmony import */ var invariant__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(invariant__WEBPACK_IMPORTED_MODULE_1__);
@@ -7576,7 +7678,7 @@ var createBrowserHistory = function createBrowserHistory() {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! warning */ "./node_modules/history/node_modules/warning/browser.js");
+/* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! warning */ "./node_modules/warning/browser.js");
 /* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(warning__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var invariant__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! invariant */ "./node_modules/invariant/browser.js");
 /* harmony import */ var invariant__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(invariant__WEBPACK_IMPORTED_MODULE_1__);
@@ -7903,7 +8005,7 @@ var createHashHistory = function createHashHistory() {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! warning */ "./node_modules/history/node_modules/warning/browser.js");
+/* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! warning */ "./node_modules/warning/browser.js");
 /* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(warning__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _PathUtils__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./PathUtils */ "./node_modules/history/es/PathUtils.js");
 /* harmony import */ var _LocationUtils__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./LocationUtils */ "./node_modules/history/es/LocationUtils.js");
@@ -8077,7 +8179,7 @@ var createMemoryHistory = function createMemoryHistory() {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! warning */ "./node_modules/history/node_modules/warning/browser.js");
+/* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! warning */ "./node_modules/warning/browser.js");
 /* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(warning__WEBPACK_IMPORTED_MODULE_0__);
 
 
@@ -8199,156 +8301,82 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ "./node_modules/history/node_modules/warning/browser.js":
-/*!**************************************************************!*\
-  !*** ./node_modules/history/node_modules/warning/browser.js ***!
-  \**************************************************************/
+/***/ "./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js":
+/*!**********************************************************************************!*\
+  !*** ./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js ***!
+  \**********************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-/**
- * Copyright 2014-2015, Facebook, Inc.
- * All rights reserved.
- *
- * This source code is licensed under the BSD-style license found in the
- * LICENSE file in the root directory of this source tree. An additional grant
- * of patent rights can be found in the PATENTS file in the same directory.
- */
 
-
-
-/**
- * Similar to invariant but only logs a warning if the condition is not met.
- * This can be used to log issues in development environments in critical
- * paths. Removing the logging code for production environments will keep the
- * same logic and follow the same code paths.
- */
-
-var warning = function() {};
-
-if (true) {
-  warning = function(condition, format, args) {
-    var len = arguments.length;
-    args = new Array(len > 2 ? len - 2 : 0);
-    for (var key = 2; key < len; key++) {
-      args[key - 2] = arguments[key];
-    }
-    if (format === undefined) {
-      throw new Error(
-        '`warning(condition, format, ...args)` requires a warning ' +
-        'message argument'
-      );
-    }
-
-    if (format.length < 10 || (/^[s\W]*$/).test(format)) {
-      throw new Error(
-        'The warning format should be able to uniquely identify this ' +
-        'warning. Please, use a more descriptive format than: ' + format
-      );
-    }
-
-    if (!condition) {
-      var argIndex = 0;
-      var message = 'Warning: ' +
-        format.replace(/%s/g, function() {
-          return args[argIndex++];
-        });
-      if (typeof console !== 'undefined') {
-        console.error(message);
-      }
-      try {
-        // This error was thrown as a convenience so that you can use this stack
-        // to find the callsite that caused this warning to fire.
-        throw new Error(message);
-      } catch(x) {}
-    }
-  };
-}
-
-module.exports = warning;
-
-
-/***/ }),
-
-/***/ "./node_modules/hoist-non-react-statics/index.js":
-/*!*******************************************************!*\
-  !*** ./node_modules/hoist-non-react-statics/index.js ***!
-  \*******************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
 
 /**
  * Copyright 2015, Yahoo! Inc.
  * Copyrights licensed under the New BSD License. See the accompanying LICENSE file for terms.
  */
-(function (global, factory) {
-     true ? module.exports = factory() :
-    undefined;
-}(this, (function () {
-    'use strict';
-    
-    var REACT_STATICS = {
-        childContextTypes: true,
-        contextTypes: true,
-        defaultProps: true,
-        displayName: true,
-        getDefaultProps: true,
-        getDerivedStateFromProps: true,
-        mixins: true,
-        propTypes: true,
-        type: true
-    };
-    
-    var KNOWN_STATICS = {
-        name: true,
-        length: true,
-        prototype: true,
-        caller: true,
-        callee: true,
-        arguments: true,
-        arity: true
-    };
-    
-    var defineProperty = Object.defineProperty;
-    var getOwnPropertyNames = Object.getOwnPropertyNames;
-    var getOwnPropertySymbols = Object.getOwnPropertySymbols;
-    var getOwnPropertyDescriptor = Object.getOwnPropertyDescriptor;
-    var getPrototypeOf = Object.getPrototypeOf;
-    var objectPrototype = getPrototypeOf && getPrototypeOf(Object);
-    
-    return function hoistNonReactStatics(targetComponent, sourceComponent, blacklist) {
-        if (typeof sourceComponent !== 'string') { // don't hoist over string (html) components
-            
-            if (objectPrototype) {
-                var inheritedComponent = getPrototypeOf(sourceComponent);
-                if (inheritedComponent && inheritedComponent !== objectPrototype) {
-                    hoistNonReactStatics(targetComponent, inheritedComponent, blacklist);
-                }
+var REACT_STATICS = {
+    childContextTypes: true,
+    contextTypes: true,
+    defaultProps: true,
+    displayName: true,
+    getDefaultProps: true,
+    getDerivedStateFromProps: true,
+    mixins: true,
+    propTypes: true,
+    type: true
+};
+
+var KNOWN_STATICS = {
+    name: true,
+    length: true,
+    prototype: true,
+    caller: true,
+    callee: true,
+    arguments: true,
+    arity: true
+};
+
+var defineProperty = Object.defineProperty;
+var getOwnPropertyNames = Object.getOwnPropertyNames;
+var getOwnPropertySymbols = Object.getOwnPropertySymbols;
+var getOwnPropertyDescriptor = Object.getOwnPropertyDescriptor;
+var getPrototypeOf = Object.getPrototypeOf;
+var objectPrototype = getPrototypeOf && getPrototypeOf(Object);
+
+function hoistNonReactStatics(targetComponent, sourceComponent, blacklist) {
+    if (typeof sourceComponent !== 'string') { // don't hoist over string (html) components
+
+        if (objectPrototype) {
+            var inheritedComponent = getPrototypeOf(sourceComponent);
+            if (inheritedComponent && inheritedComponent !== objectPrototype) {
+                hoistNonReactStatics(targetComponent, inheritedComponent, blacklist);
             }
-            
-            var keys = getOwnPropertyNames(sourceComponent);
-            
-            if (getOwnPropertySymbols) {
-                keys = keys.concat(getOwnPropertySymbols(sourceComponent));
-            }
-            
-            for (var i = 0; i < keys.length; ++i) {
-                var key = keys[i];
-                if (!REACT_STATICS[key] && !KNOWN_STATICS[key] && (!blacklist || !blacklist[key])) {
-                    var descriptor = getOwnPropertyDescriptor(sourceComponent, key);
-                    try { // Avoid failures from read-only properties
-                        defineProperty(targetComponent, key, descriptor);
-                    } catch (e) {}
-                }
-            }
-            
-            return targetComponent;
         }
-        
+
+        var keys = getOwnPropertyNames(sourceComponent);
+
+        if (getOwnPropertySymbols) {
+            keys = keys.concat(getOwnPropertySymbols(sourceComponent));
+        }
+
+        for (var i = 0; i < keys.length; ++i) {
+            var key = keys[i];
+            if (!REACT_STATICS[key] && !KNOWN_STATICS[key] && (!blacklist || !blacklist[key])) {
+                var descriptor = getOwnPropertyDescriptor(sourceComponent, key);
+                try { // Avoid failures from read-only properties
+                    defineProperty(targetComponent, key, descriptor);
+                } catch (e) {}
+            }
+        }
+
         return targetComponent;
-    };
-})));
+    }
+
+    return targetComponent;
+}
+
+module.exports = hoistNonReactStatics;
 
 
 /***/ }),
@@ -8410,6 +8438,20 @@ var invariant = function(condition, format, a, b, c, d, e, f) {
 };
 
 module.exports = invariant;
+
+
+/***/ }),
+
+/***/ "./node_modules/isarray/index.js":
+/*!***************************************!*\
+  !*** ./node_modules/isarray/index.js ***!
+  \***************************************/
+/*! no static exports found */
+/***/ (function(module, exports) {
+
+module.exports = Array.isArray || function (arr) {
+  return Object.prototype.toString.call(arr) == '[object Array]';
+};
 
 
 /***/ }),
@@ -8799,105 +8841,51 @@ function isPlainObject(value) {
 
 /***/ }),
 
-/***/ "./node_modules/object-assign/index.js":
-/*!*********************************************!*\
-  !*** ./node_modules/object-assign/index.js ***!
-  \*********************************************/
+/***/ "./node_modules/performance-now/lib/performance-now.js":
+/*!*************************************************************!*\
+  !*** ./node_modules/performance-now/lib/performance-now.js ***!
+  \*************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-"use strict";
-/*
-object-assign
-(c) Sindre Sorhus
-@license MIT
-*/
+/* WEBPACK VAR INJECTION */(function(process) {// Generated by CoffeeScript 1.12.2
+(function() {
+  var getNanoSeconds, hrtime, loadTime, moduleLoadTime, nodeLoadTime, upTime;
 
+  if ((typeof performance !== "undefined" && performance !== null) && performance.now) {
+    module.exports = function() {
+      return performance.now();
+    };
+  } else if ((typeof process !== "undefined" && process !== null) && process.hrtime) {
+    module.exports = function() {
+      return (getNanoSeconds() - nodeLoadTime) / 1e6;
+    };
+    hrtime = process.hrtime;
+    getNanoSeconds = function() {
+      var hr;
+      hr = hrtime();
+      return hr[0] * 1e9 + hr[1];
+    };
+    moduleLoadTime = getNanoSeconds();
+    upTime = process.uptime() * 1e9;
+    nodeLoadTime = moduleLoadTime - upTime;
+  } else if (Date.now) {
+    module.exports = function() {
+      return Date.now() - loadTime;
+    };
+    loadTime = Date.now();
+  } else {
+    module.exports = function() {
+      return new Date().getTime() - loadTime;
+    };
+    loadTime = new Date().getTime();
+  }
 
-/* eslint-disable no-unused-vars */
-var getOwnPropertySymbols = Object.getOwnPropertySymbols;
-var hasOwnProperty = Object.prototype.hasOwnProperty;
-var propIsEnumerable = Object.prototype.propertyIsEnumerable;
+}).call(this);
 
-function toObject(val) {
-	if (val === null || val === undefined) {
-		throw new TypeError('Object.assign cannot be called with null or undefined');
-	}
+//# sourceMappingURL=performance-now.js.map
 
-	return Object(val);
-}
-
-function shouldUseNative() {
-	try {
-		if (!Object.assign) {
-			return false;
-		}
-
-		// Detect buggy property enumeration order in older V8 versions.
-
-		// https://bugs.chromium.org/p/v8/issues/detail?id=4118
-		var test1 = new String('abc');  // eslint-disable-line no-new-wrappers
-		test1[5] = 'de';
-		if (Object.getOwnPropertyNames(test1)[0] === '5') {
-			return false;
-		}
-
-		// https://bugs.chromium.org/p/v8/issues/detail?id=3056
-		var test2 = {};
-		for (var i = 0; i < 10; i++) {
-			test2['_' + String.fromCharCode(i)] = i;
-		}
-		var order2 = Object.getOwnPropertyNames(test2).map(function (n) {
-			return test2[n];
-		});
-		if (order2.join('') !== '0123456789') {
-			return false;
-		}
-
-		// https://bugs.chromium.org/p/v8/issues/detail?id=3056
-		var test3 = {};
-		'abcdefghijklmnopqrst'.split('').forEach(function (letter) {
-			test3[letter] = letter;
-		});
-		if (Object.keys(Object.assign({}, test3)).join('') !==
-				'abcdefghijklmnopqrst') {
-			return false;
-		}
-
-		return true;
-	} catch (err) {
-		// We don't expect any of the above to throw, but better to be safe.
-		return false;
-	}
-}
-
-module.exports = shouldUseNative() ? Object.assign : function (target, source) {
-	var from;
-	var to = toObject(target);
-	var symbols;
-
-	for (var s = 1; s < arguments.length; s++) {
-		from = Object(arguments[s]);
-
-		for (var key in from) {
-			if (hasOwnProperty.call(from, key)) {
-				to[key] = from[key];
-			}
-		}
-
-		if (getOwnPropertySymbols) {
-			symbols = getOwnPropertySymbols(from);
-			for (var i = 0; i < symbols.length; i++) {
-				if (propIsEnumerable.call(from, symbols[i])) {
-					to[symbols[i]] = from[symbols[i]];
-				}
-			}
-		}
-	}
-
-	return to;
-};
-
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! (webpack)/node_modules/process/browser.js */ "C:\\Users\\inf\\AppData\\Roaming\\npm\\node_modules\\webpack\\node_modules\\process\\browser.js")))
 
 /***/ }),
 
@@ -8992,7 +8980,7 @@ module.exports = checkPropTypes;
 var emptyFunction = __webpack_require__(/*! fbjs/lib/emptyFunction */ "./node_modules/fbjs/lib/emptyFunction.js");
 var invariant = __webpack_require__(/*! fbjs/lib/invariant */ "./node_modules/fbjs/lib/invariant.js");
 var warning = __webpack_require__(/*! fbjs/lib/warning */ "./node_modules/fbjs/lib/warning.js");
-var assign = __webpack_require__(/*! object-assign */ "./node_modules/object-assign/index.js");
+var assign = __webpack_require__(/*! object-assign */ "./node_modules/prop-types/node_modules/object-assign/index.js");
 
 var ReactPropTypesSecret = __webpack_require__(/*! ./lib/ReactPropTypesSecret */ "./node_modules/prop-types/lib/ReactPropTypesSecret.js");
 var checkPropTypes = __webpack_require__(/*! ./checkPropTypes */ "./node_modules/prop-types/checkPropTypes.js");
@@ -9585,6 +9573,108 @@ module.exports = ReactPropTypesSecret;
 
 /***/ }),
 
+/***/ "./node_modules/prop-types/node_modules/object-assign/index.js":
+/*!*********************************************************************!*\
+  !*** ./node_modules/prop-types/node_modules/object-assign/index.js ***!
+  \*********************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
+
+
+/* eslint-disable no-unused-vars */
+var getOwnPropertySymbols = Object.getOwnPropertySymbols;
+var hasOwnProperty = Object.prototype.hasOwnProperty;
+var propIsEnumerable = Object.prototype.propertyIsEnumerable;
+
+function toObject(val) {
+	if (val === null || val === undefined) {
+		throw new TypeError('Object.assign cannot be called with null or undefined');
+	}
+
+	return Object(val);
+}
+
+function shouldUseNative() {
+	try {
+		if (!Object.assign) {
+			return false;
+		}
+
+		// Detect buggy property enumeration order in older V8 versions.
+
+		// https://bugs.chromium.org/p/v8/issues/detail?id=4118
+		var test1 = new String('abc');  // eslint-disable-line no-new-wrappers
+		test1[5] = 'de';
+		if (Object.getOwnPropertyNames(test1)[0] === '5') {
+			return false;
+		}
+
+		// https://bugs.chromium.org/p/v8/issues/detail?id=3056
+		var test2 = {};
+		for (var i = 0; i < 10; i++) {
+			test2['_' + String.fromCharCode(i)] = i;
+		}
+		var order2 = Object.getOwnPropertyNames(test2).map(function (n) {
+			return test2[n];
+		});
+		if (order2.join('') !== '0123456789') {
+			return false;
+		}
+
+		// https://bugs.chromium.org/p/v8/issues/detail?id=3056
+		var test3 = {};
+		'abcdefghijklmnopqrst'.split('').forEach(function (letter) {
+			test3[letter] = letter;
+		});
+		if (Object.keys(Object.assign({}, test3)).join('') !==
+				'abcdefghijklmnopqrst') {
+			return false;
+		}
+
+		return true;
+	} catch (err) {
+		// We don't expect any of the above to throw, but better to be safe.
+		return false;
+	}
+}
+
+module.exports = shouldUseNative() ? Object.assign : function (target, source) {
+	var from;
+	var to = toObject(target);
+	var symbols;
+
+	for (var s = 1; s < arguments.length; s++) {
+		from = Object(arguments[s]);
+
+		for (var key in from) {
+			if (hasOwnProperty.call(from, key)) {
+				to[key] = from[key];
+			}
+		}
+
+		if (getOwnPropertySymbols) {
+			symbols = getOwnPropertySymbols(from);
+			for (var i = 0; i < symbols.length; i++) {
+				if (propIsEnumerable.call(from, symbols[i])) {
+					to[symbols[i]] = from[symbols[i]];
+				}
+			}
+		}
+	}
+
+	return to;
+};
+
+
+/***/ }),
+
 /***/ "./node_modules/query-string/index.js":
 /*!********************************************!*\
   !*** ./node_modules/query-string/index.js ***!
@@ -9595,7 +9685,7 @@ module.exports = ReactPropTypesSecret;
 "use strict";
 
 var strictUriEncode = __webpack_require__(/*! strict-uri-encode */ "./node_modules/strict-uri-encode/index.js");
-var objectAssign = __webpack_require__(/*! object-assign */ "./node_modules/object-assign/index.js");
+var objectAssign = __webpack_require__(/*! object-assign */ "./node_modules/query-string/node_modules/object-assign/index.js");
 
 function encoderForArrayFormat(opts) {
 	switch (opts.arrayFormat) {
@@ -9802,6 +9892,108 @@ exports.stringify = function (obj, opts) {
 
 /***/ }),
 
+/***/ "./node_modules/query-string/node_modules/object-assign/index.js":
+/*!***********************************************************************!*\
+  !*** ./node_modules/query-string/node_modules/object-assign/index.js ***!
+  \***********************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
+
+
+/* eslint-disable no-unused-vars */
+var getOwnPropertySymbols = Object.getOwnPropertySymbols;
+var hasOwnProperty = Object.prototype.hasOwnProperty;
+var propIsEnumerable = Object.prototype.propertyIsEnumerable;
+
+function toObject(val) {
+	if (val === null || val === undefined) {
+		throw new TypeError('Object.assign cannot be called with null or undefined');
+	}
+
+	return Object(val);
+}
+
+function shouldUseNative() {
+	try {
+		if (!Object.assign) {
+			return false;
+		}
+
+		// Detect buggy property enumeration order in older V8 versions.
+
+		// https://bugs.chromium.org/p/v8/issues/detail?id=4118
+		var test1 = new String('abc');  // eslint-disable-line no-new-wrappers
+		test1[5] = 'de';
+		if (Object.getOwnPropertyNames(test1)[0] === '5') {
+			return false;
+		}
+
+		// https://bugs.chromium.org/p/v8/issues/detail?id=3056
+		var test2 = {};
+		for (var i = 0; i < 10; i++) {
+			test2['_' + String.fromCharCode(i)] = i;
+		}
+		var order2 = Object.getOwnPropertyNames(test2).map(function (n) {
+			return test2[n];
+		});
+		if (order2.join('') !== '0123456789') {
+			return false;
+		}
+
+		// https://bugs.chromium.org/p/v8/issues/detail?id=3056
+		var test3 = {};
+		'abcdefghijklmnopqrst'.split('').forEach(function (letter) {
+			test3[letter] = letter;
+		});
+		if (Object.keys(Object.assign({}, test3)).join('') !==
+				'abcdefghijklmnopqrst') {
+			return false;
+		}
+
+		return true;
+	} catch (err) {
+		// We don't expect any of the above to throw, but better to be safe.
+		return false;
+	}
+}
+
+module.exports = shouldUseNative() ? Object.assign : function (target, source) {
+	var from;
+	var to = toObject(target);
+	var symbols;
+
+	for (var s = 1; s < arguments.length; s++) {
+		from = Object(arguments[s]);
+
+		for (var key in from) {
+			if (hasOwnProperty.call(from, key)) {
+				to[key] = from[key];
+			}
+		}
+
+		if (getOwnPropertySymbols) {
+			symbols = getOwnPropertySymbols(from);
+			for (var i = 0; i < symbols.length; i++) {
+				if (propIsEnumerable.call(from, symbols[i])) {
+					to[symbols[i]] = from[symbols[i]];
+				}
+			}
+		}
+	}
+
+	return to;
+};
+
+
+/***/ }),
+
 /***/ "./node_modules/raf/index.js":
 /*!***********************************!*\
   !*** ./node_modules/raf/index.js ***!
@@ -9809,7 +10001,7 @@ exports.stringify = function (obj, opts) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-/* WEBPACK VAR INJECTION */(function(global) {var now = __webpack_require__(/*! performance-now */ "./node_modules/raf/node_modules/performance-now/lib/performance-now.js")
+/* WEBPACK VAR INJECTION */(function(global) {var now = __webpack_require__(/*! performance-now */ "./node_modules/performance-now/lib/performance-now.js")
   , root = typeof window === 'undefined' ? global : window
   , vendors = ['moz', 'webkit']
   , suffix = 'AnimationFrame'
@@ -9886,54 +10078,6 @@ module.exports.polyfill = function(object) {
 }
 
 /* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! (webpack)/buildin/global.js */ "C:\\Users\\inf\\AppData\\Roaming\\npm\\node_modules\\webpack\\buildin\\global.js")))
-
-/***/ }),
-
-/***/ "./node_modules/raf/node_modules/performance-now/lib/performance-now.js":
-/*!******************************************************************************!*\
-  !*** ./node_modules/raf/node_modules/performance-now/lib/performance-now.js ***!
-  \******************************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-/* WEBPACK VAR INJECTION */(function(process) {// Generated by CoffeeScript 1.12.2
-(function() {
-  var getNanoSeconds, hrtime, loadTime, moduleLoadTime, nodeLoadTime, upTime;
-
-  if ((typeof performance !== "undefined" && performance !== null) && performance.now) {
-    module.exports = function() {
-      return performance.now();
-    };
-  } else if ((typeof process !== "undefined" && process !== null) && process.hrtime) {
-    module.exports = function() {
-      return (getNanoSeconds() - nodeLoadTime) / 1e6;
-    };
-    hrtime = process.hrtime;
-    getNanoSeconds = function() {
-      var hr;
-      hr = hrtime();
-      return hr[0] * 1e9 + hr[1];
-    };
-    moduleLoadTime = getNanoSeconds();
-    upTime = process.uptime() * 1e9;
-    nodeLoadTime = moduleLoadTime - upTime;
-  } else if (Date.now) {
-    module.exports = function() {
-      return Date.now() - loadTime;
-    };
-    loadTime = Date.now();
-  } else {
-    module.exports = function() {
-      return new Date().getTime() - loadTime;
-    };
-    loadTime = new Date().getTime();
-  }
-
-}).call(this);
-
-//# sourceMappingURL=performance-now.js.map
-
-/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! (webpack)/node_modules/process/browser.js */ "C:\\Users\\inf\\AppData\\Roaming\\npm\\node_modules\\webpack\\node_modules\\process\\browser.js")))
 
 /***/ }),
 
@@ -10222,7 +10366,7 @@ function isWindow(obj) {
 /*!***********************************************!*\
   !*** ./node_modules/rc-animate/es/Animate.js ***!
   \***********************************************/
-/*! exports provided: CSSMotion, default */
+/*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -10246,8 +10390,6 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _ChildrenUtils__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./ChildrenUtils */ "./node_modules/rc-animate/es/ChildrenUtils.js");
 /* harmony import */ var _AnimateChild__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./AnimateChild */ "./node_modules/rc-animate/es/AnimateChild.js");
 /* harmony import */ var _CSSMotion__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ./CSSMotion */ "./node_modules/rc-animate/es/CSSMotion.js");
-/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "CSSMotion", function() { return _CSSMotion__WEBPACK_IMPORTED_MODULE_10__["default"]; });
-
 /* harmony import */ var _util_animate__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ./util/animate */ "./node_modules/rc-animate/es/util/animate.js");
 
 
@@ -10277,8 +10419,6 @@ function getChildrenFromProps(props) {
 }
 
 function noop() {}
-
-
 
 var Animate = function (_React$Component) {
   babel_runtime_helpers_inherits__WEBPACK_IMPORTED_MODULE_5___default()(Animate, _React$Component);
@@ -12015,7 +12155,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_5__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! prop-types */ "./node_modules/prop-types/index.js");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_6__);
-/* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! warning */ "./node_modules/rc-slider/node_modules/warning/browser.js");
+/* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! warning */ "./node_modules/warning/browser.js");
 /* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(warning__WEBPACK_IMPORTED_MODULE_7__);
 /* harmony import */ var _common_Track__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./common/Track */ "./node_modules/rc-slider/es/common/Track.js");
 /* harmony import */ var _common_createSlider__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./common/createSlider */ "./node_modules/rc-slider/es/common/createSlider.js");
@@ -12367,7 +12507,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_3__);
 /* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! classnames */ "./node_modules/classnames/index.js");
 /* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(classnames__WEBPACK_IMPORTED_MODULE_4__);
-/* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! warning */ "./node_modules/rc-slider/node_modules/warning/browser.js");
+/* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! warning */ "./node_modules/warning/browser.js");
 /* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(warning__WEBPACK_IMPORTED_MODULE_5__);
 
 
@@ -12521,7 +12661,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var rc_util_es_Dom_addEventListener__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! rc-util/es/Dom/addEventListener */ "./node_modules/rc-util/es/Dom/addEventListener.js");
 /* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! classnames */ "./node_modules/classnames/index.js");
 /* harmony import */ var classnames__WEBPACK_IMPORTED_MODULE_11___default = /*#__PURE__*/__webpack_require__.n(classnames__WEBPACK_IMPORTED_MODULE_11__);
-/* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! warning */ "./node_modules/rc-slider/node_modules/warning/browser.js");
+/* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! warning */ "./node_modules/warning/browser.js");
 /* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_12___default = /*#__PURE__*/__webpack_require__.n(warning__WEBPACK_IMPORTED_MODULE_12__);
 /* harmony import */ var _Steps__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! ./Steps */ "./node_modules/rc-slider/es/common/Steps.js");
 /* harmony import */ var _Marks__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! ./Marks */ "./node_modules/rc-slider/es/common/Marks.js");
@@ -13236,78 +13376,6 @@ function getKeyboardValueMutator(e) {
 
 /***/ }),
 
-/***/ "./node_modules/rc-slider/node_modules/warning/browser.js":
-/*!****************************************************************!*\
-  !*** ./node_modules/rc-slider/node_modules/warning/browser.js ***!
-  \****************************************************************/
-/*! no static exports found */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-/**
- * Copyright 2014-2015, Facebook, Inc.
- * All rights reserved.
- *
- * This source code is licensed under the BSD-style license found in the
- * LICENSE file in the root directory of this source tree. An additional grant
- * of patent rights can be found in the PATENTS file in the same directory.
- */
-
-
-
-/**
- * Similar to invariant but only logs a warning if the condition is not met.
- * This can be used to log issues in development environments in critical
- * paths. Removing the logging code for production environments will keep the
- * same logic and follow the same code paths.
- */
-
-var warning = function() {};
-
-if (true) {
-  warning = function(condition, format, args) {
-    var len = arguments.length;
-    args = new Array(len > 2 ? len - 2 : 0);
-    for (var key = 2; key < len; key++) {
-      args[key - 2] = arguments[key];
-    }
-    if (format === undefined) {
-      throw new Error(
-        '`warning(condition, format, ...args)` requires a warning ' +
-        'message argument'
-      );
-    }
-
-    if (format.length < 10 || (/^[s\W]*$/).test(format)) {
-      throw new Error(
-        'The warning format should be able to uniquely identify this ' +
-        'warning. Please, use a more descriptive format than: ' + format
-      );
-    }
-
-    if (!condition) {
-      var argIndex = 0;
-      var message = 'Warning: ' +
-        format.replace(/%s/g, function() {
-          return args[argIndex++];
-        });
-      if (typeof console !== 'undefined') {
-        console.error(message);
-      }
-      try {
-        // This error was thrown as a convenience so that you can use this stack
-        // to find the callsite that caused this warning to fire.
-        throw new Error(message);
-      } catch(x) {}
-    }
-  };
-}
-
-module.exports = warning;
-
-
-/***/ }),
-
 /***/ "./node_modules/rc-tooltip/es/Content.js":
 /*!***********************************************!*\
   !*** ./node_modules/rc-tooltip/es/Content.js ***!
@@ -13852,7 +13920,8 @@ var Popup = function (_Component) {
         children = _props.children,
         onMouseEnter = _props.onMouseEnter,
         onMouseLeave = _props.onMouseLeave,
-        onMouseDown = _props.onMouseDown;
+        onMouseDown = _props.onMouseDown,
+        onTouchStart = _props.onTouchStart;
 
     var className = this.getClassName(this.currentAlignClassName || getClassNameFromAlign(align));
     var hiddenClassName = prefixCls + '-hidden';
@@ -13895,6 +13964,7 @@ var Popup = function (_Component) {
       onMouseEnter: onMouseEnter,
       onMouseLeave: onMouseLeave,
       onMouseDown: onMouseDown,
+      onTouchStart: onTouchStart,
       style: newStyle
     };
     if (destroyPopupOnHide) {
@@ -14023,6 +14093,7 @@ Popup.propTypes = {
   onMouseEnter: prop_types__WEBPACK_IMPORTED_MODULE_5___default.a.func,
   onMouseLeave: prop_types__WEBPACK_IMPORTED_MODULE_5___default.a.func,
   onMouseDown: prop_types__WEBPACK_IMPORTED_MODULE_5___default.a.func,
+  onTouchStart: prop_types__WEBPACK_IMPORTED_MODULE_5___default.a.func,
   stretch: prop_types__WEBPACK_IMPORTED_MODULE_5___default.a.string,
   children: prop_types__WEBPACK_IMPORTED_MODULE_5___default.a.node,
   point: prop_types__WEBPACK_IMPORTED_MODULE_5___default.a.shape({
@@ -14146,6 +14217,7 @@ var PopupInner = function (_Component) {
         onMouseEnter: props.onMouseEnter,
         onMouseLeave: props.onMouseLeave,
         onMouseDown: props.onMouseDown,
+        onTouchStart: props.onTouchStart,
         style: props.style
       },
       react__WEBPACK_IMPORTED_MODULE_3___default.a.createElement(
@@ -14166,6 +14238,7 @@ PopupInner.propTypes = {
   onMouseEnter: prop_types__WEBPACK_IMPORTED_MODULE_4___default.a.func,
   onMouseLeave: prop_types__WEBPACK_IMPORTED_MODULE_4___default.a.func,
   onMouseDown: prop_types__WEBPACK_IMPORTED_MODULE_4___default.a.func,
+  onTouchStart: prop_types__WEBPACK_IMPORTED_MODULE_4___default.a.func,
   children: prop_types__WEBPACK_IMPORTED_MODULE_4___default.a.any
 };
 
@@ -14865,6 +14938,7 @@ var _initialiseProps = function _initialiseProps() {
     }
 
     mouseProps.onMouseDown = _this5.onPopupMouseDown;
+    mouseProps.onTouchStart = _this5.onPopupMouseDown;
 
     return react__WEBPACK_IMPORTED_MODULE_4___default.a.createElement(
       _Popup__WEBPACK_IMPORTED_MODULE_13__["default"],
@@ -15809,7 +15883,7 @@ if (true) {
 var react = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 var invariant = __webpack_require__(/*! fbjs/lib/invariant */ "./node_modules/fbjs/lib/invariant.js");
 var ExecutionEnvironment = __webpack_require__(/*! fbjs/lib/ExecutionEnvironment */ "./node_modules/fbjs/lib/ExecutionEnvironment.js");
-var _assign = __webpack_require__(/*! object-assign */ "./node_modules/object-assign/index.js");
+var _assign = __webpack_require__(/*! object-assign */ "./node_modules/react-dom/node_modules/object-assign/index.js");
 var EventListener = __webpack_require__(/*! fbjs/lib/EventListener */ "./node_modules/fbjs/lib/EventListener.js");
 var require$$0 = __webpack_require__(/*! fbjs/lib/warning */ "./node_modules/fbjs/lib/warning.js");
 var hyphenateStyleName = __webpack_require__(/*! fbjs/lib/hyphenateStyleName */ "./node_modules/fbjs/lib/hyphenateStyleName.js");
@@ -33060,6 +33134,108 @@ if (false) {} else {
 
 /***/ }),
 
+/***/ "./node_modules/react-dom/node_modules/object-assign/index.js":
+/*!********************************************************************!*\
+  !*** ./node_modules/react-dom/node_modules/object-assign/index.js ***!
+  \********************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
+
+
+/* eslint-disable no-unused-vars */
+var getOwnPropertySymbols = Object.getOwnPropertySymbols;
+var hasOwnProperty = Object.prototype.hasOwnProperty;
+var propIsEnumerable = Object.prototype.propertyIsEnumerable;
+
+function toObject(val) {
+	if (val === null || val === undefined) {
+		throw new TypeError('Object.assign cannot be called with null or undefined');
+	}
+
+	return Object(val);
+}
+
+function shouldUseNative() {
+	try {
+		if (!Object.assign) {
+			return false;
+		}
+
+		// Detect buggy property enumeration order in older V8 versions.
+
+		// https://bugs.chromium.org/p/v8/issues/detail?id=4118
+		var test1 = new String('abc');  // eslint-disable-line no-new-wrappers
+		test1[5] = 'de';
+		if (Object.getOwnPropertyNames(test1)[0] === '5') {
+			return false;
+		}
+
+		// https://bugs.chromium.org/p/v8/issues/detail?id=3056
+		var test2 = {};
+		for (var i = 0; i < 10; i++) {
+			test2['_' + String.fromCharCode(i)] = i;
+		}
+		var order2 = Object.getOwnPropertyNames(test2).map(function (n) {
+			return test2[n];
+		});
+		if (order2.join('') !== '0123456789') {
+			return false;
+		}
+
+		// https://bugs.chromium.org/p/v8/issues/detail?id=3056
+		var test3 = {};
+		'abcdefghijklmnopqrst'.split('').forEach(function (letter) {
+			test3[letter] = letter;
+		});
+		if (Object.keys(Object.assign({}, test3)).join('') !==
+				'abcdefghijklmnopqrst') {
+			return false;
+		}
+
+		return true;
+	} catch (err) {
+		// We don't expect any of the above to throw, but better to be safe.
+		return false;
+	}
+}
+
+module.exports = shouldUseNative() ? Object.assign : function (target, source) {
+	var from;
+	var to = toObject(target);
+	var symbols;
+
+	for (var s = 1; s < arguments.length; s++) {
+		from = Object(arguments[s]);
+
+		for (var key in from) {
+			if (hasOwnProperty.call(from, key)) {
+				to[key] = from[key];
+			}
+		}
+
+		if (getOwnPropertySymbols) {
+			symbols = getOwnPropertySymbols(from);
+			for (var i = 0; i < symbols.length; i++) {
+				if (propIsEnumerable.call(from, symbols[i])) {
+					to[symbols[i]] = from[symbols[i]];
+				}
+			}
+		}
+	}
+
+	return to;
+};
+
+
+/***/ }),
+
 /***/ "./node_modules/react-lifecycles-compat/react-lifecycles-compat.es.js":
 /*!****************************************************************************!*\
   !*** ./node_modules/react-lifecycles-compat/react-lifecycles-compat.es.js ***!
@@ -33333,7 +33509,7 @@ function createProvider() {
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return connectAdvanced; });
-/* harmony import */ var hoist_non_react_statics__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! hoist-non-react-statics */ "./node_modules/hoist-non-react-statics/index.js");
+/* harmony import */ var hoist_non_react_statics__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! hoist-non-react-statics */ "./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js");
 /* harmony import */ var hoist_non_react_statics__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(hoist_non_react_statics__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var invariant__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! invariant */ "./node_modules/invariant/browser.js");
 /* harmony import */ var invariant__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(invariant__WEBPACK_IMPORTED_MODULE_1__);
@@ -34386,7 +34562,7 @@ function warning(message) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! warning */ "./node_modules/warning/warning.js");
+/* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! warning */ "./node_modules/react-router-dom/node_modules/warning/warning.js");
 /* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(warning__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
@@ -34458,7 +34634,7 @@ BrowserRouter.propTypes = {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! warning */ "./node_modules/warning/warning.js");
+/* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! warning */ "./node_modules/react-router-dom/node_modules/warning/warning.js");
 /* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(warning__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
@@ -34987,6 +35163,108 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./node_modules/react-router-dom/node_modules/object-assign/index.js":
+/*!***************************************************************************!*\
+  !*** ./node_modules/react-router-dom/node_modules/object-assign/index.js ***!
+  \***************************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
+
+
+/* eslint-disable no-unused-vars */
+var getOwnPropertySymbols = Object.getOwnPropertySymbols;
+var hasOwnProperty = Object.prototype.hasOwnProperty;
+var propIsEnumerable = Object.prototype.propertyIsEnumerable;
+
+function toObject(val) {
+	if (val === null || val === undefined) {
+		throw new TypeError('Object.assign cannot be called with null or undefined');
+	}
+
+	return Object(val);
+}
+
+function shouldUseNative() {
+	try {
+		if (!Object.assign) {
+			return false;
+		}
+
+		// Detect buggy property enumeration order in older V8 versions.
+
+		// https://bugs.chromium.org/p/v8/issues/detail?id=4118
+		var test1 = new String('abc');  // eslint-disable-line no-new-wrappers
+		test1[5] = 'de';
+		if (Object.getOwnPropertyNames(test1)[0] === '5') {
+			return false;
+		}
+
+		// https://bugs.chromium.org/p/v8/issues/detail?id=3056
+		var test2 = {};
+		for (var i = 0; i < 10; i++) {
+			test2['_' + String.fromCharCode(i)] = i;
+		}
+		var order2 = Object.getOwnPropertyNames(test2).map(function (n) {
+			return test2[n];
+		});
+		if (order2.join('') !== '0123456789') {
+			return false;
+		}
+
+		// https://bugs.chromium.org/p/v8/issues/detail?id=3056
+		var test3 = {};
+		'abcdefghijklmnopqrst'.split('').forEach(function (letter) {
+			test3[letter] = letter;
+		});
+		if (Object.keys(Object.assign({}, test3)).join('') !==
+				'abcdefghijklmnopqrst') {
+			return false;
+		}
+
+		return true;
+	} catch (err) {
+		// We don't expect any of the above to throw, but better to be safe.
+		return false;
+	}
+}
+
+module.exports = shouldUseNative() ? Object.assign : function (target, source) {
+	var from;
+	var to = toObject(target);
+	var symbols;
+
+	for (var s = 1; s < arguments.length; s++) {
+		from = Object(arguments[s]);
+
+		for (var key in from) {
+			if (hasOwnProperty.call(from, key)) {
+				to[key] = from[key];
+			}
+		}
+
+		if (getOwnPropertySymbols) {
+			symbols = getOwnPropertySymbols(from);
+			for (var i = 0; i < symbols.length; i++) {
+				if (propIsEnumerable.call(from, symbols[i])) {
+					to[symbols[i]] = from[symbols[i]];
+				}
+			}
+		}
+	}
+
+	return to;
+};
+
+
+/***/ }),
+
 /***/ "./node_modules/react-router-dom/node_modules/prop-types/checkPropTypes.js":
 /*!*********************************************************************************!*\
   !*** ./node_modules/react-router-dom/node_modules/prop-types/checkPropTypes.js ***!
@@ -35107,7 +35385,7 @@ module.exports = checkPropTypes;
 
 
 
-var assign = __webpack_require__(/*! object-assign */ "./node_modules/object-assign/index.js");
+var assign = __webpack_require__(/*! object-assign */ "./node_modules/react-router-dom/node_modules/object-assign/index.js");
 
 var ReactPropTypesSecret = __webpack_require__(/*! ./lib/ReactPropTypesSecret */ "./node_modules/react-router-dom/node_modules/prop-types/lib/ReactPropTypesSecret.js");
 var checkPropTypes = __webpack_require__(/*! ./checkPropTypes */ "./node_modules/react-router-dom/node_modules/prop-types/checkPropTypes.js");
@@ -35716,6 +35994,80 @@ module.exports = ReactPropTypesSecret;
 
 /***/ }),
 
+/***/ "./node_modules/react-router-dom/node_modules/warning/warning.js":
+/*!***********************************************************************!*\
+  !*** ./node_modules/react-router-dom/node_modules/warning/warning.js ***!
+  \***********************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+/**
+ * Copyright (c) 2014-present, Facebook, Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+
+
+/**
+ * Similar to invariant but only logs a warning if the condition is not met.
+ * This can be used to log issues in development environments in critical
+ * paths. Removing the logging code for production environments will keep the
+ * same logic and follow the same code paths.
+ */
+
+var __DEV__ = "development" !== 'production';
+
+var warning = function() {};
+
+if (__DEV__) {
+  var printWarning = function printWarning(format, args) {
+    var len = arguments.length;
+    args = new Array(len > 2 ? len - 2 : 0);
+    for (var key = 2; key < len; key++) {
+      args[key - 2] = arguments[key];
+    }
+    var argIndex = 0;
+    var message = 'Warning: ' +
+      format.replace(/%s/g, function() {
+        return args[argIndex++];
+      });
+    if (typeof console !== 'undefined') {
+      console.error(message);
+    }
+    try {
+      // --- Welcome to debugging React ---
+      // This error was thrown as a convenience so that you can use this stack
+      // to find the callsite that caused this warning to fire.
+      throw new Error(message);
+    } catch (x) {}
+  }
+
+  warning = function(condition, format, args) {
+    var len = arguments.length;
+    args = new Array(len > 2 ? len - 2 : 0);
+    for (var key = 2; key < len; key++) {
+      args[key - 2] = arguments[key];
+    }
+    if (format === undefined) {
+      throw new Error(
+          '`warning(condition, format, ...args)` requires a warning ' +
+          'message argument'
+      );
+    }
+    if (!condition) {
+      printWarning.apply(null, [format].concat(args));
+    }
+  };
+}
+
+module.exports = warning;
+
+
+/***/ }),
+
 /***/ "./node_modules/react-router/es/MemoryRouter.js":
 /*!******************************************************!*\
   !*** ./node_modules/react-router/es/MemoryRouter.js ***!
@@ -35725,7 +36077,7 @@ module.exports = ReactPropTypesSecret;
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! warning */ "./node_modules/warning/warning.js");
+/* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! warning */ "./node_modules/react-router/node_modules/warning/warning.js");
 /* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(warning__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
@@ -35898,7 +36250,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "./node_modules/react-router/node_modules/prop-types/index.js");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! warning */ "./node_modules/warning/warning.js");
+/* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! warning */ "./node_modules/react-router/node_modules/warning/warning.js");
 /* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(warning__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var invariant__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! invariant */ "./node_modules/invariant/browser.js");
 /* harmony import */ var invariant__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(invariant__WEBPACK_IMPORTED_MODULE_3__);
@@ -36029,7 +36381,7 @@ Redirect.contextTypes = {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! warning */ "./node_modules/warning/warning.js");
+/* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! warning */ "./node_modules/react-router/node_modules/warning/warning.js");
 /* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(warning__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var invariant__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! invariant */ "./node_modules/invariant/browser.js");
 /* harmony import */ var invariant__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(invariant__WEBPACK_IMPORTED_MODULE_1__);
@@ -36189,7 +36541,7 @@ Route.childContextTypes = {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! warning */ "./node_modules/warning/warning.js");
+/* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! warning */ "./node_modules/react-router/node_modules/warning/warning.js");
 /* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(warning__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var invariant__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! invariant */ "./node_modules/invariant/browser.js");
 /* harmony import */ var invariant__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(invariant__WEBPACK_IMPORTED_MODULE_1__);
@@ -36314,7 +36666,7 @@ Router.childContextTypes = {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! warning */ "./node_modules/warning/warning.js");
+/* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! warning */ "./node_modules/react-router/node_modules/warning/warning.js");
 /* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(warning__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var invariant__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! invariant */ "./node_modules/invariant/browser.js");
 /* harmony import */ var invariant__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(invariant__WEBPACK_IMPORTED_MODULE_1__);
@@ -36490,7 +36842,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "./node_modules/react-router/node_modules/prop-types/index.js");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! warning */ "./node_modules/warning/warning.js");
+/* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! warning */ "./node_modules/react-router/node_modules/warning/warning.js");
 /* harmony import */ var warning__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(warning__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var invariant__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! invariant */ "./node_modules/invariant/browser.js");
 /* harmony import */ var invariant__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(invariant__WEBPACK_IMPORTED_MODULE_3__);
@@ -36725,7 +37077,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! prop-types */ "./node_modules/react-router/node_modules/prop-types/index.js");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var hoist_non_react_statics__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! hoist-non-react-statics */ "./node_modules/hoist-non-react-statics/index.js");
+/* harmony import */ var hoist_non_react_statics__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! hoist-non-react-statics */ "./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js");
 /* harmony import */ var hoist_non_react_statics__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(hoist_non_react_statics__WEBPACK_IMPORTED_MODULE_2__);
 /* harmony import */ var _Route__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./Route */ "./node_modules/react-router/es/Route.js");
 var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
@@ -36767,15 +37119,103 @@ var withRouter = function withRouter(Component) {
 
 /***/ }),
 
-/***/ "./node_modules/react-router/node_modules/isarray/index.js":
-/*!*****************************************************************!*\
-  !*** ./node_modules/react-router/node_modules/isarray/index.js ***!
-  \*****************************************************************/
+/***/ "./node_modules/react-router/node_modules/object-assign/index.js":
+/*!***********************************************************************!*\
+  !*** ./node_modules/react-router/node_modules/object-assign/index.js ***!
+  \***********************************************************************/
 /*! no static exports found */
-/***/ (function(module, exports) {
+/***/ (function(module, exports, __webpack_require__) {
 
-module.exports = Array.isArray || function (arr) {
-  return Object.prototype.toString.call(arr) == '[object Array]';
+"use strict";
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
+
+
+/* eslint-disable no-unused-vars */
+var getOwnPropertySymbols = Object.getOwnPropertySymbols;
+var hasOwnProperty = Object.prototype.hasOwnProperty;
+var propIsEnumerable = Object.prototype.propertyIsEnumerable;
+
+function toObject(val) {
+	if (val === null || val === undefined) {
+		throw new TypeError('Object.assign cannot be called with null or undefined');
+	}
+
+	return Object(val);
+}
+
+function shouldUseNative() {
+	try {
+		if (!Object.assign) {
+			return false;
+		}
+
+		// Detect buggy property enumeration order in older V8 versions.
+
+		// https://bugs.chromium.org/p/v8/issues/detail?id=4118
+		var test1 = new String('abc');  // eslint-disable-line no-new-wrappers
+		test1[5] = 'de';
+		if (Object.getOwnPropertyNames(test1)[0] === '5') {
+			return false;
+		}
+
+		// https://bugs.chromium.org/p/v8/issues/detail?id=3056
+		var test2 = {};
+		for (var i = 0; i < 10; i++) {
+			test2['_' + String.fromCharCode(i)] = i;
+		}
+		var order2 = Object.getOwnPropertyNames(test2).map(function (n) {
+			return test2[n];
+		});
+		if (order2.join('') !== '0123456789') {
+			return false;
+		}
+
+		// https://bugs.chromium.org/p/v8/issues/detail?id=3056
+		var test3 = {};
+		'abcdefghijklmnopqrst'.split('').forEach(function (letter) {
+			test3[letter] = letter;
+		});
+		if (Object.keys(Object.assign({}, test3)).join('') !==
+				'abcdefghijklmnopqrst') {
+			return false;
+		}
+
+		return true;
+	} catch (err) {
+		// We don't expect any of the above to throw, but better to be safe.
+		return false;
+	}
+}
+
+module.exports = shouldUseNative() ? Object.assign : function (target, source) {
+	var from;
+	var to = toObject(target);
+	var symbols;
+
+	for (var s = 1; s < arguments.length; s++) {
+		from = Object(arguments[s]);
+
+		for (var key in from) {
+			if (hasOwnProperty.call(from, key)) {
+				to[key] = from[key];
+			}
+		}
+
+		if (getOwnPropertySymbols) {
+			symbols = getOwnPropertySymbols(from);
+			for (var i = 0; i < symbols.length; i++) {
+				if (propIsEnumerable.call(from, symbols[i])) {
+					to[symbols[i]] = from[symbols[i]];
+				}
+			}
+		}
+	}
+
+	return to;
 };
 
 
@@ -36788,7 +37228,7 @@ module.exports = Array.isArray || function (arr) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-var isarray = __webpack_require__(/*! isarray */ "./node_modules/react-router/node_modules/isarray/index.js")
+var isarray = __webpack_require__(/*! isarray */ "./node_modules/isarray/index.js")
 
 /**
  * Expose `pathToRegexp`.
@@ -37338,7 +37778,7 @@ module.exports = checkPropTypes;
 
 
 
-var assign = __webpack_require__(/*! object-assign */ "./node_modules/object-assign/index.js");
+var assign = __webpack_require__(/*! object-assign */ "./node_modules/react-router/node_modules/object-assign/index.js");
 
 var ReactPropTypesSecret = __webpack_require__(/*! ./lib/ReactPropTypesSecret */ "./node_modules/react-router/node_modules/prop-types/lib/ReactPropTypesSecret.js");
 var checkPropTypes = __webpack_require__(/*! ./checkPropTypes */ "./node_modules/react-router/node_modules/prop-types/checkPropTypes.js");
@@ -37947,6 +38387,80 @@ module.exports = ReactPropTypesSecret;
 
 /***/ }),
 
+/***/ "./node_modules/react-router/node_modules/warning/warning.js":
+/*!*******************************************************************!*\
+  !*** ./node_modules/react-router/node_modules/warning/warning.js ***!
+  \*******************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+/**
+ * Copyright (c) 2014-present, Facebook, Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+
+
+/**
+ * Similar to invariant but only logs a warning if the condition is not met.
+ * This can be used to log issues in development environments in critical
+ * paths. Removing the logging code for production environments will keep the
+ * same logic and follow the same code paths.
+ */
+
+var __DEV__ = "development" !== 'production';
+
+var warning = function() {};
+
+if (__DEV__) {
+  var printWarning = function printWarning(format, args) {
+    var len = arguments.length;
+    args = new Array(len > 2 ? len - 2 : 0);
+    for (var key = 2; key < len; key++) {
+      args[key - 2] = arguments[key];
+    }
+    var argIndex = 0;
+    var message = 'Warning: ' +
+      format.replace(/%s/g, function() {
+        return args[argIndex++];
+      });
+    if (typeof console !== 'undefined') {
+      console.error(message);
+    }
+    try {
+      // --- Welcome to debugging React ---
+      // This error was thrown as a convenience so that you can use this stack
+      // to find the callsite that caused this warning to fire.
+      throw new Error(message);
+    } catch (x) {}
+  }
+
+  warning = function(condition, format, args) {
+    var len = arguments.length;
+    args = new Array(len > 2 ? len - 2 : 0);
+    for (var key = 2; key < len; key++) {
+      args[key - 2] = arguments[key];
+    }
+    if (format === undefined) {
+      throw new Error(
+          '`warning(condition, format, ...args)` requires a warning ' +
+          'message argument'
+      );
+    }
+    if (!condition) {
+      printWarning.apply(null, [format].concat(args));
+    }
+  };
+}
+
+module.exports = warning;
+
+
+/***/ }),
+
 /***/ "./node_modules/react/cjs/react.development.js":
 /*!*****************************************************!*\
   !*** ./node_modules/react/cjs/react.development.js ***!
@@ -37971,7 +38485,7 @@ if (true) {
 
 'use strict';
 
-var objectAssign$1 = __webpack_require__(/*! object-assign */ "./node_modules/object-assign/index.js");
+var objectAssign$1 = __webpack_require__(/*! object-assign */ "./node_modules/react/node_modules/object-assign/index.js");
 var require$$0 = __webpack_require__(/*! fbjs/lib/warning */ "./node_modules/fbjs/lib/warning.js");
 var emptyObject = __webpack_require__(/*! fbjs/lib/emptyObject */ "./node_modules/fbjs/lib/emptyObject.js");
 var invariant = __webpack_require__(/*! fbjs/lib/invariant */ "./node_modules/fbjs/lib/invariant.js");
@@ -39674,6 +40188,108 @@ if (false) {} else {
 
 /***/ }),
 
+/***/ "./node_modules/react/node_modules/object-assign/index.js":
+/*!****************************************************************!*\
+  !*** ./node_modules/react/node_modules/object-assign/index.js ***!
+  \****************************************************************/
+/*! no static exports found */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
+
+
+/* eslint-disable no-unused-vars */
+var getOwnPropertySymbols = Object.getOwnPropertySymbols;
+var hasOwnProperty = Object.prototype.hasOwnProperty;
+var propIsEnumerable = Object.prototype.propertyIsEnumerable;
+
+function toObject(val) {
+	if (val === null || val === undefined) {
+		throw new TypeError('Object.assign cannot be called with null or undefined');
+	}
+
+	return Object(val);
+}
+
+function shouldUseNative() {
+	try {
+		if (!Object.assign) {
+			return false;
+		}
+
+		// Detect buggy property enumeration order in older V8 versions.
+
+		// https://bugs.chromium.org/p/v8/issues/detail?id=4118
+		var test1 = new String('abc');  // eslint-disable-line no-new-wrappers
+		test1[5] = 'de';
+		if (Object.getOwnPropertyNames(test1)[0] === '5') {
+			return false;
+		}
+
+		// https://bugs.chromium.org/p/v8/issues/detail?id=3056
+		var test2 = {};
+		for (var i = 0; i < 10; i++) {
+			test2['_' + String.fromCharCode(i)] = i;
+		}
+		var order2 = Object.getOwnPropertyNames(test2).map(function (n) {
+			return test2[n];
+		});
+		if (order2.join('') !== '0123456789') {
+			return false;
+		}
+
+		// https://bugs.chromium.org/p/v8/issues/detail?id=3056
+		var test3 = {};
+		'abcdefghijklmnopqrst'.split('').forEach(function (letter) {
+			test3[letter] = letter;
+		});
+		if (Object.keys(Object.assign({}, test3)).join('') !==
+				'abcdefghijklmnopqrst') {
+			return false;
+		}
+
+		return true;
+	} catch (err) {
+		// We don't expect any of the above to throw, but better to be safe.
+		return false;
+	}
+}
+
+module.exports = shouldUseNative() ? Object.assign : function (target, source) {
+	var from;
+	var to = toObject(target);
+	var symbols;
+
+	for (var s = 1; s < arguments.length; s++) {
+		from = Object(arguments[s]);
+
+		for (var key in from) {
+			if (hasOwnProperty.call(from, key)) {
+				to[key] = from[key];
+			}
+		}
+
+		if (getOwnPropertySymbols) {
+			symbols = getOwnPropertySymbols(from);
+			for (var i = 0; i < symbols.length; i++) {
+				if (propIsEnumerable.call(from, symbols[i])) {
+					to[symbols[i]] = from[symbols[i]];
+				}
+			}
+		}
+	}
+
+	return to;
+};
+
+
+/***/ }),
+
 /***/ "./node_modules/redux-devtools-extension/index.js":
 /*!********************************************************!*\
   !*** ./node_modules/redux-devtools-extension/index.js ***!
@@ -40063,7 +40679,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ActionTypes", function() { return ActionTypes; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return createStore; });
 /* harmony import */ var lodash_es_isPlainObject__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! lodash-es/isPlainObject */ "./node_modules/lodash-es/isPlainObject.js");
-/* harmony import */ var symbol_observable__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! symbol-observable */ "./node_modules/redux/node_modules/symbol-observable/es/index.js");
+/* harmony import */ var symbol_observable__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! symbol-observable */ "./node_modules/symbol-observable/es/index.js");
 
 
 
@@ -40392,69 +41008,6 @@ function warning(message) {
   } catch (e) {}
   /* eslint-enable no-empty */
 }
-
-/***/ }),
-
-/***/ "./node_modules/redux/node_modules/symbol-observable/es/index.js":
-/*!***********************************************************************!*\
-  !*** ./node_modules/redux/node_modules/symbol-observable/es/index.js ***!
-  \***********************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* WEBPACK VAR INJECTION */(function(global, module) {/* harmony import */ var _ponyfill_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./ponyfill.js */ "./node_modules/redux/node_modules/symbol-observable/es/ponyfill.js");
-/* global window */
-
-
-var root;
-
-if (typeof self !== 'undefined') {
-  root = self;
-} else if (typeof window !== 'undefined') {
-  root = window;
-} else if (typeof global !== 'undefined') {
-  root = global;
-} else if (true) {
-  root = module;
-} else {}
-
-var result = Object(_ponyfill_js__WEBPACK_IMPORTED_MODULE_0__["default"])(root);
-/* harmony default export */ __webpack_exports__["default"] = (result);
-
-/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! (webpack)/buildin/global.js */ "C:\\Users\\inf\\AppData\\Roaming\\npm\\node_modules\\webpack\\buildin\\global.js"), __webpack_require__(/*! (webpack)/buildin/harmony-module.js */ "C:\\Users\\inf\\AppData\\Roaming\\npm\\node_modules\\webpack\\buildin\\harmony-module.js")(module)))
-
-/***/ }),
-
-/***/ "./node_modules/redux/node_modules/symbol-observable/es/ponyfill.js":
-/*!**************************************************************************!*\
-  !*** ./node_modules/redux/node_modules/symbol-observable/es/ponyfill.js ***!
-  \**************************************************************************/
-/*! exports provided: default */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return symbolObservablePonyfill; });
-function symbolObservablePonyfill(root) {
-	var result;
-	var Symbol = root.Symbol;
-
-	if (typeof Symbol === 'function') {
-		if (Symbol.observable) {
-			result = Symbol.observable;
-		} else {
-			result = Symbol('observable');
-			Symbol.observable = result;
-		}
-	} else {
-		result = '@@observable';
-	}
-
-	return result;
-};
-
 
 /***/ }),
 
@@ -41215,6 +41768,69 @@ module.exports = function (css) {
 
 /***/ }),
 
+/***/ "./node_modules/symbol-observable/es/index.js":
+/*!****************************************************!*\
+  !*** ./node_modules/symbol-observable/es/index.js ***!
+  \****************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* WEBPACK VAR INJECTION */(function(global, module) {/* harmony import */ var _ponyfill_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./ponyfill.js */ "./node_modules/symbol-observable/es/ponyfill.js");
+/* global window */
+
+
+var root;
+
+if (typeof self !== 'undefined') {
+  root = self;
+} else if (typeof window !== 'undefined') {
+  root = window;
+} else if (typeof global !== 'undefined') {
+  root = global;
+} else if (true) {
+  root = module;
+} else {}
+
+var result = Object(_ponyfill_js__WEBPACK_IMPORTED_MODULE_0__["default"])(root);
+/* harmony default export */ __webpack_exports__["default"] = (result);
+
+/* WEBPACK VAR INJECTION */}.call(this, __webpack_require__(/*! (webpack)/buildin/global.js */ "C:\\Users\\inf\\AppData\\Roaming\\npm\\node_modules\\webpack\\buildin\\global.js"), __webpack_require__(/*! (webpack)/buildin/harmony-module.js */ "C:\\Users\\inf\\AppData\\Roaming\\npm\\node_modules\\webpack\\buildin\\harmony-module.js")(module)))
+
+/***/ }),
+
+/***/ "./node_modules/symbol-observable/es/ponyfill.js":
+/*!*******************************************************!*\
+  !*** ./node_modules/symbol-observable/es/ponyfill.js ***!
+  \*******************************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return symbolObservablePonyfill; });
+function symbolObservablePonyfill(root) {
+	var result;
+	var Symbol = root.Symbol;
+
+	if (typeof Symbol === 'function') {
+		if (Symbol.observable) {
+			result = Symbol.observable;
+		} else {
+			result = Symbol('observable');
+			Symbol.observable = result;
+		}
+	} else {
+		result = '@@observable';
+	}
+
+	return result;
+};
+
+
+/***/ }),
+
 /***/ "./node_modules/uuid/index.js":
 /*!************************************!*\
   !*** ./node_modules/uuid/index.js ***!
@@ -41514,21 +42130,21 @@ function valueEqual(a, b) {
 
 /***/ }),
 
-/***/ "./node_modules/warning/warning.js":
+/***/ "./node_modules/warning/browser.js":
 /*!*****************************************!*\
-  !*** ./node_modules/warning/warning.js ***!
+  !*** ./node_modules/warning/browser.js ***!
   \*****************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 /**
- * Copyright (c) 2014-present, Facebook, Inc.
+ * Copyright 2014-2015, Facebook, Inc.
+ * All rights reserved.
  *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- *
- * @providesModule warning
+ * This source code is licensed under the BSD-style license found in the
+ * LICENSE file in the root directory of this source tree. An additional grant
+ * of patent rights can be found in the PATENTS file in the same directory.
  */
 
 
@@ -41540,33 +42156,9 @@ function valueEqual(a, b) {
  * same logic and follow the same code paths.
  */
 
-var __DEV__ = "development" !== 'production';
-
 var warning = function() {};
 
-if (__DEV__) {
-  var printWarning = function printWarning(format, args) {
-    var len = arguments.length;
-    args = new Array(len > 2 ? len - 2 : 0);
-    for (var key = 2; key < len; key++) {
-      args[key - 2] = arguments[key];
-    }
-    var argIndex = 0;
-    var message = 'Warning: ' +
-      format.replace(/%s/g, function() {
-        return args[argIndex++];
-      });
-    if (typeof console !== 'undefined') {
-      console.error(message);
-    }
-    try {
-      // --- Welcome to debugging React ---
-      // This error was thrown as a convenience so that you can use this stack
-      // to find the callsite that caused this warning to fire.
-      throw new Error(message);
-    } catch (x) {}
-  }
-
+if (true) {
   warning = function(condition, format, args) {
     var len = arguments.length;
     args = new Array(len > 2 ? len - 2 : 0);
@@ -41575,12 +42167,32 @@ if (__DEV__) {
     }
     if (format === undefined) {
       throw new Error(
-          '`warning(condition, format, ...args)` requires a warning ' +
-          'message argument'
+        '`warning(condition, format, ...args)` requires a warning ' +
+        'message argument'
       );
     }
+
+    if (format.length < 10 || (/^[s\W]*$/).test(format)) {
+      throw new Error(
+        'The warning format should be able to uniquely identify this ' +
+        'warning. Please, use a more descriptive format than: ' + format
+      );
+    }
+
     if (!condition) {
-      printWarning.apply(null, [format].concat(args));
+      var argIndex = 0;
+      var message = 'Warning: ' +
+        format.replace(/%s/g, function() {
+          return args[argIndex++];
+        });
+      if (typeof console !== 'undefined') {
+        console.error(message);
+      }
+      try {
+        // This error was thrown as a convenience so that you can use this stack
+        // to find the callsite that caused this warning to fire.
+        throw new Error(message);
+      } catch(x) {}
     }
   };
 }
@@ -41594,357 +42206,373 @@ module.exports = warning;
 /*!********************************************!*\
   !*** ./node_modules/whatwg-fetch/fetch.js ***!
   \********************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/*! exports provided: Headers, Request, Response, DOMException, fetch */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-(function(self) {
-  'use strict';
-
-  if (self.fetch) {
-    return
-  }
-
-  var support = {
-    searchParams: 'URLSearchParams' in self,
-    iterable: 'Symbol' in self && 'iterator' in Symbol,
-    blob: 'FileReader' in self && 'Blob' in self && (function() {
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "Headers", function() { return Headers; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "Request", function() { return Request; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "Response", function() { return Response; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "DOMException", function() { return DOMException; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "fetch", function() { return fetch; });
+var support = {
+  searchParams: 'URLSearchParams' in self,
+  iterable: 'Symbol' in self && 'iterator' in Symbol,
+  blob:
+    'FileReader' in self &&
+    'Blob' in self &&
+    (function() {
       try {
         new Blob()
         return true
-      } catch(e) {
+      } catch (e) {
         return false
       }
     })(),
-    formData: 'FormData' in self,
-    arrayBuffer: 'ArrayBuffer' in self
-  }
+  formData: 'FormData' in self,
+  arrayBuffer: 'ArrayBuffer' in self
+}
 
-  if (support.arrayBuffer) {
-    var viewClasses = [
-      '[object Int8Array]',
-      '[object Uint8Array]',
-      '[object Uint8ClampedArray]',
-      '[object Int16Array]',
-      '[object Uint16Array]',
-      '[object Int32Array]',
-      '[object Uint32Array]',
-      '[object Float32Array]',
-      '[object Float64Array]'
-    ]
+function isDataView(obj) {
+  return obj && DataView.prototype.isPrototypeOf(obj)
+}
 
-    var isDataView = function(obj) {
-      return obj && DataView.prototype.isPrototypeOf(obj)
-    }
+if (support.arrayBuffer) {
+  var viewClasses = [
+    '[object Int8Array]',
+    '[object Uint8Array]',
+    '[object Uint8ClampedArray]',
+    '[object Int16Array]',
+    '[object Uint16Array]',
+    '[object Int32Array]',
+    '[object Uint32Array]',
+    '[object Float32Array]',
+    '[object Float64Array]'
+  ]
 
-    var isArrayBufferView = ArrayBuffer.isView || function(obj) {
+  var isArrayBufferView =
+    ArrayBuffer.isView ||
+    function(obj) {
       return obj && viewClasses.indexOf(Object.prototype.toString.call(obj)) > -1
     }
-  }
+}
 
-  function normalizeName(name) {
-    if (typeof name !== 'string') {
-      name = String(name)
+function normalizeName(name) {
+  if (typeof name !== 'string') {
+    name = String(name)
+  }
+  if (/[^a-z0-9\-#$%&'*+.^_`|~]/i.test(name)) {
+    throw new TypeError('Invalid character in header field name')
+  }
+  return name.toLowerCase()
+}
+
+function normalizeValue(value) {
+  if (typeof value !== 'string') {
+    value = String(value)
+  }
+  return value
+}
+
+// Build a destructive iterator for the value list
+function iteratorFor(items) {
+  var iterator = {
+    next: function() {
+      var value = items.shift()
+      return {done: value === undefined, value: value}
     }
-    if (/[^a-z0-9\-#$%&'*+.\^_`|~]/i.test(name)) {
-      throw new TypeError('Invalid character in header field name')
-    }
-    return name.toLowerCase()
-  }
-
-  function normalizeValue(value) {
-    if (typeof value !== 'string') {
-      value = String(value)
-    }
-    return value
-  }
-
-  // Build a destructive iterator for the value list
-  function iteratorFor(items) {
-    var iterator = {
-      next: function() {
-        var value = items.shift()
-        return {done: value === undefined, value: value}
-      }
-    }
-
-    if (support.iterable) {
-      iterator[Symbol.iterator] = function() {
-        return iterator
-      }
-    }
-
-    return iterator
-  }
-
-  function Headers(headers) {
-    this.map = {}
-
-    if (headers instanceof Headers) {
-      headers.forEach(function(value, name) {
-        this.append(name, value)
-      }, this)
-    } else if (Array.isArray(headers)) {
-      headers.forEach(function(header) {
-        this.append(header[0], header[1])
-      }, this)
-    } else if (headers) {
-      Object.getOwnPropertyNames(headers).forEach(function(name) {
-        this.append(name, headers[name])
-      }, this)
-    }
-  }
-
-  Headers.prototype.append = function(name, value) {
-    name = normalizeName(name)
-    value = normalizeValue(value)
-    var oldValue = this.map[name]
-    this.map[name] = oldValue ? oldValue+','+value : value
-  }
-
-  Headers.prototype['delete'] = function(name) {
-    delete this.map[normalizeName(name)]
-  }
-
-  Headers.prototype.get = function(name) {
-    name = normalizeName(name)
-    return this.has(name) ? this.map[name] : null
-  }
-
-  Headers.prototype.has = function(name) {
-    return this.map.hasOwnProperty(normalizeName(name))
-  }
-
-  Headers.prototype.set = function(name, value) {
-    this.map[normalizeName(name)] = normalizeValue(value)
-  }
-
-  Headers.prototype.forEach = function(callback, thisArg) {
-    for (var name in this.map) {
-      if (this.map.hasOwnProperty(name)) {
-        callback.call(thisArg, this.map[name], name, this)
-      }
-    }
-  }
-
-  Headers.prototype.keys = function() {
-    var items = []
-    this.forEach(function(value, name) { items.push(name) })
-    return iteratorFor(items)
-  }
-
-  Headers.prototype.values = function() {
-    var items = []
-    this.forEach(function(value) { items.push(value) })
-    return iteratorFor(items)
-  }
-
-  Headers.prototype.entries = function() {
-    var items = []
-    this.forEach(function(value, name) { items.push([name, value]) })
-    return iteratorFor(items)
   }
 
   if (support.iterable) {
-    Headers.prototype[Symbol.iterator] = Headers.prototype.entries
-  }
-
-  function consumed(body) {
-    if (body.bodyUsed) {
-      return Promise.reject(new TypeError('Already read'))
+    iterator[Symbol.iterator] = function() {
+      return iterator
     }
-    body.bodyUsed = true
   }
 
-  function fileReaderReady(reader) {
-    return new Promise(function(resolve, reject) {
-      reader.onload = function() {
-        resolve(reader.result)
-      }
-      reader.onerror = function() {
-        reject(reader.error)
-      }
-    })
+  return iterator
+}
+
+function Headers(headers) {
+  this.map = {}
+
+  if (headers instanceof Headers) {
+    headers.forEach(function(value, name) {
+      this.append(name, value)
+    }, this)
+  } else if (Array.isArray(headers)) {
+    headers.forEach(function(header) {
+      this.append(header[0], header[1])
+    }, this)
+  } else if (headers) {
+    Object.getOwnPropertyNames(headers).forEach(function(name) {
+      this.append(name, headers[name])
+    }, this)
   }
+}
 
-  function readBlobAsArrayBuffer(blob) {
-    var reader = new FileReader()
-    var promise = fileReaderReady(reader)
-    reader.readAsArrayBuffer(blob)
-    return promise
-  }
+Headers.prototype.append = function(name, value) {
+  name = normalizeName(name)
+  value = normalizeValue(value)
+  var oldValue = this.map[name]
+  this.map[name] = oldValue ? oldValue + ', ' + value : value
+}
 
-  function readBlobAsText(blob) {
-    var reader = new FileReader()
-    var promise = fileReaderReady(reader)
-    reader.readAsText(blob)
-    return promise
-  }
+Headers.prototype['delete'] = function(name) {
+  delete this.map[normalizeName(name)]
+}
 
-  function readArrayBufferAsText(buf) {
-    var view = new Uint8Array(buf)
-    var chars = new Array(view.length)
+Headers.prototype.get = function(name) {
+  name = normalizeName(name)
+  return this.has(name) ? this.map[name] : null
+}
 
-    for (var i = 0; i < view.length; i++) {
-      chars[i] = String.fromCharCode(view[i])
+Headers.prototype.has = function(name) {
+  return this.map.hasOwnProperty(normalizeName(name))
+}
+
+Headers.prototype.set = function(name, value) {
+  this.map[normalizeName(name)] = normalizeValue(value)
+}
+
+Headers.prototype.forEach = function(callback, thisArg) {
+  for (var name in this.map) {
+    if (this.map.hasOwnProperty(name)) {
+      callback.call(thisArg, this.map[name], name, this)
     }
-    return chars.join('')
   }
+}
 
-  function bufferClone(buf) {
-    if (buf.slice) {
-      return buf.slice(0)
+Headers.prototype.keys = function() {
+  var items = []
+  this.forEach(function(value, name) {
+    items.push(name)
+  })
+  return iteratorFor(items)
+}
+
+Headers.prototype.values = function() {
+  var items = []
+  this.forEach(function(value) {
+    items.push(value)
+  })
+  return iteratorFor(items)
+}
+
+Headers.prototype.entries = function() {
+  var items = []
+  this.forEach(function(value, name) {
+    items.push([name, value])
+  })
+  return iteratorFor(items)
+}
+
+if (support.iterable) {
+  Headers.prototype[Symbol.iterator] = Headers.prototype.entries
+}
+
+function consumed(body) {
+  if (body.bodyUsed) {
+    return Promise.reject(new TypeError('Already read'))
+  }
+  body.bodyUsed = true
+}
+
+function fileReaderReady(reader) {
+  return new Promise(function(resolve, reject) {
+    reader.onload = function() {
+      resolve(reader.result)
+    }
+    reader.onerror = function() {
+      reject(reader.error)
+    }
+  })
+}
+
+function readBlobAsArrayBuffer(blob) {
+  var reader = new FileReader()
+  var promise = fileReaderReady(reader)
+  reader.readAsArrayBuffer(blob)
+  return promise
+}
+
+function readBlobAsText(blob) {
+  var reader = new FileReader()
+  var promise = fileReaderReady(reader)
+  reader.readAsText(blob)
+  return promise
+}
+
+function readArrayBufferAsText(buf) {
+  var view = new Uint8Array(buf)
+  var chars = new Array(view.length)
+
+  for (var i = 0; i < view.length; i++) {
+    chars[i] = String.fromCharCode(view[i])
+  }
+  return chars.join('')
+}
+
+function bufferClone(buf) {
+  if (buf.slice) {
+    return buf.slice(0)
+  } else {
+    var view = new Uint8Array(buf.byteLength)
+    view.set(new Uint8Array(buf))
+    return view.buffer
+  }
+}
+
+function Body() {
+  this.bodyUsed = false
+
+  this._initBody = function(body) {
+    this._bodyInit = body
+    if (!body) {
+      this._bodyText = ''
+    } else if (typeof body === 'string') {
+      this._bodyText = body
+    } else if (support.blob && Blob.prototype.isPrototypeOf(body)) {
+      this._bodyBlob = body
+    } else if (support.formData && FormData.prototype.isPrototypeOf(body)) {
+      this._bodyFormData = body
+    } else if (support.searchParams && URLSearchParams.prototype.isPrototypeOf(body)) {
+      this._bodyText = body.toString()
+    } else if (support.arrayBuffer && support.blob && isDataView(body)) {
+      this._bodyArrayBuffer = bufferClone(body.buffer)
+      // IE 10-11 can't handle a DataView body.
+      this._bodyInit = new Blob([this._bodyArrayBuffer])
+    } else if (support.arrayBuffer && (ArrayBuffer.prototype.isPrototypeOf(body) || isArrayBufferView(body))) {
+      this._bodyArrayBuffer = bufferClone(body)
     } else {
-      var view = new Uint8Array(buf.byteLength)
-      view.set(new Uint8Array(buf))
-      return view.buffer
+      this._bodyText = body = Object.prototype.toString.call(body)
+    }
+
+    if (!this.headers.get('content-type')) {
+      if (typeof body === 'string') {
+        this.headers.set('content-type', 'text/plain;charset=UTF-8')
+      } else if (this._bodyBlob && this._bodyBlob.type) {
+        this.headers.set('content-type', this._bodyBlob.type)
+      } else if (support.searchParams && URLSearchParams.prototype.isPrototypeOf(body)) {
+        this.headers.set('content-type', 'application/x-www-form-urlencoded;charset=UTF-8')
+      }
     }
   }
 
-  function Body() {
-    this.bodyUsed = false
-
-    this._initBody = function(body) {
-      this._bodyInit = body
-      if (!body) {
-        this._bodyText = ''
-      } else if (typeof body === 'string') {
-        this._bodyText = body
-      } else if (support.blob && Blob.prototype.isPrototypeOf(body)) {
-        this._bodyBlob = body
-      } else if (support.formData && FormData.prototype.isPrototypeOf(body)) {
-        this._bodyFormData = body
-      } else if (support.searchParams && URLSearchParams.prototype.isPrototypeOf(body)) {
-        this._bodyText = body.toString()
-      } else if (support.arrayBuffer && support.blob && isDataView(body)) {
-        this._bodyArrayBuffer = bufferClone(body.buffer)
-        // IE 10-11 can't handle a DataView body.
-        this._bodyInit = new Blob([this._bodyArrayBuffer])
-      } else if (support.arrayBuffer && (ArrayBuffer.prototype.isPrototypeOf(body) || isArrayBufferView(body))) {
-        this._bodyArrayBuffer = bufferClone(body)
-      } else {
-        throw new Error('unsupported BodyInit type')
-      }
-
-      if (!this.headers.get('content-type')) {
-        if (typeof body === 'string') {
-          this.headers.set('content-type', 'text/plain;charset=UTF-8')
-        } else if (this._bodyBlob && this._bodyBlob.type) {
-          this.headers.set('content-type', this._bodyBlob.type)
-        } else if (support.searchParams && URLSearchParams.prototype.isPrototypeOf(body)) {
-          this.headers.set('content-type', 'application/x-www-form-urlencoded;charset=UTF-8')
-        }
-      }
-    }
-
-    if (support.blob) {
-      this.blob = function() {
-        var rejected = consumed(this)
-        if (rejected) {
-          return rejected
-        }
-
-        if (this._bodyBlob) {
-          return Promise.resolve(this._bodyBlob)
-        } else if (this._bodyArrayBuffer) {
-          return Promise.resolve(new Blob([this._bodyArrayBuffer]))
-        } else if (this._bodyFormData) {
-          throw new Error('could not read FormData body as blob')
-        } else {
-          return Promise.resolve(new Blob([this._bodyText]))
-        }
-      }
-
-      this.arrayBuffer = function() {
-        if (this._bodyArrayBuffer) {
-          return consumed(this) || Promise.resolve(this._bodyArrayBuffer)
-        } else {
-          return this.blob().then(readBlobAsArrayBuffer)
-        }
-      }
-    }
-
-    this.text = function() {
+  if (support.blob) {
+    this.blob = function() {
       var rejected = consumed(this)
       if (rejected) {
         return rejected
       }
 
       if (this._bodyBlob) {
-        return readBlobAsText(this._bodyBlob)
+        return Promise.resolve(this._bodyBlob)
       } else if (this._bodyArrayBuffer) {
-        return Promise.resolve(readArrayBufferAsText(this._bodyArrayBuffer))
+        return Promise.resolve(new Blob([this._bodyArrayBuffer]))
       } else if (this._bodyFormData) {
-        throw new Error('could not read FormData body as text')
+        throw new Error('could not read FormData body as blob')
       } else {
-        return Promise.resolve(this._bodyText)
+        return Promise.resolve(new Blob([this._bodyText]))
       }
     }
 
-    if (support.formData) {
-      this.formData = function() {
-        return this.text().then(decode)
+    this.arrayBuffer = function() {
+      if (this._bodyArrayBuffer) {
+        return consumed(this) || Promise.resolve(this._bodyArrayBuffer)
+      } else {
+        return this.blob().then(readBlobAsArrayBuffer)
       }
     }
-
-    this.json = function() {
-      return this.text().then(JSON.parse)
-    }
-
-    return this
   }
 
-  // HTTP methods whose capitalization should be normalized
-  var methods = ['DELETE', 'GET', 'HEAD', 'OPTIONS', 'POST', 'PUT']
+  this.text = function() {
+    var rejected = consumed(this)
+    if (rejected) {
+      return rejected
+    }
 
-  function normalizeMethod(method) {
-    var upcased = method.toUpperCase()
-    return (methods.indexOf(upcased) > -1) ? upcased : method
-  }
-
-  function Request(input, options) {
-    options = options || {}
-    var body = options.body
-
-    if (input instanceof Request) {
-      if (input.bodyUsed) {
-        throw new TypeError('Already read')
-      }
-      this.url = input.url
-      this.credentials = input.credentials
-      if (!options.headers) {
-        this.headers = new Headers(input.headers)
-      }
-      this.method = input.method
-      this.mode = input.mode
-      if (!body && input._bodyInit != null) {
-        body = input._bodyInit
-        input.bodyUsed = true
-      }
+    if (this._bodyBlob) {
+      return readBlobAsText(this._bodyBlob)
+    } else if (this._bodyArrayBuffer) {
+      return Promise.resolve(readArrayBufferAsText(this._bodyArrayBuffer))
+    } else if (this._bodyFormData) {
+      throw new Error('could not read FormData body as text')
     } else {
-      this.url = String(input)
+      return Promise.resolve(this._bodyText)
     }
-
-    this.credentials = options.credentials || this.credentials || 'omit'
-    if (options.headers || !this.headers) {
-      this.headers = new Headers(options.headers)
-    }
-    this.method = normalizeMethod(options.method || this.method || 'GET')
-    this.mode = options.mode || this.mode || null
-    this.referrer = null
-
-    if ((this.method === 'GET' || this.method === 'HEAD') && body) {
-      throw new TypeError('Body not allowed for GET or HEAD requests')
-    }
-    this._initBody(body)
   }
 
-  Request.prototype.clone = function() {
-    return new Request(this, { body: this._bodyInit })
+  if (support.formData) {
+    this.formData = function() {
+      return this.text().then(decode)
+    }
   }
 
-  function decode(body) {
-    var form = new FormData()
-    body.trim().split('&').forEach(function(bytes) {
+  this.json = function() {
+    return this.text().then(JSON.parse)
+  }
+
+  return this
+}
+
+// HTTP methods whose capitalization should be normalized
+var methods = ['DELETE', 'GET', 'HEAD', 'OPTIONS', 'POST', 'PUT']
+
+function normalizeMethod(method) {
+  var upcased = method.toUpperCase()
+  return methods.indexOf(upcased) > -1 ? upcased : method
+}
+
+function Request(input, options) {
+  options = options || {}
+  var body = options.body
+
+  if (input instanceof Request) {
+    if (input.bodyUsed) {
+      throw new TypeError('Already read')
+    }
+    this.url = input.url
+    this.credentials = input.credentials
+    if (!options.headers) {
+      this.headers = new Headers(input.headers)
+    }
+    this.method = input.method
+    this.mode = input.mode
+    this.signal = input.signal
+    if (!body && input._bodyInit != null) {
+      body = input._bodyInit
+      input.bodyUsed = true
+    }
+  } else {
+    this.url = String(input)
+  }
+
+  this.credentials = options.credentials || this.credentials || 'same-origin'
+  if (options.headers || !this.headers) {
+    this.headers = new Headers(options.headers)
+  }
+  this.method = normalizeMethod(options.method || this.method || 'GET')
+  this.mode = options.mode || this.mode || null
+  this.signal = options.signal || this.signal
+  this.referrer = null
+
+  if ((this.method === 'GET' || this.method === 'HEAD') && body) {
+    throw new TypeError('Body not allowed for GET or HEAD requests')
+  }
+  this._initBody(body)
+}
+
+Request.prototype.clone = function() {
+  return new Request(this, {body: this._bodyInit})
+}
+
+function decode(body) {
+  var form = new FormData()
+  body
+    .trim()
+    .split('&')
+    .forEach(function(bytes) {
       if (bytes) {
         var split = bytes.split('=')
         var name = split.shift().replace(/\+/g, ' ')
@@ -41952,117 +42580,158 @@ module.exports = warning;
         form.append(decodeURIComponent(name), decodeURIComponent(value))
       }
     })
-    return form
+  return form
+}
+
+function parseHeaders(rawHeaders) {
+  var headers = new Headers()
+  // Replace instances of \r\n and \n followed by at least one space or horizontal tab with a space
+  // https://tools.ietf.org/html/rfc7230#section-3.2
+  var preProcessedHeaders = rawHeaders.replace(/\r?\n[\t ]+/g, ' ')
+  preProcessedHeaders.split(/\r?\n/).forEach(function(line) {
+    var parts = line.split(':')
+    var key = parts.shift().trim()
+    if (key) {
+      var value = parts.join(':').trim()
+      headers.append(key, value)
+    }
+  })
+  return headers
+}
+
+Body.call(Request.prototype)
+
+function Response(bodyInit, options) {
+  if (!options) {
+    options = {}
   }
 
-  function parseHeaders(rawHeaders) {
-    var headers = new Headers()
-    // Replace instances of \r\n and \n followed by at least one space or horizontal tab with a space
-    // https://tools.ietf.org/html/rfc7230#section-3.2
-    var preProcessedHeaders = rawHeaders.replace(/\r?\n[\t ]+/g, ' ')
-    preProcessedHeaders.split(/\r?\n/).forEach(function(line) {
-      var parts = line.split(':')
-      var key = parts.shift().trim()
-      if (key) {
-        var value = parts.join(':').trim()
-        headers.append(key, value)
+  this.type = 'default'
+  this.status = options.status === undefined ? 200 : options.status
+  this.ok = this.status >= 200 && this.status < 300
+  this.statusText = 'statusText' in options ? options.statusText : 'OK'
+  this.headers = new Headers(options.headers)
+  this.url = options.url || ''
+  this._initBody(bodyInit)
+}
+
+Body.call(Response.prototype)
+
+Response.prototype.clone = function() {
+  return new Response(this._bodyInit, {
+    status: this.status,
+    statusText: this.statusText,
+    headers: new Headers(this.headers),
+    url: this.url
+  })
+}
+
+Response.error = function() {
+  var response = new Response(null, {status: 0, statusText: ''})
+  response.type = 'error'
+  return response
+}
+
+var redirectStatuses = [301, 302, 303, 307, 308]
+
+Response.redirect = function(url, status) {
+  if (redirectStatuses.indexOf(status) === -1) {
+    throw new RangeError('Invalid status code')
+  }
+
+  return new Response(null, {status: status, headers: {location: url}})
+}
+
+var DOMException = self.DOMException
+try {
+  new DOMException()
+} catch (err) {
+  DOMException = function(message, name) {
+    this.message = message
+    this.name = name
+    var error = Error(message)
+    this.stack = error.stack
+  }
+  DOMException.prototype = Object.create(Error.prototype)
+  DOMException.prototype.constructor = DOMException
+}
+
+function fetch(input, init) {
+  return new Promise(function(resolve, reject) {
+    var request = new Request(input, init)
+
+    if (request.signal && request.signal.aborted) {
+      return reject(new DOMException('Aborted', 'AbortError'))
+    }
+
+    var xhr = new XMLHttpRequest()
+
+    function abortXhr() {
+      xhr.abort()
+    }
+
+    xhr.onload = function() {
+      var options = {
+        status: xhr.status,
+        statusText: xhr.statusText,
+        headers: parseHeaders(xhr.getAllResponseHeaders() || '')
       }
-    })
-    return headers
-  }
-
-  Body.call(Request.prototype)
-
-  function Response(bodyInit, options) {
-    if (!options) {
-      options = {}
+      options.url = 'responseURL' in xhr ? xhr.responseURL : options.headers.get('X-Request-URL')
+      var body = 'response' in xhr ? xhr.response : xhr.responseText
+      resolve(new Response(body, options))
     }
 
-    this.type = 'default'
-    this.status = options.status === undefined ? 200 : options.status
-    this.ok = this.status >= 200 && this.status < 300
-    this.statusText = 'statusText' in options ? options.statusText : 'OK'
-    this.headers = new Headers(options.headers)
-    this.url = options.url || ''
-    this._initBody(bodyInit)
-  }
-
-  Body.call(Response.prototype)
-
-  Response.prototype.clone = function() {
-    return new Response(this._bodyInit, {
-      status: this.status,
-      statusText: this.statusText,
-      headers: new Headers(this.headers),
-      url: this.url
-    })
-  }
-
-  Response.error = function() {
-    var response = new Response(null, {status: 0, statusText: ''})
-    response.type = 'error'
-    return response
-  }
-
-  var redirectStatuses = [301, 302, 303, 307, 308]
-
-  Response.redirect = function(url, status) {
-    if (redirectStatuses.indexOf(status) === -1) {
-      throw new RangeError('Invalid status code')
+    xhr.onerror = function() {
+      reject(new TypeError('Network request failed'))
     }
 
-    return new Response(null, {status: status, headers: {location: url}})
-  }
+    xhr.ontimeout = function() {
+      reject(new TypeError('Network request failed'))
+    }
 
+    xhr.onabort = function() {
+      reject(new DOMException('Aborted', 'AbortError'))
+    }
+
+    xhr.open(request.method, request.url, true)
+
+    if (request.credentials === 'include') {
+      xhr.withCredentials = true
+    } else if (request.credentials === 'omit') {
+      xhr.withCredentials = false
+    }
+
+    if ('responseType' in xhr && support.blob) {
+      xhr.responseType = 'blob'
+    }
+
+    request.headers.forEach(function(value, name) {
+      xhr.setRequestHeader(name, value)
+    })
+
+    if (request.signal) {
+      request.signal.addEventListener('abort', abortXhr)
+
+      xhr.onreadystatechange = function() {
+        // DONE (success or failure)
+        if (xhr.readyState === 4) {
+          request.signal.removeEventListener('abort', abortXhr)
+        }
+      }
+    }
+
+    xhr.send(typeof request._bodyInit === 'undefined' ? null : request._bodyInit)
+  })
+}
+
+fetch.polyfill = true
+
+if (!self.fetch) {
+  self.fetch = fetch
   self.Headers = Headers
   self.Request = Request
   self.Response = Response
-
-  self.fetch = function(input, init) {
-    return new Promise(function(resolve, reject) {
-      var request = new Request(input, init)
-      var xhr = new XMLHttpRequest()
-
-      xhr.onload = function() {
-        var options = {
-          status: xhr.status,
-          statusText: xhr.statusText,
-          headers: parseHeaders(xhr.getAllResponseHeaders() || '')
-        }
-        options.url = 'responseURL' in xhr ? xhr.responseURL : options.headers.get('X-Request-URL')
-        var body = 'response' in xhr ? xhr.response : xhr.responseText
-        resolve(new Response(body, options))
-      }
-
-      xhr.onerror = function() {
-        reject(new TypeError('Network request failed'))
-      }
-
-      xhr.ontimeout = function() {
-        reject(new TypeError('Network request failed'))
-      }
-
-      xhr.open(request.method, request.url, true)
-
-      if (request.credentials === 'include') {
-        xhr.withCredentials = true
-      } else if (request.credentials === 'omit') {
-        xhr.withCredentials = false
-      }
-
-      if ('responseType' in xhr && support.blob) {
-        xhr.responseType = 'blob'
-      }
-
-      request.headers.forEach(function(value, name) {
-        xhr.setRequestHeader(name, value)
-      })
-
-      xhr.send(typeof request._bodyInit === 'undefined' ? null : request._bodyInit)
-    })
-  }
-  self.fetch.polyfill = true
-})(typeof self !== 'undefined' ? self : this);
+}
 
 
 /***/ }),
@@ -48401,7 +49070,7 @@ var sort = exports.sort = function sort() {
 
 
     if (action.type == _constants2.default.type.SORT) {
-        state = Object.assign(state, _defineProperty({}, action.entity, { sortby: action.sortby, descending: action.descending }));
+        return Object.assign(state, _defineProperty({}, action.entity, { sortby: action.sortby, descending: action.descending }));
     }
     return state;
 };
@@ -48411,7 +49080,7 @@ var search = exports.search = function search() {
     var action = arguments[1];
 
     if (action.type == _constants2.default.type.SEARCH) {
-        state = Object.assign(state, { text: action.text });
+        return Object.assign({}, { text: action.text });
     }
     return state;
 };
